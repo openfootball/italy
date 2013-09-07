@@ -13,19 +13,19 @@ roma,         Roma|AS Roma|Associazione Sportiva Roma, ROM, city:roma
 genoa,        Genoa|Genoa CFC|Genoa Cricket and Football Club, GEN, city:genova
 sampdoria,    Sampdoria|Unione Calcio Sampdoria|Sampdoria Genoa, SAM, city:genova
 
-juventus,     Juventus|Juventus Football Club|Juventus FC|Juventus Torino, JUV,  city:torino
-torino,       Torino|Torino Football Club|Torino FC,  TOR, city:torino
+juventus,     Juventus|Juventus FC|Juventus Football Club|Juventus Torino, JUV,  city:torino
+torino,       Torino|Torino FC|Torino Football Club,  TOR, city:torino
 
 napoli,       Napoli|SSC Napoli|Società Sportiva Calcio Napoli,   NAP,      city:napoli
 
 
-atalanta,     Atalanta|Atalanta Bergamasca Calcio|Atalanta Bergamo|Atalanta BC, ATA,  city:bergamo
-bologna,      Bologna|FC Bologna|Bologna Football Club 1909,  BOL, city:bologna
+atalanta,     Atalanta|Atalanta Bergamo|Atalanta Bergamasca Calcio|Atalanta BC, ATA,  city:bergamo
+bologna,      Bologna|FC Bologna|Bologna FC|Bologna Football Club 1909,  BOL, city:bologna
 cagliari,     Cagliari|Cagliari Calcio,  CAG, city:cagliari
-catania,       Catania|Calcio Catania,   CAT, city:catania
+catania,      Catania|Calcio Catania,   CAT, city:catania
 
-chievoverona,  Chievo Verona|Associazione Calcio Chievo Verona, CHI, city:verona
-hellasverona,  Hellas Verona|Hellas Verona F.C.|Hellas Verona Football Club, HEL, 1903, www.hellasverona.it, city:verona
+chievoverona,  Chievo|Chievo Verona|Associazione Calcio Chievo Verona, CHI, city:verona
+hellasverona,  Verona|Hellas Verona|Hellas Verona F.C.|Hellas Verona Football Club, HEL, 1903, www.hellasverona.it, city:verona
 
 fiorentina,    Fiorentina|ACF Fiorentina|AC Firenze|Associazione Calcio Firenze Fiorentina, FIO, city:firenze
 
@@ -36,4 +36,4 @@ udinese,      Udinese|Udinese Calcio, UDI, city:udine
 
 
 sassuolo,     Sassuolo|U.S. Sassuolo Calcio|Unione Sportiva Sassuolo Calcio, SAS, 1922, www.sassuolocalcio.it, city:sassuolo
-livorno,      Livorno|A.S. Livorno Calcio|Associazione Sportiva Livorno Calcio, LIV, 1915, www.livornocalcio.it, city:livorno
+livorno,      Livorno|AS Livorno|A.S. Livorno Calcio|Associazione Sportiva Livorno Calcio, LIV, 1915, www.livornocalcio.it, city:livorno

@@ -1,3 +1,282 @@
 #####################
 # Serie A 2013/14
 
+###
+# todo: add italian lang
+#   use Giornata (remove Spieltag etc.)
+
+
+Spieltag 1 / 1^ Giornata
+
+24.08. 18:00 (sab)  Hellas Verona  2-1  AC Milan
+24.08. 20:45 (sab)  Sampdoria      0-1  Juventus
+
+25.08. 18:00 (dom)  Inter          2-0  Genoa CFC
+25.08. 20:45 (dom)  Cagliari       2-1  Atalanta
+25.08. 20:45 (dom)  Lazio          2-1  Udinese
+25.08. 20:45 (dom)  AS Livorno     0-2  AS Roma
+25.08. 20:45 (dom)  SSC Napoli     3-0  Bologna FC
+25.08. 20:45 (dom)  Parma FC       0-0  Chievo Verona
+25.08. 20:45 (dom)  Torino FC      2-0  Sassuolo
+
+26.08. 20:45 (lun)  Fiorentina     2-1  Catania
+
+
+Spieltag 2 / 2^ Giornata
+
+31.08. 18:00 (sab)  Chievo Verona  2-4  SSC Napoli
+31.08. 20:45 (sab)  Juventus       4-1  Lazio
+
+01.09. 18:00 (dom)  AS Roma        4-1  Hellas Verona
+01.09. 20:45 (dom)  Atalanta       2-0  Torino FC
+01.09. 20:45 (dom)  Bologna FC     2-2  Sampdoria
+01.09. 20:45 (dom)  Catania        0-3  Inter
+01.09. 20:45 (dom)  Genoa CFC      2-5  Fiorentina
+01.09. 20:45 (dom)  AC Milan       3-1  Cagliari
+01.09. 20:45 (dom)  Sassuolo       1-4  AS Livorno
+01.09. 20:45 (dom)  Udinese        3-1  Parma FC
+
+
+Spieltag 3 / 3^ Giornata
+
+14.09. 18:00 (sab)  Inter         - Juventus
+14.09. 20:45 (sab)  SSC Napoli    - Atalanta
+14.09. 20:45 (sab)  Torino FC     - AC Milan
+
+15.09. 12:30 (dom)  Fiorentina    - Cagliari
+15.09. 15:00 (dom)  Hellas Verona - Sassuolo
+15.09. 15:00 (dom)  Lazio         - Chievo Verona
+15.09. 15:00 (dom)  AS Livorno    - Catania
+15.09. 15:00 (dom)  Udinese       - Bologna FC
+15.09. 20:45 (dom)  Sampdoria     - Genoa CFC
+
+16.09. 20:45 (lun)  Parma FC      - AS Roma
+
+
+Spieltag 4 / 4^ Giornata
+
+22.09. (dom)  Atalanta      - Fiorentina
+22.09. (dom)  Bologna FC    - Torino FC
+22.09. (dom)  Cagliari      - Sampdoria
+22.09. (dom)  Catania       - Parma FC
+22.09. (dom)  Chievo Verona - Udinese
+22.09. (dom)  Genoa CFC     - AS Livorno
+22.09. (dom)  Juventus      - Hellas Verona
+22.09. (dom)  AC Milan      - SSC Napoli
+22.09. (dom)  AS Roma       - Lazio
+22.09. (dom)  Sassuolo      - Inter
+
+
+Spieltag 5
+
+25.09. (mer)  Bologna FC     - AC Milan
+25.09. (mer)  Chievo Verona  - Juventus
+25.09. (mer)  Inter          - Fiorentina
+25.09. (mer)  Lazio          - Catania
+25.09. (mer)  AS Livorno     - Cagliari
+25.09. (mer)  SSC Napoli     - Sassuolo
+25.09. (mer)  Parma FC       - Atalanta
+25.09. (mer)  Sampdoria      - AS Roma
+25.09. (mer)  Torino FC      - Hellas Verona
+25.09. (mer)  Udinese        - Genoa CFC
+
+
+Spieltag 6
+
+29.09. (dom)  Atalanta      - Udinese
+29.09. (dom)  Cagliari      - Inter
+29.09. (dom)  Catania       - Chievo Verona
+29.09. (dom)  Fiorentina    - Parma FC
+29.09. (dom)  Genoa CFC     - SSC Napoli
+29.09. (dom)  Hellas Verona - AS Livorno
+29.09. (dom)  AC Milan      - Sampdoria
+29.09. (dom)  AS Roma       - Bologna FC
+29.09. (dom)  Sassuolo      - Lazio
+29.09. (dom)  Torino FC     - Juventus
+
+
+Spieltag 7
+
+06.10. (dom)  Bologna FC     - Hellas Verona
+06.10. (dom)  Catania        - Genoa CFC
+06.10. (dom)  Chievo Verona  - Atalanta
+06.10. (dom)  Inter          - AS Roma
+06.10. (dom)  Juventus       - AC Milan
+06.10. (dom)  Lazio          - Fiorentina
+06.10. (dom)  SSC Napoli     - AS Livorno
+06.10. (dom)  Parma FC       - Sassuolo
+06.10. (dom)  Sampdoria      - Torino FC
+06.10. (dom)  Udinese        - Cagliari
+
+
+Spieltag 8
+
+20.10. (dom)  Atalanta       - Lazio
+20.10. (dom)  Cagliari       - Catania
+20.10. (dom)  Fiorentina     - Juventus
+20.10. (dom)  Genoa CFC      - Chievo Verona
+20.10. (dom)  Hellas Verona  - Parma FC
+20.10. (dom)  AS Livorno     - Sampdoria
+20.10. (dom)  AC Milan       - Udinese
+20.10. (dom)  AS Roma        - SSC Napoli
+20.10. (dom)  Sassuolo       - Bologna FC
+20.10. (dom)  Torino FC      - Inter
+
+
+Spieltag 9
+
+27.10. (dom)  Bologna FC     - AS Livorno
+27.10. (dom)  Catania        - Sassuolo
+27.10. (dom)  Chievo Verona  - Fiorentina
+27.10. (dom)  Inter          - Hellas Verona
+27.10. (dom)  Juventus       - Genoa CFC
+27.10. (dom)  Lazio          - Cagliari
+27.10. (dom)  SSC Napoli     - Torino FC
+27.10. (dom)  Parma FC       - AC Milan
+27.10. (dom)  Sampdoria      - Atalanta
+27.10. (dom)  Udinese        - AS Roma
+
+
+Spieltag 10
+
+30.10. (mer)  Atalanta       - Inter
+30.10. (mer)  Cagliari       - Bologna FC
+30.10. (mer)  Fiorentina     - SSC Napoli
+30.10. (mer)  Genoa CFC      - Parma FC
+30.10. (mer)  Hellas Verona  - Sampdoria
+30.10. (mer)  Juventus       - Catania
+30.10. (mer)  AS Livorno     - Torino FC
+30.10. (mer)  AC Milan       - Lazio
+30.10. (mer)  AS Roma        - Chievo Verona
+30.10. (mer)  Sassuolo       - Udinese
+
+
+Spieltag 11
+
+03.11. (dom)  Bologna FC     - Chievo Verona
+03.11. (dom)  Hellas Verona  - Cagliari
+03.11. (dom)  Lazio          - Genoa CFC
+03.11. (dom)  AS Livorno     - Atalanta
+03.11. (dom)  AC Milan       - Fiorentina
+03.11. (dom)  SSC Napoli     - Catania
+03.11. (dom)  Parma FC       - Juventus
+03.11. (dom)  Sampdoria      - Sassuolo
+03.11. (dom)  Torino FC      - AS Roma
+03.11. (dom)  Udinese        - Inter
+
+    
+Spieltag 12
+   
+10.11. (dom)  Atalanta       - Bologna FC
+10.11. (dom)  Cagliari       - Torino FC
+10.11. (dom)  Catania        - Udinese
+10.11. (dom)  Chievo Verona  - AC Milan
+10.11. (dom)  Fiorentina     - Sampdoria
+10.11. (dom)  Genoa CFC      - Hellas Verona
+10.11. (dom)  Inter          - AS Livorno
+10.11. (dom)  Juventus       - SSC Napoli
+10.11. (dom)  Parma FC       - Lazio
+10.11. (dom)  AS Roma        - Sassuolo
+
+    
+Spieltag 13
+   
+24.11. (dom)  Bologna FC     - Inter
+24.11. (dom)  Hellas Verona  - Chievo Verona
+24.11. (dom)  AS Livorno     - Juventus
+24.11. (dom)  AC Milan       - Genoa CFC
+24.11. (dom)  SSC Napoli     - Parma FC
+24.11. (dom)  AS Roma        - Cagliari
+24.11. (dom)  Sampdoria      - Lazio
+24.11. (dom)  Sassuolo       - Atalanta
+24.11. (dom)  Torino FC      - Catania
+24.11. (dom)  Udinese        - Fiorentina
+
+
+Spieltag 14
+
+01.12. (dom)  Atalanta       - AS Roma
+01.12. (dom)  Cagliari       - Sassuolo
+01.12. (dom)  Catania        - AC Milan
+01.12. (dom)  Chievo Verona  - AS Livorno
+01.12. (dom)  Fiorentina     - Hellas Verona
+01.12. (dom)  Genoa CFC      - Torino FC
+01.12. (dom)  Inter          - Sampdoria
+01.12. (dom)  Juventus       - Udinese
+01.12. (dom)  Lazio          - SSC Napoli
+01.12. (dom)  Parma FC       - Bologna FC
+
+
+Spieltag 15
+
+06.12. (ven)  Bologna FC     - Juventus
+06.12. (ven)  Cagliari       - Genoa CFC
+06.12. (ven)  Hellas Verona  - Atalanta
+06.12. (ven)  Inter          - Parma FC
+06.12. (ven)  AS Livorno     - AC Milan
+06.12. (ven)  SSC Napoli     - Udinese
+06.12. (ven)  AS Roma        - Fiorentina
+06.12. (ven)  Sampdoria      - Catania
+06.12. (ven)  Sassuolo       - Chievo Verona
+06.12. (ven)  Torino FC      - Lazio
+
+
+Spieltag 16
+
+15.12. (dom)  Catania        - Hellas Verona
+15.12. (dom)  Chievo Verona  - Sampdoria
+15.12. (dom)  Fiorentina     - Bologna FC
+15.12. (dom)  Genoa CFC      - Atalanta
+15.12. (dom)  Juventus       - Sassuolo
+15.12. (dom)  Lazio          - AS Livorno
+15.12. (dom)  AC Milan       - AS Roma
+15.12. (dom)  SSC Napoli     - Inter
+15.12. (dom)  Parma FC       - Cagliari
+15.12. (dom)  Udinese        - Torino FC
+
+
+Spieltag 17
+
+22.12. (dom)  Atalanta       - Juventus
+22.12. (dom)  Bologna FC     - Genoa CFC
+22.12. (dom)  Cagliari       - SSC Napoli
+22.12. (dom)  Hellas Verona  - Lazio
+22.12. (dom)  Inter          - AC Milan
+22.12. (dom)  AS Livorno     - Udinese
+22.12. (dom)  AS Roma        - Catania
+22.12. (dom)  Sampdoria      - Parma FC
+22.12. (dom)  Sassuolo       - Fiorentina
+22.12. (dom)  Torino FC      - Chievo Verona
+
+
+#######################
+# 2014 New Year
+
+Spieltag 18
+
+06.01. (lun)  Catania        - Bologna FC
+06.01. (lun)  Chievo Verona  - Cagliari
+06.01. (lun)  Fiorentina     - AS Livorno
+06.01. (lun)  Genoa CFC      - Sassuolo
+06.01. (lun)  Juventus       - AS Roma
+06.01. (lun)  Lazio          - Inter
+06.01. (lun)  AC Milan       - Atalanta
+06.01. (lun)  SSC Napoli     - Sampdoria
+06.01. (lun)  Parma FC       - Torino FC
+06.01. (lun)  Udinese        - Hellas Verona
+
+
+Spieltag 19
+
+12.01. (dom)  Atalanta       - Catania
+12.01. (dom)  Bologna FC     - Lazio
+12.01. (dom)  Cagliari       - Juventus
+12.01. (dom)  Hellas Verona  - SSC Napoli
+12.01. (dom)  Inter          - Chievo Verona
+12.01. (dom)  AS Livorno     - Parma FC
+12.01. (dom)  AS Roma        - Genoa CFC
+12.01. (dom)  Sampdoria      - Udinese
+12.01. (dom)  Sassuolo       - AC Milan
+12.01. (dom)  Torino FC      - Fiorentina
+
+
