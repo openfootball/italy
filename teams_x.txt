@@ -1,0 +1,5 @@
+
+
+palermo,      Palermo|US Palermo|Unione Sportiva Città di Palermo, PAL, city:palermo
+pescara,      Pescara Calcio|Delfino Pescara 1936,  PES,  city:pescara
+siena,        AC Siena|Associazione Calcio Siena, SIE, city:siena
