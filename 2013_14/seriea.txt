@@ -43,12 +43,12 @@ Spieltag 3 / 3^ Giornata
 14.09. 20:45 (sab)  SSC Napoli    2-0 Atalanta
 14.09. 20:45 (sab)  Torino FC     2-2 AC Milan
 
-15.09. 12:30 (dom)  Fiorentina    - Cagliari
-15.09. 15:00 (dom)  Hellas Verona - Sassuolo
-15.09. 15:00 (dom)  Lazio         - Chievo Verona
-15.09. 15:00 (dom)  AS Livorno    - Catania
-15.09. 15:00 (dom)  Udinese       - Bologna FC
-15.09. 20:45 (dom)  Sampdoria     - Genoa CFC
+15.09. 12:30 (dom)  Fiorentina    1-1 Cagliari
+15.09. 15:00 (dom)  Hellas Verona 2-0 Sassuolo
+15.09. 15:00 (dom)  Lazio         3-0 Chievo Verona
+15.09. 15:00 (dom)  AS Livorno    2-0 Catania
+15.09. 15:00 (dom)  Udinese       1-1 Bologna FC
+15.09. 20:45 (dom)  Sampdoria     0-3 Genoa CFC
 
 16.09. 20:45 (lun)  Parma FC      - AS Roma
 
