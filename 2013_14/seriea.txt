@@ -97,16 +97,16 @@ Spieltag 6
 
 Spieltag 7
 
-06.10. (dom)  Bologna FC     - Hellas Verona
-06.10. (dom)  Catania        - Genoa CFC
+06.10. (dom)  Bologna FC     1-4 Hellas Verona
+06.10. (dom)  Catania        1-1 Genoa CFC
 06.10. (dom)  Chievo Verona  0-1 Atalanta
 06.10. (dom)  Inter          0-3 AS Roma
-06.10. (dom)  Juventus       - AC Milan
-06.10. (dom)  Lazio          - Fiorentina
-06.10. (dom)  SSC Napoli     - AS Livorno
-06.10. (dom)  Parma FC       - Sassuolo
-06.10. (dom)  Sampdoria      - Torino FC
-06.10. (dom)  Udinese        - Cagliari
+06.10. (dom)  Juventus       3-2 AC Milan
+06.10. (dom)  Lazio          0-0 Fiorentina
+06.10. (dom)  SSC Napoli     4-0 AS Livorno
+06.10. (dom)  Parma FC       3-1 Sassuolo
+06.10. (dom)  Sampdoria      2-2 Torino FC
+06.10. (dom)  Udinese        2-0 Cagliari
 
 
 Spieltag 8
