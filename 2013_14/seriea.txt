@@ -111,16 +111,16 @@ Spieltag 7
 
 Spieltag 8
 
-20.10. (dom)  Atalanta       - Lazio
-20.10. (dom)  Cagliari       - Catania
-20.10. (dom)  Fiorentina     - Juventus
-20.10. (dom)  Genoa CFC      - Chievo Verona
-20.10. (dom)  Hellas Verona  - Parma FC
-20.10. (dom)  AS Livorno     - Sampdoria
-20.10. (dom)  AC Milan       - Udinese
-20.10. (dom)  AS Roma        - SSC Napoli
-20.10. (dom)  Sassuolo       - Bologna FC
-20.10. (dom)  Torino FC      - Inter
+20.10. (dom)  Atalanta       2-1 Lazio
+20.10. (dom)  Cagliari       2-1 Catania
+20.10. (dom)  Fiorentina     4-2 Juventus
+20.10. (dom)  Genoa CFC      2-1 Chievo Verona
+20.10. (dom)  Hellas Verona  3-2 Parma FC
+20.10. (dom)  AS Livorno     1-2 Sampdoria
+20.10. (dom)  AC Milan       1-0 Udinese
+20.10. (dom)  AS Roma        2-0 SSC Napoli
+20.10. (dom)  Sassuolo       2-1 Bologna FC
+20.10. (dom)  Torino FC      3-3 Inter
 
 
 Spieltag 9
