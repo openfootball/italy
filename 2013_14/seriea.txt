@@ -128,12 +128,12 @@ Spieltag 9
 27.10. (dom)  Bologna FC     - AS Livorno
 27.10. (dom)  Catania        - Sassuolo
 27.10. (dom)  Chievo Verona  - Fiorentina
-27.10. (dom)  Inter          - Hellas Verona
+27.10. (dom)  Inter          4-2 Hellas Verona
 27.10. (dom)  Juventus       - Genoa CFC
 27.10. (dom)  Lazio          - Cagliari
 27.10. (dom)  SSC Napoli     - Torino FC
 27.10. (dom)  Parma FC       - AC Milan
-27.10. (dom)  Sampdoria      - Atalanta
+27.10. (dom)  Sampdoria      1-0 Atalanta
 27.10. (dom)  Udinese        - AS Roma
 
 
