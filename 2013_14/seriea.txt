@@ -125,16 +125,16 @@ Spieltag 8
 
 Spieltag 9
 
-27.10. (dom)  Bologna FC     - AS Livorno
-27.10. (dom)  Catania        - Sassuolo
-27.10. (dom)  Chievo Verona  - Fiorentina
+27.10. (dom)  Bologna FC     1-0 AS Livorno
+27.10. (dom)  Catania        0-0 Sassuolo
+27.10. (dom)  Chievo Verona  1-2 Fiorentina
 27.10. (dom)  Inter          4-2 Hellas Verona
-27.10. (dom)  Juventus       - Genoa CFC
-27.10. (dom)  Lazio          - Cagliari
-27.10. (dom)  SSC Napoli     - Torino FC
-27.10. (dom)  Parma FC       - AC Milan
+27.10. (dom)  Juventus       2-0 Genoa CFC
+27.10. (dom)  Lazio          2-0 Cagliari
+27.10. (dom)  SSC Napoli     2-0 Torino FC
+27.10. (dom)  Parma FC       3-2 AC Milan
 27.10. (dom)  Sampdoria      1-0 Atalanta
-27.10. (dom)  Udinese        - AS Roma
+27.10. (dom)  Udinese        0-1 AS Roma
 
 
 Spieltag 10
