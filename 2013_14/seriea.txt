@@ -154,15 +154,15 @@ Spieltag 10
 Spieltag 11
 
 03.11. (dom)  Bologna FC     - Chievo Verona
-03.11. (dom)  Hellas Verona  - Cagliari
-03.11. (dom)  Lazio          - Genoa CFC
-03.11. (dom)  AS Livorno     - Atalanta
+03.11. (dom)  Hellas Verona  2-1 Cagliari
+03.11. (dom)  Lazio          0-2 Genoa CFC
+03.11. (dom)  AS Livorno     1-0 Atalanta
 03.11. (dom)  AC Milan       0-2 Fiorentina
 03.11. (dom)  SSC Napoli     2-1 Catania
 03.11. (dom)  Parma FC       0-1 Juventus
-03.11. (dom)  Sampdoria      - Sassuolo
-03.11. (dom)  Torino FC      - AS Roma
-03.11. (dom)  Udinese        - Inter
+03.11. (dom)  Sampdoria      3-4 Sassuolo
+03.11. (dom)  Torino FC      1-1 AS Roma
+03.11. (dom)  Udinese        0-3 Inter
 
     
 Spieltag 12
