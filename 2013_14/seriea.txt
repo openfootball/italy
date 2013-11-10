@@ -169,11 +169,11 @@ Spieltag 12
    
 10.11. (dom)  Atalanta       - Bologna FC
 10.11. (dom)  Cagliari       - Torino FC
-10.11. (dom)  Catania        - Udinese
+10.11. (dom)  Catania        1-0 Udinese
 10.11. (dom)  Chievo Verona  - AC Milan
 10.11. (dom)  Fiorentina     - Sampdoria
 10.11. (dom)  Genoa CFC      - Hellas Verona
-10.11. (dom)  Inter          - AS Livorno
+10.11. (dom)  Inter          2-0 AS Livorno
 10.11. (dom)  Juventus       - SSC Napoli
 10.11. (dom)  Parma FC       - Lazio
 10.11. (dom)  AS Roma        - Sassuolo
