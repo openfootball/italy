@@ -39,32 +39,32 @@ Spieltag 2 / 2^ Giornata
 
 Spieltag 3 / 3^ Giornata
 
-14.09. 18:00 (sab)  Inter         1-1 Juventus
-14.09. 20:45 (sab)  SSC Napoli    2-0 Atalanta
-14.09. 20:45 (sab)  Torino FC     2-2 AC Milan
+14.09. 18:00 (sab)  Inter          1-1 Juventus
+14.09. 20:45 (sab)  SSC Napoli     2-0 Atalanta
+14.09. 20:45 (sab)  Torino FC      2-2 AC Milan
 
-15.09. 12:30 (dom)  Fiorentina    1-1 Cagliari
-15.09. 15:00 (dom)  Hellas Verona 2-0 Sassuolo
-15.09. 15:00 (dom)  Lazio         3-0 Chievo Verona
-15.09. 15:00 (dom)  AS Livorno    2-0 Catania
-15.09. 15:00 (dom)  Udinese       1-1 Bologna FC
-15.09. 20:45 (dom)  Sampdoria     0-3 Genoa CFC
+15.09. 12:30 (dom)  Fiorentina     1-1 Cagliari
+15.09. 15:00 (dom)  Hellas Verona  2-0 Sassuolo
+15.09. 15:00 (dom)  Lazio          3-0 Chievo Verona
+15.09. 15:00 (dom)  AS Livorno     2-0 Catania
+15.09. 15:00 (dom)  Udinese        1-1 Bologna FC
+15.09. 20:45 (dom)  Sampdoria      0-3 Genoa CFC
 
-16.09. 20:45 (lun)  Parma FC      1-3 AS Roma
+16.09. 20:45 (lun)  Parma FC       1-3 AS Roma
 
 
 Spieltag 4 / 4^ Giornata
 
-22.09. (dom)  Atalanta      0-2 Fiorentina
-22.09. (dom)  Bologna FC    1-2 Torino FC
-22.09. (dom)  Cagliari      2-2 Sampdoria
-22.09. (dom)  Catania       0-0 Parma FC
-22.09. (dom)  Chievo Verona 2-1 Udinese
-22.09. (dom)  Genoa CFC     0-0 AS Livorno
-22.09. (dom)  Juventus      2-1 Hellas Verona
-22.09. (dom)  AC Milan      1-2 SSC Napoli
-22.09. (dom)  AS Roma       2-0 Lazio
-22.09. (dom)  Sassuolo      0-7 Inter
+22.09. (dom)  Atalanta       0-2 Fiorentina
+22.09. (dom)  Bologna FC     1-2 Torino FC
+22.09. (dom)  Cagliari       2-2 Sampdoria
+22.09. (dom)  Catania        0-0 Parma FC
+22.09. (dom)  Chievo Verona  2-1 Udinese
+22.09. (dom)  Genoa CFC      0-0 AS Livorno
+22.09. (dom)  Juventus       2-1 Hellas Verona
+22.09. (dom)  AC Milan       1-2 SSC Napoli
+22.09. (dom)  AS Roma        2-0 Lazio
+22.09. (dom)  Sassuolo       0-7 Inter
 
 
 Spieltag 5
@@ -83,16 +83,16 @@ Spieltag 5
 
 Spieltag 6
 
-29.09. (dom)  Atalanta      2-0 Udinese
-29.09. (dom)  Cagliari      1-1 Inter
-29.09. (dom)  Catania       2-0 Chievo Verona
-29.09. (dom)  Fiorentina    2-2 Parma FC
-29.09. (dom)  Genoa CFC     0-2 SSC Napoli
-29.09. (dom)  Hellas Verona 2-1 AS Livorno
-29.09. (dom)  AC Milan      1-0 Sampdoria
-29.09. (dom)  AS Roma       5-0 Bologna FC
-29.09. (dom)  Sassuolo      2-2 Lazio
-29.09. (dom)  Torino FC     0-1 Juventus
+29.09. (dom)  Atalanta       2-0 Udinese
+29.09. (dom)  Cagliari       1-1 Inter
+29.09. (dom)  Catania        2-0 Chievo Verona
+29.09. (dom)  Fiorentina     2-2 Parma FC
+29.09. (dom)  Genoa CFC      0-2 SSC Napoli
+29.09. (dom)  Hellas Verona  2-1 AS Livorno
+29.09. (dom)  AC Milan       1-0 Sampdoria
+29.09. (dom)  AS Roma        5-0 Bologna FC
+29.09. (dom)  Sassuolo       2-2 Lazio
+29.09. (dom)  Torino FC      0-1 Juventus
 
 
 Spieltag 7
