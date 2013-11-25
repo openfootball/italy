@@ -181,16 +181,16 @@ Spieltag 12
     
 Spieltag 13
    
-24.11. (dom)  Bologna FC     - Inter
+24.11. (dom)  Bologna FC     1-1 Inter
 24.11. (dom)  Hellas Verona  0-1 Chievo Verona
-24.11. (dom)  AS Livorno     - Juventus
+24.11. (dom)  AS Livorno     0-2 Juventus
 24.11. (dom)  AC Milan       1-1 Genoa CFC
 24.11. (dom)  SSC Napoli     0-1 Parma FC
 24.11. (dom)  AS Roma        - Cagliari
-24.11. (dom)  Sampdoria      - Lazio
-24.11. (dom)  Sassuolo       - Atalanta
-24.11. (dom)  Torino FC      - Catania
-24.11. (dom)  Udinese        - Fiorentina
+24.11. (dom)  Sampdoria      1-1 Lazio
+24.11. (dom)  Sassuolo       2-0 Atalanta
+24.11. (dom)  Torino FC      1-1 Catania
+24.11. (dom)  Udinese        1-0 Fiorentina
 
 
 Spieltag 14
