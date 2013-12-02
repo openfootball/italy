@@ -195,14 +195,14 @@ Spieltag 13
 
 Spieltag 14
 
-01.12. (dom)  Atalanta       - AS Roma
-01.12. (dom)  Cagliari       - Sassuolo
-01.12. (dom)  Catania        - AC Milan
-01.12. (dom)  Chievo Verona  - AS Livorno
+01.12. (dom)  Atalanta       1-1 AS Roma
+01.12. (dom)  Cagliari       2-2 Sassuolo
+01.12. (dom)  Catania        1-3 AC Milan
+01.12. (dom)  Chievo Verona  3-0 AS Livorno
 01.12. (dom)  Fiorentina     - Hellas Verona
 01.12. (dom)  Genoa CFC      1-1 Torino FC
-01.12. (dom)  Inter          - Sampdoria
-01.12. (dom)  Juventus       - Udinese
+01.12. (dom)  Inter          1-1 Sampdoria
+01.12. (dom)  Juventus       1-0 Udinese
 01.12. (dom)  Lazio          - SSC Napoli
 01.12. (dom)  Parma FC       1-1 Bologna FC
 
