@@ -210,15 +210,15 @@ Spieltag 14
 Spieltag 15
 
 06.12. (ven)  Bologna FC     0-2 Juventus
-06.12. (ven)  Cagliari       - Genoa CFC
-06.12. (ven)  Hellas Verona  - Atalanta
-06.12. (ven)  Inter          - Parma FC
+06.12. (ven)  Cagliari       2-1 Genoa CFC
+06.12. (ven)  Hellas Verona  2-1 Atalanta
+06.12. (ven)  Inter          3-3 Parma FC
 06.12. (ven)  AS Livorno     2-2 AC Milan
 06.12. (ven)  SSC Napoli     3-3 Udinese
-06.12. (ven)  AS Roma        - Fiorentina
-06.12. (ven)  Sampdoria      - Catania
-06.12. (ven)  Sassuolo       - Chievo Verona
-06.12. (ven)  Torino FC      - Lazio
+06.12. (ven)  AS Roma        2-1 Fiorentina
+06.12. (ven)  Sampdoria      2-0 Catania
+06.12. (ven)  Sassuolo       0-1 Chievo Verona
+06.12. (ven)  Torino FC      1-0 Lazio
 
 
 Spieltag 16
