@@ -237,16 +237,16 @@ Spieltag 16
 
 Spieltag 17
 
-22.12. (dom)  Atalanta       - Juventus
-22.12. (dom)  Bologna FC     - Genoa CFC
+22.12. (dom)  Atalanta       1-4 Juventus
+22.12. (dom)  Bologna FC     1-0 Genoa CFC
 22.12. (dom)  Cagliari       1-1 SSC Napoli
-22.12. (dom)  Hellas Verona  - Lazio
-22.12. (dom)  Inter          - AC Milan
+22.12. (dom)  Hellas Verona  4-1 Lazio
+22.12. (dom)  Inter          1-0 AC Milan
 22.12. (dom)  AS Livorno     1-2 Udinese
-22.12. (dom)  AS Roma        - Catania
-22.12. (dom)  Sampdoria      - Parma FC
-22.12. (dom)  Sassuolo       - Fiorentina
-22.12. (dom)  Torino FC      - Chievo Verona
+22.12. (dom)  AS Roma        4-0 Catania
+22.12. (dom)  Sampdoria      1-1 Parma FC
+22.12. (dom)  Sassuolo       0-1 Fiorentina
+22.12. (dom)  Torino FC      4-1 Chievo Verona
 
 
 #######################
