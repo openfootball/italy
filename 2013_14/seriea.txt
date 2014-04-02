@@ -249,8 +249,7 @@ Spieltag 17
 22.12. (dom)  Torino FC      4-1 Chievo Verona
 
 
-#######################
-# 2014 New Year
+# -- 2014 New Year --
 
 Spieltag 18
 
