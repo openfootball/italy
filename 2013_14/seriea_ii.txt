@@ -1,3 +1,270 @@
 #####################
 # Serie A 2013/14
 
+
+Spieltag 20 / 20^ Giornata
+
+18.01. (sab)  AS Roma           3-0  AS Livorno
+18.01. (sab)  Juventus          4-2  Sampdoria
+19.01. (dom)  Udinese           2-3  Lazio Roma
+19.01. (dom)  Atalanta Bergamo  1-0  Cagliari
+19.01. (dom)  Catania           0-3  Fiorentina
+19.01. (dom)  Genoa CFC         1-0  Internazionale
+19.01. (dom)  Bologna FC        2-2  SSC Napoli
+19.01. (dom)  Chievo Verona     1-2  Parma FC
+19.01. (dom)  Sassuolo          0-2  Torino FC
+19.01. (dom)  AC Milan          1-0  Hellas Verona  
+
+
+Spieltag 21 / 21^ Giornata
+ 
+25.01. (sab)  SSC Napoli      1-1  Chievo Verona
+25.01. (sab)  Lazio Roma      1-1  Juventus
+26.01. (dom)  Hellas Verona   1-3  AS Roma
+26.01. (dom)  Torino FC       1-0  Atalanta Bergamo
+26.01. (dom)  Sampdoria       1-1  Bologna FC
+26.01. (dom)  Internazionale  0-0  Catania
+26.01. (dom)  Cagliari        1-2  AC Milan
+26.01. (dom)  AS Livorno      3-1  Sassuolo
+26.01. (dom)  Parma FC        1-0  Udinese
+26.01. (dom)  Fiorentina      3-3  Genoa CFC
+
+
+Spieltag 22 / 22^ Giornata
+ 
+01.02. (sab)  Cagliari          1-0   Fiorentina
+01.02. (sab)  Bologna FC        0-2   Udinese
+01.02. (sab)  AC Milan          1-1   Torino FC  
+02.02. (dom)  Sassuolo          1-2   Hellas Verona  
+02.02. (dom)  Chievo Verona     0-2   Lazio Roma  
+02.02. (dom)  Catania           3-3   AS Livorno  
+02.02. (dom)  Atalanta Bergamo  3-0   SSC Napoli  
+02.02. (dom)  Juventus          3-1   Internazionale  
+03.02. (lun)  Genoa CFC         0-1   Sampdoria  
+02.04. (mer)  AS Roma                 Parma FC
+
+
+Spieltag 23 / 23^ Giornata
+ 
+08.02. (sab)  Fiorentina        2-0  Atalanta Bergamo
+08.02. (sab)  Udinese           3-0  Chievo Verona
+08.02. (sab)  SSC Napoli        3-1  AC Milan
+09.02. (dom)  Torino FC         1-2  Bologna FC
+09.02. (dom)  Sampdoria         1-0  Cagliari
+09.02. (dom)  Parma FC          0-0  Catania
+09.02. (dom)  AS Livorno        0-1  Genoa CFC
+09.02. (dom)  Hellas Verona     2-2  Juventus
+09.02. (dom)  Lazio Roma        0-0  AS Roma
+09.02. (dom)  Internazionale    1-0  Sassuolo
+
+
+Spieltag 24 / 24^ Giornata
+ 
+14.02. (ven)  AC Milan  Bologna FC  1-0
+15.02. (sab)  Fiorentina  Internazionale  1-2
+16.02. (dom)  Catania  Lazio Roma  3-1
+16.02. (dom)  Juventus  Chievo Verona  3-1
+16.02. (dom)  Cagliari  AS Livorno  1-2
+16.02. (dom)  Sassuolo  SSC Napoli  0-2
+16.02. (dom)  Atalanta Bergamo  Parma FC  0-4
+16.02. (dom)  Genoa CFC  Udinese  3-3
+16.02. (dom)  AS Roma  Sampdoria  3-0
+17.02. (lun)  Hellas Verona  Torino FC  1-3
+
+
+Spieltag 25 / 25^ Giornata
+ 
+22.02. (sab)  Bologna FC  AS Roma  0-1
+23.02. (dom)  AS Livorno  Hellas Verona  2-3
+23.02. (dom)  Udinese  Atalanta Bergamo  1-1
+23.02. (dom)  Internazionale  Cagliari  1-1
+23.02. (dom)  Chievo Verona  Catania  2-0
+23.02. (dom)  Sampdoria  AC Milan  0-2
+23.02. (dom)  Juventus  Torino FC  1-0
+23.02. (dom)  Lazio Roma  Sassuolo  3-2
+24.02. (lun)  Parma FC  Fiorentina  2-2
+24.02. (lun)  SSC Napoli  Genoa CFC  1-1
+
+
+Spieltag 26 / 26^ Giornata
+ 
+01.03. (sab)  AS Roma  Internazionale  0-0
+02.03. (dom)  Cagliari  Udinese  3-0
+02.03. (dom)  Hellas Verona  Bologna FC  0-0
+02.03. (dom)  Genoa CFC  Catania  2-0
+02.03. (dom)  Atalanta Bergamo  Chievo Verona  2-1
+02.03. (dom)  Sassuolo  Parma FC  0-1
+02.03. (dom)  Torino FC  Sampdoria  0-2
+02.03. (dom)  AS Livorno  SSC Napoli  1-1
+02.03. (dom)  AC Milan  Juventus  0-2
+02.03. (dom)  Fiorentina  Lazio Roma  0-1
+
+
+Spieltag 27 / 27^ Giornata
+ 
+08.03. (sab)  Udinese  AC Milan  1-0
+08.03. (sab)  Catania  Cagliari  1-1
+09.03. (dom)  Juventus  Fiorentina  1-0
+09.03. (dom)  Lazio Roma  Atalanta Bergamo  0-1
+09.03. (dom)  Chievo Verona  Genoa CFC  2-1
+09.03. (dom)  Parma FC  Hellas Verona  2-0
+09.03. (dom)  Sampdoria  AS Livorno  4-2
+09.03. (dom)  Bologna FC  Sassuolo  0-0
+09.03. (dom)  Internazionale  Torino FC  1-0
+09.03. (dom)  SSC Napoli  AS Roma  1-0
+
+
+Spieltag 28 / 28^ Giornata
+ 
+15.03. (sab)  Hellas Verona  Internazionale  0-2
+16.03. (dom)  Atalanta Bergamo  Sampdoria  3-0
+16.03. (dom)  AS Livorno  Bologna FC  2-1
+16.03. (dom)  Sassuolo  Catania  3-1
+16.03. (dom)  Cagliari  Lazio Roma  0-2
+16.03. (dom)  AC Milan  Parma FC  2-4
+16.03. (dom)  Fiorentina  Chievo Verona  3-1
+16.03. (dom)  Genoa CFC  Juventus  0-1
+17.03. (lun)  Torino FC  SSC Napoli  0-1
+17.03. (lun)  AS Roma  Udinese  3-2
+
+
+Spieltag 29 / 29^ Giornata
+ 
+22.03. (sab)  Torino FC  AS Livorno  3-1
+22.03. (sab)  Chievo Verona  AS Roma  0-2
+23.03. (dom)  Parma FC  Genoa CFC  1-1
+23.03. (dom)  Internazionale  Atalanta Bergamo  1-2
+23.03. (dom)  Bologna FC  Cagliari  1-0
+23.03. (dom)  Sampdoria  Hellas Verona  5-0
+23.03. (dom)  Udinese  Sassuolo  1-0
+23.03. (dom)  SSC Napoli  Fiorentina  0-1
+23.03. (dom)  Catania  Juventus  0-1
+23.03. (dom)  Lazio Roma  AC Milan  1-1
+
+
+Spieltag 30 / 30^ Giornata
+ 
+25.03. (mar)  AS Roma            2-1   Torino FC
+26.03. (mer)  Chievo Verona     3-0   Bologna FC
+26.03. (mer)  Cagliari   3-0   Hellas Verona
+26.03. (mer)  Genoa CFC          2-0   Lazio Roma
+26.03. (mer)  Atalanta Bergamo  2-0   AS Livorno
+26.03. (mer)  Fiorentina        0-2   AC Milan
+26.03. (mer)  Catania    2-4   SSC Napoli
+26.03. (mer)  Juventus    2-1   Parma FC
+26.03. (mer)  Sassuolo   1-2   Sampdoria
+27.03. (gio)  Internazionale     0-0   Udinese
+
+
+Spieltag 31 / 31^ Giornata
+ 
+29.03. (sab)  Bologna FC       0-2  Atalanta Bergamo
+29.03. (sab)  AC Milan       3-0  Chievo Verona
+30.03. (dom)  Sassuolo  0-2  AS Roma
+30.03. (dom)  Torino FC         2-1  Cagliari
+30.03. (dom)  Sampdoria        0-0  Fiorentina  
+30.03. (dom)  Hellas Verona    3-0  Genoa CFC
+30.03. (dom)  Lazio Roma        3-2  Parma FC
+30.03. (dom)  SSC Napoli       2-0  Juventus
+31.03. (lun)  Udinese   1-0  Catania
+31.03. (lun)  AS Livorno       2-2  Internazionale
+
+
+Spieltag 32 / 32^ Giornata
+ 
+05.04. (sab)  Chievo Verona  Hellas Verona
+05.04. (sab)  Internazionale  Bologna FC
+06.04. (dom)  Lazio Roma  Sampdoria
+06.04. (dom)  Cagliari  AS Roma
+06.04. (dom)  Atalanta Bergamo  Sassuolo
+06.04. (dom)  Catania  Torino FC
+06.04. (dom)  Fiorentina  Udinese
+06.04. (dom)  Parma FC  SSC Napoli
+07.04. (lun)  Juventus  AS Livorno
+07.04. (lun)  Genoa CFC  AC Milan
+
+
+Spieltag 33 / 33^ Giornata
+ 
+12.04. (sab)  Sassuolo  Cagliari
+12.04. (sab)  AS Roma  Atalanta Bergamo
+13.04. (dom)  Bologna FC  Parma FC
+13.04. (dom)  AS Livorno  Chievo Verona
+13.04. (dom)  Hellas Verona  Fiorentina
+13.04. (dom)  Torino FC  Genoa CFC
+13.04. (dom)  Sampdoria  Internazionale
+13.04. (dom)  SSC Napoli  Lazio Roma
+13.04. (dom)  AC Milan  Catania
+14.04. (lun)  Udinese  Juventus
+
+
+Spieltag 34 / 34^ Giornata
+ 
+19.04. (sab)  Genoa CFC  Cagliari
+19.04. (sab)  Atalanta Bergamo  Hellas Verona
+19.04. (sab)  Parma FC  Internazionale
+19.04. (sab)  AC Milan  AS Livorno
+19.04. (sab)  Udinese  SSC Napoli
+19.04. (sab)  Catania  Sampdoria
+19.04. (sab)  Chievo Verona  Sassuolo
+19.04. (sab)  Lazio Roma  Torino FC
+19.04. (sab)  Juventus  Bologna FC
+19.04. (sab)  Fiorentina  AS Roma
+
+
+Spieltag 35 / 35^ Giornata
+ 
+25.04. (ven)  AS Roma  AC Milan
+26.04. (sab)  Bologna FC  Fiorentina
+26.04. (sab)  Internazionale  SSC Napoli
+27.04. (dom)  Hellas Verona  Catania
+27.04. (dom)  Sampdoria  Chievo Verona
+27.04. (dom)  AS Livorno  Lazio Roma
+27.04. (dom)  Cagliari  Parma FC
+27.04. (dom)  Atalanta Bergamo  Genoa CFC
+27.04. (dom)  Torino FC  Udinese
+28.04. (lun)  Sassuolo  Juventus
+
+
+Spieltag 36 / 36^ Giornata
+ 
+04.05. (dom)  Genoa CFC  Bologna FC
+04.05. (dom)  Udinese  AS Livorno
+04.05. (dom)  Catania  AS Roma
+04.05. (dom)  Parma FC  Sampdoria
+04.05. (dom)  Chievo Verona  Torino FC
+04.05. (dom)  AC Milan  Internazionale
+05.05. (lun)  Lazio Roma  Hellas Verona
+05.05. (lun)  Juventus  Atalanta Bergamo
+06.05. (mar)  Fiorentina  Sassuolo
+06.05. (mar)  SSC Napoli  Cagliari
+
+
+Spieltag 37 / 37^ Giornata
+
+09.05. (ven)  AS Roma  Juventus
+10.05. (sab)  Hellas Verona  Udinese
+10.05. (sab)  Internazionale  Lazio Roma
+11.05. (dom)  Atalanta Bergamo  AC Milan
+11.05. (dom)  Bologna FC  Catania
+11.05. (dom)  Cagliari  Chievo Verona
+11.05. (dom)  AS Livorno  Fiorentina
+11.05. (dom)  Sassuolo  Genoa CFC
+11.05. (dom)  Sampdoria  SSC Napoli
+11.05. (dom)  Torino FC  Parma FC
+
+
+Spieltag 38 / 38^ Giornata
+ 
+18.05. (dom)  Catania  Atalanta Bergamo
+18.05. (dom)  Lazio Roma  Bologna FC
+18.05. (dom)  Juventus  Cagliari
+18.05. (dom)  SSC Napoli  Hellas Verona
+18.05. (dom)  Chievo Verona  Internazionale
+18.05. (dom)  Parma FC  AS Livorno
+18.05. (dom)  Genoa CFC  AS Roma
+18.05. (dom)  Udinese  Sampdoria
+18.05. (dom)  AC Milan  Sassuolo
+18.05. (dom)  Fiorentina  Torino FC
+
+
