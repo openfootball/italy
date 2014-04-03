@@ -1,12 +1,8 @@
 #####################
 # Serie A 2013/14
 
-###
-# todo: add italian lang
-#   use Giornata (remove Spieltag etc.)
 
-
-# Weekdays
+# Weekdays  - move to lang!!!
 #
 # domenica/do./dom.  -- Sunday  -- uso do. or dom.??
 # lunedì/lun.    -- Monday
@@ -17,7 +13,7 @@
 # sabato/sab.    -- Saturday
 
 
-Spieltag 1 / 1^ Giornata
+1^ Giornata
 
 24.08. (sab)  Hellas Verona  2-1  AC Milan
 24.08. (sab)  Sampdoria      0-1  Juventus
@@ -33,7 +29,7 @@ Spieltag 1 / 1^ Giornata
 26.08. (lun)  Fiorentina     2-1  Catania
 
 
-Spieltag 2 / 2^ Giornata
+2^ Giornata
 
 31.08. (sab)  Chievo Verona  2-4  SSC Napoli
 31.08. (sab)  Juventus       4-1  Lazio
@@ -48,7 +44,7 @@ Spieltag 2 / 2^ Giornata
 01.09. (dom)  Udinese        3-1  Parma FC
 
 
-Spieltag 3 / 3^ Giornata
+3^ Giornata
 
 14.09. (sab)  Inter          1-1 Juventus
 14.09. (sab)  SSC Napoli     2-0 Atalanta
@@ -64,7 +60,7 @@ Spieltag 3 / 3^ Giornata
 16.09. (lun)  Parma FC       1-3 AS Roma
 
 
-Spieltag 4 / 4^ Giornata
+4^ Giornata
 
 21.09. (sab)  Cagliari       2-2 Sampdoria
 21.09. (sab)  Chievo Verona  2-1 Udinese
@@ -79,7 +75,7 @@ Spieltag 4 / 4^ Giornata
 22.09. (dom)  Sassuolo       0-7 Inter
 
 
-Spieltag 5 / 5^ Giornata
+5^ Giornata
 
 24.09. (mar)  Udinese        1-0 Genoa CFC
 
@@ -95,7 +91,7 @@ Spieltag 5 / 5^ Giornata
 26.09. (gio)  Inter          2-1 Fiorentina
 
 
-Spieltag 6 / 6^ Giornata
+6^ Giornata
 
 28.09. (sab)  Genoa CFC      0-2 SSC Napoli
 28.09. (sab)  AC Milan       1-0 Sampdoria
@@ -111,7 +107,7 @@ Spieltag 6 / 6^ Giornata
 30.09. (lun)  Fiorentina     2-2 Parma FC
 
 
-Spieltag 7 / 7^ Giornata
+7^ Giornata
 
 05.10. (sab)  Chievo Verona  0-1 Atalanta
 05.10. (sab)  Inter          0-3 AS Roma
@@ -126,7 +122,7 @@ Spieltag 7 / 7^ Giornata
 06.10. (dom)  Udinese        2-0 Cagliari
 
 
-Spieltag 8 / 8^ Giornata
+8^ Giornata
 
 18.10. (ven)  AS Roma        2-0 SSC Napoli
 
@@ -142,7 +138,7 @@ Spieltag 8 / 8^ Giornata
 20.10. (dom)  Torino FC      3-3 Inter
 
 
-Spieltag 9 / 9^ Giornata
+9^ Giornata
 
 26.10. (sab)  Sampdoria      1-0 Atalanta
 26.10. (sab)  Inter          4-2 Hellas Verona
@@ -157,7 +153,7 @@ Spieltag 9 / 9^ Giornata
 27.10. (dom)  Udinese        0-1 AS Roma
 
 
-Spieltag 10 / 10^ Giornata
+10^ Giornata
 
 29.10. (mar)  Atalanta       1-1 Inter
 
@@ -173,7 +169,7 @@ Spieltag 10 / 10^ Giornata
 31.10. (gio)  AS Roma        1-0 Chievo Verona
 
 
-Spieltag 11 / 11^ Giornata
+11^ Giornata
 
 02.11. (sab)  Parma FC       0-1 Juventus
 02.11. (sab)  AC Milan       0-2 Fiorentina
@@ -189,7 +185,7 @@ Spieltag 11 / 11^ Giornata
 04.11. (lun)  Bologna FC     0-0 Chievo Verona
 
 
-Spieltag 12 / 12^ Giornata
+12^ Giornata
 
 09.11. (sab)  Catania        1-0 Udinese
 09.11. (sab)  Inter          2-0 AS Livorno
@@ -204,7 +200,7 @@ Spieltag 12 / 12^ Giornata
 10.11. (dom)  AS Roma        1-1 Sassuolo
 
 
-Spieltag 13 / 13^ Giornata
+13^ Giornata
 
 23.11. (sab)  Hellas Verona  0-1 Chievo Verona
 23.11. (sab)  AC Milan       1-1 Genoa CFC
@@ -220,7 +216,7 @@ Spieltag 13 / 13^ Giornata
 25.11. (lun)  AS Roma        0-0 Cagliari
 
 
-Spieltag 14 / 14^ Giornata
+14^ Giornata
 
 30.11. (sab)  Parma FC       1-1 Bologna FC
 30.11. (sab)  Genoa CFC      1-1 Torino FC
@@ -236,7 +232,7 @@ Spieltag 14 / 14^ Giornata
 02.12. (lun)  Lazio          2-4 SSC Napoli
 
 
-Spieltag 15 / 15^ Giornata
+15^ Giornata
 
 06.12. (ven)  Bologna FC     0-2 Juventus
 
@@ -252,7 +248,7 @@ Spieltag 15 / 15^ Giornata
 08.12. (dom)  Torino FC      1-0 Lazio
 
 
-Spieltag 16 / 16^ Giornata
+16^ Giornata
 
 14.12. (sab)  Catania        0-0 Hellas Verona
 
@@ -268,7 +264,7 @@ Spieltag 16 / 16^ Giornata
 16.12. (lun)  AC Milan       2-2 AS Roma
 
 
-Spieltag 17 / 17^ Giornata
+17^ Giornata
 
 21.12. (sab)  AS Livorno     1-2 Udinese
 21.12. (sab)  Cagliari       1-1 SSC Napoli
@@ -285,7 +281,7 @@ Spieltag 17 / 17^ Giornata
 
 # -- 2014 New Year --
 
-Spieltag 18 / 18^ Giornata
+18^ Giornata
 
 05.01. (dom)  Chievo Verona  0-0 Cagliari
 05.01. (dom)  Fiorentina     1-0 AS Livorno
@@ -300,7 +296,7 @@ Spieltag 18 / 18^ Giornata
 06.01. (lun)  Udinese        1-3 Hellas Verona
 
 
-Spieltag 19 / 19^ Giornata
+19^ Giornata
 
 11.01. (sab)  AS Livorno     0-3 Parma FC
 11.01. (sab)  Bologna FC     0-0 Lazio
