@@ -200,16 +200,16 @@
 
 34^ Giornata
  
-19.04. (sab)  Genoa CFC  Cagliari
-19.04. (sab)  Atalanta Bergamo  Hellas Verona
-19.04. (sab)  Parma FC  Internazionale
-19.04. (sab)  AC Milan  AS Livorno
-19.04. (sab)  Udinese  SSC Napoli
-19.04. (sab)  Catania  Sampdoria
-19.04. (sab)  Chievo Verona  Sassuolo
-19.04. (sab)  Lazio Roma  Torino FC
-19.04. (sab)  Juventus  Bologna FC
-19.04. (sab)  Fiorentina  AS Roma
+19.04. (sab)  Genoa CFC        1-2   Cagliari
+19.04. (sab)  Atalanta Bergamo 1-2   Hellas Verona
+19.04. (sab)  Parma FC         0-2   Internazionale
+19.04. (sab)  AC Milan         3-0   AS Livorno
+19.04. (sab)  Udinese          1-1   SSC Napoli
+19.04. (sab)  Catania          2-1   Sampdoria
+19.04. (sab)  Chievo Verona    0-1   Sassuolo
+19.04. (sab)  Lazio Roma       3-3   Torino FC
+19.04. (sab)  Juventus         1-0   Bologna FC
+19.04. (sab)  Fiorentina       0-1  AS Roma
 
 
 35^ Giornata
