@@ -209,12 +209,12 @@
 19.04. (sab)  Chievo Verona    0-1   Sassuolo
 19.04. (sab)  Lazio Roma       3-3   Torino FC
 19.04. (sab)  Juventus         1-0   Bologna FC
-19.04. (sab)  Fiorentina       0-1  AS Roma
+19.04. (sab)  Fiorentina       0-1   AS Roma
 
 
 35^ Giornata
  
-25.04. (ven)  AS Roma  AC Milan
+25.04. (ven)  AS Roma          2-0   AC Milan
 26.04. (sab)  Bologna FC  Fiorentina
 26.04. (sab)  Internazionale  SSC Napoli
 27.04. (dom)  Hellas Verona  Catania
