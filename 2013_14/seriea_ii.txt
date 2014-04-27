@@ -215,8 +215,8 @@
 35^ Giornata
  
 25.04. (ven)  AS Roma          2-0   AC Milan
-26.04. (sab)  Bologna FC  Fiorentina
-26.04. (sab)  Internazionale  SSC Napoli
+26.04. (sab)  Bologna FC       0-3   Fiorentina
+26.04. (sab)  Internazionale   0-0   SSC Napoli
 27.04. (dom)  Hellas Verona  Catania
 27.04. (dom)  Sampdoria  Chievo Verona
 27.04. (dom)  AS Livorno  Lazio Roma
