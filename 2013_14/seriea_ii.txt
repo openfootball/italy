@@ -217,12 +217,12 @@
 25.04. (ven)  AS Roma          2-0   AC Milan
 26.04. (sab)  Bologna FC       0-3   Fiorentina
 26.04. (sab)  Internazionale   0-0   SSC Napoli
-27.04. (dom)  Hellas Verona  Catania
-27.04. (dom)  Sampdoria  Chievo Verona
-27.04. (dom)  AS Livorno  Lazio Roma
-27.04. (dom)  Cagliari  Parma FC
-27.04. (dom)  Atalanta Bergamo  Genoa CFC
-27.04. (dom)  Torino FC  Udinese
+27.04. (dom)  Hellas Verona    4-0   Catania
+27.04. (dom)  Sampdoria        2-1   Chievo Verona
+27.04. (dom)  AS Livorno       0-2   Lazio Roma
+27.04. (dom)  Cagliari         1-0   Parma FC
+27.04. (dom)  Atalanta Bergamo 1-1   Genoa CFC
+27.04. (dom)  Torino FC        2-0   Udinese
 28.04. (lun)  Sassuolo  Juventus
 
 
