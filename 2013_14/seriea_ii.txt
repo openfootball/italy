@@ -228,12 +228,12 @@
 
 36^ Giornata
  
-04.05. (dom)  Genoa CFC  Bologna FC
-04.05. (dom)  Udinese  AS Livorno
-04.05. (dom)  Catania  AS Roma
-04.05. (dom)  Parma FC  Sampdoria
-04.05. (dom)  Chievo Verona  Torino FC
-04.05. (dom)  AC Milan  Internazionale
+04.05. (dom)  Genoa CFC        0-0   Bologna FC
+04.05. (dom)  Udinese          5-3   AS Livorno
+04.05. (dom)  Catania          4-1   AS Roma
+04.05. (dom)  Parma FC         2-0   Sampdoria
+04.05. (dom)  Chievo Verona    0-1   Torino FC
+04.05. (dom)  AC Milan         1-0   Internazionale
 05.05. (lun)  Lazio Roma  Hellas Verona
 05.05. (lun)  Juventus  Atalanta Bergamo
 06.05. (mar)  Fiorentina  Sassuolo
