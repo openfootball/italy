@@ -242,16 +242,16 @@
 
 37^ Giornata
 
-09.05. (ven)  AS Roma  Juventus
-10.05. (sab)  Hellas Verona  Udinese
-10.05. (sab)  Internazionale  Lazio Roma
-11.05. (dom)  Atalanta Bergamo  AC Milan
-11.05. (dom)  Bologna FC  Catania
-11.05. (dom)  Cagliari  Chievo Verona
-11.05. (dom)  AS Livorno  Fiorentina
-11.05. (dom)  Sassuolo  Genoa CFC
-11.05. (dom)  Sampdoria  SSC Napoli
-11.05. (dom)  Torino FC  Parma FC
+09.05. (ven)  AS Roma          0-1   Juventus
+10.05. (sab)  Hellas Verona    2-2   Udinese
+10.05. (sab)  Internazionale   2-0   Lazio Roma
+11.05. (dom)  Atalanta Bergamo 2-1   AC Milan
+11.05. (dom)  Bologna FC       1-2   Catania
+11.05. (dom)  Cagliari         1-2   Chievo Verona
+11.05. (dom)  AS Livorno       0-1   Fiorentina
+11.05. (dom)  Sassuolo         4-2   Genoa CFC
+11.05. (dom)  Sampdoria        2-5   SSC Napoli
+11.05. (dom)  Torino FC        1-1   Parma FC
 
 
 38^ Giornata
