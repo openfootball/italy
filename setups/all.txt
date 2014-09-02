@@ -5,10 +5,10 @@
 
 it-italy!/leagues
 
-# -- Teams
+# -- Clubs
 
-it-italy!/teams
-it-italy!/teams_x
+it-italy!/clubs
+it-italy!/clubs_x
 
 # -- Fixtures
 # 2013/14
