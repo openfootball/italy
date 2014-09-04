@@ -7,8 +7,8 @@ start_at: 2013-08-24
 
 
 fixtures:
-- seriea
-- seriea_ii
+- seriea-i
+- seriea-ii
 
 ############
 # 20 Teams

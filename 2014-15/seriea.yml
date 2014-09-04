@@ -1,0 +1,38 @@
+#####################
+# Serie A 2014/15
+
+league: it
+season: 2014/15
+start_at: 2014-08-30
+
+
+fixtures:
+- seriea-i
+- seriea-ii
+
+############
+# 20 Teams
+#
+# -fix teams for 2014/15 seaon!!!!!
+
+teams:
+- milan
+- inter
+- lazio
+- roma
+- genoa
+- sampdoria
+- juventus
+- torino
+- napoli
+- atalanta
+- bologna
+- cagliari
+- catania
+- chievoverona
+- hellasverona
+- fiorentina
+- parma
+- udinese
+- sassuolo
+- livorno
