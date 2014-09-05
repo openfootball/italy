@@ -1,5 +1,5 @@
 #########################
-# Serie A 2013/14
+# Serie A 2014/15
 #
 # - 20 teams
 
@@ -20,9 +20,7 @@ napoli,       Napoli|SSC Napoli|Società Sportiva Calcio Napoli,   NAP,      cit
 
 
 atalanta,     Atalanta|Atalanta Bergamo|Atalanta Bergamasca Calcio|Atalanta BC, ATA,  city:bergamo
-bologna,      Bologna|FC Bologna|Bologna FC|Bologna Football Club 1909,  BOL, city:bologna
 cagliari,     Cagliari|Cagliari Calcio,  CAG, city:cagliari
-catania,      Catania|Calcio Catania,   CAT, city:catania
 
 chievoverona,  Chievo|Chievo Verona|Associazione Calcio Chievo Verona, CHI, city:verona
 hellasverona,  Verona|Hellas Verona|Hellas Verona F.C.|Hellas Verona Football Club, HEL, 1903, www.hellasverona.it, city:verona
@@ -36,4 +34,14 @@ udinese,      Udinese|Udinese Calcio, UDI, city:udine
 
 
 sassuolo,     Sassuolo|U.S. Sassuolo Calcio|Unione Sportiva Sassuolo Calcio, SAS, 1922, www.sassuolocalcio.it, city:sassuolo
-livorno,      Livorno|AS Livorno|A.S. Livorno Calcio|Associazione Sportiva Livorno Calcio, LIV, 1915, www.livornocalcio.it, city:livorno
+
+
+palermo,      Palermo|US Palermo|Unione Sportiva Città di Palermo, PAL, www.palermocalcio.it, city:palermo
+empoli,       Empoli|Empoli FC|Empoli Football Club, www.empolicalcio.it
+cesena,       Cesena|AC Cesena|Associazione Calcio Cesena, www.cesenacalcio.it
+
+
+### 2014/15:
+# ---  18º Catania, 19º Bologna, 20º Livorno
+# +++  1º Palermo, 2º Empoli, Prom. Cesena
+

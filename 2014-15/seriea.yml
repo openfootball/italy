@@ -12,8 +12,6 @@ fixtures:
 
 ############
 # 20 Teams
-#
-# -fix teams for 2014/15 seaon!!!!!
 
 teams:
 - milan
@@ -26,13 +24,14 @@ teams:
 - torino
 - napoli
 - atalanta
-- bologna
 - cagliari
-- catania
 - chievoverona
 - hellasverona
 - fiorentina
 - parma
 - udinese
 - sassuolo
-- livorno
+- palermo
+- empoli
+- cesena
+

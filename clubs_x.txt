@@ -1,5 +1,8 @@
 
+catania,      Catania|Calcio Catania,   CAT, city:catania
+bologna,      Bologna|FC Bologna|Bologna FC|Bologna Football Club 1909,  BOL, city:bologna
+livorno,      Livorno|AS Livorno|A.S. Livorno Calcio|Associazione Sportiva Livorno Calcio, LIV, 1915, www.livornocalcio.it, city:livorno
 
-palermo,      Palermo|US Palermo|Unione Sportiva Città di Palermo, PAL, city:palermo
+
 pescara,      Pescara Calcio|Delfino Pescara 1936,  PES,  city:pescara
 siena,        AC Siena|Associazione Calcio Siena, SIE, city:siena
