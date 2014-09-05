@@ -1,4 +1,269 @@
 #####################
 # Serie A 2014/15
 
+20^ Giornata
+
+25.01.2015 (So)  Hellas Verona  Atalanta
+25.01.2015 (So)  Parma FC  AC Cesena
+25.01.2015 (So)  Juventus  Chievo Verona
+25.01.2015 (So)  SSC Napoli  Genoa CFC
+25.01.2015 (So)  Lazio Roma  AC Milan
+25.01.2015 (So)  Sampdoria  US Palermo
+25.01.2015 (So)  Fiorentina  AS Roma
+25.01.2015 (So)  Cagliari   Sassuolo
+25.01.2015 (So)  Internazionale  Torino FC
+25.01.2015 (So)  Empoli FC  Udinese
+
+
+21^ Giornata
+
+01.02.2015 (So)  Atalanta  Cagliari
+01.02.2015 (So)  AS Roma  Empoli FC
+01.02.2015 (So)  Genoa CFC  Fiorentina
+01.02.2015 (So)  US Palermo  Hellas Verona
+01.02.2015 (So)  Sassuolo   Internazionale
+01.02.2015 (So)  Udinese   Juventus
+01.02.2015 (So)  AC Cesena  Lazio Roma
+01.02.2015 (So)  Chievo Verona  SSC Napoli
+01.02.2015 (So)  AC Milan  Parma FC
+01.02.2015 (So)  Torino FC  Sampdoria
+
+
+22^ Giornata
+
+08.02.2015 (So)  Fiorentina  Atalanta
+08.02.2015 (So)  Empoli FC  AC Cesena
+08.02.2015 (So)  Parma FC  Chievo Verona
+08.02.2015 (So)  Lazio Roma  Genoa CFC
+08.02.2015 (So)  Juventus  AC Milan
+08.02.2015 (So)  Internazionale  US Palermo
+08.02.2015 (So)  Cagliari   AS Roma
+08.02.2015 (So)  Sampdoria  Sassuolo
+08.02.2015 (So)  Hellas Verona  Torino FC
+08.02.2015 (So)  SSC Napoli  Udinese
+
+
+23^ Giornata
+
+15.02.2015 (So)  Torino FC  Cagliari
+15.02.2015 (So)  AC Milan  Empoli FC
+15.02.2015 (So)  Sassuolo   Fiorentina
+15.02.2015 (So)  Genoa CFC  Hellas Verona
+15.02.2015 (So)  Atalanta  Internazionale
+15.02.2015 (So)  AC Cesena  Juventus
+15.02.2015 (So)  Udinese   Lazio Roma
+15.02.2015 (So)  US Palermo  SSC Napoli
+15.02.2015 (So)  AS Roma  Parma FC
+15.02.2015 (So)  Chievo Verona  Sampdoria
+
+
+24^ Giornata
+
+22.02.2015 (So)  Juventus  Atalanta
+22.02.2015 (So)  AC Milan  AC Cesena
+22.02.2015 (So)  Empoli FC  Chievo Verona
+22.02.2015 (So)  Sampdoria  Genoa CFC
+22.02.2015 (So)  Cagliari   Internazionale
+22.02.2015 (So)  Lazio Roma  US Palermo
+22.02.2015 (So)  Hellas Verona  AS Roma
+22.02.2015 (So)  SSC Napoli  Sassuolo
+22.02.2015 (So)  Fiorentina  Torino FC
+22.02.2015 (So)  Parma FC  Udinese
+
+
+25^ Giornata
+
+01.03.2015 (So)  US Palermo  Empoli FC
+01.03.2015 (So)  Internazionale  Fiorentina
+01.03.2015 (So)  Cagliari   Hellas Verona
+01.03.2015 (So)  AS Roma  Juventus
+01.03.2015 (So)  Sassuolo   Lazio Roma
+01.03.2015 (So)  Chievo Verona  AC Milan
+01.03.2015 (So)  Torino FC  SSC Napoli
+01.03.2015 (So)  Genoa CFC  Parma FC
+01.03.2015 (So)  Atalanta  Sampdoria
+01.03.2015 (So)  AC Cesena  Udinese
+
+
+26^ Giornata
+
+08.03.2015 (So)  Parma FC  Atalanta
+08.03.2015 (So)  Sampdoria  Cagliari
+08.03.2015 (So)  Lazio Roma  Fiorentina
+08.03.2015 (So)  Empoli FC  Genoa CFC
+08.03.2015 (So)  AC Milan  Hellas Verona
+08.03.2015 (So)  SSC Napoli  Internazionale
+08.03.2015 (So)  AC Cesena  US Palermo
+08.03.2015 (So)  Chievo Verona  AS Roma
+08.03.2015 (So)  Juventus  Sassuolo
+08.03.2015 (So)  Udinese   Torino FC
+
+
+27^ Giornata
+
+15.03.2015 (So)  Internazionale  AC Cesena
+15.03.2015 (So)  Genoa CFC  Chievo Verona
+15.03.2015 (So)  Cagliari   Empoli FC
+15.03.2015 (So)  US Palermo  Juventus
+15.03.2015 (So)  Torino FC  Lazio Roma
+15.03.2015 (So)  Fiorentina  AC Milan
+15.03.2015 (So)  Hellas Verona  SSC Napoli
+15.03.2015 (So)  Sassuolo   Parma FC
+15.03.2015 (So)  AS Roma  Sampdoria
+15.03.2015 (So)  Atalanta  Udinese
+
+
+28^ Giornata
+
+22.03.2015 (So)  SSC Napoli  Atalanta
+22.03.2015 (So)  AC Milan  Cagliari
+22.03.2015 (So)  Udinese   Fiorentina
+22.03.2015 (So)  Juventus  Genoa CFC
+22.03.2015 (So)  Lazio Roma  Hellas Verona
+22.03.2015 (So)  Sampdoria  Internazionale
+22.03.2015 (So)  Chievo Verona  US Palermo
+22.03.2015 (So)  AC Cesena  AS Roma
+22.03.2015 (So)  Empoli FC  Sassuolo
+22.03.2015 (So)  Parma FC  Torino FC
+
+
+29^ Giornata
+
+04.04.2015 (Sa)  Hellas Verona  AC Cesena
+04.04.2015 (Sa)  Sassuolo   Chievo Verona
+04.04.2015 (Sa)  Juventus  Empoli FC
+04.04.2015 (Sa)  Cagliari   Lazio Roma
+04.04.2015 (Sa)  US Palermo  AC Milan
+04.04.2015 (Sa)  AS Roma  SSC Napoli
+04.04.2015 (Sa)  Internazionale  Parma FC
+04.04.2015 (Sa)  Fiorentina  Sampdoria
+04.04.2015 (Sa)  Atalanta  Torino FC
+04.04.2015 (Sa)  Genoa CFC  Udinese
+
+
+30^ Giornata
+
+12.04.2015 (So)  Genoa CFC  Cagliari
+12.04.2015 (So)  AC Cesena  Chievo Verona
+12.04.2015 (So)  Lazio Roma  Empoli FC
+12.04.2015 (So)  SSC Napoli  Fiorentina
+12.04.2015 (So)  Hellas Verona  Internazionale
+12.04.2015 (So)  Parma FC  Juventus
+12.04.2015 (So)  Udinese   US Palermo
+12.04.2015 (So)  Torino FC  AS Roma
+12.04.2015 (So)  AC Milan  Sampdoria
+12.04.2015 (So)  Atalanta  Sassuolo
+
+
+31^ Giornata
+
+19.04.2015 (So)  AS Roma  Atalanta
+19.04.2015 (So)  Sampdoria  AC Cesena
+19.04.2015 (So)  US Palermo  Genoa CFC
+19.04.2015 (So)  Fiorentina  Hellas Verona
+19.04.2015 (So)  Juventus  Lazio Roma
+19.04.2015 (So)  Internazionale  AC Milan
+19.04.2015 (So)  Cagliari   SSC Napoli
+19.04.2015 (So)  Empoli FC  Parma FC
+19.04.2015 (So)  Sassuolo   Torino FC
+19.04.2015 (So)  Chievo Verona  Udinese
+
+
+32^ Giornata
+
+26.04.2015 (So)  Fiorentina  Cagliari
+26.04.2015 (So)  Genoa CFC  AC Cesena
+26.04.2015 (So)  Lazio Roma  Chievo Verona
+26.04.2015 (So)  Atalanta  Empoli FC
+26.04.2015 (So)  Torino FC  Juventus
+26.04.2015 (So)  Udinese   AC Milan
+26.04.2015 (So)  Parma FC  US Palermo
+26.04.2015 (So)  Internazionale  AS Roma
+26.04.2015 (So)  SSC Napoli  Sampdoria
+26.04.2015 (So)  Hellas Verona  Sassuolo
+
+
+33^ Giornata
+
+29.04.2015 (Mi)  AC Cesena  Atalanta
+29.04.2015 (Mi)  Chievo Verona  Cagliari
+29.04.2015 (Mi)  Juventus  Fiorentina
+29.04.2015 (Mi)  AC Milan  Genoa CFC
+29.04.2015 (Mi)  Sampdoria  Hellas Verona
+29.04.2015 (Mi)  Udinese   Internazionale
+29.04.2015 (Mi)  Empoli FC  SSC Napoli
+29.04.2015 (Mi)  Lazio Roma  Parma FC
+29.04.2015 (Mi)  Sassuolo   AS Roma
+29.04.2015 (Mi)  US Palermo  Torino FC
+
+
+34^ Giornata
+
+03.05.2015 (So)  Fiorentina  AC Cesena
+03.05.2015 (So)  Internazionale  Chievo Verona
+03.05.2015 (So)  Torino FC  Empoli FC
+03.05.2015 (So)  AS Roma  Genoa CFC
+03.05.2015 (So)  Sampdoria  Juventus
+03.05.2015 (So)  Atalanta  Lazio Roma
+03.05.2015 (So)  SSC Napoli  AC Milan
+03.05.2015 (So)  Sassuolo   US Palermo
+03.05.2015 (So)  Cagliari   Parma FC
+03.05.2015 (So)  Hellas Verona  Udinese
+
+
+35^ Giornata
+
+10.05.2015 (So)  US Palermo  Atalanta
+10.05.2015 (So)  Juventus  Cagliari
+10.05.2015 (So)  Empoli FC  Fiorentina
+10.05.2015 (So)  Chievo Verona  Hellas Verona
+10.05.2015 (So)  Lazio Roma  Internazionale
+10.05.2015 (So)  Parma FC  SSC Napoli
+10.05.2015 (So)  AC Milan  AS Roma
+10.05.2015 (So)  Udinese   Sampdoria
+10.05.2015 (So)  AC Cesena  Sassuolo
+10.05.2015 (So)  Genoa CFC  Torino FC
+
+
+36^ Giornata
+
+17.05.2015 (So)  SSC Napoli  AC Cesena
+17.05.2015 (So)  Torino FC  Chievo Verona
+17.05.2015 (So)  Hellas Verona  Empoli FC
+17.05.2015 (So)  Atalanta  Genoa CFC
+17.05.2015 (So)  Internazionale  Juventus
+17.05.2015 (So)  Sampdoria  Lazio Roma
+17.05.2015 (So)  Sassuolo   AC Milan
+17.05.2015 (So)  Cagliari   US Palermo
+17.05.2015 (So)  Fiorentina  Parma FC
+17.05.2015 (So)  AS Roma  Udinese
+
+
+37^ Giornata
+
+24.05.2015 (So)  Chievo Verona  Atalanta
+24.05.2015 (So)  AC Cesena  Cagliari
+24.05.2015 (So)  US Palermo  Fiorentina
+24.05.2015 (So)  Parma FC  Hellas Verona
+24.05.2015 (So)  Genoa CFC  Internazionale
+24.05.2015 (So)  Juventus  SSC Napoli
+24.05.2015 (So)  Lazio Roma  AS Roma
+24.05.2015 (So)  Empoli FC  Sampdoria
+24.05.2015 (So)  Udinese   Sassuolo
+24.05.2015 (So)  AC Milan  Torino FC
+
+
+38^ Giornata
+
+31.05.2015 (So)  Torino FC  AC Cesena
+31.05.2015 (So)  Fiorentina  Chievo Verona
+31.05.2015 (So)  Internazionale  Empoli FC
+31.05.2015 (So)  Sassuolo   Genoa CFC
+31.05.2015 (So)  Hellas Verona  Juventus
+31.05.2015 (So)  SSC Napoli  Lazio Roma
+31.05.2015 (So)  Atalanta  AC Milan
+31.05.2015 (So)  AS Roma  US Palermo
+31.05.2015 (So)  Sampdoria  Parma FC
+31.05.2015 (So)  Cagliari   Udinese
+
 
