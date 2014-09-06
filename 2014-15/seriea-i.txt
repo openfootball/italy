@@ -1,19 +1,8 @@
 #####################
 # Serie A 2014/15
 
-# Weekdays  - move to lang!!!
-#
-# domenica/do./dom.  -- Sunday  -- uso do. or dom.??
-# lunedì/lun.    -- Monday
-# martedì/mar.   -- Tuesday
-# mercoledì/mer. -- Wednesday
-# giovedì/gio.   -- Thursday
-# venerdì/ven.   -- Friday
-# sabato/sab.    -- Saturday
-
 ##
-#
-#  use 30/8  31/8  13/9 14/9  etc. yes?
+# todo/check use 30/8  31/8  13/9 14/9  etc. yes?
 
 
 1^ Giornata
@@ -101,216 +90,230 @@
 
 6^ Giornata
 
-04.10.2014 (Sa)  Hellas Verona  Cagliari
-04.10.2014 (Sa)  AC Milan  Chievo Verona
-
-05.10.2014 (So)  Empoli FC  US Palermo
-05.10.2014 (So)  Lazio Roma  Sassuolo
-05.10.2014 (So)  Parma FC  Genoa CFC
-05.10.2014 (So)  Sampdoria  Atalanta
-05.10.2014 (So)  Udinese   AC Cesena
-05.10.2014 (So)  Juventus  AS Roma
-05.10.2014 (So)  Fiorentina  Internazionale
-05.10.2014 (So)  SSC Napoli  Torino FC
+[Sab. 4.10.]
+  Hellas Verona  Cagliari
+  AC Milan  Chievo Verona
+[Dom. 5.10.]
+  Empoli FC  US Palermo
+  Lazio Roma  Sassuolo
+  Parma FC  Genoa CFC
+  Sampdoria  Atalanta
+  Udinese   AC Cesena
+  Juventus  AS Roma
+  Fiorentina  Internazionale
+  SSC Napoli  Torino FC
 
 
 7^ Giornata
 
-18.10.2014 (Sa)  AS Roma  Chievo Verona
-
-19.10.2014 (So)  Fiorentina  Lazio Roma
-19.10.2014 (So)  Atalanta  Parma FC
-19.10.2014 (So)  Cagliari   Sampdoria
-19.10.2014 (So)  Hellas Verona  AC Milan
-19.10.2014 (So)  US Palermo  AC Cesena
-19.10.2014 (So)  Torino FC  Udinese
-19.10.2014 (So)  Internazionale  SSC Napoli
-19.10.2014 (So)  Sassuolo   Juventus
-
-20.10.2014 (Mo)  Genoa CFC  Empoli FC
+[Sab. 18.10.]
+  AS Roma  Chievo Verona
+[Dom. 19.10.]
+  Fiorentina  Lazio Roma
+  Atalanta  Parma FC
+  Cagliari   Sampdoria
+  Hellas Verona  AC Milan
+  US Palermo  AC Cesena
+  Torino FC  Udinese
+  Internazionale  SSC Napoli
+  Sassuolo   Juventus
+[Lun. 20.10.]
+  Genoa CFC  Empoli FC
 
 
 8^ Giornata
 
-25.10.2014 (Sa)  Empoli FC  Cagliari
-25.10.2014 (Sa)  Parma FC  Sassuolo
-25.10.2014 (Sa)  Sampdoria  AS Roma
-
-26.10.2014 (So)  Chievo Verona  Genoa CFC
-26.10.2014 (So)  Juventus  US Palermo
-26.10.2014 (So)  Udinese   Atalanta
-26.10.2014 (So)  AC Cesena  Internazionale
-26.10.2014 (So)  Lazio Roma  Torino FC
-26.10.2014 (So)  SSC Napoli  Hellas Verona
-26.10.2014 (So)  AC Milan  Fiorentina
+[Sab. 25.10.]
+  Empoli FC  Cagliari
+  Parma FC  Sassuolo
+  Sampdoria  AS Roma
+[Dom. 26.10.]
+  Chievo Verona  Genoa CFC
+  Juventus  US Palermo
+  Udinese   Atalanta
+  AC Cesena  Internazionale
+  Lazio Roma  Torino FC
+  SSC Napoli  Hellas Verona
+  AC Milan  Fiorentina
 
 
 9^ Giornata
 
-28.10.2014 (Di)  Sassuolo   Empoli FC
-
-29.10.2014 (Mi)  Atalanta  SSC Napoli
-29.10.2014 (Mi)  Cagliari   AC Milan
-29.10.2014 (Mi)  Fiorentina  Udinese
-29.10.2014 (Mi)  Genoa CFC  Juventus
-29.10.2014 (Mi)  Internazionale  Sampdoria
-29.10.2014 (Mi)  US Palermo  Chievo Verona
-29.10.2014 (Mi)  AS Roma  AC Cesena
-29.10.2014 (Mi)  Torino FC  Parma FC
-
-30.10.2014 (Do)  Hellas Verona  Lazio Roma
+[Mar. 28.10.]
+  Sassuolo   Empoli FC
+[Mer. 29.10.]
+  Atalanta  SSC Napoli
+  Cagliari   AC Milan
+  Fiorentina  Udinese
+  Genoa CFC  Juventus
+  Internazionale  Sampdoria
+  US Palermo  Chievo Verona
+  AS Roma  AC Cesena
+  Torino FC  Parma FC
+[Gio. 30.10.]
+  Hellas Verona  Lazio Roma
 
 
 10^ Giornata
 
-01.11.2014 (Sa)  SSC Napoli  AS Roma
-01.11.2014 (Sa)  Empoli FC  Juventus
-01.11.2014 (Sa)  Parma FC  Internazionale
-
-02.11.2014 (So)  Chievo Verona  Sassuolo
-02.11.2014 (So)  Sampdoria  Fiorentina
-02.11.2014 (So)  Torino FC  Atalanta
-02.11.2014 (So)  Udinese   Genoa CFC
-02.11.2014 (So)  AC Milan  US Palermo
-
-03.11.2014 (Mo)  AC Cesena  Hellas Verona
-03.11.2014 (Mo)  Lazio Roma  Cagliari
+[Sab. 1.11.]
+  SSC Napoli  AS Roma
+  Empoli FC  Juventus
+  Parma FC  Internazionale
+[Dom. 2.11.]
+  Chievo Verona  Sassuolo
+  Sampdoria  Fiorentina
+  Torino FC  Atalanta
+  Udinese   Genoa CFC
+  AC Milan  US Palermo
+[Lun. 3.11.]
+  AC Cesena  Hellas Verona
+  Lazio Roma  Cagliari
 
 
 11^ Giornata
 
-08.11.2014 (Sa)  Sassuolo   Atalanta
-08.11.2014 (Sa)  Sampdoria  AC Milan
-
-09.11.2014 (So)  Cagliari   Genoa CFC
-09.11.2014 (So)  Chievo Verona  AC Cesena
-09.11.2014 (So)  Empoli FC  Lazio Roma
-09.11.2014 (So)  Juventus  Parma FC
-09.11.2014 (So)  US Palermo  Udinese
-09.11.2014 (So)  Fiorentina  SSC Napoli
-09.11.2014 (So)  Internazionale  Hellas Verona
-09.11.2014 (So)  AS Roma  Torino FC
+[Sab. 8.11.]
+  Sassuolo   Atalanta
+  Sampdoria  AC Milan
+[Dom. 9.11.]
+  Cagliari   Genoa CFC
+  Chievo Verona  AC Cesena
+  Empoli FC  Lazio Roma
+  Juventus  Parma FC
+  US Palermo  Udinese
+  Fiorentina  SSC Napoli
+  Internazionale  Hellas Verona
+  AS Roma  Torino FC
 
 
 12^ Giornata
 
-22.11.2014 (Sa)  Atalanta  AS Roma
-22.11.2014 (Sa)  Lazio Roma  Juventus
-
-23.11.2014 (So)  Torino FC  Sassuolo
-23.11.2014 (So)  AC Cesena  Sampdoria
-23.11.2014 (So)  Hellas Verona  Fiorentina
-23.11.2014 (So)  SSC Napoli  Cagliari
-23.11.2014 (So)  Parma FC  Empoli FC
-23.11.2014 (So)  Udinese   Chievo Verona
-23.11.2014 (So)  AC Milan  Internazionale
-
-24.11.2014 (Mo)  Genoa CFC  US Palermo
+[Sab. 22.11.]
+  Atalanta  AS Roma
+  Lazio Roma  Juventus
+[Dom. 23.11.]
+  Torino FC  Sassuolo
+  AC Cesena  Sampdoria
+  Hellas Verona  Fiorentina
+  SSC Napoli  Cagliari
+  Parma FC  Empoli FC
+  Udinese   Chievo Verona
+  AC Milan  Internazionale
+[Lun. 24.11.]
+  Genoa CFC  US Palermo
 
 
 13^ Giornata
 
-29.11.2014 (Sa)  Sassuolo   Hellas Verona
-29.11.2014 (Sa)  Chievo Verona  Lazio Roma
-
-30.11.2014 (So)  AC Cesena  Genoa CFC
-30.11.2014 (So)  Empoli FC  Atalanta
-30.11.2014 (So)  AC Milan  Udinese
-30.11.2014 (So)  US Palermo  Parma FC
-30.11.2014 (So)  Juventus  Torino FC
-30.11.2014 (So)  AS Roma  Internazionale
-
-01.12.2014 (Mo)  Cagliari   Fiorentina
-01.12.2014 (Mo)  Sampdoria  SSC Napoli
+[Sab. 29.11.]
+  Sassuolo   Hellas Verona
+  Chievo Verona  Lazio Roma
+[Dom. 30.11.]
+  AC Cesena  Genoa CFC
+  Empoli FC  Atalanta
+  AC Milan  Udinese
+  US Palermo  Parma FC
+  Juventus  Torino FC
+  AS Roma  Internazionale
+[Lun. 1.12.]
+  Cagliari   Fiorentina
+  Sampdoria  SSC Napoli
 
 
 14^ Giornata
 
-05.12.2014 (Fr)  Fiorentina  Juventus
-
-06.12.2014 (Sa)  AS Roma  Sassuolo
-06.12.2014 (Sa)  Torino FC  US Palermo
-
-07.12.2014 (So)  SSC Napoli  Empoli FC
-07.12.2014 (So)  Atalanta  AC Cesena
-07.12.2014 (So)  Genoa CFC  AC Milan
-07.12.2014 (So)  Parma FC  Lazio Roma
-07.12.2014 (So)  Internazionale  Udinese
-
-08.12.2014 (Mo)  Cagliari   Chievo Verona
-08.12.2014 (Mo)  Hellas Verona  Sampdoria
+[Ven. 5.12.]
+  Fiorentina  Juventus
+[Sab. 6.12.]
+  AS Roma  Sassuolo
+  Torino FC  US Palermo
+[Dom. 7.12.]
+  SSC Napoli  Empoli FC
+  Atalanta  AC Cesena
+  Genoa CFC  AC Milan
+  Parma FC  Lazio Roma
+  Internazionale  Udinese
+[Lun. 8.12.]
+  Cagliari   Chievo Verona
+  Hellas Verona  Sampdoria
 
 
 15^ Giornata
 
-13.12.2014 (Sa)  US Palermo  Sassuolo
-13.12.2014 (Sa)  Lazio Roma  Atalanta
-
-14.12.2014 (So)  Juventus  Sampdoria
-14.12.2014 (So)  Genoa CFC  AS Roma
-14.12.2014 (So)  Parma FC  Cagliari
-14.12.2014 (So)  Udinese   Hellas Verona
-14.12.2014 (So)  AC Cesena  Fiorentina
-14.12.2014 (So)  AC Milan  SSC Napoli
-
-15.12.2014 (Mo)  Empoli FC  Torino FC
-15.12.2014 (Mo)  Chievo Verona  Internazionale
+[Sab. 13.12.]
+  US Palermo  Sassuolo
+  Lazio Roma  Atalanta
+[Dom. 14.12.]
+  Juventus  Sampdoria
+  Genoa CFC  AS Roma
+  Parma FC  Cagliari
+  Udinese   Hellas Verona
+  AC Cesena  Fiorentina
+  AC Milan  SSC Napoli
+[Lun. 15.12.]
+  Empoli FC  Torino FC
+  Chievo Verona  Internazionale
 
 
 16^ Giornata
 
-18.12.2014 (Do)  Cagliari   Juventus
-18.12.2014 (Do)  SSC Napoli  Parma FC
-
-20.12.2014 (Sa)  Sassuolo   AC Cesena
-20.12.2014 (Sa)  AS Roma  AC Milan
-
-21.12.2014 (So)  Hellas Verona  Chievo Verona
-21.12.2014 (So)  Atalanta  US Palermo
-21.12.2014 (So)  Fiorentina  Empoli FC
-21.12.2014 (So)  Sampdoria  Udinese
-21.12.2014 (So)  Torino FC  Genoa CFC
-21.12.2014 (So)  Internazionale  Lazio Roma
+[Gio. 18.12.]
+  Cagliari   Juventus
+  SSC Napoli  Parma FC
+[Sab. 20.12.]
+  Sassuolo   AC Cesena
+  AS Roma  AC Milan
+[Dom. 21.12.]
+  Hellas Verona  Chievo Verona
+  Atalanta  US Palermo
+  Fiorentina  Empoli FC
+  Sampdoria  Udinese
+  Torino FC  Genoa CFC
+  Internazionale  Lazio Roma
 
 
 17^ Giornata
 
-06.01.2015 (Di)  AC Cesena  SSC Napoli
-06.01.2015 (Di)  Chievo Verona  Torino FC
-06.01.2015 (Di)  Empoli FC  Hellas Verona
-06.01.2015 (Di)  Genoa CFC  Atalanta
-06.01.2015 (Di)  Juventus  Internazionale
-06.01.2015 (Di)  Lazio Roma  Sampdoria
-06.01.2015 (Di)  AC Milan  Sassuolo
-06.01.2015 (Di)  US Palermo  Cagliari
-06.01.2015 (Di)  Parma FC  Fiorentina
-06.01.2015 (Di)  Udinese   AS Roma
+[Mar. 6.1.]
+  AC Cesena  SSC Napoli
+  Chievo Verona  Torino FC
+  Empoli FC  Hellas Verona
+  Genoa CFC  Atalanta
+  Juventus  Internazionale
+  Lazio Roma  Sampdoria
+  AC Milan  Sassuolo
+  US Palermo  Cagliari
+  Parma FC  Fiorentina
+  Udinese   AS Roma
 
 
 18^ Giornata
 
-11.01.2015 (So)  Atalanta  Chievo Verona
-11.01.2015 (So)  Cagliari   AC Cesena
-11.01.2015 (So)  Fiorentina  US Palermo
-11.01.2015 (So)  Hellas Verona  Parma FC
-11.01.2015 (So)  Internazionale  Genoa CFC
-11.01.2015 (So)  SSC Napoli  Juventus
-11.01.2015 (So)  AS Roma  Lazio Roma
-11.01.2015 (So)  Sampdoria  Empoli FC
-11.01.2015 (So)  Sassuolo   Udinese
-11.01.2015 (So)  Torino FC  AC Milan
+[Dom. 11.1.]
+  Atalanta  Chievo Verona
+  Cagliari   AC Cesena
+  Fiorentina  US Palermo
+  Hellas Verona  Parma FC
+  Internazionale  Genoa CFC
+  SSC Napoli  Juventus
+  AS Roma  Lazio Roma
+  Sampdoria  Empoli FC
+  Sassuolo   Udinese
+  Torino FC  AC Milan
 
 
 19^ Giornata
 
-18.01.2015 (So)  AC Cesena  Torino FC
-18.01.2015 (So)  Chievo Verona  Fiorentina
-18.01.2015 (So)  Empoli FC  Internazionale
-18.01.2015 (So)  Genoa CFC  Sassuolo
-18.01.2015 (So)  Juventus  Hellas Verona
-18.01.2015 (So)  Lazio Roma  SSC Napoli
-18.01.2015 (So)  AC Milan  Atalanta
-18.01.2015 (So)  US Palermo  AS Roma
-18.01.2015 (So)  Parma FC  Sampdoria
-18.01.2015 (So)  Udinese   Cagliari
+[Dom. 18.1.]
+  AC Cesena  Torino FC
+  Chievo Verona  Fiorentina
+  Empoli FC  Internazionale
+  Genoa CFC  Sassuolo
+  Juventus  Hellas Verona
+  Lazio Roma  SSC Napoli
+  AC Milan  Atalanta
+  US Palermo  AS Roma
+  Parma FC  Sampdoria
+  Udinese   Cagliari
 
