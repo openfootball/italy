@@ -11,14 +11,14 @@
   Chievo Verona  0-1  Juventus
   AS Roma        2-0  Fiorentina
 [Dom. 31.8.]
-  Atalanta    0-0  Hellas Verona
-  AC Milan    3-1  Lazio Roma
-  AC Cesena   1-0  Parma FC
-  Genoa CFC   1-2  SSC Napoli
-  US Palermo  1-1  Sampdoria
-  Sassuolo    1-1  Cagliari
-  Torino FC   0-0  Internazionale
-  Udinese     2-0  Empoli FC
+  Atalanta       0-0  Hellas Verona
+  AC Milan       3-1  Lazio Roma
+  AC Cesena      1-0  Parma FC
+  Genoa CFC      1-2  SSC Napoli
+  US Palermo     1-1  Sampdoria
+  Sassuolo       1-1  Cagliari
+  Torino FC      0-0  Internazionale
+  Udinese        2-0  Empoli FC
 
 
 2^ Giornata
