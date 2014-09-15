@@ -27,13 +27,13 @@
   Empoli FC      0-1  AS Roma
   Juventus       2-0  Udinese
 [Dom. 14.9.]
-  Sampdoria - Torino FC
-  Cagliari -  Atalanta
-  Fiorentina - Genoa CFC
-  Internazionale - Sassuolo
-  Lazio Roma - AC Cesena
-  SSC Napoli - Chievo Verona
-  Parma FC - AC Milan
+  Sampdoria      2-0  Torino FC
+  Cagliari       1-2  Atalanta
+  Fiorentina     0-0  Genoa CFC
+  Internazionale 7-0  Sassuolo
+  Lazio Roma     3-0  AC Cesena
+  SSC Napoli     0-1  Chievo Verona
+  Parma FC       4-5  AC Milan
 [Lun. 15.9.]
   Hellas Verona - US Palermo
 
