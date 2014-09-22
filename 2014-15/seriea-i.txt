@@ -44,14 +44,14 @@
   AC Cesena      2-2  Empoli FC
   AC Milan       0-1  Juventus
 [Dom. 21.9.]
-  Chievo Verona  Parma FC
-  Genoa CFC  Lazio Roma
-  AS Roma  Cagliari
-  Sassuolo   Sampdoria
-  Atalanta  Fiorentina
-  Udinese   SSC Napoli
-  US Palermo  Internazionale
-  Torino FC  Hellas Verona
+  Chievo Verona  2-3  Parma FC
+  Genoa CFC      1-0  Lazio Roma
+  AS Roma        2-0  Cagliari
+  Sassuolo       0-0  Sampdoria
+  Atalanta       0-1  Fiorentina
+  Udinese        1-0  SSC Napoli
+  US Palermo     1-1  Internazionale
+  Torino FC      0-1  Hellas Verona
 
 
 4^ Giornata
