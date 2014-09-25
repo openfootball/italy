@@ -59,14 +59,14 @@
 [Mar. 23.9.]
   Empoli FC      2-2  AC Milan
 [Mer. 24.9.]
-  Cagliari   Torino FC
-  Fiorentina  Sassuolo
-  Hellas Verona  Genoa CFC
-  Internazionale  Atalanta
-  Juventus  AC Cesena
-  SSC Napoli  US Palermo
-  Parma FC  AS Roma
-  Sampdoria  Chievo Verona
+  Cagliari       1-2  Torino FC
+  Fiorentina     0-0  Sassuolo
+  Hellas Verona  2-2  Genoa CFC
+  Internazionale 2-0  Atalanta
+  Juventus       3-0  AC Cesena
+  SSC Napoli     3-3  US Palermo
+  Parma FC       1-2  AS Roma
+  Sampdoria      2-1  Chievo Verona
 [Gio. 25.9.]
   Lazio Roma  Udinese
 
