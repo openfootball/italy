@@ -77,12 +77,12 @@
   AS Roma        2-0  Hellas Verona
   Atalanta       0-3  Juventus
 [Dom. 28.9.]
-  Sassuolo   SSC Napoli
-  AC Cesena  AC Milan
-  Chievo Verona  Empoli FC
-  Internazionale  Cagliari
-  Torino FC  Fiorentina
-  Genoa CFC  Sampdoria
+  Sassuolo       0-1  SSC Napoli
+  AC Cesena      1-1  AC Milan
+  Chievo Verona  1-1  Empoli FC
+  Internazionale 1-4  Cagliari
+  Torino FC      1-1  Fiorentina
+  Genoa CFC      0-1  Sampdoria
 [Lun. 29.9.]
   Udinese   Parma FC
   US Palermo  Lazio Roma
