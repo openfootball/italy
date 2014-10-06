@@ -94,14 +94,14 @@
   Hellas Verona  1-0  Cagliari
   AC Milan       2-0  Chievo Verona
 [Dom. 5.10.]
-  Empoli FC  US Palermo
-  Lazio Roma  Sassuolo
-  Parma FC  Genoa CFC
-  Sampdoria  Atalanta
-  Udinese   AC Cesena
-  Juventus  AS Roma
-  Fiorentina  Internazionale
-  SSC Napoli  Torino FC
+  Empoli FC      3-0  US Palermo
+  Lazio Roma     3-2  Sassuolo
+  Parma FC       1-2  Genoa CFC
+  Sampdoria      1-0  Atalanta
+  Udinese        1-1   AC Cesena
+  Juventus       3-2  AS Roma
+  Fiorentina     3-0  Internazionale
+  SSC Napoli     2-1  Torino FC
 
 
 7^ Giornata
