@@ -98,7 +98,7 @@
   Lazio Roma     3-2  Sassuolo
   Parma FC       1-2  Genoa CFC
   Sampdoria      1-0  Atalanta
-  Udinese        1-1   AC Cesena
+  Udinese        1-1  AC Cesena
   Juventus       3-2  AS Roma
   Fiorentina     3-0  Internazionale
   SSC Napoli     2-1  Torino FC
@@ -107,7 +107,7 @@
 7^ Giornata
 
 [Sab. 18.10.]
-  AS Roma  Chievo Verona
+  AS Roma        3-0  Chievo Verona
 [Dom. 19.10.]
   Fiorentina  Lazio Roma
   Atalanta  Parma FC
@@ -116,7 +116,7 @@
   US Palermo  AC Cesena
   Torino FC  Udinese
   Internazionale  SSC Napoli
-  Sassuolo   Juventus
+  Sassuolo       1-1  Juventus
 [Lun. 20.10.]
   Genoa CFC  Empoli FC
 
