@@ -109,13 +109,13 @@
 [Sab. 18.10.]
   AS Roma        3-0  Chievo Verona
 [Dom. 19.10.]
-  Fiorentina  Lazio Roma
-  Atalanta  Parma FC
-  Cagliari   Sampdoria
-  Hellas Verona  AC Milan
-  US Palermo  AC Cesena
-  Torino FC  Udinese
-  Internazionale  SSC Napoli
+  Fiorentina     0-2  Lazio Roma
+  Atalanta       1-0  Parma FC
+  Cagliari       2-2   Sampdoria
+  Hellas Verona  1-3  AC Milan
+  US Palermo     2-1  AC Cesena
+  Torino FC      1-0  Udinese
+  Internazionale 2-2  SSC Napoli
   Sassuolo       1-1  Juventus
 [Lun. 20.10.]
   Genoa CFC  Empoli FC
