@@ -128,19 +128,19 @@
   Parma FC       1-3  Sassuolo
   Sampdoria      0-0  AS Roma
 [Dom. 26.10.]
-  Chievo Verona  Genoa CFC
-  Juventus  US Palermo
-  Udinese   Atalanta
-  AC Cesena  Internazionale
-  Lazio Roma  Torino FC
-  SSC Napoli  Hellas Verona
-  AC Milan  Fiorentina
+  Chievo Verona  1-2  Genoa CFC
+  Juventus       2-0  US Palermo
+  Udinese        2-0  Atalanta
+  AC Cesena      0-1  Internazionale
+  Lazio Roma     2-1  Torino FC
+  SSC Napoli     6-2  Hellas Verona
+  AC Milan       1-1  Fiorentina
 
 
 9^ Giornata
 
 [Mar. 28.10.]
-  Sassuolo   Empoli FC
+  Sassuolo       3-1  Empoli FC
 [Mer. 29.10.]
   Atalanta  SSC Napoli
   Cagliari   AC Milan
