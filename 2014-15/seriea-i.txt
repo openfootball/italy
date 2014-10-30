@@ -142,14 +142,14 @@
 [Mar. 28.10.]
   Sassuolo       3-1  Empoli FC
 [Mer. 29.10.]
-  Atalanta  SSC Napoli
-  Cagliari   AC Milan
-  Fiorentina  Udinese
-  Genoa CFC  Juventus
-  Internazionale  Sampdoria
-  US Palermo  Chievo Verona
-  AS Roma  AC Cesena
-  Torino FC  Parma FC
+  Atalanta       1-1  SSC Napoli
+  Cagliari       1-1   AC Milan
+  Fiorentina     3-0  Udinese
+  Genoa CFC      1-0  Juventus
+  Internazionale 1-0  Sampdoria
+  US Palermo     1-0  Chievo Verona
+  AS Roma        2-0  AC Cesena
+  Torino FC      1-0  Parma FC
 [Gio. 30.10.]
   Hellas Verona  Lazio Roma
 
