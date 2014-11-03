@@ -161,11 +161,11 @@
   Empoli FC      0-2  Juventus
   Parma FC       2-0  Internazionale
 [Dom. 2.11.]
-  Chievo Verona  Sassuolo
-  Sampdoria  Fiorentina
-  Torino FC  Atalanta
-  Udinese   Genoa CFC
-  AC Milan  US Palermo
+  Chievo Verona  0-0  Sassuolo
+  Sampdoria      3-1  Fiorentina
+  Torino FC      0-0  Atalanta
+  Udinese        2-4  Genoa CFC
+  AC Milan       0-2  US Palermo
 [Lun. 3.11.]
   AC Cesena  Hellas Verona
   Lazio Roma  Cagliari
