@@ -174,146 +174,146 @@
 11^ Giornata
 
 [Sab. 8.11.]
-  Sassuolo   Atalanta
-  Sampdoria  AC Milan
+  Sassuolo - Atalanta
+  Sampdoria - AC Milan
 [Dom. 9.11.]
-  Cagliari   Genoa CFC
-  Chievo Verona  AC Cesena
-  Empoli FC  Lazio Roma
-  Juventus  Parma FC
-  US Palermo  Udinese
-  Fiorentina  SSC Napoli
-  Internazionale  Hellas Verona
-  AS Roma  Torino FC
+  Cagliari - Genoa CFC
+  Chievo Verona - AC Cesena
+  Empoli FC - Lazio Roma
+  Juventus - Parma FC
+  US Palermo - Udinese
+  Fiorentina - SSC Napoli
+  Internazionale - Hellas Verona
+  AS Roma - Torino FC
 
 
 12^ Giornata
 
 [Sab. 22.11.]
-  Atalanta  AS Roma
-  Lazio Roma  Juventus
+  Atalanta - AS Roma
+  Lazio Roma - Juventus
 [Dom. 23.11.]
-  Torino FC  Sassuolo
-  AC Cesena  Sampdoria
-  Hellas Verona  Fiorentina
-  SSC Napoli  Cagliari
-  Parma FC  Empoli FC
-  Udinese   Chievo Verona
-  AC Milan  Internazionale
+  Torino FC - Sassuolo
+  AC Cesena - Sampdoria
+  Hellas Verona - Fiorentina
+  SSC Napoli - Cagliari
+  Parma FC - Empoli FC
+  Udinese - Chievo Verona
+  AC Milan - Internazionale
 [Lun. 24.11.]
-  Genoa CFC  US Palermo
+  Genoa CFC - US Palermo
 
 
 13^ Giornata
 
 [Sab. 29.11.]
-  Sassuolo   Hellas Verona
-  Chievo Verona  Lazio Roma
+  Sassuolo - Hellas Verona
+  Chievo Verona - Lazio Roma
 [Dom. 30.11.]
-  AC Cesena  Genoa CFC
-  Empoli FC  Atalanta
-  AC Milan  Udinese
-  US Palermo  Parma FC
-  Juventus  Torino FC
-  AS Roma  Internazionale
+  AC Cesena - Genoa CFC
+  Empoli FC - Atalanta
+  AC Milan - Udinese
+  US Palermo - Parma FC
+  Juventus - Torino FC
+  AS Roma - Internazionale
 [Lun. 1.12.]
-  Cagliari   Fiorentina
-  Sampdoria  SSC Napoli
+  Cagliari - Fiorentina
+  Sampdoria - SSC Napoli
 
 
 14^ Giornata
 
 [Ven. 5.12.]
-  Fiorentina  Juventus
+  Fiorentina - Juventus
 [Sab. 6.12.]
-  AS Roma  Sassuolo
-  Torino FC  US Palermo
+  AS Roma - Sassuolo
+  Torino FC - US Palermo
 [Dom. 7.12.]
-  SSC Napoli  Empoli FC
-  Atalanta  AC Cesena
-  Genoa CFC  AC Milan
-  Parma FC  Lazio Roma
-  Internazionale  Udinese
+  SSC Napoli - Empoli FC
+  Atalanta - AC Cesena
+  Genoa CFC - AC Milan
+  Parma FC - Lazio Roma
+  Internazionale - Udinese
 [Lun. 8.12.]
-  Cagliari   Chievo Verona
-  Hellas Verona  Sampdoria
+  Cagliari - Chievo Verona
+  Hellas Verona - Sampdoria
 
 
 15^ Giornata
 
 [Sab. 13.12.]
-  US Palermo  Sassuolo
-  Lazio Roma  Atalanta
+  US Palermo - Sassuolo
+  Lazio Roma - Atalanta
 [Dom. 14.12.]
-  Juventus  Sampdoria
-  Genoa CFC  AS Roma
-  Parma FC  Cagliari
-  Udinese   Hellas Verona
-  AC Cesena  Fiorentina
-  AC Milan  SSC Napoli
+  Juventus - Sampdoria
+  Genoa CFC - AS Roma
+  Parma FC - Cagliari
+  Udinese - Hellas Verona
+  AC Cesena - Fiorentina
+  AC Milan - SSC Napoli
 [Lun. 15.12.]
-  Empoli FC  Torino FC
-  Chievo Verona  Internazionale
+  Empoli FC - Torino FC
+  Chievo Verona - Internazionale
 
 
 16^ Giornata
 
 [Gio. 18.12.]
-  Cagliari   Juventus
-  SSC Napoli  Parma FC
+  Cagliari - Juventus
+  SSC Napoli - Parma FC
 [Sab. 20.12.]
-  Sassuolo   AC Cesena
-  AS Roma  AC Milan
+  Sassuolo - AC Cesena
+  AS Roma - AC Milan
 [Dom. 21.12.]
-  Hellas Verona  Chievo Verona
-  Atalanta  US Palermo
-  Fiorentina  Empoli FC
-  Sampdoria  Udinese
-  Torino FC  Genoa CFC
-  Internazionale  Lazio Roma
+  Hellas Verona - Chievo Verona
+  Atalanta - US Palermo
+  Fiorentina - Empoli FC
+  Sampdoria - Udinese
+  Torino FC - Genoa CFC
+  Internazionale - Lazio Roma
 
 
 17^ Giornata
 
 [Mar. 6.1.]
-  AC Cesena  SSC Napoli
-  Chievo Verona  Torino FC
-  Empoli FC  Hellas Verona
-  Genoa CFC  Atalanta
-  Juventus  Internazionale
-  Lazio Roma  Sampdoria
-  AC Milan  Sassuolo
-  US Palermo  Cagliari
-  Parma FC  Fiorentina
-  Udinese   AS Roma
+  AC Cesena - SSC Napoli
+  Chievo Verona - Torino FC
+  Empoli FC - Hellas Verona
+  Genoa CFC - Atalanta
+  Juventus - Internazionale
+  Lazio Roma - Sampdoria
+  AC Milan - Sassuolo
+  US Palermo - Cagliari
+  Parma FC - Fiorentina
+  Udinese - AS Roma
 
 
 18^ Giornata
 
 [Dom. 11.1.]
-  Atalanta  Chievo Verona
-  Cagliari   AC Cesena
-  Fiorentina  US Palermo
-  Hellas Verona  Parma FC
-  Internazionale  Genoa CFC
-  SSC Napoli  Juventus
-  AS Roma  Lazio Roma
-  Sampdoria  Empoli FC
-  Sassuolo   Udinese
-  Torino FC  AC Milan
+  Atalanta - Chievo Verona
+  Cagliari - AC Cesena
+  Fiorentina - US Palermo
+  Hellas Verona - Parma FC
+  Internazionale - Genoa CFC
+  SSC Napoli - Juventus
+  AS Roma - Lazio Roma
+  Sampdoria - Empoli FC
+  Sassuolo - Udinese
+  Torino FC - AC Milan
 
 
 19^ Giornata
 
 [Dom. 18.1.]
-  AC Cesena  Torino FC
-  Chievo Verona  Fiorentina
-  Empoli FC  Internazionale
-  Genoa CFC  Sassuolo
-  Juventus  Hellas Verona
-  Lazio Roma  SSC Napoli
-  AC Milan  Atalanta
-  US Palermo  AS Roma
-  Parma FC  Sampdoria
-  Udinese   Cagliari
+  AC Cesena - Torino FC
+  Chievo Verona - Fiorentina
+  Empoli FC - Internazionale
+  Genoa CFC - Sassuolo
+  Juventus - Hellas Verona
+  Lazio Roma - SSC Napoli
+  AC Milan - Atalanta
+  US Palermo - AS Roma
+  Parma FC - Sampdoria
+  Udinese - Cagliari
 
