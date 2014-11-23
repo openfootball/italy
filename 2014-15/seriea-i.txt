@@ -174,24 +174,24 @@
 11^ Giornata
 
 [Sab. 8.11.]
-  Sassuolo      0-0   Atalanta
-  Sampdoria     2-2   AC Milan
+  Sassuolo       0-0  Atalanta
+  Sampdoria      2-2  AC Milan
 [Dom. 9.11.]
-  Cagliari      1-1   Genoa CFC
-  Chievo Verona 2-1   AC Cesena
-  Empoli FC     2-1   Lazio Roma
-  Juventus      7-0   Parma FC
-  US Palermo    1-1   Udinese
-  Fiorentina    0-1   SSC Napoli
-  Internazionale2-2   Hellas Verona
-  AS Roma       3-0   Torino FC
+  Cagliari       1-1  Genoa CFC
+  Chievo Verona  2-1  AC Cesena
+  Empoli FC      2-1  Lazio Roma
+  Juventus       7-0  Parma FC
+  US Palermo     1-1  Udinese
+  Fiorentina     0-1  SSC Napoli
+  Internazional  2-2  Hellas Verona
+  AS Roma        3-0  Torino FC
 
 
 12^ Giornata
 
 [Sab. 22.11.]
-  Atalanta  AS Roma
-  Lazio Roma  Juventus
+  Atalanta       1-2  AS Roma
+  Lazio Roma     0-3  Juventus
 [Dom. 23.11.]
   Torino FC  Sassuolo
   AC Cesena  Sampdoria
