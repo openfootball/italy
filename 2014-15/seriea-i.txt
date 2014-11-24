@@ -193,13 +193,13 @@
   Atalanta       1-2  AS Roma
   Lazio Roma     0-3  Juventus
 [Dom. 23.11.]
-  Torino FC  Sassuolo
-  AC Cesena  Sampdoria
-  Hellas Verona  Fiorentina
-  SSC Napoli  Cagliari
-  Parma FC  Empoli FC
-  Udinese   Chievo Verona
-  AC Milan  Internazionale
+  Torino FC      0-1  Sassuolo
+  AC Cesena      1-1  Sampdoria
+  Hellas Verona  1-2  Fiorentina
+  SSC Napoli     3-3  Cagliari
+  Parma FC       0-2  Empoli FC
+  Udinese        1-1  Chievo Verona
+  AC Milan       1-1  Internazionale
 [Lun. 24.11.]
   Genoa CFC  US Palermo
 
