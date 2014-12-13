@@ -229,14 +229,14 @@
   AS Roma        2-2  Sassuolo
   Torino FC      2-2  US Palermo
 [Dom. 7.12.]
-  SSC Napoli  Empoli FC
-  Atalanta  AC Cesena
-  Genoa CFC  AC Milan
-  Parma FC  Lazio Roma
-  Internazionale  Udinese
+  SSC Napoli     2-2  Empoli FC
+  Atalanta       3-2  AC Cesena
+  Genoa CFC      1-0  AC Milan
+  Parma FC       1-2  Lazio Roma
+  Internazionale 1-2  Udinese
 [Lun. 8.12.]
-  Cagliari   Chievo Verona
-  Hellas Verona  Sampdoria
+  Cagliari       0-2  Chievo Verona
+  Hellas Verona  1-3  Sampdoria
 
 
 15^ Giornata
