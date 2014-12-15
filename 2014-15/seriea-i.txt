@@ -245,12 +245,12 @@
   US Palermo     2-1  Sassuolo
   Lazio Roma     3-0  Atalanta
 [Dom. 14.12.]
-  Juventus  Sampdoria
-  Genoa CFC  AS Roma
-  Parma FC  Cagliari
-  Udinese   Hellas Verona
-  AC Cesena  Fiorentina
-  AC Milan  SSC Napoli
+  Juventus       1-1  Sampdoria
+  Genoa CFC      0-1  AS Roma
+  Parma FC       0-0  Cagliari
+  Udinese        1-2  Hellas Verona
+  AC Cesena      1-4  Fiorentina
+  AC Milan       2-0  SSC Napoli
 [Lun. 15.12.]
   Empoli FC  Torino FC
   Chievo Verona  Internazionale
