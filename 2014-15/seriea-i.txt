@@ -265,12 +265,12 @@
   Sassuolo       1-1  AC Cesena
   AS Roma        0-0  AC Milan
 [Dom. 21.12.]
-  Hellas Verona  Chievo Verona
-  Atalanta  US Palermo
-  Fiorentina  Empoli FC
-  Sampdoria  Udinese
-  Torino FC  Genoa CFC
-  Internazionale  Lazio Roma
+  Hellas Verona  0-1  Chievo Verona
+  Atalanta       3-3  US Palermo
+  Fiorentina     1-1  Empoli FC
+  Sampdoria      2-2  Udinese
+  Torino FC      2-1  Genoa CFC
+  Internazionale 2-2  Lazio Roma
 
 
 17^ Giornata
