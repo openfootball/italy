@@ -276,16 +276,16 @@
 17^ Giornata
 
 [Mar. 6.1.]
-  AC Cesena  SSC Napoli
-  Chievo Verona  Torino FC
-  Empoli FC  Hellas Verona
-  Genoa CFC  Atalanta
-  Juventus  Internazionale
-  Lazio Roma    3-0  Sampdoria
-  AC Milan  Sassuolo
-  US Palermo  Cagliari
-  Parma FC  Fiorentina
-  Udinese   AS Roma
+  AC Cesena      1-4  SSC Napoli
+  Chievo Verona  0-0  Torino FC
+  Empoli FC      0-0  Hellas Verona
+  Genoa CFC      2-2  Atalanta
+  Juventus       1-1  Internazionale
+  Lazio Roma     3-0  Sampdoria
+  AC Milan       1-2  Sassuolo
+  US Palermo     5-0  Cagliari
+  Parma FC       1-0  Fiorentina
+  Udinese        0-1  AS Roma
 
 
 18^ Giornata
