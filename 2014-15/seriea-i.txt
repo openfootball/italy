@@ -291,16 +291,16 @@
 18^ Giornata
 
 [Dom. 11.1.]
-  Atalanta  Chievo Verona
-  Cagliari   AC Cesena
-  Fiorentina  US Palermo
-  Hellas Verona  Parma FC
-  Internazionale  Genoa CFC
-  SSC Napoli  Juventus
-  AS Roma  Lazio Roma
-  Sampdoria  Empoli FC
-  Sassuolo      1-1   Udinese
-  Torino FC     1-1  AC Milan
+  Atalanta       1-1  Chievo Verona
+  Cagliari       2-1  AC Cesena
+  Fiorentina     4-3  US Palermo
+  Hellas Verona  3-1  Parma FC
+  Internazionale 3-1  Genoa CFC
+  SSC Napoli     1-3  Juventus
+  AS Roma        2-2  Lazio Roma
+  Sampdoria      1-0  Empoli FC
+  Sassuolo       1-1  Udinese
+  Torino FC      1-1  AC Milan
 
 
 19^ Giornata
