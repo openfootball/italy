@@ -308,12 +308,12 @@
 [Dom. 18.1.]
   AC Cesena  Torino FC
   Chievo Verona  Fiorentina
-  Empoli FC  Internazionale
+  Empoli FC      0-0  Internazionale
   Genoa CFC  Sassuolo
   Juventus  Hellas Verona
   Lazio Roma  SSC Napoli
   AC Milan  Atalanta
-  US Palermo  AS Roma
-  Parma FC  Sampdoria
+  US Palermo    1-1  AS Roma
+  Parma FC        Sampdoria
   Udinese   Cagliari
 
