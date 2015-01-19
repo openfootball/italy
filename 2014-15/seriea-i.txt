@@ -306,14 +306,14 @@
 19^ Giornata
 
 [Dom. 18.1.]
-  AC Cesena  Torino FC
-  Chievo Verona  Fiorentina
+  AC Cesena      2-3  Torino FC
+  Chievo Verona  1-2  Fiorentina
   Empoli FC      0-0  Internazionale
-  Genoa CFC  Sassuolo
-  Juventus  Hellas Verona
-  Lazio Roma  SSC Napoli
-  AC Milan  Atalanta
-  US Palermo    1-1  AS Roma
-  Parma FC        Sampdoria
-  Udinese   Cagliari
+  Genoa CFC      3-3  Sassuolo
+  Juventus       4-0  Hellas Verona
+  Lazio Roma     0-1  SSC Napoli
+  AC Milan       0-1  Atalanta
+  US Palermo     1-1  AS Roma
+  Parma FC       0-2  Sampdoria
+  Udinese        2-2  Cagliari
 
