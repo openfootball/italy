@@ -4,15 +4,15 @@
 20^ Giornata
 
 [Dom. 25.1.]
-  Hellas Verona  Atalanta
-  Parma FC  AC Cesena
-  Juventus  Chievo Verona
+  Hellas Verona     1-0  Atalanta
+  Parma FC          1-2  AC Cesena
+  Juventus          2-0  Chievo Verona
   SSC Napoli  Genoa CFC
   Lazio Roma        3-1  AC Milan
-  Sampdoria  US Palermo
-  Fiorentina  AS Roma
-  Cagliari          2-1   Sassuolo
-  Internazionale  Torino FC
+  Sampdoria         1-1  US Palermo
+  Fiorentina        1-1  AS Roma
+  Cagliari          2-1  Sassuolo
+  Internazionale    0-1  Torino FC
   Empoli FC  Udinese
 
 
