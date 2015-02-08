@@ -23,12 +23,12 @@
   AS Roma           1-1  Empoli FC
   Genoa CFC         1-1  Fiorentina
   US Palermo        2-1  Hellas Verona
-  Sassuolo          3-1   Internazionale
-  Udinese           0-0   Juventus
+  Sassuolo          3-1  Internazionale
+  Udinese           0-0  Juventus
   AC Cesena         2-1  Lazio Roma
   Chievo Verona     1-2  SSC Napoli
   AC Milan          3-1  Parma FC
-  Torino FC  Sampdoria
+  Torino FC         5-1  Sampdoria
 
 
 22^ Giornata
