@@ -65,14 +65,14 @@
 
 [Dom. 22.2.]
   Juventus          2-1  Atalanta
-  AC Milan  AC Cesena
-  Empoli FC  Chievo Verona
+  AC Milan          2-0  AC Cesena
+  Empoli FC         3-0  Chievo Verona
   Sampdoria  Genoa CFC     verschoben
   Cagliari   Internazionale
-  Lazio Roma  US Palermo
-  Hellas Verona  AS Roma
+  Lazio Roma        2-1  US Palermo
+  Hellas Verona     1-1  AS Roma
   SSC Napoli  Sassuolo
-  Fiorentina  Torino FC
+  Fiorentina        1-1  Torino FC
   Parma FC  Udinese          verschoben
 
 
