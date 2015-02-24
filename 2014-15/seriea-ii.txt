@@ -67,11 +67,11 @@
   Juventus          2-1  Atalanta
   AC Milan          2-0  AC Cesena
   Empoli FC         3-0  Chievo Verona
-  Sampdoria  Genoa CFC     verschoben
-  Cagliari   Internazionale
+  Sampdoria  Genoa CFC     24.2
+  Cagliari          1-2  Internazionale
   Lazio Roma        2-1  US Palermo
   Hellas Verona     1-1  AS Roma
-  SSC Napoli  Sassuolo
+  SSC Napoli        2-0  Sassuolo
   Fiorentina        1-1  Torino FC
   Parma FC  Udinese          verschoben
 
