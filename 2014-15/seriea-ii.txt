@@ -84,9 +84,9 @@
   Cagliari   Hellas Verona
   AS Roma  Juventus
   Sassuolo   Lazio Roma
-  Chievo Verona  AC Milan
+  Chievo Verona    0-0  AC Milan
   Torino FC  SSC Napoli
-  Genoa CFC  Parma FC
+  Genoa CFC  Parma FC     verschoben
   Atalanta  Sampdoria
   AC Cesena  Udinese
 
