@@ -113,11 +113,11 @@
   Genoa CFC       0-2  Chievo Verona
   Cagliari        1-1  Empoli FC
   US Palermo      0-1  Juventus
-  Torino FC  Lazio Roma
-  Fiorentina  AC Milan
+  Torino FC       0-2  Lazio Roma
+  Fiorentina      2-1  AC Milan
   Hellas Verona   2-0  SSC Napoli
   Sassuolo        4-1   Parma FC
-  AS Roma  Sampdoria
+  AS Roma         0-2  Sampdoria
   Atalanta        0-0  Udinese
 
 
