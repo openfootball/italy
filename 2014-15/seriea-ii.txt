@@ -109,28 +109,28 @@
 27^ Giornata
 
 [Dom. 15.3.]
-  Internazionale  1-1  AC Cesena
-  Genoa CFC       0-2  Chievo Verona
-  Cagliari        1-1  Empoli FC
-  US Palermo      0-1  Juventus
-  Torino FC       0-2  Lazio Roma
-  Fiorentina      2-1  AC Milan
-  Hellas Verona   2-0  SSC Napoli
-  Sassuolo        4-1   Parma FC
-  AS Roma         0-2  Sampdoria
-  Atalanta        0-0  Udinese
+  Internazionale   1-1  AC Cesena
+  Genoa CFC        0-2  Chievo Verona
+  Cagliari         1-1  Empoli FC
+  US Palermo       0-1  Juventus
+  Torino FC        0-2  Lazio Roma
+  Fiorentina       2-1  AC Milan
+  Hellas Verona    2-0  SSC Napoli
+  Sassuolo         4-1   Parma FC
+  AS Roma          0-2  Sampdoria
+  Atalanta         0-0  Udinese
 
 
 28^ Giornata
 
 [Dom. 22.3.]
   SSC Napoli  Atalanta
-  AC Milan  Cagliari
+  AC Milan         3-1  Cagliari
   Udinese   Fiorentina
   Juventus  Genoa CFC
   Lazio Roma  Hellas Verona
   Sampdoria  Internazionale
-  Chievo Verona  US Palermo
+  Chievo Verona    1-0  US Palermo
   AC Cesena  AS Roma
   Empoli FC  Sassuolo
   Parma FC  Torino FC
