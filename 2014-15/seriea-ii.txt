@@ -116,7 +116,7 @@
   Torino FC        0-2  Lazio Roma
   Fiorentina       2-1  AC Milan
   Hellas Verona    2-0  SSC Napoli
-  Sassuolo         4-1   Parma FC
+  Sassuolo         4-1  Parma FC
   AS Roma          0-2  Sampdoria
   Atalanta         0-0  Udinese
 
@@ -126,7 +126,7 @@
 [Dom. 22.3.]
   SSC Napoli       1-1  Atalanta
   AC Milan         3-1  Cagliari
-  Udinese          2-2   Fiorentina
+  Udinese          2-2  Fiorentina
   Juventus         1-0  Genoa CFC
   Lazio Roma       2-0  Hellas Verona
   Sampdoria        1-0  Internazionale
