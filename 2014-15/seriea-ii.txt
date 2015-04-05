@@ -73,7 +73,7 @@
   Hellas Verona     1-1  AS Roma
   SSC Napoli        2-0  Sassuolo
   Fiorentina        1-1  Torino FC
-  Parma FC  Udinese          verschoben
+  Parma FC  Udinese          8.4
 
 
 25^ Giornata
@@ -86,7 +86,7 @@
   Sassuolo          0-3  Lazio Roma
   Chievo Verona     0-0  AC Milan
   Torino FC         1-0  SSC Napoli
-  Genoa CFC  Parma FC     verschoben
+  Genoa CFC  Parma FC     15.4
   Atalanta          1-2  Sampdoria
   AC Cesena         1-0  Udinese
 
@@ -139,16 +139,16 @@
 29^ Giornata
 
 [Sab. 4.4.]
-  Hellas Verona  AC Cesena
-  Sassuolo   Chievo Verona
-  Juventus  Empoli FC
-  Cagliari   Lazio Roma
-  US Palermo  AC Milan
-  AS Roma  SSC Napoli
-  Internazionale  Parma FC
-  Fiorentina  Sampdoria
-  Atalanta  Torino FC
-  Genoa CFC  Udinese
+  Hellas Verona    3-3  AC Cesena
+  Sassuolo         1-0  Chievo Verona
+  Juventus         2-0  Empoli FC
+  Cagliari         1-3  Lazio Roma
+  US Palermo       1-2  AC Milan
+  AS Roma          1-0  SSC Napoli
+  Internazionale   1-1  Parma FC
+  Fiorentina       2-0  Sampdoria
+  Atalanta         1-2  Torino FC
+  Genoa CFC        1-1  Udinese
 
 
 30^ Giornata
