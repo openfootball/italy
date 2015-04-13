@@ -155,15 +155,15 @@
 
 [Dom. 12.4.]
   Genoa CFC        2-0  Cagliari
-  AC Cesena  Chievo Verona
-  Lazio Roma  Empoli FC
-  SSC Napoli  Fiorentina
+  AC Cesena        0-1  Chievo Verona
+  Lazio Roma       4-0  Empoli FC
+  SSC Napoli       3-0  Fiorentina
   Hellas Verona    0-3  Internazionale
   Parma FC         1-0  Juventus
-  Udinese   US Palermo
-  Torino FC  AS Roma
-  AC Milan  Sampdoria
-  Atalanta  Sassuolo
+  Udinese          1-3  US Palermo
+  Torino FC        1-1  AS Roma
+  AC Milan         1-1  Sampdoria
+  Atalanta         2-1  Sassuolo
 
 
 31^ Giornata
