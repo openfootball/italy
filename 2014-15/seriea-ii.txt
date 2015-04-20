@@ -169,16 +169,16 @@
 31^ Giornata
 
 [Dom. 19.4.]
-  AS Roma  Atalanta
+  AS Roma          1-1  Atalanta
   Sampdoria        0-0  AC Cesena
-  US Palermo  Genoa CFC
+  US Palermo       2-1  Genoa CFC
   Fiorentina  Hellas Verona
   Juventus         2-0  Lazio Roma
-  Internazionale  AC Milan
-  Cagliari   SSC Napoli
-  Empoli FC  Parma FC
-  Sassuolo   Torino FC
-  Chievo Verona  Udinese
+  Internazionale   1-1  AC Milan
+  Cagliari         0-3   SSC Napoli
+  Empoli FC        2-2  Parma FC
+  Sassuolo         1-1   Torino FC
+  Chievo Verona    1-1  Udinese
 
 
 32^ Giornata
