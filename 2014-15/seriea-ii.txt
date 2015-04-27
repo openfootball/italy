@@ -175,25 +175,25 @@
   Fiorentina       0-1  Hellas Verona
   Juventus         2-0  Lazio Roma
   Internazionale   1-1  AC Milan
-  Cagliari         0-3   SSC Napoli
+  Cagliari         0-3  SSC Napoli
   Empoli FC        2-2  Parma FC
-  Sassuolo         1-1   Torino FC
+  Sassuolo         1-1  Torino FC
   Chievo Verona    1-1  Udinese
 
 
 32^ Giornata
 
 [Dom. 26.4.]
-  Fiorentina  Cagliari
-  Genoa CFC  AC Cesena
-  Lazio Roma  Chievo Verona
-  Atalanta  Empoli FC
-  Torino FC  Juventus
-  Udinese   AC Milan
-  Parma FC  US Palermo
-  Internazionale  AS Roma
-  SSC Napoli  Sampdoria
-  Hellas Verona  Sassuolo
+  Fiorentina       1-3  Cagliari
+  Genoa CFC        3-1  AC Cesena
+  Lazio Roma       1-1  Chievo Verona
+  Atalanta         2-2  Empoli FC
+  Torino FC        2-1  Juventus
+  Udinese          2-1   AC Milan
+  Parma FC         1-0  US Palermo
+  Internazionale   2-1  AS Roma
+  SSC Napoli       4-2  Sampdoria
+  Hellas Verona    3-2  Sassuolo
 
 
 33^ Giornata
