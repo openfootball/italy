@@ -216,13 +216,13 @@
 [Dom. 3.5.]
   Fiorentina       3-1  AC Cesena
   Internazionale   0-0  Chievo Verona
-  Torino FC  Empoli FC    6.5
+  Torino FC        0-1  Empoli FC    
   AS Roma          2-0  Genoa CFC
   Sampdoria        0-1  Juventus
   Atalanta         1-1  Lazio Roma
   SSC Napoli       3-0  AC Milan
-  Sassuolo         0-0   US Palermo
-  Cagliari         4-0   Parma FC
+  Sassuolo         0-0  US Palermo
+  Cagliari         4-0  Parma FC
   Hellas Verona    0-1  Udinese
 
 
