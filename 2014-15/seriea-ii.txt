@@ -204,10 +204,10 @@
   Juventus         3-2  Fiorentina
   AC Milan         1-3  Genoa CFC
   Sampdoria        1-1  Hellas Verona
-  Udinese          1-2   Internazionale
+  Udinese          1-2  Internazionale
   Empoli FC        4-2  SSC Napoli
   Lazio Roma       4-0  Parma FC
-  Sassuolo         0-3   AS Roma
+  Sassuolo         0-3  AS Roma
   US Palermo       2-2  Torino FC
 
 
@@ -230,12 +230,12 @@
 
 [Dom. 10.5.]
   US Palermo  Atalanta
-  Juventus  Cagliari
+  Juventus         1-1  Cagliari
   Empoli FC  Fiorentina
   Chievo Verona  Hellas Verona
   Lazio Roma  Internazionale
   Parma FC  SSC Napoli
-  AC Milan  AS Roma
+  AC Milan         2-1  AS Roma
   Udinese   Sampdoria
   AC Cesena  Sassuolo
   Genoa CFC  Torino FC
