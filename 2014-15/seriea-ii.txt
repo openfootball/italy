@@ -245,15 +245,15 @@
 
 [Dom. 17.5.]
   SSC Napoli  AC Cesena
-  Torino FC  Chievo Verona
-  Hellas Verona  Empoli FC
-  Atalanta  Genoa CFC
+  Torino FC        2-0  Chievo Verona
+  Hellas Verona    2-1  Empoli FC
+  Atalanta         1-4  Genoa CFC
   Internazionale   1-2  Juventus
   Sampdoria        0-1  Lazio Roma
-  Sassuolo   AC Milan
-  Cagliari   US Palermo
+  Sassuolo         3-2   AC Milan
+  Cagliari         0-1   US Palermo
   Fiorentina  Parma FC
-  AS Roma  Udinese
+  AS Roma          2-1  Udinese
 
 
 37^ Giornata
