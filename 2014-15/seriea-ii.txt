@@ -236,7 +236,7 @@
   Lazio Roma       1-2  Internazionale
   Parma FC         2-2  SSC Napoli
   AC Milan         2-1  AS Roma
-  Udinese          1-4   Sampdoria
+  Udinese          1-4  Sampdoria
   AC Cesena        2-3  Sassuolo
   Genoa CFC        5-1  Torino FC
 
@@ -244,15 +244,15 @@
 36^ Giornata
 
 [Dom. 17.5.]
-  SSC Napoli  AC Cesena
+  SSC Napoli       3-2  AC Cesena
   Torino FC        2-0  Chievo Verona
   Hellas Verona    2-1  Empoli FC
   Atalanta         1-4  Genoa CFC
   Internazionale   1-2  Juventus
   Sampdoria        0-1  Lazio Roma
-  Sassuolo         3-2   AC Milan
-  Cagliari         0-1   US Palermo
-  Fiorentina  Parma FC
+  Sassuolo         3-2  AC Milan
+  Cagliari         0-1  US Palermo
+  Fiorentina       3-0  Parma FC
   AS Roma          2-1  Udinese
 
 
