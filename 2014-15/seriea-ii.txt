@@ -263,8 +263,8 @@
   AC Cesena  Cagliari
   US Palermo  Fiorentina
   Parma FC  Hellas Verona
-  Genoa CFC  Internazionale
-  Juventus  SSC Napoli
+  Genoa CFC       3-2  Internazionale
+  Juventus        3-1  SSC Napoli
   Lazio Roma  AS Roma
   Empoli FC  Sampdoria
   Udinese   Sassuolo
