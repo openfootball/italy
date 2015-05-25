@@ -259,16 +259,16 @@
 37^ Giornata
 
 [Dom. 24.5.]
-  Chievo Verona  Atalanta
-  AC Cesena  Cagliari
-  US Palermo  Fiorentina
-  Parma FC  Hellas Verona
+  Chievo Verona   1-1  Atalanta
+  AC Cesena       0-1  Cagliari
+  US Palermo      2-3  Fiorentina
+  Parma FC        2-2  Hellas Verona
   Genoa CFC       3-2  Internazionale
   Juventus        3-1  SSC Napoli
   Lazio Roma  AS Roma
-  Empoli FC  Sampdoria
-  Udinese   Sassuolo
-  AC Milan  Torino FC
+  Empoli FC       1-1  Sampdoria
+  Udinese         0-1   Sassuolo
+  AC Milan        3-0  Torino FC
 
 
 38^ Giornata
@@ -285,3 +285,7 @@
   Sampdoria  Parma FC
   Cagliari   Udinese
 
+Aufsteiger 1.Liga
+
+Carpi
+Fiorinese
