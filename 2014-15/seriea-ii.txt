@@ -265,9 +265,9 @@
   Parma FC        2-2  Hellas Verona
   Genoa CFC       3-2  Internazionale
   Juventus        3-1  SSC Napoli
-  Lazio Roma  AS Roma
+  Lazio Roma      1-2  AS Roma
   Empoli FC       1-1  Sampdoria
-  Udinese         0-1   Sassuolo
+  Udinese         0-1  Sassuolo
   AC Milan        3-0  Torino FC
 
 
