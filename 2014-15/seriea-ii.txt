@@ -290,4 +290,14 @@ Aufsteiger Serie A
 Carpi FC
 Frosinone Calcio
 
-Entweder Vicenza Calcio, Spezia Calcio, Pescara Calcio, Bologna FC, AS Avellino oder AC Perugia Calcio
+3. Aufsteiger
+
+Pescara Calcio- Vicenza Calcio  29.5
+AS Avellino- Bologna FC         29.5
+
+Bologna FC- AS Avellino          2.6
+Vicenza Calcio- Pescara Calcio   2.6
+
+Pescara/Vicenza- Avellino/Bologna
+Avellino/Bologna- Pescara/Vicenza
+
