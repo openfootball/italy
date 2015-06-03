@@ -292,12 +292,7 @@ Frosinone Calcio
 
 3. Aufsteiger
 
-Pescara Calcio 1-0 Vicenza Calcio  
-AS Avellino    0-1 Bologna FC         
 
-Bologna FC- AS Avellino          2.6
-Vicenza Calcio- Pescara Calcio   2.6
-
-Pescara/Vicenza- Avellino/Bologna  5.6
-Avellino/Bologna- Pescara/Vicenza  9.6
+Pescara Calcio - Bologna FC  5.6
+Bologna FC- Pescara Calcio   9.6
 
