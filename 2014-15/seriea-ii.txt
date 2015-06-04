@@ -290,8 +290,16 @@ Aufsteiger Serie A
 Carpi FC
 Frosinone Calcio
 
-3. Aufsteiger
+Aufstiegsspiele Serie A
 
+AC Perugia Calcio 1-2    Pescara Calcio
+Spezia Calcio     1-2 nV AS Avellino
+
+Pescara Calcio   1-0    Vicenza Calcio 
+Vicenza Calcio   2-2    Pescara Calcio
+
+AS Avellino      0-1    Bologna FC
+Bologna FC       2-3    AS Avellino 
 
 Pescara Calcio - Bologna FC  5.6
 Bologna FC- Pescara Calcio   9.6
