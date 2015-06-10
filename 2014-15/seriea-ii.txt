@@ -259,49 +259,50 @@
 37^ Giornata
 
 [Dom. 24.5.]
-  Chievo Verona   1-1  Atalanta
-  AC Cesena       0-1  Cagliari
-  US Palermo      2-3  Fiorentina
-  Parma FC        2-2  Hellas Verona
-  Genoa CFC       3-2  Internazionale
-  Juventus        3-1  SSC Napoli
-  Lazio Roma      1-2  AS Roma
-  Empoli FC       1-1  Sampdoria
-  Udinese         0-1  Sassuolo
-  AC Milan        3-0  Torino FC
+  Chievo Verona    1-1  Atalanta
+  AC Cesena        0-1  Cagliari
+  US Palermo       2-3  Fiorentina
+  Parma FC         2-2  Hellas Verona
+  Genoa CFC        3-2  Internazionale
+  Juventus         3-1  SSC Napoli
+  Lazio Roma       1-2  AS Roma
+  Empoli FC        1-1  Sampdoria
+  Udinese          0-1  Sassuolo
+  AC Milan         3-0  Torino FC
 
 
 38^ Giornata
 
 [Dom. 31.5.]
-  Torino FC       5-0  AC Cesena
-  Fiorentina      3-0  Chievo Verona
-  Internazionale  4-3  Empoli FC
-  Sassuolo        3-1  Genoa CFC
-  Hellas Verona   2-2  Juventus
-  SSC Napoli      2-4  Lazio Roma
-  Atalanta        1-3  AC Milan
-  AS Roma         1-2  US Palermo
-  Sampdoria       2-2  Parma FC
-  Cagliari        4-3  Udinese
+  Torino FC        5-0  AC Cesena
+  Fiorentina       3-0  Chievo Verona
+  Internazionale   4-3  Empoli FC
+  Sassuolo         3-1  Genoa CFC
+  Hellas Verona    2-2  Juventus
+  SSC Napoli       2-4  Lazio Roma
+  Atalanta         1-3  AC Milan
+  AS Roma          1-2  US Palermo
+  Sampdoria        2-2  Parma FC
+  Cagliari         4-3  Udinese
 
 Aufsteiger Serie A
 
 Carpi FC
 Frosinone Calcio
+Bologna FC
 
 Aufstiegsspiele Serie A
 
-AC Perugia Calcio 1-2    Pescara Calcio
-Spezia Calcio     1-2 nV AS Avellino
+AC Perugia Calcio  1-2    Pescara Calcio
+Spezia Calcio      1-2 nV AS Avellino
 
-Pescara Calcio   1-0    Vicenza Calcio 
-Vicenza Calcio   2-2    Pescara Calcio
+Pescara Calcio    1-0     Vicenza Calcio 
+Vicenza Calcio    2-2     Pescara Calcio
 
-AS Avellino      0-1    Bologna FC
-Bologna FC       2-3    AS Avellino 
+AS Avellino       0-1     Bologna FC
+Bologna FC        2-3     AS Avellino 
 
-Pescara Calcio 0-0 Bologna FC  
-Bologna FC         Pescara Calcio   9.6
+Pescara Calcio    0-0     Bologna FC  
+Bologna FC        1-1     Pescara Calcio   
 
 Start 22.08.15
