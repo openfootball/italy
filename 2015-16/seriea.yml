@@ -1,0 +1,34 @@
+#####################
+# Serie A 2015/16
+
+league: it
+season: 2015/16
+start_at: 2015-08-22
+
+
+fixtures:
+- seriea-i
+- seriea-ii
+
+
+20 teams:
+- Hellas Verona
+- AS Roma
+- Lazio Roma
+- Bologna FC
+- Juventus
+- Udinese Calcio
+- Empoli FC
+- Chievo Verona
+- Fiorentina
+- AC Milan
+- Frosinone Calcio
+- Torino FC
+- Internazionale
+- Atalanta
+- Palermo
+- Genoa CFC
+- Sampdoria
+- Carpi FC
+- Sassuolo Calcio
+- SSC Napoli
