@@ -1,0 +1,255 @@
+#####################
+# Serie A 2015/16
+
+
+1^ Giornata
+[Sab. 22.8.]
+  Hellas Verona     1-1  AS Roma
+  Lazio Roma        2-1  Bologna FC
+[Dom. 23.8.]
+  Juventus          0-1  Udinese Calcio
+  Empoli FC         1-3  Chievo Verona
+  Fiorentina        2-0  AC Milan
+  Frosinone Calcio  1-2  Torino FC
+  Internazionale    1-0  Atalanta
+  Palermo           1-0  Genoa CFC
+  Sampdoria         5-2  Carpi FC
+  Sassuolo Calcio   2-1  SSC Napoli
+
+2^ Giornata
+[Sab. 29.8.]
+  Bologna FC  Sassuolo Calcio  
+  AC Milan  Empoli FC  
+[Dom. 30.8.]
+  AS Roma  Juventus  
+  Atalanta  Frosinone Calcio  
+  Carpi FC  Internazionale  
+  Chievo Verona  Lazio Roma  
+  Genoa CFC  Hellas Verona  
+  SSC Napoli  Sampdoria  
+  Torino FC  Fiorentina  
+  Udinese Calcio  US Palermo  
+
+3^ Giornata
+[Dom. 13.9.]
+  Empoli FC  SSC Napoli  
+  Fiorentina  Genoa CFC  
+  Frosinone Calcio  AS Roma  
+  Hellas Verona  Torino FC  
+  Internazionale  AC Milan  
+  Juventus  Chievo Verona  
+  Lazio Roma  Udinese Calcio  
+  US Palermo  Carpi FC  
+  Sampdoria  Bologna FC  
+  Sassuolo Calcio  Atalanta  
+
+4^ Giornata
+[Dom. 20.9.]
+  Atalanta  Hellas Verona  
+  Bologna FC  Frosinone Calcio  
+  Carpi FC  Fiorentina  
+  Chievo Verona  Internazionale  
+  Genoa CFC  Juventus  
+  AC Milan  US Palermo  
+  SSC Napoli  Lazio Roma  
+  AS Roma  Sassuolo Calcio  
+  Torino FC  Sampdoria  
+  Udinese Calcio  Empoli FC  
+
+5^ Giornata
+[Mer. 23.9.]
+  Carpi FC  SSC Napoli  
+  Chievo Verona  Torino FC  
+  Empoli FC  Atalanta  
+  Internazionale  Hellas Verona  
+  Juventus  Frosinone Calcio  
+  Lazio Roma  Genoa CFC  
+  US Palermo  Sassuolo Calcio  
+  Sampdoria  AS Roma  
+  Udinese Calcio  AC Milan  
+  Fiorentina  Bologna FC  
+
+6^ Giornata
+[Dom. 27.9.]
+  Atalanta  Sampdoria  
+  Bologna FC  Udinese Calcio  
+  Frosinone Calcio  Empoli FC  
+  Genoa CFC  AC Milan  
+  Hellas Verona  Lazio Roma  
+  Internazionale  Fiorentina  
+  SSC Napoli  Juventus  
+  AS Roma  Carpi FC  
+  Sassuolo Calcio  Chievo Verona  
+  Torino FC  US Palermo  
+
+7^ Giornata
+[Dom. 4.10.]
+  Carpi FC  Torino FC  
+  Chievo Verona  Hellas Verona  
+  Empoli FC  Sassuolo Calcio  
+  Fiorentina  Atalanta  
+  Juventus  Bologna FC  
+  Lazio Roma  Frosinone Calcio  
+  AC Milan  SSC Napoli  
+  US Palermo  AS Roma  
+  Sampdoria  Internazionale  
+  Udinese Calcio  Genoa CFC  
+
+8^ Giornata
+[Dom. 18.10.]
+  Atalanta  Carpi FC  
+  Bologna FC  US Palermo  
+  Frosinone Calcio  Sampdoria  
+  Genoa CFC  Chievo Verona  
+  Hellas Verona  Udinese Calcio  
+  Internazionale  Juventus  
+  SSC Napoli  Fiorentina  
+  AS Roma  Empoli FC  
+  Sassuolo Calcio  Lazio Roma  
+  Torino FC  AC Milan  
+
+
+9^ Giornata
+[Dom. 25.10.]
+  Carpi FC  Bologna FC  
+  Chievo Verona  SSC Napoli  
+  Empoli FC  Genoa CFC  
+  Fiorentina  AS Roma  
+  Juventus  Atalanta  
+  Lazio Roma  Torino FC  
+  AC Milan  Sassuolo Calcio  
+  US Palermo  Internazionale  
+  Sampdoria  Hellas Verona  
+  Udinese Calcio  Frosinone Calcio  
+
+
+10^ Giornata
+[Mer. 28.10.]
+  Atalanta  Lazio Roma  
+  Bologna FC  Internazionale  
+  Frosinone Calcio  Carpi FC  
+  Hellas Verona  Fiorentina  
+  AC Milan  Chievo Verona  
+  SSC Napoli  US Palermo  
+  AS Roma  Udinese Calcio  
+  Sampdoria  Empoli FC  
+  Sassuolo Calcio  Juventus  
+  Torino FC  Genoa CFC  
+
+11^ Giornata
+[Dom. 1.11.]
+  Bologna FC  Atalanta  
+  Carpi FC  Hellas Verona  
+  Chievo Verona  Sampdoria  
+  Fiorentina  Frosinone Calcio  
+  Genoa CFC  SSC Napoli  
+  Internazionale  AS Roma  
+  Juventus  Torino FC  
+  Lazio Roma  AC Milan  
+  US Palermo  Empoli FC  
+  Udinese Calcio  Sassuolo Calcio  
+
+12^ Giornata
+[Dom. 8.11.]
+  Empoli FC  Juventus  
+  Frosinone Calcio  Genoa CFC  
+  Hellas Verona  Bologna FC  
+  AC Milan  Atalanta  
+  SSC Napoli  Udinese Calcio  
+  US Palermo  Chievo Verona  
+  AS Roma  Lazio Roma  
+  Sampdoria  Fiorentina  
+  Sassuolo Calcio  Carpi FC  
+  Torino FC  Internazionale  
+
+13^ Giornata
+[Dom. 22.11.]
+  Atalanta  Torino FC  
+  Bologna FC  AS Roma  
+  Carpi FC  Chievo Verona  
+  Fiorentina  Empoli FC  
+  Genoa CFC  Sassuolo Calcio  
+  Hellas Verona  SSC Napoli  
+  Internazionale  Frosinone Calcio  
+  Juventus  AC Milan  
+  Lazio Roma  US Palermo  
+  Udinese Calcio  Sampdoria  
+
+14^ Giornata
+[Dom. 29.11.]
+  Chievo Verona  Udinese Calcio  
+  Empoli FC  Lazio Roma  
+  Frosinone Calcio  Hellas Verona  
+  Genoa CFC  Carpi FC  
+  AC Milan  Sampdoria  
+  SSC Napoli  Internazionale  
+  US Palermo  Juventus  
+  AS Roma  Atalanta  
+  Sassuolo Calcio  Fiorentina  
+  Torino FC  Bologna FC  
+
+15^ Giornata
+[Dom. 6.12.]
+  Atalanta  US Palermo  
+  Bologna FC  SSC Napoli  
+  Carpi FC  AC Milan  
+  Fiorentina  Udinese Calcio  
+  Frosinone Calcio  Chievo Verona  
+  Hellas Verona  Empoli FC  
+  Internazionale  Genoa CFC  
+  Lazio Roma  Juventus  
+  Sampdoria  Sassuolo Calcio  
+  Torino FC  AS Roma  
+
+16^ Giornata
+[Dom. 13.12.]
+  Chievo Verona  Atalanta  
+  Empoli FC  Carpi FC  
+  Genoa CFC  Bologna FC  
+  Juventus  Fiorentina  
+  Lazio Roma  Sampdoria  
+  AC Milan  Hellas Verona  
+  SSC Napoli  AS Roma  
+  US Palermo  Frosinone Calcio  
+  Sassuolo Calcio  Torino FC  
+  Udinese Calcio  Internazionale  
+
+17^ Giornata
+[Dom. 20.12.]
+  Atalanta  SSC Napoli  
+  Bologna FC  Empoli FC  
+  Carpi FC  Juventus  
+  Fiorentina  Chievo Verona  
+  Frosinone Calcio  AC Milan  
+  Hellas Verona  Sassuolo Calcio  
+  Internazionale  Lazio Roma  
+  AS Roma  Genoa CFC  
+  Sampdoria  US Palermo  
+  Torino FC  Udinese Calcio  
+
+18^ Giornata
+[Mer. 6.1.]
+  Chievo Verona  AS Roma  
+  Empoli FC  Internazionale  
+  Genoa CFC  Sampdoria  
+  Juventus  Hellas Verona  
+  Lazio Roma  Carpi FC  
+  AC Milan  Bologna FC  
+  SSC Napoli  Torino FC  
+  US Palermo  Fiorentina  
+  Sassuolo Calcio  Frosinone Calcio  
+  Udinese Calcio  Atalanta  
+
+19^ Giornata
+[Dom. 10.1.]
+  Atalanta  Genoa CFC  
+  Bologna FC  Chievo Verona  
+  Carpi FC  Udinese Calcio  
+  Fiorentina  Lazio Roma  
+  Frosinone Calcio  SSC Napoli  
+  Hellas Verona  US Palermo  
+  Internazionale  Sassuolo Calcio  
+  AS Roma  AC Milan  
+  Sampdoria  Juventus  
+  Torino FC  Empoli FC  
+
