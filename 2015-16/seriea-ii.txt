@@ -1,0 +1,249 @@
+#####################
+# Serie A 2015/16
+
+20^ Giornata
+[Dom. 17.1.]
+  Chievo Verona  Empoli FC  
+  AC Milan  Fiorentina  
+  Torino FC  Frosinone Calcio  
+  AS Roma  Hellas Verona  
+  Atalanta  Internazionale  
+  Udinese Calcio  Juventus  
+  Bologna FC  Lazio Roma  
+  Genoa CFC  US Palermo  
+  Carpi FC  Sampdoria  
+  SSC Napoli  Sassuolo Calcio  
+
+21^ Giornata
+[Dom. 24.1.]
+  Frosinone Calcio  Atalanta  
+  Sassuolo Calcio  Bologna FC  
+  Internazionale  Carpi FC  
+  Lazio Roma  Chievo Verona  
+  Hellas Verona  Genoa CFC  
+  Empoli FC  AC Milan  
+  Sampdoria  SSC Napoli  
+  Juventus  AS Roma  
+  Fiorentina  Torino FC  
+  US Palermo  Udinese Calcio  
+
+22^ Giornata
+[Dom. 31.1.]
+  SSC Napoli  Empoli FC  
+  Genoa CFC  Fiorentina  
+  AS Roma  Frosinone Calcio  
+  Torino FC  Hellas Verona  
+  AC Milan  Internazionale  
+  Chievo Verona  Juventus  
+  Udinese Calcio  Lazio Roma  
+  Carpi FC  US Palermo  
+  Bologna FC  Sampdoria  
+  Atalanta  Sassuolo Calcio  
+
+23^ Giornata
+[Mer. 3.2.]
+  Hellas Verona  Atalanta  
+  Frosinone Calcio  Bologna FC  
+  Fiorentina  Carpi FC  
+  Internazionale  Chievo Verona  
+  Juventus  Genoa CFC  
+  US Palermo  AC Milan  
+  Lazio Roma  SSC Napoli  
+  Sassuolo Calcio  AS Roma  
+  Sampdoria  Torino FC  
+  Empoli FC  Udinese Calcio  
+
+24^ Giornata
+[Dom. 7.2.]
+  SSC Napoli  Carpi FC  
+  Torino FC  Chievo Verona  
+  Atalanta  Empoli FC  
+  Hellas Verona  Internazionale  
+  Frosinone Calcio  Juventus  
+  Genoa CFC  Lazio Roma  
+  Sassuolo Calcio  US Palermo  
+  AS Roma  Sampdoria  
+  AC Milan  Udinese Calcio  
+  Bologna FC  Fiorentina  
+
+25^ Giornata
+[Dom. 14.2.]
+  Sampdoria  Atalanta  
+  Udinese Calcio  Bologna FC  
+  Empoli FC  Frosinone Calcio  
+  AC Milan  Genoa CFC  
+  Lazio Roma  Hellas Verona  
+  Fiorentina  Internazionale  
+  Juventus  SSC Napoli  
+  Carpi FC  AS Roma  
+  Chievo Verona  Sassuolo Calcio  
+  US Palermo  Torino FC  
+
+26^ Giornata
+[Dom. 21.2.]
+  Torino FC  Carpi FC  
+  Hellas Verona  Chievo Verona  
+  Sassuolo Calcio  Empoli FC  
+  Atalanta  Fiorentina  
+  Bologna FC  Juventus  
+  Frosinone Calcio  Lazio Roma  
+  SSC Napoli  AC Milan  
+  AS Roma  US Palermo  
+  Internazionale  Sampdoria  
+  Genoa CFC  Udinese Calcio  
+
+27^ Giornata
+[Dom. 28.2.]
+  Carpi FC  Atalanta  
+  US Palermo  Bologna FC  
+  Sampdoria  Frosinone Calcio  
+  Chievo Verona  Genoa CFC  
+  Udinese Calcio  Hellas Verona  
+  Juventus  Internazionale  
+  Fiorentina  SSC Napoli  
+  Empoli FC  AS Roma  
+  Lazio Roma  Sassuolo Calcio  
+  AC Milan  Torino FC  
+
+28^ Giornata
+[Dom. 6.3.]
+  Bologna FC  Carpi FC  
+  SSC Napoli  Chievo Verona  
+  Genoa CFC  Empoli FC  
+  AS Roma  Fiorentina  
+  Atalanta  Juventus  
+  Torino FC  Lazio Roma  
+  Sassuolo Calcio  AC Milan  
+  Internazionale  US Palermo  
+  Hellas Verona  Sampdoria  
+  Frosinone Calcio  Udinese Calcio  
+
+29^ Giornata
+[Dom. 13.3.]
+  Lazio Roma  Atalanta  
+  Internazionale  Bologna FC  
+  Carpi FC  Frosinone Calcio  
+  Fiorentina  Hellas Verona  
+  Chievo Verona  AC Milan  
+  US Palermo  SSC Napoli  
+  Udinese Calcio  AS Roma  
+  Empoli FC  Sampdoria  
+  Juventus  Sassuolo Calcio  
+  Genoa CFC  Torino FC  
+
+30^ Giornata
+[Dom. 20.3.]
+  SSC Napoli  Genoa CFC  
+  Torino FC  Juventus  
+  Empoli FC  US Palermo  
+  Sassuolo Calcio  Udinese Calcio  
+  Atalanta  Bologna FC  
+  Hellas Verona  Carpi FC  
+  Sampdoria  Chievo Verona  
+  Frosinone Calcio  Fiorentina  
+  AS Roma  Internazionale  
+  AC Milan  Lazio Roma  
+
+31^ Giornata
+[Dom. 3.4.]
+  Juventus  Empoli FC  
+  Genoa CFC  Frosinone Calcio  
+  Bologna FC  Hellas Verona  
+  Atalanta  AC Milan  
+  Udinese Calcio  SSC Napoli  
+  Chievo Verona  US Palermo  
+  Lazio Roma  AS Roma  
+  Fiorentina  Sampdoria  
+  Carpi FC  Sassuolo Calcio  
+  Internazionale  Torino FC  
+
+32^ Giornata
+[Dom. 10.4.]
+  Torino FC  Atalanta  
+  AS Roma  Bologna FC  
+  Chievo Verona  Carpi FC  
+  Empoli FC  Fiorentina  
+  Sassuolo Calcio  Genoa CFC  
+  SSC Napoli  Hellas Verona  
+  Frosinone Calcio  Internazionale  
+  AC Milan  Juventus  
+  US Palermo  Lazio Roma  
+  Sampdoria  Udinese Calcio  
+
+33^ Giornata
+[Dom. 17.4.]
+  Udinese Calcio  Chievo Verona  
+  Lazio Roma  Empoli FC  
+  Hellas Verona  Frosinone Calcio  
+  Carpi FC  Genoa CFC  
+  Sampdoria  AC Milan  
+  Internazionale  SSC Napoli  
+  Juventus  US Palermo  
+  Atalanta  AS Roma  
+  Fiorentina  Sassuolo Calcio  
+  Bologna FC  Torino FC  
+
+34^ Giornata
+[Mer. 20.4.]
+  US Palermo  Atalanta  
+  SSC Napoli  Bologna FC  
+  AC Milan  Carpi FC  
+  Udinese Calcio  Fiorentina  
+  Chievo Verona  Frosinone Calcio  
+  Empoli FC  Hellas Verona  
+  Genoa CFC  Internazionale  
+  Juventus  Lazio Roma  
+  Sassuolo Calcio  Sampdoria  
+  AS Roma  Torino FC  
+
+35^ Giornata
+[Dom. 24.4.]
+  Atalanta  Chievo Verona  
+  Carpi FC  Empoli FC  
+  Bologna FC  Genoa CFC  
+  Fiorentina  Juventus  
+  Sampdoria  Lazio Roma  
+  Hellas Verona  AC Milan  
+  AS Roma  SSC Napoli  
+  Frosinone Calcio  US Palermo  
+  Torino FC  Sassuolo Calcio  
+  Internazionale  Udinese Calcio  
+
+36^ Giornata
+[Dom. 1.5.]
+  SSC Napoli  Atalanta  
+  Empoli FC  Bologna FC  
+  Juventus  Carpi FC  
+  Chievo Verona  Fiorentina  
+  AC Milan  Frosinone Calcio  
+  Sassuolo Calcio  Hellas Verona  
+  Lazio Roma  Internazionale  
+  Genoa CFC  AS Roma  
+  US Palermo  Sampdoria  
+  Udinese Calcio  Torino FC  
+
+37^ Giornata
+[Dom. 8.5.]
+  AS Roma  Chievo Verona  
+  Internazionale  Empoli FC  
+  Sampdoria  Genoa CFC  
+  Hellas Verona  Juventus  
+  Carpi FC  Lazio Roma  
+  Bologna FC  AC Milan  
+  Torino FC  SSC Napoli  
+  Fiorentina  US Palermo  
+  Frosinone Calcio  Sassuolo Calcio  
+  Atalanta  Udinese Calcio  
+
+38^ Giornata
+[Dom. 15.5.]
+  Genoa CFC  Atalanta  
+  Chievo Verona  Bologna FC  
+  Udinese Calcio  Carpi FC  
+  Lazio Roma  Fiorentina  
+  SSC Napoli  Frosinone Calcio  
+  US Palermo  Hellas Verona  
+  Sassuolo Calcio  Internazionale  
+  AC Milan  AS Roma  
+  Juventus  Sampdoria  
+  Empoli FC  Torino FC
