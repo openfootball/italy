@@ -1,6 +1,11 @@
 
+cagliari,     Cagliari|Cagliari Calcio,  CAG, city:cagliari
+cesena,       Cesena|AC Cesena|Associazione Calcio Cesena, www.cesenacalcio.it
+parma,        Parma|Parma FC|Parma Football Club, PAR, city:parma
+
+
+
 catania,      Catania|Calcio Catania,   CAT, city:catania
-bologna,      Bologna|FC Bologna|Bologna FC|Bologna Football Club 1909,  BOL, city:bologna
 livorno,      Livorno|AS Livorno|A.S. Livorno Calcio|Associazione Sportiva Livorno Calcio, LIV, 1915, www.livornocalcio.it, city:livorno
 
 
