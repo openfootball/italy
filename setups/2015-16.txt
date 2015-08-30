@@ -3,7 +3,7 @@
 it-italy!/leagues
 
 # Clubs
-it-italy!/clubs/1-seariea
+it-italy!/clubs/1-seriea
 it-italy!/clubs/more
 
 # 2015/16
