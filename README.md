@@ -12,9 +12,9 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 Free open public domain football data for Italy / Europe.
 Events include:
 
-| Level |                              |            |
-| ----- | ---------------------------- | ---------- |
-| I     |  Serie A                     |  20 Clubs  |
+| Level |                             |           |
+| ----: | --------------------------- | --------- |
+|     I | Serie A                     | 20 Clubs  |
 
 
 Example:
@@ -33,11 +33,13 @@ juventus,  Juventus FC|Juventus Football Club|Juventus Torino, JUV
 ~~~
 1^ Giornata
 
-24.08. Hellas Verona  2-1  AC Milan
-24.08. Sampdoria      0-1  Juventus
-25.08. Inter          2-0  Genoa CFC
-25.08. AS Livorno     0-2  AS Roma
-25.08. SSC Napoli     3-0  Bologna FC
+[24.8.]
+  Hellas Verona  2-1  AC Milan
+  Sampdoria      0-1  Juventus
+[25.8.]
+  Inter          2-0  Genoa CFC
+  AS Livorno     0-2  AS Roma
+  SSC Napoli     3-0  Bologna FC
 ...
 ~~~
 
@@ -46,6 +48,17 @@ juventus,  Juventus FC|Juventus Football Club|Juventus Torino, JUV
 
 Use the `sportdb` command line tool to build your own `football.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+
+
+### Examples
+
+Build the database for all Italian clubs, leagues and seasons:
+
+    $ sportdb new it
+
+Build the database for the 2015/16 season:
+
+    $ sportdb new it2015-16
 
 
 

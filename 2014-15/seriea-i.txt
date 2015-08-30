@@ -1,9 +1,6 @@
 #####################
 # Serie A 2014/15
 
-##
-# todo/check use 30/8  31/8  13/9 14/9  etc. yes?
-
 
 1^ Giornata
 

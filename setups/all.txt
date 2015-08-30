@@ -7,10 +7,11 @@ it-italy!/leagues
 
 # -- Clubs
 
-it-italy!/clubs
-it-italy!/clubs_x
+it-italy!/clubs/1-seariea
+it-italy!/clubs/more
 
 # -- Fixtures
 
-it-italy!/2013-14/seriea
+it-italy!/2015-16/seriea
 it-italy!/2014-15/seriea
+it-italy!/2013-14/seriea
