@@ -61,13 +61,13 @@
   Carpi FC  SSC Napoli  
   Chievo Verona  Torino FC  
   Empoli FC  Atalanta  
-  Internazionale  Hellas Verona  
-  Juventus  Frosinone Calcio  
-  Lazio Roma  Genoa CFC  
-  US Palermo  Sassuolo Calcio  
-  Sampdoria  AS Roma  
+  Internazionale     1-0  Hellas Verona  
+  Juventus           1-1  Frosinone Calcio  
+  Lazio Roma         2-0  Genoa CFC  
+  US Palermo         0-1  Sassuolo Calcio  
+  Sampdoria          2-1  AS Roma  
   Udinese Calcio     2-3  AC Milan  
-  Fiorentina  Bologna FC  
+  Fiorentina         2-0  Bologna FC  
 
 6^ Giornata
 [Dom. 27.9.]
