@@ -86,14 +86,14 @@
 [Dom. 4.10.]
   Carpi FC           2-1  Torino FC  
   Chievo Verona      1-1  Hellas Verona  
-  Empoli FC  Sassuolo Calcio  
-  Fiorentina  Atalanta  
-  Juventus  Bologna FC  
-  Lazio Roma  Frosinone Calcio  
-  AC Milan  SSC Napoli  
-  US Palermo  AS Roma  
-  Sampdoria  Internazionale  
-  Udinese Calcio  Genoa CFC  
+  Empoli FC          1-0  Sassuolo Calcio  
+  Fiorentina         3-0  Atalanta  
+  Juventus           3-1  Bologna FC  
+  Lazio Roma         2-0  Frosinone Calcio  
+  AC Milan           0-4  SSC Napoli  
+  US Palermo         2-4  AS Roma  
+  Sampdoria          1-1  Internazionale  
+  Udinese Calcio     1-1  Genoa CFC  
 
 8^ Giornata
 [Dom. 18.10.]
