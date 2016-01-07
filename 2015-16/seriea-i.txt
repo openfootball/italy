@@ -229,16 +229,16 @@
 
 18^ Giornata
 [Mer. 6.1.]
-  Chievo Verona  AS Roma  
-  Empoli FC  Internazionale  
-  Genoa CFC         2-3  Sampdoria  
-  Juventus  Hellas Verona  
-  Lazio Roma  Carpi FC  
-  AC Milan  Bologna FC  
-  SSC Napoli  Torino FC  
-  US Palermo  Fiorentina  
-  Sassuolo Calcio  Frosinone Calcio  
-  Udinese Calcio  Atalanta  
+  Chievo Verona      3-3  AS Roma  
+  Empoli FC          0-1  Internazionale  
+  Genoa CFC          2-3  Sampdoria  
+  Juventus           3-0  Hellas Verona  
+  Lazio Roma         0-0  Carpi FC  
+  AC Milan           0-1  Bologna FC  
+  SSC Napoli         2-1  Torino FC  
+  US Palermo         1-3  Fiorentina  
+  Sassuolo Calcio    2-2  Frosinone Calcio  
+  Udinese Calcio     2-1  Atalanta  
 
 19^ Giornata
 [Dom. 10.1.]
