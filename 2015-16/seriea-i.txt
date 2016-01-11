@@ -242,14 +242,14 @@
 
 19^ Giornata
 [Dom. 10.1.]
-  Atalanta  Genoa CFC  
-  Bologna FC  Chievo Verona  
-  Carpi FC  Udinese Calcio  
-  Fiorentina  Lazio Roma  
-  Frosinone Calcio  SSC Napoli  
-  Hellas Verona  US Palermo  
-  Internazionale  Sassuolo Calcio  
-  AS Roma  AC Milan  
-  Sampdoria  Juventus  
-  Torino FC  Empoli FC  
+  Atalanta           0-2  Genoa CFC  
+  Bologna FC         0-1  Chievo Verona  
+  Carpi FC           2-1  Udinese Calcio  
+  Fiorentina         1-3  Lazio Roma  
+  Frosinone Calcio   1-5  SSC Napoli  
+  Hellas Verona      0-1  US Palermo  
+  Internazionale     0-1  Sassuolo Calcio  
+  AS Roma            1-1  AC Milan  
+  Sampdoria          1-2  Juventus  
+  Torino FC          0-1  Empoli FC  
 
