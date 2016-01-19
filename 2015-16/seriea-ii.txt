@@ -3,16 +3,16 @@
 
 20^ Giornata
 [Dom. 17.1.]
-  Chievo Verona  Empoli FC  
-  AC Milan  Fiorentina  
-  Torino FC  Frosinone Calcio  
-  AS Roma  Hellas Verona  
-  Atalanta  Internazionale  
-  Udinese Calcio  Juventus  
-  Bologna FC  Lazio Roma  
-  Genoa CFC  US Palermo  
-  Carpi FC  Sampdoria  
-  SSC Napoli  Sassuolo Calcio  
+  Chievo Verona     1-1  Empoli FC  
+  AC Milan          2-0  Fiorentina  
+  Torino FC         4-2  Frosinone Calcio  
+  AS Roma           1-1  Hellas Verona  
+  Atalanta          1-1  Internazionale  
+  Udinese Calcio    0-4  Juventus  
+  Bologna FC        2-2  Lazio Roma  
+  Genoa CFC         4-0  US Palermo  
+  Carpi FC          2-1  Sampdoria  
+  SSC Napoli        3-1  Sassuolo Calcio  
 
 21^ Giornata
 [Dom. 24.1.]
