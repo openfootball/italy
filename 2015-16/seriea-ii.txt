@@ -29,16 +29,16 @@
 
 22^ Giornata
 [Dom. 31.1.]
-  SSC Napoli  Empoli FC  
-  Genoa CFC  Fiorentina  
-  AS Roma  Frosinone Calcio  
-  Torino FC  Hellas Verona  
-  AC Milan  Internazionale  
-  Chievo Verona  Juventus  
-  Udinese Calcio  Lazio Roma  
-  Carpi FC  US Palermo  
-  Bologna FC  Sampdoria  
-  Atalanta  Sassuolo Calcio  
+  SSC Napoli        5-1  Empoli FC  
+  Genoa CFC         0-0  Fiorentina  
+  AS Roma           3-1  Frosinone Calcio  
+  Torino FC         0-0  Hellas Verona  
+  AC Milan          3-0  Internazionale  
+  Chievo Verona     0-4  Juventus  
+  Udinese Calcio    0-0  Lazio Roma  
+  Carpi FC          1-1  US Palermo  
+  Bologna FC        3-2  Sampdoria  
+  Atalanta          1-1  Sassuolo Calcio  
 
 23^ Giornata
 [Mer. 3.2.]
@@ -49,7 +49,7 @@
   Juventus  Genoa CFC  
   US Palermo  AC Milan  
   Lazio Roma  SSC Napoli  
-  Sassuolo Calcio  AS Roma  
+  Sassuolo Calcio   1-2  AS Roma  
   Sampdoria  Torino FC  
   Empoli FC  Udinese Calcio  
 
