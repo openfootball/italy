@@ -68,16 +68,16 @@
 
 25^ Giornata
 [Dom. 14.2.]
-  Sampdoria  Atalanta  
-  Udinese Calcio  Bologna FC  
-  Empoli FC  Frosinone Calcio  
-  AC Milan  Genoa CFC  
-  Lazio Roma  Hellas Verona  
-  Fiorentina  Internazionale  
-  Juventus  SSC Napoli  
-  Carpi FC  AS Roma  
-  Chievo Verona  Sassuolo Calcio  
-  US Palermo  Torino FC  
+  Sampdoria         0-0  Atalanta  
+  Udinese Calcio    0-1  Bologna FC  
+  Empoli FC         1-2  Frosinone Calcio  
+  AC Milan          2-1  Genoa CFC  
+  Lazio Roma        5-2  Hellas Verona  
+  Fiorentina        2-1  Internazionale  
+  Juventus          1-0  SSC Napoli  
+  Carpi FC          1-3  AS Roma  
+  Chievo Verona     1-1  Sassuolo Calcio  
+  US Palermo        1-3  Torino FC  
 
 26^ Giornata
 [Dom. 21.2.]
