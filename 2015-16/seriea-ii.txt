@@ -100,10 +100,10 @@
   Chievo Verona     1-0  Genoa CFC  
   Udinese Calcio    2-0  Hellas Verona  
   Juventus          2-0  Internazionale  
-  Fiorentina  SSC Napoli  
-  Empoli FC        1-3  AS Roma  
-  Lazio Roma  Sassuolo Calcio  
-  AC Milan         1-0  Torino FC  
+  Fiorentina        1-1  SSC Napoli  
+  Empoli FC         1-3  AS Roma  
+  Lazio Roma        0-2  Sassuolo Calcio  
+  AC Milan          1-0  Torino FC  
 
 28^ Giornata
 [Dom. 6.3.]
