@@ -161,12 +161,12 @@
 [Dom. 10.4.]
   Torino FC  Atalanta  
   AS Roma  Bologna FC  
-  Chievo Verona  Carpi FC  
-  Empoli FC  Fiorentina  
-  Sassuolo Calcio  Genoa CFC  
+  Chievo Verona     1-0  Carpi FC  
+  Empoli FC         2-0  Fiorentina  
+  Sassuolo Calcio   0-1  Genoa CFC  
   SSC Napoli  Hellas Verona  
-  Frosinone Calcio  Internazionale  
-  AC Milan  Juventus  
+  Frosinone Calcio  0-1  Internazionale  
+  AC Milan          1-2  Juventus  
   US Palermo  Lazio Roma  
   Sampdoria  Udinese Calcio  
 
