@@ -11,3 +11,7 @@ livorno,      Livorno|AS Livorno|A.S. Livorno Calcio|Associazione Sportiva Livor
 
 pescara,      Pescara Calcio|Delfino Pescara 1936,  PES,  city:pescara
 siena,        AC Siena|Associazione Calcio Siena, SIE, city:siena
+
+carpi,        Carpi|Carpi FC 1909|Carpi Football Club 1909, city:carpi
+frosinone,    Frosinone|Frosinone Calcio, city:Frosinone
+hellasverona,  Verona|Hellas Verona|Hellas Verona F.C.|Hellas Verona Football Club, HEL, 1903, www.hellasverona.it, city:verona
