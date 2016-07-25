@@ -1,0 +1,229 @@
+#####################
+# Serie A 2016/17
+
+1^ giornata
+      Atalanta - Lazio
+      Bologna - Crotone
+      Chievo - Inter
+      Empoli - Sampdoria
+      Genoa - Cagliari
+      Juventus - Fiorentina
+      Milan - Torino
+      Palermo - Sassuolo
+      Pescara - Napoli
+      Roma - Udinese
+
+2^ giornata
+      Cagliari - Roma
+      Crotone - Genoa
+      Fiorentina - Chievo
+      Inter - Palermo
+      Napoli - Milan
+      Sampdoria - Atalanta
+      Sassuolo - Pescara
+      Torino - Bologna
+      Udinese - Empoli
+
+3^ giornata
+      Atalanta - Torino
+      Bologna - Cagliari
+      Chievo - Lazio
+      Empoli - Crotone
+      Genoa - Fiorentina
+      Juventus - Sassuolo
+      Milan - Udinese
+      Palermo - Napoli
+      Pescara - Inter
+      Roma - Sampdoria
+
+4^ giornata
+      Cagliari - Atalanta
+      Crotone - Palermo
+      Fiorentina - Roma
+      Inter - Juve
+      Lazio - Pescara
+      Napoli - Bologna
+      Sampdoria - Milan
+      Sassuolo - Genoa
+      Torino - Empoli
+      Udinese - Chievo
+
+5^ giornata
+      Atalanta - Palermo
+      Bologna - Sampdoria
+      Chievo - Sassuolo
+      Empoli - Inter
+      Genoa - Napoli
+      Milan - Lazio
+      Juventus - Cagliari
+      Pescara - Torino
+      Roma - Crotone
+      Udinese - Fiorentina
+
+6^ giornata
+      Cagliari - Sampdoria
+      Crotone - Atalanta
+      Fiorentina - Milan
+      Genoa - Pescara
+      Inter - Bologna
+      Lazio - Empoli
+      Napoli - Chievo
+      Palermo - Juventus
+      Sassuolo - Udinese
+      Torino - Roma
+
+7^ giornata
+      Atalanta - Napoli
+      Bologna - Genoa
+      Cagliari - Crotone
+      Empoli - Juventus
+      Milan - Sassuolo
+      Pescara - Chievo
+      Roma - Inter
+      Sampdoria - Palermo
+      Torino - Fiorentina
+      Udinese - Lazio
+
+8^ giornata
+      Chievo - Milan
+      Fiorentina - Atalanta
+      Genoa - Empoli
+      Inter - Cagliari
+      Juventus - Udinese
+      Lazio - Bologna
+      Napoli - Roma
+      Palermo - Torino
+      Pescara - Sampdoria
+      Sassuolo - Crotone
+
+9^ giornata
+      Atalanta - Inter
+      Bologna - Sassuolo
+      Cagliari - Fiorentina
+      Crotone - Napoli
+      Empoli - Chievo
+      Milan - Juventus
+      Roma - Palermo
+      Sampdoria - Genoa
+      Torino - Lazio
+      Udinese - Pescara
+
+10^ giornata
+      Chievo - Bologna
+      Fiorentina - Crotone
+      Genoa - Milan
+      Inter - Torino
+      Juventus - Sampdoria
+      Lazio - Cagliari
+      Napoli - Empoli
+      Palermo - Udinese
+      Pescara - Atalanta
+      Sassuolo - Roma
+
+11^ giornata
+      Atalanta - Genoa
+      Bologna - Fiorentina
+      Cagliari - Palermo
+      Crotone - Chievo
+      Empoli - Roma
+      Juve - Napoli
+      Lazio - Sassuolo
+      Milan - Pescara
+      Sampdoria - Inter
+      Udinese - Torino
+
+12^ giornata
+      Chievo - Juventus
+      Fiorentina - Sampdoria
+      Genoa - Udinese
+      Inter - Crotone
+      Napoli - Lazio
+      Palermo - Milan
+      Pescara - Empoli
+      Roma - Bologna
+      Sassuolo - Atalanta
+      Torino - Cagliari
+
+13^ giornata
+      Atalanta - Roma
+      Bologna - Palermo
+      Chievo - Cagliari
+      Crotone - Torino
+      Empoli - Fiorentina
+      Juventus - Pescara
+      Lazio - Genoa
+      Milan - Inter
+      Sampdoria - Sassuolo
+      Udinese - Napoli
+
+14^ giornata
+      Bologna - Atalanta
+      Cagliari - Udinese
+      Crotone - Sampdoria
+      Empoli - Milan
+      Genoa - Juventus
+      Inter - Fiorentina
+      Napoli - Sassuolo
+      Palermo - Lazio
+      Roma - Pescara
+      Torino - Chievo
+
+15^ giornata
+      Chievo - Genoa
+      Fiorentina - Palermo
+      Juventus - Atalanta
+      Lazio - Roma
+      Milan - Crotone
+      Napoli - Inter
+      Pescara - Cagliari
+      Sampdoria - Torino
+      Sassuolo - Empoli
+      Udinese - Bologna
+
+16^ giornata
+      Atalanta - Udinese
+      Bologna - Empoli
+      Cagliari - Napoli
+      Crotone - Pescara
+      Fiorentina - Sassuolo
+      Inter - Genoa
+      Palermo - Chievo
+      Roma - Milan
+      Sampdoria - Lazio
+      Torino - Juventus
+
+17^ giornata
+      Chievo - Sampdoria
+      Empoli - Cagliari
+      Genoa - Palermo
+      Juventus - Roma
+      Lazio - Fiorentina
+      Milan - Atalanta
+      Napoli - Torino
+      Pescara - Bologna
+      Sassuolo - Inter
+      Udinese - Crotone
+
+18^ giornata
+      Atalanta - Empoli
+      Bologna - Milan
+      Cagliari - Sassuolo
+      Crotone - Juventus
+      Fiorentina - Napoli
+      Inter - Lazio
+      Palermo - Pescara
+      Roma - Chievo
+      Sampdoria - Udinese
+      Torino - Genoa
+
+19^ giornata
+      Chievo - Atalanta
+      Empoli - Palermo
+      Genoa - Roma
+      Juventus - Bologna
+      Lazio - Crotone
+      Milan - Cagliari
+      Napoli - Sampdoria
+      Pescara - Fiorentina
+      Sassuolo - Torino
+      Udinese - Inter
