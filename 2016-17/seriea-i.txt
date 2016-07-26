@@ -2,6 +2,7 @@
 # Serie A 2016/17
 
 1^ giornata
+[Dom. 21.8.]
       Atalanta - Lazio
       Bologna - Crotone
       Chievo - Inter
@@ -14,6 +15,7 @@
       Roma - Udinese
 
 2^ giornata
+[Dom. 28.8.]
       Cagliari - Roma
       Crotone - Genoa
       Fiorentina - Chievo
@@ -25,6 +27,7 @@
       Udinese - Empoli
 
 3^ giornata
+[Dom. 11.9.]
       Atalanta - Torino
       Bologna - Cagliari
       Chievo - Lazio
@@ -37,6 +40,7 @@
       Roma - Sampdoria
 
 4^ giornata
+[Dom. 18.9.]
       Cagliari - Atalanta
       Crotone - Palermo
       Fiorentina - Roma
@@ -49,6 +53,7 @@
       Udinese - Chievo
 
 5^ giornata
+[Mer. 21.9.]
       Atalanta - Palermo
       Bologna - Sampdoria
       Chievo - Sassuolo
@@ -61,6 +66,7 @@
       Udinese - Fiorentina
 
 6^ giornata
+[Dom. 25.9.]
       Cagliari - Sampdoria
       Crotone - Atalanta
       Fiorentina - Milan
@@ -73,6 +79,7 @@
       Torino - Roma
 
 7^ giornata
+[Dom. 2.10.]
       Atalanta - Napoli
       Bologna - Genoa
       Cagliari - Crotone
@@ -85,6 +92,7 @@
       Udinese - Lazio
 
 8^ giornata
+[Dom. 16.10.]
       Chievo - Milan
       Fiorentina - Atalanta
       Genoa - Empoli
@@ -97,6 +105,7 @@
       Sassuolo - Crotone
 
 9^ giornata
+[Dom. 23.10.]
       Atalanta - Inter
       Bologna - Sassuolo
       Cagliari - Fiorentina
@@ -109,6 +118,7 @@
       Udinese - Pescara
 
 10^ giornata
+[Mer. 26.10.]
       Chievo - Bologna
       Fiorentina - Crotone
       Genoa - Milan
@@ -121,6 +131,7 @@
       Sassuolo - Roma
 
 11^ giornata
+[Dom. 30.10.]
       Atalanta - Genoa
       Bologna - Fiorentina
       Cagliari - Palermo
@@ -133,6 +144,7 @@
       Udinese - Torino
 
 12^ giornata
+[Dom. 6.11.]
       Chievo - Juventus
       Fiorentina - Sampdoria
       Genoa - Udinese
@@ -145,6 +157,7 @@
       Torino - Cagliari
 
 13^ giornata
+[Dom. 20.11.]
       Atalanta - Roma
       Bologna - Palermo
       Chievo - Cagliari
@@ -157,6 +170,7 @@
       Udinese - Napoli
 
 14^ giornata
+[Dom. 27.11.]
       Bologna - Atalanta
       Cagliari - Udinese
       Crotone - Sampdoria
@@ -169,6 +183,7 @@
       Torino - Chievo
 
 15^ giornata
+[Dom. 4.12.]
       Chievo - Genoa
       Fiorentina - Palermo
       Juventus - Atalanta
@@ -181,6 +196,7 @@
       Udinese - Bologna
 
 16^ giornata
+[Dom. 11.12.]
       Atalanta - Udinese
       Bologna - Empoli
       Cagliari - Napoli
@@ -193,6 +209,7 @@
       Torino - Juventus
 
 17^ giornata
+[Dom. 18.12.]
       Chievo - Sampdoria
       Empoli - Cagliari
       Genoa - Palermo
@@ -205,6 +222,7 @@
       Udinese - Crotone
 
 18^ giornata
+[Mer. 22.12.]
       Atalanta - Empoli
       Bologna - Milan
       Cagliari - Sassuolo
@@ -217,6 +235,7 @@
       Torino - Genoa
 
 19^ giornata
+[Dom. 8.1.]
       Chievo - Atalanta
       Empoli - Palermo
       Genoa - Roma
@@ -227,3 +246,4 @@
       Pescara - Fiorentina
       Sassuolo - Torino
       Udinese - Inter
+      
