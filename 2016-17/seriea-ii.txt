@@ -2,6 +2,7 @@
 # Serie A 2016/17
 
 20^ giornata
+[Dom. 15.1.]
       Lazio - Atalanta
       Crotone - Bologna
       Inter - Chievo
@@ -14,6 +15,7 @@
       Udinese - Roma
 
 21^ giornata
+[Dom. 22.1.]
       Roma - Cagliari
       Genoa - Crotone
       Chievo - Fiorentina
@@ -25,6 +27,7 @@
       Empoli - Udinese
 
 22^ giornata
+[Dom. 29.1.]
       Torino - Atalanta
       Cagliari - Bologna
       Lazio - Chievo
@@ -37,6 +40,7 @@
       Sampdoria - Roma
 
 23^ giornata
+[Dom. 5.2.]
       Atalanta - Cagliari
       Palermo - Crotone
       Roma - Fiorentina
@@ -49,6 +53,7 @@
       Chievo - Udinese
 
 24^ giornata
+[Dom. 12.2.]
       Palermo - Atalanta
       Sampdoria - Bologna
       Sassuolo - Chievo
@@ -61,6 +66,7 @@
       Fiorentina - Udinese
 
 25^ giornata
+[Dom. 19.2.]
       Sampdoria - Cagliari
       Atalanta - Crotone
       Milan - Fiorentina
@@ -73,6 +79,7 @@
       Roma - Torino
 
 26^ giornata
+[Dom. 26.2.]
       Napoli - Atalanta
       Genoa - Bologna
       Crotone - Cagliari
@@ -85,6 +92,7 @@
       Lazio - Udinese
 
 27^ giornata
+[Dom. 5.3.]
       Milan - Chievo
       Atalanta - Fiorentina
       Empoli - Genoa
@@ -97,6 +105,7 @@
       Crotone - Sassuolo
 
 28^ giornata
+[Dom. 12.3.]
       Inter - Atalanta
       Sassuolo - Bologna
       Fiorentina - Cagliari
@@ -109,6 +118,7 @@
       Pescara - Udinese
 
 29^ giornata
+[Dom. 19.3.]
       Bologna - Chievo
       Crotone - Fiorentina
       Milan - Genoa
@@ -121,6 +131,7 @@
       Roma - Sassuolo
 
 30^ giornata
+[Dom. 2.4.]
       Genoa - Atalanta
       Fiorentina - Bologna
       Palermo - Cagliari
@@ -133,6 +144,7 @@
       Torino - Udinese
 
 31^ giornata
+[Dom. 9.4.]
       Juventus - Chievo
       Sampdoria - Fiorentina
       Udinese - Genoa
@@ -145,6 +157,7 @@
       Cagliari - Torino
 
 32^ giornata
+[Dom. 15.4.]
       Roma - Atalanta
       Palermo - Bologna
       Cagliari - Chievo
@@ -157,6 +170,7 @@
       Napoli - Udinese
 
 33^ giornata
+[Dom. 23.4.]
       Atalanta - Bologna
       Udinese - Cagliari
       Sampdoria - Crotone
@@ -169,6 +183,7 @@
       Chievo - Torino
 
 34^ giornata
+[Dom. 30.4.]
       Genoa - Chievo
       Palermo - Fiorentina
       Atalanta - Juventus
@@ -181,6 +196,7 @@
       Bologna - Udinese
 
 35^ giornata
+[Dom. 7.5.]
       Udinese - Atalanta
       Empoli - Bologna
       Napoli - Cagliari
@@ -193,6 +209,7 @@
       Juventus - Torino
 
 36^ giornata
+[Dom. 14.5.]
       Sampdoria - Chievo
       Cagliari - Empoli
       Palermo - Genoa
@@ -205,6 +222,7 @@
       Crotone - Udinese
 
 37^ giornata
+[Dom. 21.5.]
       Empoli - Atalanta
       Milan - Bologna
       Sassuolo - Cagliari
@@ -217,6 +235,7 @@
       Genoa - Torino
 
 38^ giornata
+[Dom. 28.5.]
       Atalanta - Chievo
       Palermo - Empoli
       Roma - Genoa
