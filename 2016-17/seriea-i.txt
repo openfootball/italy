@@ -1,7 +1,9 @@
 #####################
 # Serie A 2016/17
+# Girone di andata
 
-1^ giornata
+
+1^ Giornata
 [Dom. 21.8.]
       Atalanta - Lazio
       Bologna - Crotone
@@ -14,19 +16,20 @@
       Pescara - Napoli
       Roma - Udinese
 
-2^ giornata
+2^ Giornata
 [Dom. 28.8.]
       Cagliari - Roma
       Crotone - Genoa
       Fiorentina - Chievo
       Inter - Palermo
+      Lazio - Juventus
       Napoli - Milan
       Sampdoria - Atalanta
       Sassuolo - Pescara
       Torino - Bologna
       Udinese - Empoli
 
-3^ giornata
+3^ Giornata
 [Dom. 11.9.]
       Atalanta - Torino
       Bologna - Cagliari
@@ -39,12 +42,12 @@
       Pescara - Inter
       Roma - Sampdoria
 
-4^ giornata
+4^ Giornata
 [Dom. 18.9.]
       Cagliari - Atalanta
       Crotone - Palermo
       Fiorentina - Roma
-      Inter - Juve
+      Inter - Juventus
       Lazio - Pescara
       Napoli - Bologna
       Sampdoria - Milan
@@ -52,7 +55,7 @@
       Torino - Empoli
       Udinese - Chievo
 
-5^ giornata
+5^ Giornata
 [Mer. 21.9.]
       Atalanta - Palermo
       Bologna - Sampdoria
@@ -65,7 +68,7 @@
       Roma - Crotone
       Udinese - Fiorentina
 
-6^ giornata
+6^ Giornata
 [Dom. 25.9.]
       Cagliari - Sampdoria
       Crotone - Atalanta
@@ -78,7 +81,7 @@
       Sassuolo - Udinese
       Torino - Roma
 
-7^ giornata
+7^ Giornata
 [Dom. 2.10.]
       Atalanta - Napoli
       Bologna - Genoa
@@ -91,7 +94,7 @@
       Torino - Fiorentina
       Udinese - Lazio
 
-8^ giornata
+8^ Giornata
 [Dom. 16.10.]
       Chievo - Milan
       Fiorentina - Atalanta
@@ -104,7 +107,7 @@
       Pescara - Sampdoria
       Sassuolo - Crotone
 
-9^ giornata
+9^ Giornata
 [Dom. 23.10.]
       Atalanta - Inter
       Bologna - Sassuolo
@@ -117,7 +120,7 @@
       Torino - Lazio
       Udinese - Pescara
 
-10^ giornata
+10^ Giornata
 [Mer. 26.10.]
       Chievo - Bologna
       Fiorentina - Crotone
@@ -130,20 +133,20 @@
       Pescara - Atalanta
       Sassuolo - Roma
 
-11^ giornata
+11^ Giornata
 [Dom. 30.10.]
       Atalanta - Genoa
       Bologna - Fiorentina
       Cagliari - Palermo
       Crotone - Chievo
       Empoli - Roma
-      Juve - Napoli
+      Juventus - Napoli
       Lazio - Sassuolo
       Milan - Pescara
       Sampdoria - Inter
       Udinese - Torino
 
-12^ giornata
+12^ Giornata
 [Dom. 6.11.]
       Chievo - Juventus
       Fiorentina - Sampdoria
@@ -156,7 +159,7 @@
       Sassuolo - Atalanta
       Torino - Cagliari
 
-13^ giornata
+13^ Giornata
 [Dom. 20.11.]
       Atalanta - Roma
       Bologna - Palermo
@@ -169,7 +172,7 @@
       Sampdoria - Sassuolo
       Udinese - Napoli
 
-14^ giornata
+14^ Giornata
 [Dom. 27.11.]
       Bologna - Atalanta
       Cagliari - Udinese
@@ -182,7 +185,7 @@
       Roma - Pescara
       Torino - Chievo
 
-15^ giornata
+15^ Giornata
 [Dom. 4.12.]
       Chievo - Genoa
       Fiorentina - Palermo
@@ -195,7 +198,7 @@
       Sassuolo - Empoli
       Udinese - Bologna
 
-16^ giornata
+16^ Giornata
 [Dom. 11.12.]
       Atalanta - Udinese
       Bologna - Empoli
@@ -208,7 +211,7 @@
       Sampdoria - Lazio
       Torino - Juventus
 
-17^ giornata
+17^ Giornata
 [Dom. 18.12.]
       Chievo - Sampdoria
       Empoli - Cagliari
@@ -221,7 +224,7 @@
       Sassuolo - Inter
       Udinese - Crotone
 
-18^ giornata
+18^ Giornata
 [Mer. 22.12.]
       Atalanta - Empoli
       Bologna - Milan
@@ -234,7 +237,7 @@
       Sampdoria - Udinese
       Torino - Genoa
 
-19^ giornata
+19^ Giornata
 [Dom. 8.1.]
       Chievo - Atalanta
       Empoli - Palermo
@@ -246,4 +249,3 @@
       Pescara - Fiorentina
       Sassuolo - Torino
       Udinese - Inter
-      
