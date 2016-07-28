@@ -1,5 +1,5 @@
 #########################
-# Serie A 2014/15
+# Serie A 2016/17
 #
 # - 20 teams
 
@@ -29,13 +29,13 @@ udinese,      Udinese|Udinese Calcio, UDI, city:udine
 sassuolo,     Sassuolo|U.S. Sassuolo Calcio|Unione Sportiva Sassuolo Calcio, SAS, 1922, www.sassuolocalcio.it, city:sassuolo
 
 palermo,      Palermo|US Palermo|Unione Sportiva Città di Palermo, PAL, www.palermocalcio.it, city:palermo
-empoli,       Empoli|Empoli FC|Empoli Football Club, www.empolicalcio.it
+empoli,       Empoli|Empoli FC|Empoli Football Club, EMP, www.empolicalcio.it, city:empoli
 
-bologna,      Bologna|FC Bologna|Bologna FC|Bologna Football Club 1909,  BOL, city:bologna
+bologna,      Bologna|FC Bologna|Bologna FC|Bologna Football Club 1909, BOL, city:bologna
 
-cagliari,     Cagliari|Cagliari Calcio,   CAG, city:cagliari
+cagliari,     Cagliari|Cagliari Calcio, CAG, city:cagliari
 crotone,      Crotone|FC Crotone|Crotone FC|Federazione Calcistica Crotone, CRO, city:crotone
-pescara,      Pescara|Pescara Calcio,   PES, city:pescara
+pescara,      Pescara|Pescara Calcio, PES, city:pescara
 
 
 
