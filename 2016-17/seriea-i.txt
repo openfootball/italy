@@ -23,14 +23,14 @@
       Lazio       0-1  Juventus
       Napoli      4-2  Milan
 [Dom. 28.8.]
-      Cagliari - Roma
-      Crotone - Genoa
-      Fiorentina - Chievo
-      Inter - Palermo
-      Sampdoria - Atalanta
-      Sassuolo - Pescara
-      Torino - Bologna
-      Udinese - Empoli
+      Cagliari    2-2  Roma
+      Crotone     1-3  Genoa
+      Fiorentina  1-0  Chievo
+      Inter       1-1  Palermo
+      Sampdoria   2-1  Atalanta
+      Sassuolo    2-1  Pescara
+      Torino      5-1  Bologna
+      Udinese     2-0  Empoli
 
 3^ Giornata
 [Dom. 11.9.]
