@@ -28,7 +28,7 @@
       Fiorentina  1-0  Chievo
       Inter       1-1  Palermo
       Sampdoria   2-1  Atalanta
-      Sassuolo    0-3  Pescara
+      Sassuolo    0-3  Pescara  strafverifiziert
       Torino      5-1  Bologna
       Udinese     2-0  Empoli
 
