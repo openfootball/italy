@@ -50,16 +50,17 @@
 4^ Giornata
 [Ven. 16.9.]
       Sampdoria   0-1  Milan
+[Sab. 17.9.]
+      Lazio       3-0  Pescara
+      Napoli      3-1  Bologna
 [Dom. 18.9.]
-      Cagliari - Atalanta
-      Crotone - Palermo
-      Fiorentina - Roma
-      Inter - Juventus
-      Lazio       3-0 Pescara
-      Napoli      3-1 Bologna
-      Sassuolo - Genoa
-      Torino - Empoli
-      Udinese - Chievo
+      Cagliari    3-0  Atalanta
+      Crotone     1-1  Palermo
+      Fiorentina  1-0  Roma
+      Inter       2-1  Juventus
+      Sassuolo    2-0  Genoa
+      Torino      0-0  Empoli
+      Udinese     1-2  Chievo
 
 5^ Giornata
 [Mer. 21.9.]
