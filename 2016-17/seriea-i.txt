@@ -8,14 +8,14 @@
       Roma      4-0  Udinese
       Juventus  2-1  Fiorentina
 [Dom. 21.8.]
-      Atalanta  3-4  Lazio
-      Bologna   1-0  Crotone
-      Chievo    2-0  Inter
-      Empoli    0-1  Sampdoria
-      Genoa     3-1  Cagliari
-      Milan     3-2  Torino
-      Palermo   0-1  Sassuolo
-      Pescara   2-2  Napoli
+      Atalanta    3-4  Lazio
+      Bologna     1-0  Crotone
+      Chievo      2-0  Inter
+      Empoli      0-1  Sampdoria
+      Genoa       3-1  Cagliari
+      Milan       3-2  Torino
+      Palermo     0-1  Sassuolo
+      Pescara     2-2  Napoli
 
 
 2^ Giornata
@@ -84,8 +84,8 @@
       Genoa - Pescara
       Inter - Bologna
       Lazio - Empoli
-      Napoli - Chievo
-      Palermo - Juventus
+      Napoli     2-0 Chievo
+      Palermo    0-1 Juventus
       Sassuolo - Udinese
       Torino - Roma
 
