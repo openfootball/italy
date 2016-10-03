@@ -93,16 +93,16 @@
 
 7^ Giornata
 [Dom. 2.10.]
-      Atalanta - Napoli
-      Bologna - Genoa
-      Cagliari - Crotone
-      Empoli - Juventus
-      Milan - Sassuolo
-      Pescara    0-2 Chievo
-      Roma - Inter
-      Sampdoria - Palermo
-      Torino - Fiorentina
-      Udinese    0-3 Lazio
+      Atalanta    1-0  Napoli
+      Bologna     0-1  Genoa
+      Cagliari    2-1  Crotone
+      Empoli      0-3  Juventus
+      Milan       4-3  Sassuolo
+      Pescara     0-2  Chievo
+      Roma        2-1  Inter
+      Sampdoria   1-1  Palermo
+      Torino      2-1  Fiorentina
+      Udinese     0-3  Lazio
 
 8^ Giornata
 [Dom. 16.10.]
