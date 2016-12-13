@@ -214,10 +214,10 @@
       Bologna     0-0 Empoli
       Cagliari    0-5 Napoli
       Crotone     2-1 Pescara
-      Fiorentina - Sassuolo
+      Fiorentina  2-1 Sassuolo
       Inter       2-0 Genoa
       Palermo     0-2 Chievo
-      Roma - Milan
+      Roma        1-0 Milan
       Sampdoria   1-2 Lazio
       Torino      1-3 Juventus
 
