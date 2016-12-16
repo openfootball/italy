@@ -40,7 +40,7 @@
       Atalanta    2-1  Torino
       Bologna     2-1  Cagliari
       Chievo      1-1  Lazio
-      Genoa        -   Fiorentina   postponed Jue. 15.12.
+      Genoa       1-0   Fiorentina   postponed Jue. 15.12.
       Milan       0-1  Udinese
       Pescara     1-2  Inter
       Roma        3-2  Sampdoria
@@ -221,7 +221,7 @@
       Sampdoria   1-2 Lazio
       Torino      1-3 Juventus
 
-  Genoa- Fiorentina       15.12.
+      Genoa       1-0 Fiorentina  (3.Giornata)        15.12.
 
 17^ Giornata
 [Dom. 18.12.]
