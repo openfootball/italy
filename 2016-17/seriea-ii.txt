@@ -18,16 +18,16 @@
 
 21^ Giornata
 [Dom. 22.1.]
-      Roma - Cagliari
-      Genoa - Crotone
-      Chievo - Fiorentina
-      Palermo - Inter
-      Juventus - Lazio
-      Milan - Napoli
-      Atalanta - Sampdoria
-      Pescara - Sassuolo
-      Bologna - Torino
-      Empoli - Udinese
+      Roma            1-0 Cagliari
+      Genoa           2-2 Crotone
+      Chievo          0-3 Fiorentina
+      Palermo         0-1 Inter
+      Juventus        2-0 Lazio
+      Milan           1-2 Napoli
+      Atalanta        1-0 Sampdoria
+      Pescara         1-3 Sassuolo
+      Bologna         2-0 Torino
+      Empoli          1-0 Udinese
 
 22^ Giornata
 [Dom. 29.1.]
