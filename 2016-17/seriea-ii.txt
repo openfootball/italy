@@ -102,15 +102,15 @@
 27^ Giornata
 [Dom. 5.3.]
       Milan           3-1 Chievo
-      Atalanta - Fiorentina
-      Empoli - Genoa
-      Cagliari - Inter
-      Udinese - Juventus
-      Bologna - Lazio
-      Roma           1-2 Napoli
-      Torino - Palermo
-      Sampdoria      3-1 Pescara
-      Crotone - Sassuolo
+      Atalanta        0-0 Fiorentina
+      Empoli          0-2 Genoa
+      Cagliari        1-5 Inter
+      Udinese         1-1 Juventus
+      Bologna         0-2 Lazio
+      Roma            1-2 Napoli
+      Torino          3-1 Palermo
+      Sampdoria       3-1 Pescara
+      Crotone         0-0 Sassuolo
 
 28^ Giornata
 [Dom. 12.3.]
