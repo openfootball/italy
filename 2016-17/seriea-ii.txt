@@ -127,16 +127,16 @@
 
 29^ Giornata
 [Dom. 19.3.]
-      Bologna - Chievo
-      Crotone - Fiorentina
-      Milan          1-0 Genoa
-      Torino         2-2 Inter
-      Sampdoria - Juventus
-      Cagliari - Lazio
-      Empoli - Napoli
-      Udinese - Palermo
-      Atalanta - Pescara
-      Roma - Sassuolo
+      Bologna         4-1 Chievo
+      Crotone         0-1 Fiorentina
+      Milan           1-0 Genoa
+      Torino          2-2 Inter
+      Sampdoria       0-1 Juventus
+      Cagliari        0-0 Lazio
+      Empoli          2-3 Napoli
+      Udinese         4-1 Palermo
+      Atalanta        3-0 Pescara
+      Roma            3-1 Sassuolo
 
 30^ Giornata
 [Dom. 2.4.]
