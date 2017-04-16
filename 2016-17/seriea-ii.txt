@@ -166,16 +166,16 @@
 
 32^ Giornata
 [Dom. 15.4.]
-      Roma - Atalanta
-      Palermo - Bologna
-      Cagliari - Chievo
-      Torino - Crotone
-      Fiorentina - Empoli
-      Pescara - Juventus
-      Genoa - Lazio
-      Inter - Milan
-      Sassuolo - Sampdoria
-      Napoli - Udinese
+      Roma            1-1 Atalanta
+      Palermo         0-0 Bologna
+      Cagliari        4-0 Chievo
+      Torino          1-1 Crotone
+      Fiorentina      1-2 Empoli
+      Pescara         0-2 Juventus
+      Genoa           2-2 Lazio
+      Inter           2-2 Milan
+      Sassuolo        2-1 Sampdoria
+      Napoli          3-0 Udinese
 
 33^ Giornata
 [Dom. 23.4.]
