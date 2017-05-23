@@ -250,7 +250,7 @@ Play-off um einen Aufsteiger Serie A
       Juventus          3-0 Crotone
       Napoli            4-1 Fiorentina
       Lazio             1-3 Inter
-      Pescara  Palermo
+      Pescara           2-0  Palermo
       Chievo            3-5 Roma
       Udinese           1-1 Sampdoria
       Genoa             2-1 Torino
@@ -276,20 +276,20 @@ Meister Serie A 2016/17
       
 Play-off um einen Aufsteiger Serie A
 [Lu 22.5.]
-     AS Cittadella -  Capri FC
+     AS Cittadella        1-2  Capri FC
 [Ma 23.5.]
       Benevento Calcio - Spezia Calcio
       
 [Vie 26.5.]
-      AS Cittadella/Capri FC - Frosinone Calcio
+      Capri FC - Frosinone Calcio
 [Sa 27.5.]
       Benevento Calcio/Spezia Calcio - AC Perugia Calcio
 [Lu 29.5.]
-      Frosinone Calcio - AS Cittadella/Capri FC
+      Frosinone Calcio - Capri FC
 [Ma 30.5.]
       AC Perugia Calcio - Benevento Calcio/Spezia Calcio
       
 [Do 4.6.]
-      Frosinone Calcio/AS Cittadella/Capri FC - Benevento Calcio/Spezia Calcio/AC Perugia Calcio
+      Frosinone Calcio/Capri FC - Benevento Calcio/Spezia Calcio/AC Perugia Calcio
 [Jue 8.6.]
-      Benevento Calcio/Spezia Calcio/AC Perugia Calcio - Frosinone Calcio/AS Cittadella/Capri FC
+      Benevento Calcio/Spezia Calcio/AC Perugia Calcio - Frosinone Calcio/Capri FC
