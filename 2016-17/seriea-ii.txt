@@ -285,11 +285,12 @@ Play-off um einen Aufsteiger Serie A
 [Sa 27.5.]
       Benevento Calcio    1-0  AC Perugia Calcio
 [Lu 29.5.]
-      Frosinone Calcio - Capri FC
+      Frosinone Calcio    0-1 Capri FC
 [Ma 30.5.]
       AC Perugia Calcio - Benevento Calcio
       
 [Do 4.6.]
-      Frosinone Calcio/Capri FC - Benevento Calcio/AC Perugia Calcio
+     Benevento Calcio/AC Perugia Calcio - Capri FC 
 [Jue 8.6.]
-      Benevento Calcio/AC Perugia Calcio - Frosinone Calcio/Capri FC
+      
+     Capri FC - Benevento Calcio/AC Perugia Calcio
