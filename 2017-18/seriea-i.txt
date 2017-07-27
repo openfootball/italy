@@ -1,0 +1,254 @@
+#####################
+# Serie A 2017/18
+# Girone di andata
+
+
+1^ Giornata
+[Sab. 19.8.]
+  Juventus  -  Cagliari Calcio
+  Hellas Verona  -  SSC Napoli
+[Dom. 20.8.]
+  Bologna FC  -  Torino FC
+  Inter  -  ACF Fiorentina
+  Lazio Roma  -  SPAL 2013 Ferrara
+  Sampdoria  -  Benevento Calcio
+  Sassuolo Calcio  -  Genoa CFC
+  Udinese Calcio  -  Chievo Verona
+  Atalanta  -  AS Roma
+[Lun. 21.8.]
+  FC Crotone  -  AC Milan
+
+2^ Giornata
+[Sab. 26.8.]
+  Genoa CFC  -  Juventus
+  AS Roma  -  Inter
+[Dom. 27.8.]
+  Torino FC  -  Sassuolo Calcio
+  Benevento Calcio  -  Bologna FC
+  Chievo Verona  -  Lazio Roma
+  FC Crotone  -  Hellas Verona
+  ACF Fiorentina  -  Sampdoria
+  AC Milan  -  Cagliari Calcio
+  SSC Napoli  -  Atalanta
+  SPAL 2013 Ferrara  -  Udinese Calcio
+
+3^ Giornata
+[Dom. 10.9.]
+  Atalanta  -  Sassuolo Calcio
+  Benevento Calcio  -  Torino FC
+  Bologna FC  -  SSC Napoli
+  Cagliari Calcio  -  FC Crotone
+  Hellas Verona  -  ACF Fiorentina
+  Inter  -  SPAL 2013 Ferrara
+  Juventus  -  Chievo Verona
+  Lazio Roma  -  AC Milan
+  Sampdoria  -  AS Roma
+  Udinese Calcio  -  Genoa CFC
+
+4^ Giornata
+[Dom. 17.9.]
+  Chievo Verona  -  Atalanta
+  FC Crotone  -  Inter
+  ACF Fiorentina  -  Bologna FC
+  Genoa CFC  -  Lazio Roma
+  AC Milan  -  Udinese Calcio
+  SSC Napoli  -  Benevento Calcio
+  AS Roma  -  Hellas Verona
+  Sassuolo Calcio  -  Juventus
+  SPAL 2013 Ferrara  -  Cagliari Calcio
+  Torino FC  -  Sampdoria
+
+5^ Giornata
+[Mer. 20.9.]
+  Atalanta  -  FC Crotone
+  Benevento Calcio  -  AS Roma
+  Bologna FC  -  Inter
+  Cagliari Calcio  -  Sassuolo Calcio
+  Genoa CFC  -  Chievo Verona
+  Hellas Verona  -  Sampdoria
+  Juventus  -  ACF Fiorentina
+  Lazio Roma  -  SSC Napoli
+  AC Milan  -  SPAL 2013 Ferrara
+  Udinese Calcio  -  Torino FC
+
+6^ Giornata
+[Dom. 24.9.]
+  Cagliari Calcio  -  Chievo Verona
+  FC Crotone  -  Benevento Calcio
+  ACF Fiorentina  -  Atalanta
+  Hellas Verona  -  Lazio Roma
+  Inter  -  Genoa CFC
+  Juventus  -  Torino FC
+  AS Roma  -  Udinese Calcio
+  Sampdoria  -  AC Milan
+  Sassuolo Calcio  -  Bologna FC
+  SPAL 2013 Ferrara  -  SSC Napoli
+
+7^ Giornata
+[Dom. 1.10.]
+  Atalanta  -  Juventus
+  Benevento Calcio  -  Inter
+  Chievo Verona  -  ACF Fiorentina
+  Genoa CFC  -  Bologna FC
+  Lazio Roma  -  Sassuolo Calcio
+  AC Milan  -  AS Roma
+  SSC Napoli  -  Cagliari Calcio
+  SPAL 2013 Ferrara  -  FC Crotone
+  Torino FC  -  Hellas Verona
+  Udinese Calcio  -  Sampdoria
+
+8^ Giornata
+[Dom. 15.10.]
+  Bologna FC  -  SPAL 2013 Ferrara
+  Cagliari Calcio  -  Genoa CFC
+  FC Crotone  -  Torino FC
+  ACF Fiorentina  -  Udinese Calcio
+  Hellas Verona  -  Benevento Calcio
+  Inter  -  AC Milan
+  Juventus  -  Lazio Roma
+  AS Roma  -  SSC Napoli
+  Sampdoria  -  Atalanta
+  Sassuolo Calcio  -  Chievo Verona
+
+9^ Giornata
+[Dom. 22.10.]
+  Atalanta  -  Bologna FC
+  Benevento Calcio  -  ACF Fiorentina
+  Chievo Verona  -  Hellas Verona
+  Lazio Roma  -  Cagliari Calcio
+  AC Milan  -  Genoa CFC
+  SSC Napoli  -  Inter
+  Sampdoria  -  FC Crotone
+  SPAL 2013 Ferrara  -  Sassuolo Calcio
+  Torino FC  -  AS Roma
+  Udinese Calcio  -  Juventus
+
+10^ Giornata
+[Mer. 25.10.]
+  Atalanta  -  Hellas Verona
+  Bologna FC  -  Lazio Roma
+  Cagliari Calcio  -  Benevento Calcio
+  Chievo Verona  -  AC Milan
+  ACF Fiorentina  -  Torino FC
+  Genoa CFC  -  SSC Napoli
+  Inter  -  Sampdoria
+  Juventus  -  SPAL 2013 Ferrara
+  AS Roma  -  FC Crotone
+  Sassuolo Calcio  -  Udinese Calcio
+
+11^ Giornata
+[Dom. 29.10.]
+  Benevento Calcio  -  Lazio Roma
+  FC Crotone  -  ACF Fiorentina
+  Hellas Verona  -  Inter
+  AC Milan  -  Juventus
+  SSC Napoli  -  Sassuolo Calcio
+  AS Roma  -  Bologna FC
+  Sampdoria  -  Chievo Verona
+  SPAL 2013 Ferrara  -  Genoa CFC
+  Torino FC  -  Cagliari Calcio
+  Udinese Calcio  -  Atalanta
+
+12^ Giornata
+[Dom. 5.11.]
+  Atalanta  -  SPAL 2013 Ferrara
+  Bologna FC  -  FC Crotone
+  Cagliari Calcio  -  Hellas Verona
+  Chievo Verona  -  SSC Napoli
+  ACF Fiorentina  -  AS Roma
+  Genoa CFC  -  Sampdoria
+  Inter  -  Torino FC
+  Juventus  -  Benevento Calcio
+  Lazio Roma  -  Udinese Calcio
+  Sassuolo Calcio  -  AC Milan
+
+13^ Giornata
+[Dom. 19.11.]
+  Benevento Calcio  -  Sassuolo Calcio
+  FC Crotone  -  Genoa CFC
+  Hellas Verona  -  Bologna FC
+  Inter  -  Atalanta
+  SSC Napoli  -  AC Milan
+  AS Roma  -  Lazio Roma
+  Sampdoria  -  Juventus
+  SPAL 2013 Ferrara  -  ACF Fiorentina
+  Torino FC  -  Chievo Verona
+  Udinese Calcio  -  Cagliari Calcio
+
+14^ Giornata
+[Dom. 26.11.]
+  Atalanta  -  Benevento Calcio
+  Bologna FC  -  Sampdoria
+  Cagliari Calcio  -  Inter
+  Chievo Verona  -  SPAL 2013 Ferrara
+  Genoa CFC  -  AS Roma
+  Juventus  -  FC Crotone
+  Lazio Roma  -  ACF Fiorentina
+  AC Milan  -  Torino FC
+  Sassuolo Calcio  -  Hellas Verona
+  Udinese Calcio  -  SSC Napoli
+
+15^ Giornata
+[Dom. 3.12.]
+  Benevento Calcio  -  AC Milan
+  Bologna FC  -  Cagliari Calcio
+  FC Crotone  -  Udinese Calcio
+  ACF Fiorentina  -  Sassuolo Calcio
+  Hellas Verona  -  Genoa CFC
+  Inter  -  Chievo Verona
+  SSC Napoli  -  Juventus
+  AS Roma  -  SPAL 2013 Ferrara
+  Sampdoria  -  Lazio Roma
+  Torino FC  -  Atalanta
+
+16^ Giornata
+[Dom. 10.12.]
+  Cagliari Calcio  -  Sampdoria
+  Chievo Verona  -  AS Roma
+  Genoa CFC  -  Atalanta
+  Juventus  -  Inter
+  Lazio Roma  -  Torino FC
+  AC Milan  -  Bologna FC
+  SSC Napoli  -  ACF Fiorentina
+  Sassuolo Calcio  -  FC Crotone
+  SPAL 2013 Ferrara  -  Hellas Verona
+  Udinese Calcio  -  Benevento Calcio
+
+17^ Giornata
+[Dom. 17.12.]
+  Atalanta  -  Lazio Roma
+  Benevento Calcio  -  SPAL 2013 Ferrara
+  Bologna FC  -  Juventus
+  FC Crotone  -  Chievo Verona
+  ACF Fiorentina  -  Genoa CFC
+  Hellas Verona  -  AC Milan
+  Inter  -  Udinese Calcio
+  AS Roma  -  Cagliari Calcio
+  Sampdoria  -  Sassuolo Calcio
+  Torino FC  -  SSC Napoli
+
+18^ Giornata
+[Sab. 23.12.]
+  Cagliari Calcio  -  ACF Fiorentina
+  Chievo Verona  -  Bologna FC
+  Genoa CFC  -  Benevento Calcio
+  Juventus  -  AS Roma
+  Lazio Roma  -  FC Crotone
+  AC Milan  -  Atalanta
+  SSC Napoli  -  Sampdoria
+  Sassuolo Calcio  -  Inter
+  SPAL 2013 Ferrara  -  Torino FC
+  Udinese Calcio  -  Hellas Verona
+
+19^ Giornata
+[Sab. 30.12.]
+  Atalanta  -  Cagliari Calcio
+  Benevento Calcio  -  Chievo Verona
+  Bologna FC  -  Udinese Calcio
+  FC Crotone  -  SSC Napoli
+  ACF Fiorentina  -  AC Milan
+  Hellas Verona  -  Juventus
+  Inter  -  Lazio Roma
+  AS Roma  -  Sassuolo Calcio
+  Sampdoria  -  SPAL 2013 Ferrara
+  Torino FC  -  Genoa CFC
