@@ -12,6 +12,7 @@ it-italy!/clubs/more
 
 # -- Fixtures
 
+it-italy!/2017-18/seriea
 it-italy!/2016-17/seriea
 it-italy!/2015-16/seriea
 it-italy!/2014-15/seriea

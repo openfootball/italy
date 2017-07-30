@@ -6,3 +6,5 @@ carpi,        Carpi|Carpi FC 1909|Carpi Football Club 1909, city:carpi
 frosinone,    Frosinone|Frosinone Calcio, city:Frosinone
 hellasverona,  Verona|Hellas Verona|Hellas Verona F.C.|Hellas Verona Football Club, HEL, 1903, www.hellasverona.it, city:verona
 cesena,       Cesena|AC Cesena|Associazione Calcio Cesena, www.cesenacalcio.it, city:cesena
+spal,         SPAL|SPAL 2013 Ferrara|S.P.A.L. 2013, www.spalferrara.it, city:ferrara
+benevento,    Benevento|Benevento Calcio, 1929, www.beneventocalcio.club, city:benevento
