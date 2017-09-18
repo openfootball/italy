@@ -51,13 +51,13 @@
   ACF Fiorentina       2-1  Bologna FC
   AS Roma              3-0  Hellas Verona
 [Dom. 17.9.]
-  Chievo Verona  -  Atalanta
-  Genoa CFC  -  Lazio Roma
-  AC Milan  -  Udinese Calcio
-  SSC Napoli  -  Benevento Calcio
-  Sassuolo Calcio  -  Juventus
-  SPAL 2013 Ferrara  -  Cagliari Calcio
-  Torino FC  -  Sampdoria
+  Chievo Verona        1-1  Atalanta
+  Genoa CFC            2-3  Lazio Roma
+  AC Milan             2-1  Udinese Calcio
+  SSC Napoli           6-0  Benevento Calcio
+  Sassuolo Calcio      1-3  Juventus
+  SPAL 2013 Ferrara    0-2  Cagliari Calcio
+  Torino FC            2-2  Sampdoria
 
 5^ Giornata
 [Mar. 19.9.]
