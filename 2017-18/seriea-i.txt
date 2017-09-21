@@ -63,15 +63,15 @@
 [Mar. 19.9.]
   Bologna FC           1-1  Inter
 [Mer. 20.9.]
-  Atalanta  -  FC Crotone
-  Benevento Calcio  -  AS Roma
-  Cagliari Calcio  -  Sassuolo Calcio
-  Genoa CFC  -  Chievo Verona
-  Hellas Verona  -  Sampdoria
-  Juventus  -  ACF Fiorentina
-  Lazio Roma  -  SSC Napoli
-  AC Milan  -  SPAL 2013 Ferrara
-  Udinese Calcio  -  Torino FC
+  Atalanta             5-1  FC Crotone
+  Benevento Calcio     0-4  AS Roma
+  Cagliari Calcio      0-1  Sassuolo Calcio
+  Genoa CFC            1-1  Chievo Verona
+  Hellas Verona        0-0  Sampdoria
+  Juventus             1-0  ACF Fiorentina
+  Lazio Roma           1-4  SSC Napoli
+  AC Milan             2-0  SPAL 2013 Ferrara
+  Udinese Calcio       2-3  Torino FC
 
 6^ Giornata
 [Dom. 24.9.]
