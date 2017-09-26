@@ -79,13 +79,13 @@
   Juventus             4-0  Torino FC
   AS Roma              3-1  Udinese Calcio
 [Dom. 24.9.]
-  Cagliari Calcio  -  Chievo Verona
-  FC Crotone  -  Benevento Calcio
-  ACF Fiorentina  -  Atalanta
-  Hellas Verona  -  Lazio Roma
-  Sampdoria  -  AC Milan
-  Sassuolo Calcio  -  Bologna FC
-  Inter    Genoa CFC
+  Cagliari Calcio      0-2  Chievo Verona
+  FC Crotone           2-0  Benevento Calcio
+  ACF Fiorentina       1-1  Atalanta
+  Hellas Verona        0-3  Lazio Roma
+  Sampdoria            2-0  AC Milan
+  Sassuolo Calcio      0-1  Bologna FC
+  Inter                1-0   Genoa CFC
 
 7^ Giornata
 [Sab. 30.9.]
