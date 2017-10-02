@@ -92,14 +92,14 @@
   Udinese Calcio       4-0  Sampdoria
   Genoa CFC            0-1  Bologna FC
 [Dom. 1.10.]
-  Atalanta  -  Juventus
-  Benevento Calcio  -  Inter
-  Chievo Verona  -  ACF Fiorentina
-  Lazio Roma  -  Sassuolo Calcio
-  AC Milan  -  AS Roma
-  SSC Napoli  -  Cagliari Calcio
-  SPAL 2013 Ferrara  -  FC Crotone
-  Torino FC  -  Hellas Verona
+  Atalanta             2-2  Juventus
+  Benevento Calcio     1-2  Inter
+  Chievo Verona        2-1  ACF Fiorentina
+  Lazio Roma           6-1  Sassuolo Calcio
+  AC Milan             0-2  AS Roma
+  SSC Napoli           3-0  Cagliari Calcio
+  SPAL 2013 Ferrara    1-1  FC Crotone
+  Torino FC            2-2  Hellas Verona
   
     
 8^ Giornata
