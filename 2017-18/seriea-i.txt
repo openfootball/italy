@@ -111,25 +111,29 @@
   Cagliari Calcio  -  Genoa CFC
   FC Crotone  -  Torino FC
   ACF Fiorentina  -  Udinese Calcio
-  Hellas Verona  -  Benevento Calcio
   Inter  -  AC Milan
   Sampdoria  -  Atalanta
   Sassuolo Calcio  -  Chievo Verona
+[Lue. 16.10.]
+  Hellas Verona  -  Benevento Calcio
 
 9^ Giornata
+[Sab. 21.10.]
+  SSC Napoli  -  Inter
+  Sampdoria  -  FC Crotone
 [Dom. 22.10.]
   Atalanta  -  Bologna FC
   Benevento Calcio  -  ACF Fiorentina
   Chievo Verona  -  Hellas Verona
   Lazio Roma  -  Cagliari Calcio
   AC Milan  -  Genoa CFC
-  SSC Napoli  -  Inter
-  Sampdoria  -  FC Crotone
   SPAL 2013 Ferrara  -  Sassuolo Calcio
   Torino FC  -  AS Roma
   Udinese Calcio  -  Juventus
 
 10^ Giornata
+[Mar. 24.10.]
+  Inter  -  Sampdoria
 [Mer. 25.10.]
   Atalanta  -  Hellas Verona
   Bologna FC  -  Lazio Roma
@@ -137,32 +141,34 @@
   Chievo Verona  -  AC Milan
   ACF Fiorentina  -  Torino FC
   Genoa CFC  -  SSC Napoli
-  Inter  -  Sampdoria
   Juventus  -  SPAL 2013 Ferrara
   AS Roma  -  FC Crotone
   Sassuolo Calcio  -  Udinese Calcio
 
 11^ Giornata
+[Sab. 28.10.]
+  AC Milan  -  Juventus
+  AS Roma  -  Bologna FC
 [Dom. 29.10.]
   Benevento Calcio  -  Lazio Roma
   FC Crotone  -  ACF Fiorentina
-  Hellas Verona  -  Inter
-  AC Milan  -  Juventus
   SSC Napoli  -  Sassuolo Calcio
-  AS Roma  -  Bologna FC
   Sampdoria  -  Chievo Verona
   SPAL 2013 Ferrara  -  Genoa CFC
   Torino FC  -  Cagliari Calcio
   Udinese Calcio  -  Atalanta
+[Lue. 30.10.]
+  Hellas Verona  -  Inter
 
 12^ Giornata
+[Sab. 4.11.]
+  Bologna FC  -  FC Crotone
+  Genoa CFC  -  Sampdoria
 [Dom. 5.11.]
   Atalanta  -  SPAL 2013 Ferrara
-  Bologna FC  -  FC Crotone
   Cagliari Calcio  -  Hellas Verona
   Chievo Verona  -  SSC Napoli
   ACF Fiorentina  -  AS Roma
-  Genoa CFC  -  Sampdoria
   Inter  -  Torino FC
   Juventus  -  Benevento Calcio
   Lazio Roma  -  Udinese Calcio
