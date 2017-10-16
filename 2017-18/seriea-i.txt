@@ -107,13 +107,13 @@
   Juventus             1-2  Lazio Roma
   AS Roma              0-1  SSC Napoli
 [Dom. 15.10.]
-  Bologna FC  -  SPAL 2013 Ferrara
-  Cagliari Calcio  -  Genoa CFC
-  FC Crotone  -  Torino FC
-  ACF Fiorentina  -  Udinese Calcio
-  Inter  -  AC Milan
-  Sampdoria  -  Atalanta
-  Sassuolo Calcio  -  Chievo Verona
+  Bologna FC           2-1  SPAL 2013 Ferrara
+  Cagliari Calcio      2-3  Genoa CFC
+  FC Crotone           2-2  Torino FC
+  ACF Fiorentina       2-1  Udinese Calcio
+  Inter                3-2  AC Milan
+  Sampdoria            3-1  Atalanta
+  Sassuolo Calcio      0-0  Chievo Verona
 [Lue. 16.10.]
   Hellas Verona  -  Benevento Calcio
 
