@@ -122,14 +122,14 @@
   SSC Napoli           0-0  Inter
   Sampdoria            5-0  FC Crotone
 [Dom. 22.10.]
-  Atalanta  -  Bologna FC
-  Benevento Calcio  -  ACF Fiorentina
-  Chievo Verona  -  Hellas Verona
-  Lazio Roma  -  Cagliari Calcio
-  AC Milan  -  Genoa CFC
-  SPAL 2013 Ferrara  -  Sassuolo Calcio
-  Torino FC  -  AS Roma
-  Udinese Calcio  -  Juventus
+  Atalanta             1-0  Bologna FC
+  Benevento Calcio     0-3  ACF Fiorentina
+  Chievo Verona        3-2  Hellas Verona
+  Lazio Roma    Cagliari Calcio
+  AC Milan             0-0  Genoa CFC
+  SPAL 2013 Ferrara    0-1  Sassuolo Calcio
+  Torino FC            0-1  AS Roma
+  Udinese Calcio       2-6  Juventus
 
 10^ Giornata
 [Mar. 24.10.]
