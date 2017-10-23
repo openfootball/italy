@@ -34,7 +34,7 @@
 3^ Giornata
 [Sab. 9.9.]
   Juventus             3-0  Chievo Verona
-  Sampdoria                 AS Roma             abgesagt
+  Sampdoria                 AS Roma             13.12.17
 [Dom. 10.9.]
   Atalanta             2-1  Sassuolo Calcio
   Benevento Calcio     0-1  Torino FC
@@ -225,6 +225,10 @@
   Sassuolo Calcio  -  FC Crotone
   SPAL 2013 Ferrara  -  Hellas Verona
   Udinese Calcio  -  Benevento Calcio
+  
+Nachtrag 3. Giornata
+[Mie. 13.12.]
+  Sampdoria  AS Roma
 
 17^ Giornata
 [Dom. 17.12.]
