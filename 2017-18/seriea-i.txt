@@ -135,15 +135,15 @@
 [Mar. 24.10.]
   Inter                3-2  Sampdoria
 [Mer. 25.10.]
-  Atalanta  -  Hellas Verona
-  Bologna FC  -  Lazio Roma
-  Cagliari Calcio  -  Benevento Calcio
-  Chievo Verona  -  AC Milan
-  ACF Fiorentina  -  Torino FC
-  Genoa CFC  -  SSC Napoli
-  Juventus  -  SPAL 2013 Ferrara
-  AS Roma  -  FC Crotone
-  Sassuolo Calcio  -  Udinese Calcio
+  Atalanta             3-0  Hellas Verona
+  Bologna FC           1-2  Lazio Roma
+  Cagliari Calcio      2-1  Benevento Calcio
+  Chievo Verona        1-4  AC Milan
+  ACF Fiorentina       3-0  Torino FC
+  Genoa CFC            2-3  SSC Napoli
+  Juventus             4-1  SPAL 2013 Ferrara
+  AS Roma              1-0  FC Crotone
+  Sassuolo Calcio      0-1  Udinese Calcio
 
 11^ Giornata
 [Sab. 28.10.]
