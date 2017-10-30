@@ -150,13 +150,13 @@
   AC Milan             0-2  Juventus
   AS Roma              1-0  Bologna FC
 [Dom. 29.10.]
-  Benevento Calcio  -  Lazio Roma
-  FC Crotone  -  ACF Fiorentina
-  SSC Napoli  -  Sassuolo Calcio
-  Sampdoria  -  Chievo Verona
-  SPAL 2013 Ferrara  -  Genoa CFC
-  Torino FC  -  Cagliari Calcio
-  Udinese Calcio  -  Atalanta
+  Benevento Calcio     1-5  Lazio Roma
+  FC Crotone           2-1  ACF Fiorentina
+  SSC Napoli           3-1  Sassuolo Calcio
+  Sampdoria            4-1  Chievo Verona
+  SPAL 2013 Ferrara    1-0  Genoa CFC
+  Torino FC            2-1  Cagliari Calcio
+  Udinese Calcio       2-1  Atalanta
 [Lue. 30.10.]
   Hellas Verona  -  Inter
 
