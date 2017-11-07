@@ -205,31 +205,36 @@
   Atalanta  -  Benevento Calcio
   
 15^ Giornata
+[Vie. 1.12.]
+  SSC Napoli  -  Juventus
+  AS Roma  -  SPAL 2013 Ferrara
+[Sab. 2.12.]
+  Torino FC  -  Atalanta
 [Dom. 3.12.]
   Benevento Calcio  -  AC Milan
   Bologna FC  -  Cagliari Calcio
-  FC Crotone  -  Udinese Calcio
   ACF Fiorentina  -  Sassuolo Calcio
-  Hellas Verona  -  Genoa CFC
   Inter  -  Chievo Verona
-  SSC Napoli  -  Juventus
-  AS Roma  -  SPAL 2013 Ferrara
   Sampdoria  -  Lazio Roma
-  Torino FC  -  Atalanta
-
+[Lue. 4.12.]
+  FC Crotone  -  Udinese Calcio
+  Hellas Verona  -  Genoa CFC
+  
 16^ Giornata
-[Dom. 10.12.]
+[Sab. 9.12.]
   Cagliari Calcio  -  Sampdoria
-  Chievo Verona  -  AS Roma
-  Genoa CFC  -  Atalanta
   Juventus  -  Inter
-  Lazio Roma  -  Torino FC
+[Dom. 10.12.]
+  Chievo Verona  -  AS Roma
   AC Milan  -  Bologna FC
   SSC Napoli  -  ACF Fiorentina
   Sassuolo Calcio  -  FC Crotone
   SPAL 2013 Ferrara  -  Hellas Verona
   Udinese Calcio  -  Benevento Calcio
-  
+[Lue. 11.12.] 
+  Genoa CFC  -  Atalanta
+  Lazio Roma  -  Torino FC 
+ 
 3^ Giornata  ## postponed/Nachtrag
 [Mer. 13.12.]
   Sampdoria  AS Roma
