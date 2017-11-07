@@ -240,6 +240,10 @@
   Sampdoria  AS Roma
 
 17^ Giornata
+[Sab. 16.12.]
+  Inter  -  Udinese Calcio
+  AS Roma  -  Cagliari Calcio
+  Torino FC  -  SSC Napoli
 [Dom. 17.12.]
   Atalanta  -  Lazio Roma
   Benevento Calcio  -  SPAL 2013 Ferrara
@@ -247,10 +251,8 @@
   FC Crotone  -  Chievo Verona
   ACF Fiorentina  -  Genoa CFC
   Hellas Verona  -  AC Milan
-  Inter  -  Udinese Calcio
-  AS Roma  -  Cagliari Calcio
-  Sampdoria  -  Sassuolo Calcio
-  Torino FC  -  SSC Napoli
+   Sampdoria  -  Sassuolo Calcio
+
 
 18^ Giornata
 [Sab. 23.12.]
