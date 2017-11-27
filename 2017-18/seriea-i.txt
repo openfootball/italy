@@ -196,11 +196,11 @@
   Chievo Verona        2-1  SPAL 2013 Ferrara
   Sassuolo Calcio      0-2  Hellas Verona
 [Dom. 26.11.]
-  Genoa CFC  -  AS Roma
-  Juventus  -  FC Crotone
-  Lazio Roma  -  ACF Fiorentina
-  AC Milan  -  Torino FC
-  Udinese Calcio  -  SSC Napoli
+  Genoa CFC            1-1  AS Roma
+  Juventus             3-0  FC Crotone
+  Lazio Roma           1-1  ACF Fiorentina
+  AC Milan             0-0  Torino FC
+  Udinese Calcio       0-1  SSC Napoli
 [Lue. 27.11.]
   Atalanta  -  Benevento Calcio
   
