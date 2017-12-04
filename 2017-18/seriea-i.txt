@@ -255,9 +255,10 @@
 
 
 18^ Giornata
-[Sab. 23.12.]
+[Vie. 22.12.]
   Cagliari Calcio  -  ACF Fiorentina
   Chievo Verona  -  Bologna FC
+[Sab. 23.12.]
   Genoa CFC  -  Benevento Calcio
   Juventus  -  AS Roma
   Lazio Roma  -  FC Crotone
@@ -268,11 +269,12 @@
   Udinese Calcio  -  Hellas Verona
 
 19^ Giornata
+[Vie. 29.12.]
+  FC Crotone  -  SSC Napoli
 [Sab. 30.12.]
   Atalanta  -  Cagliari Calcio
   Benevento Calcio  -  Chievo Verona
   Bologna FC  -  Udinese Calcio
-  FC Crotone  -  SSC Napoli
   ACF Fiorentina  -  AC Milan
   Hellas Verona  -  Juventus
   Inter  -  Lazio Roma
