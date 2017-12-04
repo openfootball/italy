@@ -211,11 +211,11 @@
 [Sab. 2.12.]
   Torino FC            1-1  Atalanta
 [Dom. 3.12.]
-  Benevento Calcio  -  AC Milan
-  Bologna FC  -  Cagliari Calcio
-  ACF Fiorentina  -  Sassuolo Calcio
-  Inter  -  Chievo Verona
-  Sampdoria  -  Lazio Roma
+  Benevento Calcio     2-2  AC Milan
+  Bologna FC           1-1  Cagliari Calcio
+  ACF Fiorentina       3-0  Sassuolo Calcio
+  Inter                5-0  Chievo Verona
+  Sampdoria            1-2  Lazio Roma
 [Lue. 4.12.]
   FC Crotone  -  Udinese Calcio
   Hellas Verona  -  Genoa CFC
