@@ -56,9 +56,9 @@ Build the database for all Italian clubs, leagues and seasons:
 
     $ sportdb new it
 
-Build the database for the 2015/16 season:
+Build the database for the 2017/18 season:
 
-    $ sportdb new it2015-16
+    $ sportdb new it2017-18
 
 
 
