@@ -225,16 +225,17 @@
   Cagliari Calcio      2-2  Sampdoria
   Juventus             0-0  Inter
 [Dom. 10.12.]
-  Chievo Verona  -  AS Roma
-  AC Milan  -  Bologna FC
-  SSC Napoli  -  ACF Fiorentina
-  Sassuolo Calcio  -  FC Crotone
-  SPAL 2013 Ferrara  -  Hellas Verona
-  Udinese Calcio  -  Benevento Calcio
+  Chievo Verona        0-0  AS Roma
+  AC Milan             2-1  Bologna FC
+  SSC Napoli           0-0  ACF Fiorentina
+  Sassuolo Calcio      2-1  FC Crotone
+  SPAL 2013 Ferrara    2-2  Hellas Verona
+  Udinese Calcio       2-0  Benevento Calcio
 [Lue. 11.12.] 
+ Lazio Roma  -  Torino FC 
+[Mar. 12.12.]
   Genoa CFC  -  Atalanta
-  Lazio Roma  -  Torino FC 
- 
+  
 3^ Giornata  ## postponed/Nachtrag
 [Mer. 13.12.]
   Sampdoria  AS Roma
