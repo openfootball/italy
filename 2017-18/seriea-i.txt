@@ -34,7 +34,7 @@
 3^ Giornata
 [Sab. 9.9.]
   Juventus             3-0  Chievo Verona
-  Sampdoria                 AS Roma             13.12.17
+  Sampdoria                 AS Roma             24.01.18
 [Dom. 10.9.]
   Atalanta             2-1  Sassuolo Calcio
   Benevento Calcio     0-1  Torino FC
@@ -236,10 +236,6 @@
 [Mar. 12.12.]
   Genoa CFC            1-2  Atalanta
   
-3^ Giornata  ## postponed/Nachtrag
-[Mer. 13.12.]
-  Sampdoria  AS Roma
-
 17^ Giornata
 [Sab. 16.12.]
   Inter  -  Udinese Calcio
