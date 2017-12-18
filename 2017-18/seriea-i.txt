@@ -242,13 +242,13 @@
   AS Roma              1-0  Cagliari Calcio
   Torino FC            1-3  SSC Napoli
 [Dom. 17.12.]
-  Atalanta  -  Lazio Roma
-  Benevento Calcio  -  SPAL 2013 Ferrara
-  Bologna FC  -  Juventus
-  FC Crotone  -  Chievo Verona
-  ACF Fiorentina  -  Genoa CFC
-  Hellas Verona  -  AC Milan
-   Sampdoria  -  Sassuolo Calcio
+  Atalanta             3-3  Lazio Roma
+  Benevento Calcio     1-2  SPAL 2013 Ferrara
+  Bologna FC           0-3  Juventus
+  FC Crotone           1-0  Chievo Verona
+  ACF Fiorentina       0-0  Genoa CFC
+  Hellas Verona        3-0  AC Milan
+  Sampdoria            0-1  Sassuolo Calcio
 
 
 18^ Giornata
