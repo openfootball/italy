@@ -256,14 +256,14 @@
   Cagliari Calcio      0-1  ACF Fiorentina
   Chievo Verona        2-3  Bologna FC
 [Sab. 23.12.]
-  Genoa CFC  -  Benevento Calcio
-  Juventus  -  AS Roma
-  Lazio Roma  -  FC Crotone
-  AC Milan  -  Atalanta
-  SSC Napoli  -  Sampdoria
-  Sassuolo Calcio  -  Inter
-  SPAL 2013 Ferrara  -  Torino FC
-  Udinese Calcio  -  Hellas Verona
+  Genoa CFC            1-0  Benevento Calcio
+  Juventus             1-0  AS Roma
+  Lazio Roma           4-0  FC Crotone
+  AC Milan             0-2  Atalanta
+  SSC Napoli           3-2  Sampdoria
+  Sassuolo Calcio      1-0  Inter
+  SPAL 2013 Ferrara    2-2  Torino FC
+  Udinese Calcio       4-0  Hellas Verona
 
 19^ Giornata
 [Vie. 29.12.]
