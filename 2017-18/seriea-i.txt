@@ -269,12 +269,12 @@
 [Vie. 29.12.]
   FC Crotone           0-1  SSC Napoli
 [Sab. 30.12.]
-  Atalanta  -  Cagliari Calcio
-  Benevento Calcio  -  Chievo Verona
-  Bologna FC  -  Udinese Calcio
-  ACF Fiorentina  -  AC Milan
-  Hellas Verona  -  Juventus
-  Inter  -  Lazio Roma
-  AS Roma  -  Sassuolo Calcio
-  Sampdoria  -  SPAL 2013 Ferrara
-  Torino FC  -  Genoa CFC
+  Atalanta             1-2  Cagliari Calcio
+  Benevento Calcio     1-0  Chievo Verona
+  Bologna FC           1-2  Udinese Calcio
+  ACF Fiorentina       1-1  AC Milan
+  Hellas Verona        1-3  Juventus
+  Inter                0-0  Lazio Roma
+  AS Roma              1-1  Sassuolo Calcio
+  Sampdoria            2-0  SPAL 2013 Ferrara
+  Torino FC            0-0  Genoa CFC
