@@ -3,14 +3,14 @@
   Chievo Verona        1-1  Udinese Calcio
   ACF Fiorentina       1-1  Inter
 [Sab. 6.1.]
-  AS Roma  -  Atalanta
-  Torino FC  -  Bologna FC
-  AC Milan  -  FC Crotone
-  SSC Napoli  -  Hellas Verona
-  Cagliari Calcio  -  Juventus
-  SPAL 2013 Ferrara  -  Lazio Roma
-  Benevento Calcio  -  Sampdoria
-  Genoa CFC  -  Sassuolo Calcio
+  AS Roma              1-2  Atalanta
+  Torino FC            3-0  Bologna FC
+  AC Milan             1-0  FC Crotone
+  SSC Napoli           2-0  Hellas Verona
+  Cagliari Calcio      0-1  Juventus
+  SPAL 2013 Ferrara    2-5  Lazio Roma
+  Benevento Calcio     2-1  Sampdoria
+  Genoa CFC            1-0  Sassuolo Calcio
   
   
   
