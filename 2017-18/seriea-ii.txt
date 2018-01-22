@@ -19,15 +19,15 @@ Winterpause bis 21.1.18
 
 21^ Giornata
 [Dom. 21.1.]
-  Bologna FC  -  Benevento Calcio
-  Lazio Roma  -  Chievo Verona
-  Hellas Verona  -  FC Crotone
-  Sampdoria  -  ACF Fiorentina
-  Cagliari Calcio  -  AC Milan
-  Atalanta  -  SSC Napoli
-  Inter  -  AS Roma
-  Udinese Calcio  -  SPAL 2013 Ferrara
-  Sassuolo Calcio  -  Torino FC
+  Bologna FC          3-0  Benevento Calcio
+  Lazio Roma          5-1  Chievo Verona
+  Hellas Verona       0-3  FC Crotone
+  Sampdoria           3-1  ACF Fiorentina
+  Cagliari Calcio     1-2  AC Milan
+  Atalanta            0-1  SSC Napoli
+  Inter               1-1  AS Roma
+  Udinese Calcio      1-1  SPAL 2013 Ferrara
+  Sassuolo Calcio     1-1  Torino FC
 [Lue. 22.1.]
   Juventus  -  Genoa CFC
   
