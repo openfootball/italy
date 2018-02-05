@@ -57,13 +57,13 @@ Winterpause bis 21.1.18
   Sampdoria           1-1  Torino FC
   Inter               1-1  FC Crotone
 [Dom. 4.2.]
-  Atalanta  -  Chievo Verona
-  Bologna FC  -  ACF Fiorentina
-  Udinese Calcio  -  AC Milan
-  Benevento Calcio  -  SSC Napoli
-  Hellas Verona  -  AS Roma
-  Juventus  -  Sassuolo Calcio
-  Cagliari Calcio  -  SPAL 2013 Ferrara
+  Atalanta            1-0  Chievo Verona
+  Bologna FC          1-2  ACF Fiorentina
+  Udinese Calcio      1-1  AC Milan
+  Benevento Calcio    0-2  SSC Napoli
+  Hellas Verona       0-1  AS Roma
+  Juventus            7-0  Sassuolo Calcio
+  Cagliari Calcio     2-0  SPAL 2013 Ferrara
 [Lue. 5.2.]
   Lazio Roma  -  Genoa CFC
 
