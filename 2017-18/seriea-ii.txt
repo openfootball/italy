@@ -31,10 +31,10 @@ Winterpause bis 21.1.18
 [Lue. 22.1.]
   Juventus            1-0  Genoa CFC
   
-12^ Giornata ## postponed/Nachtrag
+## postponed/Nachtrag 12^ Giornata
 [Mer. 24.1.]
   Lazio Roma          3-0  Udinese Calcio
-3^ Giornata  ## postponed/Nachtrag
+## postponed/Nachtrag 3^ Giornata
 [Mer. 24.1.]
   Sampdoria           1-1  AS Roma
   
@@ -65,7 +65,7 @@ Winterpause bis 21.1.18
   Juventus            7-0  Sassuolo Calcio
   Cagliari Calcio     2-0  SPAL 2013 Ferrara
 [Lue. 5.2.]
-  Lazio Roma  -  Genoa CFC
+  Lazio Roma          1-2  Genoa CFC
 
 24^ Giornata
 [Vie. 9.2.]
