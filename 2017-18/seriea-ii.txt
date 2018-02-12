@@ -75,12 +75,12 @@ Winterpause bis 21.1.18
   SPAL 2013 Ferrara   0-4  AC Milan
   FC Crotone          1-1  Atalanta
 [Dom. 11.2.]
-  AS Roma  -  Benevento Calcio
-  Inter  -  Bologna FC
-  Sassuolo Calcio  -  Cagliari Calcio
-  Chievo Verona  -  Genoa CFC
-  Sampdoria  -  Hellas Verona
-  Torino FC  -  Udinese Calcio
+  AS Roma             5-2  Benevento Calcio
+  Inter               2-1  Bologna FC
+  Sassuolo Calcio     0-0  Cagliari Calcio
+  Chievo Verona       0-1  Genoa CFC
+  Sampdoria           2-0  Hellas Verona
+  Torino FC           2-0  Udinese Calcio
 
 25^ Giornata
 [Sab. 17.2.]
