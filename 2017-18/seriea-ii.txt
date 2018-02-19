@@ -88,12 +88,12 @@ Winterpause bis 21.1.18
   Udinese Calcio      0-2  AS Roma
   Genoa CFC           2-0  Inter
 [Dom. 18.2.]
-  Benevento Calcio  -  FC Crotone
-  Atalanta  -  ACF Fiorentina
-  Torino FC  -  Juventus
-  AC Milan  -  Sampdoria
-  Bologna FC  -  Sassuolo Calcio
-  SSC Napoli  -  SPAL 2013 Ferrara
+  Benevento Calcio    3-2  FC Crotone
+  Atalanta            1-1  ACF Fiorentina
+  Torino FC           0-1  Juventus
+  AC Milan            1-0  Sampdoria
+  Bologna FC          2-1  Sassuolo Calcio
+  SSC Napoli          1-0  SPAL 2013 Ferrara
 [Lue. 19.2.]
   Lazio Roma  -  Hellas Verona
   
