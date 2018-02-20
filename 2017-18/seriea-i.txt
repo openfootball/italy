@@ -186,7 +186,7 @@
   SPAL 2013 Ferrara    1-1  ACF Fiorentina
   Torino FC            1-1  Chievo Verona
   Udinese Calcio       0-1  Cagliari Calcio
-[Lue. 20.11.]
+[Ogg. 20.11.]
   Hellas Verona        2-3  Bologna FC
 
 14^ Giornata
@@ -201,11 +201,11 @@
   Lazio Roma           1-1  ACF Fiorentina
   AC Milan             0-0  Torino FC
   Udinese Calcio       0-1  SSC Napoli
-[Lue. 27.11.]
+[Ogg. 27.11.]
   Atalanta             1-0  Benevento Calcio
   
 15^ Giornata
-[Vie. 1.12.]
+[Ven. 1.12.]
   SSC Napoli           0-1  Juventus
   AS Roma              3-1  SPAL 2013 Ferrara
 [Sab. 2.12.]
@@ -216,7 +216,7 @@
   ACF Fiorentina       3-0  Sassuolo Calcio
   Inter                5-0  Chievo Verona
   Sampdoria            1-2  Lazio Roma
-[Lue. 4.12.]
+[Ogg. 4.12.]
   FC Crotone           0-3  Udinese Calcio
   Hellas Verona        0-1  Genoa CFC
   
