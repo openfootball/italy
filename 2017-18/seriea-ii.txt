@@ -28,13 +28,13 @@ Winterpause bis 21.1.18
   Inter               1-1  AS Roma
   Udinese Calcio      1-1  SPAL 2013 Ferrara
   Sassuolo Calcio     1-1  Torino FC
-[Ogg. 22.1.]
+[Lun. 22.1.]
   Juventus            1-0  Genoa CFC
   
-## postponed/Nachtrag 12^ Giornata
+## spostare 12^ Giornata
 [Mer. 24.1.]
   Lazio Roma          3-0  Udinese Calcio
-## postponed/Nachtrag 3^ Giornata
+## spostare 3^ Giornata
 [Mer. 24.1.]
   Sampdoria           1-1  AS Roma
   
@@ -64,7 +64,7 @@ Winterpause bis 21.1.18
   Hellas Verona       0-1  AS Roma
   Juventus            7-0  Sassuolo Calcio
   Cagliari Calcio     2-0  SPAL 2013 Ferrara
-[Ogg. 5.2.]
+[Lun. 5.2.]
   Lazio Roma          1-2  Genoa CFC
 
 24^ Giornata
@@ -94,7 +94,7 @@ Winterpause bis 21.1.18
   AC Milan            1-0  Sampdoria
   Bologna FC          2-1  Sassuolo Calcio
   SSC Napoli          1-0  SPAL 2013 Ferrara
-[Ogg. 19.2.]
+[Lun. 19.2.]
   Lazio Roma          2-0  Hellas Verona
   
 26^ Giornata
@@ -102,14 +102,14 @@ Winterpause bis 21.1.18
   Inter               2-0  Benevento Calcio
   Bologna FC          2-0  Genoa CFC
 [Dom. 25.2.]
-  Juventus  -  Atalanta
-  ACF Fiorentina  -  Chievo Verona
-  Sassuolo Calcio  -  Lazio Roma
-  AS Roma  -  AC Milan
-  FC Crotone  -  SPAL 2013 Ferrara
-  Hellas Verona  -  Torino FC
-  Sampdoria  -  Udinese Calcio
-[Lue. 26.2.]
+  Juventus  -  Atalanta            differire a
+  ACF Fiorentina      1-0  Chievo Verona
+  Sassuolo Calcio     0-3  Lazio Roma
+  AS Roma             0-2  AC Milan
+  FC Crotone          2-3  SPAL 2013 Ferrara
+  Hellas Verona       2-1  Torino FC
+  Sampdoria           2-1  Udinese Calcio
+[Lun. 26.2.]
   Cagliari Calcio  -  SSC Napoli
   
 27^ Giornata
