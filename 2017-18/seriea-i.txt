@@ -114,7 +114,7 @@
   Inter                3-2  AC Milan
   Sampdoria            3-1  Atalanta
   Sassuolo Calcio      0-0  Chievo Verona
-[Ogg. 16.10.]
+[Lun. 16.10.]
   Hellas Verona        1-0  Benevento Calcio
 
 9^ Giornata
@@ -157,7 +157,7 @@
   SPAL 2013 Ferrara    1-0  Genoa CFC
   Torino FC            2-1  Cagliari Calcio
   Udinese Calcio       2-1  Atalanta
-[Ogg. 30.10.]
+[Lun. 30.10.]
   Hellas Verona        1-2  Inter
 
 12^ Giornata
@@ -186,7 +186,7 @@
   SPAL 2013 Ferrara    1-1  ACF Fiorentina
   Torino FC            1-1  Chievo Verona
   Udinese Calcio       0-1  Cagliari Calcio
-[Ogg. 20.11.]
+[Lun. 20.11.]
   Hellas Verona        2-3  Bologna FC
 
 14^ Giornata
@@ -201,7 +201,7 @@
   Lazio Roma           1-1  ACF Fiorentina
   AC Milan             0-0  Torino FC
   Udinese Calcio       0-1  SSC Napoli
-[Ogg. 27.11.]
+[Lun. 27.11.]
   Atalanta             1-0  Benevento Calcio
   
 15^ Giornata
@@ -216,7 +216,7 @@
   ACF Fiorentina       3-0  Sassuolo Calcio
   Inter                5-0  Chievo Verona
   Sampdoria            1-2  Lazio Roma
-[Ogg. 4.12.]
+[Lun. 4.12.]
   FC Crotone           0-3  Udinese Calcio
   Hellas Verona        0-1  Genoa CFC
   
@@ -231,7 +231,7 @@
   Sassuolo Calcio      2-1  FC Crotone
   SPAL 2013 Ferrara    2-2  Hellas Verona
   Udinese Calcio       2-0  Benevento Calcio
-[Ogg. 11.12.] 
+[Lun. 11.12.] 
  Lazio Roma            1-3  Torino FC 
 [Mar. 12.12.]
   Genoa CFC            1-2  Atalanta
