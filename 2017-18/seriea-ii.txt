@@ -141,7 +141,7 @@ Winterpause bis 21.1.18
   Sassuolo Calcio  -  SPAL 2013 Ferrara
   Juventus  -  Udinese Calcio
 
-##spostare 26^ Giornata
+## spostare 26^ Giornata
 [Mie. 14.3.]
   Juventus - Atlanta
   
@@ -171,7 +171,17 @@ Winterpause bis 21.1.18
   Genoa CFC  -  SPAL 2013 Ferrara
   Cagliari Calcio  -  Torino FC
   Atalanta  -  Udinese Calcio
-
+  
+## spostare 27^Giornata
+[Mer. 3.4.]
+   Genoa CFC  -  Cagliari Calcio 
+   Udinese Calcio  -  ACF Fiorentina
+   Atalanta  -  Sampdoria  
+[Gio. 4.4.]
+  Torino FC  -  FC Crotone 
+  Benevento Calcio  -  Hellas Verona 
+  Chievo Verona  -  Sassuolo Calcio
+  
 31^ Giornata
 [Dom. 8.4.]
   SPAL 2013 Ferrara  -  Atalanta
