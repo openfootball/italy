@@ -102,7 +102,7 @@ Winterpause bis 21.1.18
   Inter               2-0  Benevento Calcio
   Bologna FC          2-0  Genoa CFC
 [Dom. 25.2.]
-  Juventus  -  Atalanta            differire 
+  Juventus  -  Atalanta            14.3.18
   ACF Fiorentina      1-0  Chievo Verona
   Sassuolo Calcio     0-3  Lazio Roma
   AS Roma             0-2  AC Milan
@@ -118,13 +118,13 @@ Winterpause bis 21.1.18
   SSC Napoli          2-4  AS Roma
   SPAL 2013 Ferrara   1-0  Bologna FC
 [Dom. 4.3.]
-  Genoa CFC  -  Cagliari Calcio         differire 
-  Torino FC  -  FC Crotone              differire 
-  Udinese Calcio  -  ACF Fiorentina     differire 
-  Benevento Calcio  -  Hellas Verona    differire 
+  Genoa CFC  -  Cagliari Calcio         3.4.18 
+  Torino FC  -  FC Crotone              4.4.18
+  Udinese Calcio  -  ACF Fiorentina     3.4.18
+  Benevento Calcio  -  Hellas Verona    4.4.18
   AC Milan  -  Inter                    differire 
-  Atalanta  -  Sampdoria                differire 
-  Chievo Verona  -  Sassuolo Calcio     differire 
+  Atalanta  -  Sampdoria                3.4.18
+  Chievo Verona  -  Sassuolo Calcio     4.4.18
 
 28^ Giornata
 [Vie. 9.3.]
@@ -141,6 +141,10 @@ Winterpause bis 21.1.18
   Sassuolo Calcio  -  SPAL 2013 Ferrara
   Juventus  -  Udinese Calcio
 
+##spostare 26^ Giornata
+[Mie. 14.3.]
+  Juventus - Atlanta
+  
 29^ Giornata
 [Sab. 17.3.]
   Benevento Calcio  -  Cagliari Calcio
