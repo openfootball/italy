@@ -132,14 +132,14 @@ Winterpause bis 21.1.18
 [Sab. 10.3.]
   Hellas Verona      1-0  Chievo Verona
 [Dom. 11.3.]
-  Bologna FC  -  Atalanta
-  ACF Fiorentina  -  Benevento Calcio
-  Cagliari Calcio  -  Lazio Roma
-  Genoa CFC  -  AC Milan
-  Inter  -  SSC Napoli
-  FC Crotone  -  Sampdoria
-  Sassuolo Calcio  -  SPAL 2013 Ferrara
-  Juventus  -  Udinese Calcio
+  Bologna FC         0-1  Atalanta
+  ACF Fiorentina     1-0  Benevento Calcio
+  Cagliari Calcio    2-2  Lazio Roma
+  Genoa CFC          0-1  AC Milan
+  Inter              0-0  SSC Napoli
+  FC Crotone         4-1  Sampdoria
+  Sassuolo Calcio    1-1  SPAL 2013 Ferrara
+  Juventus           2-0  Udinese Calcio
 
 ## spostare 26^ Giornata
 [Mie. 14.3.]
