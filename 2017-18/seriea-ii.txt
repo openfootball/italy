@@ -150,14 +150,14 @@ Winterpause bis 21.1.18
   Udinese Calcio     1-2  Sassuolo Calcio
   SPAL 2013 Ferrara  0-0  Juventus
 [Dom. 18.3.]
-  Benevento Calcio  -  Cagliari Calcio
-  Hellas Verona  -  Atalanta
-  Lazio Roma  -  Bologna FC
-  AC Milan  -  Chievo Verona
-  Torino FC  -  ACF Fiorentina
-  SSC Napoli  -  Genoa CFC
-  Sampdoria  -  Inter
-  FC Crotone  -  AS Roma
+  Benevento Calcio   1-2  Cagliari Calcio
+  Hellas Verona      0-5  Atalanta
+  Lazio Roma         1-1  Bologna FC
+  AC Milan           3-2  Chievo Verona
+  Torino FC          1-2  ACF Fiorentina
+  SSC Napoli         1-0  Genoa CFC
+  Sampdoria          0-5  Inter
+  FC Crotone         0-2  AS Roma
   
 30^ Giornata
 [Sab. 31.3.]
