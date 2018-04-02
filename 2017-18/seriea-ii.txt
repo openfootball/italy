@@ -161,16 +161,16 @@ Winterpause bis 21.1.18
   
 30^ Giornata
 [Sab. 31.3.]
-  Lazio Roma        6-2  Benevento Calcio
-  ACF Fiorentina    2-0  FC Crotone
-  Inter             3-0  Hellas Verona
-  Juventus          3-1  AC Milan
-  Sassuolo Calcio   1-1  SSC Napoli
-  Bologna FC        1-1  AS Roma
-  Chievo Verona     2-1  Sampdoria
-  Genoa CFC         1-1  SPAL 2013 Ferrara
-  Cagliari Calcio   0-4  Torino FC
-  Atalanta          2-0  Udinese Calcio
+  Lazio Roma         6-2  Benevento Calcio
+  ACF Fiorentina     2-0  FC Crotone
+  Inter              3-0  Hellas Verona
+  Juventus           3-1  AC Milan
+  Sassuolo Calcio    1-1  SSC Napoli
+  Bologna FC         1-1  AS Roma
+  Chievo Verona      2-1  Sampdoria
+  Genoa CFC          1-1  SPAL 2013 Ferrara
+  Cagliari Calcio    0-4  Torino FC
+  Atalanta           2-0  Udinese Calcio
   
 ## spostare 27^Giornata
 [Mer. 3.4.]
