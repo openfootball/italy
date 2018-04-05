@@ -119,12 +119,12 @@ Winterpause bis 21.1.18
   SPAL 2013 Ferrara   1-0  Bologna FC
 [Dom. 4.3.]
   Genoa CFC           2-1  Cagliari Calcio         
-  Torino FC  -  FC Crotone              4.4.18
+  Torino FC           4-1  FC Crotone             
   Udinese Calcio      0-2  ACF Fiorentina     
-  Benevento Calcio  -  Hellas Verona    4.4.18
-  AC Milan  -  Inter                    differire 
+  Benevento Calcio    3-0  Hellas Verona    
+  AC Milan            0-0  Inter                   
   Atalanta            1-2  Sampdoria                
-  Chievo Verona  -  Sassuolo Calcio     4.4.18
+  Chievo Verona       1-1  Sassuolo Calcio     
 
 28^ Giornata
 [Vie. 9.3.]
@@ -178,9 +178,10 @@ Winterpause bis 21.1.18
    Udinese Calcio  -  ACF Fiorentina
    Atalanta  -  Sampdoria  
 [Gio. 4.4.]
-  Torino FC  -  FC Crotone 
-  Benevento Calcio  -  Hellas Verona 
-  Chievo Verona  -  Sassuolo Calcio
+  Torino FC         4-1  FC Crotone 
+  Benevento Calcio  3-0  Hellas Verona 
+  Chievo Verona     1-1  Sassuolo Calcio
+  AC Milan          0-0  Inter
   
 31^ Giornata
 [Sab. 7.4.]
