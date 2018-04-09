@@ -190,12 +190,12 @@ Winterpause bis 21.1.18
   SPAL 2013 Ferrara  1-1  Atalanta
   Benevento Calcio   2-4  Juventus
 [Dom. 8.4.]
-  FC Crotone  -  Bologna FC
-  Hellas Verona  -  Cagliari Calcio
-  SSC Napoli  -  Chievo Verona
-  Torino FC  -  Inter
-  Udinese Calcio  -  Lazio Roma
-  AC Milan  -  Sassuolo Calcio
+  FC Crotone         1-0  Bologna FC
+  Hellas Verona      1-0  Cagliari Calcio
+  SSC Napoli         2-1  Chievo Verona
+  Torino FC          1-0  Inter
+  Udinese Calcio     1-2  Lazio Roma
+  AC Milan           1-1  Sassuolo Calcio
 
 32^ Giornata
 [Sab. 14.4]
