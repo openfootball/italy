@@ -31,10 +31,10 @@ Winterpause bis 21.1.18
 [Lun. 22.1.]
   Juventus            1-0  Genoa CFC
   
-## spostare 12^ Giornata
+## completamento 12^ Giornata
 [Mer. 24.1.]
   Lazio Roma          3-0  Udinese Calcio
-## spostare 3^ Giornata
+## completamento 3^ Giornata
 [Mer. 24.1.]
   Sampdoria           1-1  AS Roma
   
@@ -141,7 +141,7 @@ Winterpause bis 21.1.18
   Sassuolo Calcio    1-1  SPAL 2013 Ferrara
   Juventus           2-0  Udinese Calcio
 
-## spostare 26^ Giornata
+## completamento 26^ Giornata
 [Mer. 14.3.]
   Juventus           2-0  Atlanta
   
@@ -172,7 +172,7 @@ Winterpause bis 21.1.18
   Cagliari Calcio    0-4  Torino FC
   Atalanta           2-0  Udinese Calcio
   
-## spostare 27^Giornata
+## completamento 27^Giornata
 [Mer. 3.4.]
    Genoa CFC         2-1  Cagliari Calcio 
    Udinese Calcio    0-2  ACF Fiorentina
