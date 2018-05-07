@@ -266,14 +266,14 @@ Winterpause bis 21.1.18
   AC Milan            4-1  Hellas Verona
   Juventus            3-1  Bologna FC
 [Dom. 6.5.]
-  Lazio Roma  -  Atalanta
-  SPAL 2013 Ferrara  -  Benevento Calcio
-  Chievo Verona  -  FC Crotone
-  Genoa CFC  -  ACF Fiorentina
-  Udinese Calcio  -  Inter
-  Cagliari Calcio  -  AS Roma
-  Sassuolo Calcio  -  Sampdoria
-  SSC Napoli  -  Torino FC
+  Lazio Roma          1-1  Atalanta
+  SPAL 2013 Ferrara   2-0  Benevento Calcio
+  Chievo Verona       2-1  FC Crotone
+  Genoa CFC           2-3  ACF Fiorentina
+  Udinese Calcio      0-4  Inter
+  Cagliari Calcio     0-1  AS Roma
+  Sassuolo Calcio     1-0  Sampdoria
+  SSC Napoli          2-2  Torino FC
 
 ## 2. Absteiger Seriea A 2017/18:
   Hellas Verona
