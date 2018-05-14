@@ -283,14 +283,14 @@ Winterpause bis 21.1.18
   Inter               1-2  Sassuolo Calcio
   Benevento Calcio    1-0  Genoa CFC
 [Dom. 13.5.]
-  ACF Fiorentina  -  Cagliari Calcio
-  Bologna FC  -  Chievo Verona
-  AS Roma  -  Juventus
-  FC Crotone  -  Lazio Roma
-  Atalanta  -  AC Milan
-  Sampdoria  -  SSC Napoli
-  Torino FC  -  SPAL 2013 Ferrara
-  Hellas Verona  -  Udinese Calcio
+  ACF Fiorentina      0-1  Cagliari Calcio
+  Bologna FC          1-2  Chievo Verona
+  AS Roma             0-0  Juventus
+  FC Crotone          2-2  Lazio Roma
+  Atalanta            1-1  AC Milan
+  Sampdoria           0-2  SSC Napoli
+  Torino FC           2-1  SPAL 2013 Ferrara
+  Hellas Verona       0-1  Udinese Calcio
 
 ## Meister Serie A 2017/18:
    Juventus
