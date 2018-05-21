@@ -302,15 +302,18 @@ Winterpause bis 21.1.18
 [Sab. 19.5.]
   Juventus           2-1  Hellas Verona
 [Dom. 20.5.]
-  Cagliari Calcio  -  Atalanta
-  Chievo Verona  -  Benevento Calcio
-  Udinese Calcio  -  Bologna FC
-  SSC Napoli  -  FC Crotone
-  AC Milan  -  ACF Fiorentina
-  Genoa CFC  -  Torino FC
-  Lazio Roma  -  Inter
-  Sassuolo Calcio  -  AS Roma
-  SPAL 2013 Ferrara  -  Sampdoria
+  Cagliari Calcio    1-0  Atalanta
+  Chievo Verona      1-0  Benevento Calcio
+  Udinese Calcio     1-0  Bologna FC
+  SSC Napoli         2-1  FC Crotone
+  AC Milan           5-1  ACF Fiorentina
+  Genoa CFC          1-2  Torino FC
+  Lazio Roma         2-3  Inter
+  Sassuolo Calcio    0-1  AS Roma
+  SPAL 2013 Ferrara  3-1  Sampdoria
+  
+## 3. Absteiger Serie A 2017/18:
+  FC Crotone
  
 ## Playoff Sieger in Serie A 2018/19:
 [Sab. 26.5]
