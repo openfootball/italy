@@ -1,0 +1,540 @@
+###################################
+# Serie A 2018/19
+
+
+1^ Giornata
+[Sab. 18.8.]
+  Chievo Verona           - Juventus Turin
+  Lazio Rom               - SSC Neapel
+[Dom. 19.8.]
+  FC Turin                - AS Rom
+  Bologna FC              - SPAL 2013 Ferrara
+  Empoli FC               - Cagliari Calcio
+  AC Mailand              - FC Genua
+  Parma Calcio 1913       - Udinese Calcio
+  Sampdoria               - AC Florenz
+  Sassuolo Calcio         - Inter Mailand
+[Lun. 20.8.]
+  Atalanta                - Frosinone Calcio
+
+
+2^ Giornata
+[Sab. 25.8.]
+  Juventus Turin          - Lazio Rom
+  SSC Neapel              - AC Mailand
+[Dom. 26.8.]
+  SPAL 2013 Ferrara       - Parma Calcio 1913
+  Cagliari Calcio         - Sassuolo Calcio
+  AC Florenz              - Chievo Verona
+  Frosinone Calcio        - Bologna FC
+  FC Genua                - Empoli FC
+  Inter Mailand           - FC Turin
+  Udinese Calcio          - Sampdoria
+[Lun. 27.8.]
+  AS Rom                  - Atalanta
+
+
+3^ Giornata
+[Ven. 31.8.]
+  AC Mailand              - AS Rom
+[Sab. 1.9.]
+  Bologna FC              - Inter Mailand
+  Parma Calcio 1913       - Juventus Turin
+[Dom. 2.9.]
+  AC Florenz              - Udinese Calcio
+  Atalanta                - Cagliari Calcio
+  Chievo Verona           - Empoli FC
+  Lazio Rom               - Frosinone Calcio
+  Sampdoria               - SSC Neapel
+  Sassuolo Calcio         - FC Genua
+  FC Turin                - SPAL 2013 Ferrara
+
+
+4^ Giornata
+[Dom. 16.9.]
+  Cagliari Calcio         - AC Mailand
+  Empoli FC               - Lazio Rom
+  Frosinone Calcio        - Sampdoria
+  FC Genua                - Bologna FC
+  Inter Mailand           - Parma Calcio 1913
+  Juventus Turin          - Sassuolo Calcio
+  SSC Neapel              - AC Florenz
+  AS Rom                  - Chievo Verona
+  SPAL 2013 Ferrara       - Atalanta
+  Udinese Calcio          - FC Turin
+
+
+5^ Giornata
+[Dom. 23.9.]
+  Bologna FC              - AS Rom
+  Chievo Verona           - Udinese Calcio
+  AC Florenz              - SPAL 2013 Ferrara
+  Frosinone Calcio        - Juventus Turin
+  Lazio Rom               - FC Genua
+  AC Mailand              - Atalanta
+  Parma Calcio 1913       - Cagliari Calcio
+  Sampdoria               - Inter Mailand
+  Sassuolo Calcio         - Empoli FC
+  FC Turin                - SSC Neapel
+
+
+6^ Giornata
+[Mer. 26.9.]
+  Atalanta                - FC Turin
+  Cagliari Calcio         - Sampdoria
+  Empoli FC               - AC Mailand
+  FC Genua                - Chievo Verona
+  Inter Mailand           - AC Florenz
+  Juventus Turin          - Bologna FC
+  SSC Neapel              - Parma Calcio 1913
+  AS Rom                  - Frosinone Calcio
+  SPAL 2013 Ferrara       - Sassuolo Calcio
+  Udinese Calcio          - Lazio Rom
+
+
+7^ Giornata
+[Dom. 30.9.]
+  Bologna FC              - Udinese Calcio
+  Chievo Verona           - FC Turin
+  AC Florenz              - Atalanta
+  Frosinone Calcio        - FC Genua
+  Inter Mailand           - Cagliari Calcio
+  Juventus Turin          - SSC Neapel
+  Parma Calcio 1913       - Empoli FC
+  AS Rom                  - Lazio Rom
+  Sampdoria               - SPAL 2013 Ferrara
+  Sassuolo Calcio         - AC Mailand
+
+
+8^ Giornata
+[Dom. 7.10.]
+  Atalanta                - Sampdoria
+  Cagliari Calcio         - Bologna FC
+  Empoli FC               - AS Rom
+  FC Genua                - Parma Calcio 1913
+  Lazio Rom               - AC Florenz
+  AC Mailand              - Chievo Verona
+  SSC Neapel              - Sassuolo Calcio
+  SPAL 2013 Ferrara       - Inter Mailand
+  FC Turin                - Frosinone Calcio
+  Udinese Calcio          - Juventus Turin
+
+
+9^ Giornata
+[Dom. 21.10.]
+  Bologna FC              - FC Turin
+  Chievo Verona           - Atalanta
+  AC Florenz              - Cagliari Calcio
+  Frosinone Calcio        - Empoli FC
+  Inter Mailand           - AC Mailand
+  Juventus Turin          - FC Genua
+  Parma Calcio 1913       - Lazio Rom
+  AS Rom                  - SPAL 2013 Ferrara
+  Sampdoria               - Sassuolo Calcio
+  Udinese Calcio          - SSC Neapel
+
+
+10^ Giornata
+[Dom. 28.10.]
+  Atalanta                - Parma Calcio 1913
+  Cagliari Calcio         - Chievo Verona
+  Empoli FC               - Juventus Turin
+  FC Genua                - Udinese Calcio
+  Lazio Rom               - Inter Mailand
+  AC Mailand              - Sampdoria
+  SSC Neapel              - AS Rom
+  Sassuolo Calcio         - Bologna FC
+  SPAL 2013 Ferrara       - Frosinone Calcio
+  FC Turin                - AC Florenz
+
+
+11^ Giornata
+[Dom. 4.11.]
+  Bologna FC              - Atalanta
+  Chievo Verona           - Sassuolo Calcio
+  AC Florenz              - AS Rom
+  Inter Mailand           - FC Genua
+  Juventus Turin          - Cagliari Calcio
+  Lazio Rom               - SPAL 2013 Ferrara
+  SSC Neapel              - Empoli FC
+  Parma Calcio 1913       - Frosinone Calcio
+  Sampdoria               - FC Turin
+  Udinese Calcio          - AC Mailand
+
+
+12^ Giornata
+[Dom. 11.11.]
+  Atalanta                - Inter Mailand
+  Chievo Verona           - Bologna FC
+  Empoli FC               - Udinese Calcio
+  Frosinone Calcio        - AC Florenz
+  FC Genua                - SSC Neapel
+  AC Mailand              - Juventus Turin
+  AS Rom                  - Sampdoria
+  Sassuolo Calcio         - Lazio Rom
+  SPAL 2013 Ferrara       - Cagliari Calcio
+  FC Turin                - Parma Calcio 1913
+
+
+13^ Giornata
+[Dom. 25.11.]
+  Bologna FC              - AC Florenz
+  Cagliari Calcio         - FC Turin
+  Empoli FC               - Atalanta
+  FC Genua                - Sampdoria
+  Inter Mailand           - Frosinone Calcio
+  Juventus Turin          - SPAL 2013 Ferrara
+  Lazio Rom               - AC Mailand
+  SSC Neapel              - Chievo Verona
+  Parma Calcio 1913       - Sassuolo Calcio
+  Udinese Calcio          - AS Rom
+
+
+14^ Giornata
+[Dom. 2.12.]
+  Atalanta                - SSC Neapel
+  Chievo Verona           - Lazio Rom
+  AC Florenz              - Juventus Turin
+  Frosinone Calcio        - Cagliari Calcio
+  AC Mailand              - Parma Calcio 1913
+  AS Rom                  - Inter Mailand
+  Sampdoria               - Bologna FC
+  Sassuolo Calcio         - Udinese Calcio
+  SPAL 2013 Ferrara       - Empoli FC
+  FC Turin                - FC Genua
+
+
+15^ Giornata
+[Dom. 9.12.]
+  Cagliari Calcio         - AS Rom
+  Empoli FC               - Bologna FC
+  FC Genua                - SPAL 2013 Ferrara
+  Juventus Turin          - Inter Mailand
+  Lazio Rom               - Sampdoria
+  AC Mailand              - FC Turin
+  SSC Neapel              - Frosinone Calcio
+  Parma Calcio 1913       - Chievo Verona
+  Sassuolo Calcio         - AC Florenz
+  Udinese Calcio          - Atalanta
+
+
+16^ Giornata
+[Dom. 16.12.]
+  Atalanta                - Lazio Rom
+  Bologna FC              - AC Mailand
+  Cagliari Calcio         - SSC Neapel
+  AC Florenz              - Empoli FC
+  Frosinone Calcio        - Sassuolo Calcio
+  Inter Mailand           - Udinese Calcio
+  AS Rom                  - FC Genua
+  Sampdoria               - Parma Calcio 1913
+  SPAL 2013 Ferrara       - Chievo Verona
+  FC Turin                - Juventus Turin
+
+
+17^ Giornata
+[Sab. 22.12.]
+  Chievo Verona           - Inter Mailand
+  Empoli FC               - Sampdoria
+  FC Genua                - Atalanta
+  Juventus Turin          - AS Rom
+  Lazio Rom               - Cagliari Calcio
+  AC Mailand              - AC Florenz
+  SSC Neapel              - SPAL 2013 Ferrara
+  Parma Calcio 1913       - Bologna FC
+  Sassuolo Calcio         - FC Turin
+  Udinese Calcio          - Frosinone Calcio
+
+
+18^ Giornata
+[Mer. 26.12.]
+  Atalanta                - Juventus Turin
+  Bologna FC              - Lazio Rom
+  Cagliari Calcio         - FC Genua
+  AC Florenz              - Parma Calcio 1913
+  Frosinone Calcio        - AC Mailand
+  Inter Mailand           - SSC Neapel
+  AS Rom                  - Sassuolo Calcio
+  Sampdoria               - Chievo Verona
+  SPAL 2013 Ferrara       - Udinese Calcio
+  FC Turin                - Empoli FC
+
+
+19^ Giornata
+[Sab. 29.12.]
+  Chievo Verona           - Frosinone Calcio
+  Empoli FC               - Inter Mailand
+  FC Genua                - AC Florenz
+  Juventus Turin          - Sampdoria
+  Lazio Rom               - FC Turin
+  AC Mailand              - SPAL 2013 Ferrara
+  SSC Neapel              - Bologna FC
+  Parma Calcio 1913       - AS Rom
+  Sassuolo Calcio         - Atalanta
+  Udinese Calcio          - Cagliari Calcio
+
+
+20^ Giornata
+[Dom. 20.1.]
+  Frosinone Calcio        - Atalanta
+  SPAL 2013 Ferrara       - Bologna FC
+  Juventus Turin          - Chievo Verona
+  Cagliari Calcio         - Empoli FC
+  SSC Neapel              - Lazio Rom
+  FC Genua                - AC Mailand
+  Udinese Calcio          - Parma Calcio 1913
+  AC Florenz              - Sampdoria
+  Inter Mailand           - Sassuolo Calcio
+  AS Rom                  - FC Turin
+
+
+21^ Giornata
+[Dom. 27.1.]
+  Sassuolo Calcio         - Cagliari Calcio
+  Chievo Verona           - AC Florenz
+  Bologna FC              - Frosinone Calcio
+  Empoli FC               - FC Genua
+  FC Turin                - Inter Mailand
+  Lazio Rom               - Juventus Turin
+  AC Mailand              - SSC Neapel
+  Atalanta                - AS Rom
+  Parma Calcio 1913       - SPAL 2013 Ferrara
+  Sampdoria               - Udinese Calcio
+
+
+22^ Giornata
+[Dom. 3.2.]
+  Cagliari Calcio         - Atalanta
+  Inter Mailand           - Bologna FC
+  Empoli FC               - Chievo Verona
+  Udinese Calcio          - AC Florenz
+  Frosinone Calcio        - Lazio Rom
+  AS Rom                  - AC Mailand
+  Juventus Turin          - Parma Calcio 1913
+  SSC Neapel              - Sampdoria
+  FC Genua                - Sassuolo Calcio
+  SPAL 2013 Ferrara       - FC Turin
+
+
+23^ Giornata
+[Dom. 10.2.]
+  AC Mailand              - Cagliari Calcio
+  Lazio Rom               - Empoli FC
+  Sampdoria               - Frosinone Calcio
+  Bologna FC              - FC Genua
+  Parma Calcio 1913       - Inter Mailand
+  Sassuolo Calcio         - Juventus Turin
+  AC Florenz              - SSC Neapel
+  Chievo Verona           - AS Rom
+  Atalanta                - SPAL 2013 Ferrara
+  FC Turin                - Udinese Calcio
+
+
+24^ Giornata
+[Dom. 17.2.]
+  AS Rom                  - Bologna FC
+  Udinese Calcio          - Chievo Verona
+  SPAL 2013 Ferrara       - AC Florenz
+  Juventus Turin          - Frosinone Calcio
+  FC Genua                - Lazio Rom
+  Atalanta                - AC Mailand
+  Cagliari Calcio         - Parma Calcio 1913
+  Inter Mailand           - Sampdoria
+  Empoli FC               - Sassuolo Calcio
+  SSC Neapel              - FC Turin
+
+
+25^ Giornata
+[Dom. 24.2.]
+  FC Turin                - Atalanta
+  Sampdoria               - Cagliari Calcio
+  AC Mailand              - Empoli FC
+  Chievo Verona           - FC Genua
+  AC Florenz              - Inter Mailand
+  Bologna FC              - Juventus Turin
+  Parma Calcio 1913       - SSC Neapel
+  Frosinone Calcio        - AS Rom
+  Sassuolo Calcio         - SPAL 2013 Ferrara
+  Lazio Rom               - Udinese Calcio
+
+
+26^ Giornata
+[Dom. 3.3.]
+  Udinese Calcio          - Bologna FC
+  FC Turin                - Chievo Verona
+  Atalanta                - AC Florenz
+  FC Genua                - Frosinone Calcio
+  Cagliari Calcio         - Inter Mailand
+  SSC Neapel              - Juventus Turin
+  Empoli FC               - Parma Calcio 1913
+  Lazio Rom               - AS Rom
+  SPAL 2013 Ferrara       - Sampdoria
+  AC Mailand              - Sassuolo Calcio
+
+
+27^ Giornata
+[Dom. 10.3.]
+  Sampdoria               - Atalanta
+  Bologna FC              - Cagliari Calcio
+  AS Rom                  - Empoli FC
+  Parma Calcio 1913       - FC Genua
+  AC Florenz              - Lazio Rom
+  Chievo Verona           - AC Mailand
+  Sassuolo Calcio         - SSC Neapel
+  Inter Mailand           - SPAL 2013 Ferrara
+  Frosinone Calcio        - FC Turin
+  Juventus Turin          - Udinese Calcio
+
+
+28^ Giornata
+[Dom. 17.3.]
+  FC Turin                - Bologna FC
+  Atalanta                - Chievo Verona
+  Cagliari Calcio         - AC Florenz
+  Empoli FC               - Frosinone Calcio
+  AC Mailand              - Inter Mailand
+  FC Genua                - Juventus Turin
+  Lazio Rom               - Parma Calcio 1913
+  SPAL 2013 Ferrara       - AS Rom
+  Sassuolo Calcio         - Sampdoria
+  SSC Neapel              - Udinese Calcio
+
+
+29^ Giornata
+[Dom. 31.3.]
+  Parma Calcio 1913       - Atalanta
+  Chievo Verona           - Cagliari Calcio
+  Juventus Turin          - Empoli FC
+  Udinese Calcio          - FC Genua
+  Inter Mailand           - Lazio Rom
+  Sampdoria               - AC Mailand
+  AS Rom                  - SSC Neapel
+  Bologna FC              - Sassuolo Calcio
+  Frosinone Calcio        - SPAL 2013 Ferrara
+  AC Florenz              - FC Turin
+
+
+30^ Giornata
+[Mer. 3.4.]
+  Atalanta                - Bologna FC
+  Sassuolo Calcio         - Chievo Verona
+  AS Rom                  - AC Florenz
+  FC Genua                - Inter Mailand
+  Cagliari Calcio         - Juventus Turin
+  SPAL 2013 Ferrara       - Lazio Rom
+  Empoli FC               - SSC Neapel
+  Frosinone Calcio        - Parma Calcio 1913
+  FC Turin                - Sampdoria
+  AC Mailand              - Udinese Calcio
+
+
+31^ Giornata
+[Dom. 7.4.]
+  Inter Mailand           - Atalanta
+  Bologna FC              - Chievo Verona
+  Udinese Calcio          - Empoli FC
+  AC Florenz              - Frosinone Calcio
+  SSC Neapel              - FC Genua
+  Juventus Turin          - AC Mailand
+  Sampdoria               - AS Rom
+  Lazio Rom               - Sassuolo Calcio
+  Cagliari Calcio         - SPAL 2013 Ferrara
+  Parma Calcio 1913       - FC Turin
+
+
+32^ Giornata
+[Dom. 14.4.]
+  AC Florenz              - Bologna FC
+  FC Turin                - Cagliari Calcio
+  Atalanta                - Empoli FC
+  Sampdoria               - FC Genua
+  Frosinone Calcio        - Inter Mailand
+  SPAL 2013 Ferrara       - Juventus Turin
+  AC Mailand              - Lazio Rom
+  Chievo Verona           - SSC Neapel
+  Sassuolo Calcio         - Parma Calcio 1913
+  AS Rom                  - Udinese Calcio
+
+
+33^ Giornata
+[Sab. 20.4.]
+  SSC Neapel              - Atalanta
+  Lazio Rom               - Chievo Verona
+  Juventus Turin          - AC Florenz
+  Cagliari Calcio         - Frosinone Calcio
+  Parma Calcio 1913       - AC Mailand
+  Inter Mailand           - AS Rom
+  Bologna FC              - Sampdoria
+  Udinese Calcio          - Sassuolo Calcio
+  Empoli FC               - SPAL 2013 Ferrara
+  FC Genua                - FC Turin
+
+
+34^ Giornata
+[Dom. 28.4.]
+  AS Rom                  - Cagliari Calcio
+  Bologna FC              - Empoli FC
+  SPAL 2013 Ferrara       - FC Genua
+  Inter Mailand           - Juventus Turin
+  Sampdoria               - Lazio Rom
+  FC Turin                - AC Mailand
+  Frosinone Calcio        - SSC Neapel
+  Chievo Verona           - Parma Calcio 1913
+  AC Florenz              - Sassuolo Calcio
+  Atalanta                - Udinese Calcio
+
+
+35^ Giornata
+[Dom. 5.5.]
+  Lazio Rom               - Atalanta
+  AC Mailand              - Bologna FC
+  SSC Neapel              - Cagliari Calcio
+  Empoli FC               - AC Florenz
+  Sassuolo Calcio         - Frosinone Calcio
+  Udinese Calcio          - Inter Mailand
+  FC Genua                - AS Rom
+  Parma Calcio 1913       - Sampdoria
+  Chievo Verona           - SPAL 2013 Ferrara
+  Juventus Turin          - FC Turin
+
+
+36^ Giornata
+[Dom. 12.5.]
+  Inter Mailand           - Chievo Verona
+  Sampdoria               - Empoli FC
+  Atalanta                - FC Genua
+  AS Rom                  - Juventus Turin
+  Cagliari Calcio         - Lazio Rom
+  AC Florenz              - AC Mailand
+  SPAL 2013 Ferrara       - SSC Neapel
+  Bologna FC              - Parma Calcio 1913
+  FC Turin                - Sassuolo Calcio
+  Frosinone Calcio        - Udinese Calcio
+
+
+37^ Giornata
+[Dom. 19.5.]
+  Juventus Turin          - Atalanta
+  Lazio Rom               - Bologna FC
+  FC Genua                - Cagliari Calcio
+  Parma Calcio 1913       - AC Florenz
+  AC Mailand              - Frosinone Calcio
+  SSC Neapel              - Inter Mailand
+  Sassuolo Calcio         - AS Rom
+  Chievo Verona           - Sampdoria
+  Udinese Calcio          - SPAL 2013 Ferrara
+  Empoli FC               - FC Turin
+
+
+38^ Giornata
+[Dom. 26.5.]
+  Frosinone Calcio        - Chievo Verona
+  Inter Mailand           - Empoli FC
+  AC Florenz              - FC Genua
+  Sampdoria               - Juventus Turin
+  FC Turin                - Lazio Rom
+  SPAL 2013 Ferrara       - AC Mailand
+  Bologna FC              - SSC Neapel
+  AS Rom                  - Parma Calcio 1913
+  Atalanta                - Sassuolo Calcio
+  Cagliari Calcio         - Udinese Calcio
