@@ -7,13 +7,13 @@
   Chievo Verona           2-3 Juventus Turin
   Lazio Rom               1-2 SSC Neapel
 [Dom. 19.8.]
-  FC Turin                - AS Rom
-  Bologna FC              - SPAL 2013 Ferrara
-  Empoli FC               - Cagliari Calcio
-  AC Mailand              - FC Genua
-  Parma Calcio 1913       - Udinese Calcio
-  Sampdoria               - AC Florenz
-  Sassuolo Calcio         - Inter Mailand
+  FC Turin                0-1 AS Rom
+  Bologna FC              0-1 SPAL 2013 Ferrara
+  Empoli FC               2-0 Cagliari Calcio
+  AC Mailand              - FC Genua            differire a
+  Parma Calcio 1913       2-2 Udinese Calcio
+  Sampdoria               - AC Florenz          differire a
+  Sassuolo Calcio         1-0 Inter Mailand
 [Lun. 20.8.]
   Atalanta                - Frosinone Calcio
 
