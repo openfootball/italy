@@ -63,7 +63,7 @@
   SPAL 2013 Ferrara       - Atalanta
   Udinese Calcio          - FC Turin
 
-## completanento 1^Giornata
+## completanento 1^ Giornata
 [Mer. 19.9.]
   Sampdoria               - AC Florenz
 
@@ -150,7 +150,7 @@
   SPAL 2013 Ferrara       - Frosinone Calcio
   FC Turin                - AC Florenz
 
-## completanento 1^Giornata
+## completanento 1^ Giornata
 [Mer. 31.10.]
    AC Mailand             - FC Genua
 
