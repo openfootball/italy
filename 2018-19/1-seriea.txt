@@ -23,13 +23,13 @@
   Juventus Turin          2-0 Lazio Rom
   SSC Neapel              3-2 AC Mailand
 [Dom. 26.8.]
-  SPAL 2013 Ferrara       - Parma Calcio 1913
-  Cagliari Calcio         - Sassuolo Calcio
-  AC Florenz              - Chievo Verona
-  Frosinone Calcio        - Bologna FC
-  FC Genua                - Empoli FC
-  Inter Mailand           - FC Turin
-  Udinese Calcio          - Sampdoria
+  SPAL 2013 Ferrara       1-0 Parma Calcio 1913
+  Cagliari Calcio         2-2 Sassuolo Calcio
+  AC Florenz              6-1 Chievo Verona
+  Frosinone Calcio        0-0 Bologna FC
+  FC Genua                2-1 Empoli FC
+  Inter Mailand           2-2 FC Turin
+  Udinese Calcio          1-0 Sampdoria
 [Lun. 27.8.]
   AS Rom                  - Atalanta
 
