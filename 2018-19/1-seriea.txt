@@ -41,13 +41,13 @@
   Bologna FC              0-3 Inter Mailand
   Parma Calcio 1913       1-2 Juventus Turin
 [Dom. 2.9.]
-  AC Florenz              - Udinese Calcio
-  Atalanta                - Cagliari Calcio
-  Chievo Verona           - Empoli FC
-  Lazio Rom               - Frosinone Calcio
-  Sampdoria               - SSC Neapel
-  Sassuolo Calcio         - FC Genua
-  FC Turin                - SPAL 2013 Ferrara
+  AC Florenz              1-0 Udinese Calcio
+  Atalanta                0-1 Cagliari Calcio
+  Chievo Verona           0-0 Empoli FC
+  Lazio Rom               1-0 Frosinone Calcio
+  Sampdoria               3-0 SSC Neapel
+  Sassuolo Calcio         5-3 FC Genua
+  FC Turin                1-0 SPAL 2013 Ferrara
 
 
 4^ Giornata
