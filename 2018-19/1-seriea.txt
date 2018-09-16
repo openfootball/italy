@@ -51,35 +51,37 @@
 
 
 4^ Giornata
-[Sab. 15.9]
+[Sab. 15.9.]
   Frosinone Calcio        0-5 Sampdoria
   Inter Mailand           0-1 Parma Calcio 1913
   SSC Neapel              1-0 AC Florenz
-  
 [Dom. 16.9.]
   Cagliari Calcio         - AC Mailand
   Empoli FC               - Lazio Rom
   FC Genua                - Bologna FC
   Juventus Turin          - Sassuolo Calcio
   AS Rom                  - Chievo Verona
-  SPAL 2013 Ferrara       - Atalanta
   Udinese Calcio          - FC Turin
-
+[Lun. 17.9.]
+  SPAL 2013 Ferrara       - Atalanta
+  
 ## completanento 1^ Giornata
 [Mer. 19.9.]
   Sampdoria               - AC Florenz
 
 5^ Giornata
+[Ven. 21.9.]
+  Sassuolo Calcio         - Empoli FC
+[Sab. 22.9.]
+  Parma Calcio 1913       - Cagliari Calcio
+  Sampdoria               - Inter Mailand
+  AC Florenz              - SPAL 2013 Ferrara
 [Dom. 23.9.]
   Bologna FC              - AS Rom
   Chievo Verona           - Udinese Calcio
-  AC Florenz              - SPAL 2013 Ferrara
   Frosinone Calcio        - Juventus Turin
   Lazio Rom               - FC Genua
   AC Mailand              - Atalanta
-  Parma Calcio 1913       - Cagliari Calcio
-  Sampdoria               - Inter Mailand
-  Sassuolo Calcio         - Empoli FC
   FC Turin                - SSC Neapel
 
 
