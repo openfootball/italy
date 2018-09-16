@@ -86,59 +86,65 @@
 
 
 6^ Giornata
+[Mar. 25.9.]
+  Inter Mailand           - AC Florenz
 [Mer. 26.9.]
   Atalanta                - FC Turin
   Cagliari Calcio         - Sampdoria
-  Empoli FC               - AC Mailand
   FC Genua                - Chievo Verona
-  Inter Mailand           - AC Florenz
   Juventus Turin          - Bologna FC
   SSC Neapel              - Parma Calcio 1913
   AS Rom                  - Frosinone Calcio
-  SPAL 2013 Ferrara       - Sassuolo Calcio
   Udinese Calcio          - Lazio Rom
-
-
+[Gio. 27.9.]
+  SPAL 2013 Ferrara       - Sassuolo Calcio
+  Empoli FC               - AC Mailand
+  
 7^ Giornata
+[Sab. 29.9.]
+  Inter Mailand           - Cagliari Calcio
+  Juventus Turin          - SSC Neapel
+  AS Rom                  - Lazio Rom
 [Dom. 30.9.]
   Bologna FC              - Udinese Calcio
   Chievo Verona           - FC Turin
   AC Florenz              - Atalanta
   Frosinone Calcio        - FC Genua
-  Inter Mailand           - Cagliari Calcio
-  Juventus Turin          - SSC Neapel
   Parma Calcio 1913       - Empoli FC
-  AS Rom                  - Lazio Rom
-  Sampdoria               - SPAL 2013 Ferrara
   Sassuolo Calcio         - AC Mailand
-
+[Lun. 1.10.]
+  Sampdoria               - SPAL 2013 Ferrara
 
 8^ Giornata
+[Ven. 5.10.]
+  FC Turin                - Frosinone Calcio
+[Sab. 6.10.]
+ Cagliari Calcio         - Bologna FC
+  Empoli FC               - AS Rom
+  Udinese Calcio          - Juventus Turin
 [Dom. 7.10.]
   Atalanta                - Sampdoria
-  Cagliari Calcio         - Bologna FC
-  Empoli FC               - AS Rom
   FC Genua                - Parma Calcio 1913
   Lazio Rom               - AC Florenz
   AC Mailand              - Chievo Verona
   SSC Neapel              - Sassuolo Calcio
   SPAL 2013 Ferrara       - Inter Mailand
-  FC Turin                - Frosinone Calcio
-  Udinese Calcio          - Juventus Turin
-
-
+ 
+  
 9^ Giornata
+[Sab. 20.10.]
+  Juventus Turin          - FC Genua
+  AS Rom                  - SPAL 2013 Ferrara
+  Udinese Calcio          - SSC Neapel
 [Dom. 21.10.]
   Bologna FC              - FC Turin
   Chievo Verona           - Atalanta
   AC Florenz              - Cagliari Calcio
   Frosinone Calcio        - Empoli FC
   Inter Mailand           - AC Mailand
-  Juventus Turin          - FC Genua
   Parma Calcio 1913       - Lazio Rom
-  AS Rom                  - SPAL 2013 Ferrara
+[Lun. 22.10.]
   Sampdoria               - Sassuolo Calcio
-  Udinese Calcio          - SSC Neapel
 
 
 10^ Giornata
