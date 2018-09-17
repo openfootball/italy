@@ -56,12 +56,12 @@
   Inter Mailand           0-1 Parma Calcio 1913
   SSC Neapel              1-0 AC Florenz
 [Dom. 16.9.]
-  Cagliari Calcio         - AC Mailand
-  Empoli FC               - Lazio Rom
-  FC Genua                - Bologna FC
-  Juventus Turin          - Sassuolo Calcio
-  AS Rom                  - Chievo Verona
-  Udinese Calcio          - FC Turin
+  Cagliari Calcio         1-1 AC Mailand
+  Empoli FC               0-1 Lazio Rom
+  FC Genua                1-0 Bologna FC
+  Juventus Turin          2-1 Sassuolo Calcio
+  AS Rom                  2-2 Chievo Verona
+  Udinese Calcio          1-1 FC Turin
 [Lun. 17.9.]
   SPAL 2013 Ferrara       - Atalanta
   
