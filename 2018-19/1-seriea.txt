@@ -12,7 +12,7 @@
   Empoli FC               2-0 Cagliari Calcio
   AC Mailand              - FC Genua            differire a 31.10.18
   Parma Calcio 1913       2-2 Udinese Calcio
-  Sampdoria               - AC Florenz          differire a 19.9.18
+  Sampdoria               1-1 AC Florenz          
   Sassuolo Calcio         1-0 Inter Mailand
 [Lun. 20.8.]
   Atalanta                4-0 Frosinone Calcio
@@ -67,7 +67,7 @@
   
 ## completanento 1^ Giornata
 [Mer. 19.9.]
-  Sampdoria               - AC Florenz
+  Sampdoria               1-1 AC Florenz
 
 5^ Giornata
 [Ven. 21.9.]
