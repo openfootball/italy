@@ -77,12 +77,12 @@
   Sampdoria               0-1 Inter Mailand
   AC Florenz              3-0 SPAL 2013 Ferrara
 [Dom. 23.9.]
-  Bologna FC              - AS Rom
-  Chievo Verona           - Udinese Calcio
-  Frosinone Calcio        - Juventus Turin
-  Lazio Rom               - FC Genua
-  AC Mailand              - Atalanta
-  FC Turin                - SSC Neapel
+  Bologna FC              2-0 AS Rom
+  Chievo Verona           0-2 Udinese Calcio
+  Frosinone Calcio        0-2 Juventus Turin
+  Lazio Rom               4-1 FC Genua
+  AC Mailand              2-2 Atalanta
+  FC Turin                1-3 SSC Neapel
 
 
 6^ Giornata
