@@ -200,59 +200,66 @@
 
 
 13^ Giornata
-[Dom. 25.11.]
-  Bologna FC              - AC Florenz
-  Cagliari Calcio         - FC Turin
-  Empoli FC               - Atalanta
-  FC Genua                - Sampdoria
+[Sab. 24.11.]
   Inter Mailand           - Frosinone Calcio
   Juventus Turin          - SPAL 2013 Ferrara
+  Udinese Calcio          - AS Rom
+[Dom. 25.11.]
+  Bologna FC              - AC Florenz
+  Empoli FC               - Atalanta
+  FC Genua                - Sampdoria
   Lazio Rom               - AC Mailand
   SSC Neapel              - Chievo Verona
   Parma Calcio 1913       - Sassuolo Calcio
-  Udinese Calcio          - AS Rom
+[Lun. 26.11.]
+  Cagliari Calcio         - FC Turin
 
 
 14^ Giornata
-[Dom. 2.12.]
-  Atalanta                - SSC Neapel
-  Chievo Verona           - Lazio Rom
+[Sab. 1.12.]
   AC Florenz              - Juventus Turin
+  Sampdoria               - Bologna FC
+  SPAL 2013 Ferrara       - Empoli FC
+[Dom. 2.12.]
+  Chievo Verona           - Lazio Rom
   Frosinone Calcio        - Cagliari Calcio
   AC Mailand              - Parma Calcio 1913
   AS Rom                  - Inter Mailand
-  Sampdoria               - Bologna FC
   Sassuolo Calcio         - Udinese Calcio
-  SPAL 2013 Ferrara       - Empoli FC
   FC Turin                - FC Genua
-
+[Lun. 3.12.]
+  Atalanta                - SSC Neapel
 
 15^ Giornata
-[Dom. 9.12.]
+[Ven. 7.12.]
+  Juventus Turin          - Inter Mailand
+[Sab. 8.12.]
+  SSC Neapel              - Frosinone Calcio
   Cagliari Calcio         - AS Rom
+  Lazio Rom               - Sampdoria
+[Dom. 9.12.]
   Empoli FC               - Bologna FC
   FC Genua                - SPAL 2013 Ferrara
-  Juventus Turin          - Inter Mailand
-  Lazio Rom               - Sampdoria
   AC Mailand              - FC Turin
-  SSC Neapel              - Frosinone Calcio
   Parma Calcio 1913       - Chievo Verona
   Sassuolo Calcio         - AC Florenz
   Udinese Calcio          - Atalanta
 
 
 16^ Giornata
+[Sab. 15.12.]
+  Inter Mailand           - Udinese Calcio
+  FC Turin                - Juventus Turin
 [Dom. 16.12.]
-  Atalanta                - Lazio Rom
-  Bologna FC              - AC Mailand
   Cagliari Calcio         - SSC Neapel
   AC Florenz              - Empoli FC
   Frosinone Calcio        - Sassuolo Calcio
-  Inter Mailand           - Udinese Calcio
   AS Rom                  - FC Genua
   Sampdoria               - Parma Calcio 1913
   SPAL 2013 Ferrara       - Chievo Verona
-  FC Turin                - Juventus Turin
+[Lun. 17.12.]
+  Atalanta                - Lazio Rom
+  Bologna FC              - AC Mailand
 
 
 17^ Giornata
