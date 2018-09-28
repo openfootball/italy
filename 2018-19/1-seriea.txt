@@ -148,48 +148,55 @@
 
 
 10^ Giornata
-[Dom. 28.10.]
+[Sab. 27.10.]
   Atalanta                - Parma Calcio 1913
-  Cagliari Calcio         - Chievo Verona
   Empoli FC               - Juventus Turin
+  FC Turin                - AC Florenz
+[Dom. 28.10.]
+  Cagliari Calcio         - Chievo Verona
   FC Genua                - Udinese Calcio
-  Lazio Rom               - Inter Mailand
   AC Mailand              - Sampdoria
   SSC Neapel              - AS Rom
   Sassuolo Calcio         - Bologna FC
   SPAL 2013 Ferrara       - Frosinone Calcio
-  FC Turin                - AC Florenz
+[Lun. 29.10.]
+  Lazio Rom               - Inter Mailand
 
 ## completanento 1^ Giornata
 [Mer. 31.10.]
    AC Mailand             - FC Genua
 
 11^ Giornata
-[Dom. 4.11.]
-  Bologna FC              - Atalanta
-  Chievo Verona           - Sassuolo Calcio
+[Ven. 2.11.]
+  SSC Neapel              - Empoli FC
+[Sab. 3.11.]
   AC Florenz              - AS Rom
   Inter Mailand           - FC Genua
   Juventus Turin          - Cagliari Calcio
+[Dom. 4.11.]
+  Bologna FC              - Atalanta
+  Chievo Verona           - Sassuolo Calcio
   Lazio Rom               - SPAL 2013 Ferrara
-  SSC Neapel              - Empoli FC
   Parma Calcio 1913       - Frosinone Calcio
   Sampdoria               - FC Turin
   Udinese Calcio          - AC Mailand
 
 
 12^ Giornata
+[Ven. 9.11.]
+  Frosinone Calcio        - AC Florenz
+[Sab. 10.11.]
+  SPAL 2013 Ferrara       - Cagliari Calcio
+  FC Turin                - Parma Calcio 1913
+  FC Genua                - SSC Neapel
 [Dom. 11.11.]
   Atalanta                - Inter Mailand
   Chievo Verona           - Bologna FC
   Empoli FC               - Udinese Calcio
-  Frosinone Calcio        - AC Florenz
-  FC Genua                - SSC Neapel
   AC Mailand              - Juventus Turin
   AS Rom                  - Sampdoria
   Sassuolo Calcio         - Lazio Rom
-  SPAL 2013 Ferrara       - Cagliari Calcio
-  FC Turin                - Parma Calcio 1913
+  
 
 
 13^ Giornata
