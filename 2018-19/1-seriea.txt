@@ -106,12 +106,12 @@
   Juventus Turin          3-1 SSC Neapel
   AS Rom                  3-1 Lazio Rom
 [Dom. 30.9.]
-  Bologna FC              - Udinese Calcio
-  Chievo Verona           - FC Turin
-  AC Florenz              - Atalanta
-  Frosinone Calcio        - FC Genua
-  Parma Calcio 1913       - Empoli FC
-  Sassuolo Calcio         - AC Mailand
+  Bologna FC              2-1 Udinese Calcio
+  Chievo Verona           0-1 FC Turin
+  AC Florenz              2-0 Atalanta
+  Frosinone Calcio        1-2 FC Genua
+  Parma Calcio 1913       1-0 Empoli FC
+  Sassuolo Calcio         1-4 AC Mailand
 [Lun. 1.10.]
   Sampdoria               - SPAL 2013 Ferrara
 
