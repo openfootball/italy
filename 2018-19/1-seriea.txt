@@ -123,12 +123,12 @@
   Empoli FC               0-2 AS Rom
   Udinese Calcio          0-2 Juventus Turin
 [Dom. 7.10.]
-  Atalanta                - Sampdoria
-  FC Genua                - Parma Calcio 1913
-  Lazio Rom               - AC Florenz
-  AC Mailand              - Chievo Verona
-  SSC Neapel              - Sassuolo Calcio
-  SPAL 2013 Ferrara       - Inter Mailand
+  Atalanta                0-1 Sampdoria
+  FC Genua                1-3 Parma Calcio 1913
+  Lazio Rom               1-0 AC Florenz
+  AC Mailand              3-1 Chievo Verona
+  SSC Neapel              2-0 Sassuolo Calcio
+  SPAL 2013 Ferrara       1-2 Inter Mailand
  
   
 9^ Giornata
