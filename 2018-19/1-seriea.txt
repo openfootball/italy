@@ -137,12 +137,12 @@
   AS Rom                  0-2 SPAL 2013 Ferrara
   Udinese Calcio          0-3 SSC Neapel
 [Dom. 21.10.]
-  Bologna FC              - FC Turin
-  Chievo Verona           - Atalanta
-  AC Florenz              - Cagliari Calcio
-  Frosinone Calcio        - Empoli FC
-  Inter Mailand           - AC Mailand
-  Parma Calcio 1913       - Lazio Rom
+  Bologna FC              2-2 FC Turin
+  Chievo Verona           1-5 Atalanta
+  AC Florenz              1-1 Cagliari Calcio
+  Frosinone Calcio        3-3 Empoli FC
+  Inter Mailand           1-0 AC Mailand
+  Parma Calcio 1913       0-2 Lazio Rom
 [Lun. 22.10.]
   Sampdoria               - Sassuolo Calcio
 
