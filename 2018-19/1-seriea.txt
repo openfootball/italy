@@ -153,14 +153,14 @@
   Empoli FC               1-2 Juventus Turin
   FC Turin                1-1 AC Florenz
 [Dom. 28.10.]
-  Cagliari Calcio         - Chievo Verona
-  FC Genua                - Udinese Calcio
-  AC Mailand              - Sampdoria
-  SSC Neapel              - AS Rom
-  Sassuolo Calcio         - Bologna FC
-  SPAL 2013 Ferrara       - Frosinone Calcio
+  Cagliari Calcio         2-1 Chievo Verona
+  FC Genua                2-2 Udinese Calcio
+  AC Mailand              3-2 Sampdoria
+  SSC Neapel              1-1 AS Rom
+  Sassuolo Calcio         2-2 Bologna FC
+  SPAL 2013 Ferrara       0-3 Frosinone Calcio
 [Lun. 29.10.]
-  Lazio Rom               - Inter Mailand
+  Lazio Rom               0-3 Inter Mailand
 
 ## completanento 1^ Giornata
 [Mer. 31.10.]
