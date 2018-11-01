@@ -10,7 +10,7 @@
   FC Turin                0-1 AS Rom
   Bologna FC              0-1 SPAL 2013 Ferrara
   Empoli FC               2-0 Cagliari Calcio
-  AC Mailand              - FC Genua            differire a 31.10.18
+  AC Mailand              2-1 FC Genua            
   Parma Calcio 1913       2-2 Udinese Calcio
   Sampdoria               1-1 AC Florenz          
   Sassuolo Calcio         1-0 Inter Mailand
@@ -164,7 +164,7 @@
 
 ## completanento 1^ Giornata
 [Mer. 31.10.]
-   AC Mailand             - FC Genua
+   AC Mailand             2-1 FC Genua
 
 11^ Giornata
 [Ven. 2.11.]
