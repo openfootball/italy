@@ -190,12 +190,12 @@
   FC Turin                1-2 Parma Calcio 1913
   FC Genua                1-2 SSC Neapel
 [Dom. 11.11.]
-  Atalanta                - Inter Mailand
-  Chievo Verona           - Bologna FC
-  Empoli FC               - Udinese Calcio
-  AC Mailand              - Juventus Turin
-  AS Rom                  - Sampdoria
-  Sassuolo Calcio         - Lazio Rom
+  Atalanta                4-1 Inter Mailand
+  Chievo Verona           2-2 Bologna FC
+  Empoli FC               2-1 Udinese Calcio
+  AC Mailand              0-2 Juventus Turin
+  AS Rom                  4-1 Sampdoria
+  Sassuolo Calcio         1-1 Lazio Rom
   
 
 
