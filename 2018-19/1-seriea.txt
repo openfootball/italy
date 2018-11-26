@@ -205,12 +205,12 @@
   Juventus Turin          2-0 SPAL 2013 Ferrara
   Udinese Calcio          1-0 AS Rom
 [Dom. 25.11.]
-  Bologna FC              - AC Florenz
-  Empoli FC               - Atalanta
-  FC Genua                - Sampdoria
-  Lazio Rom               - AC Mailand
-  SSC Neapel              - Chievo Verona
-  Parma Calcio 1913       - Sassuolo Calcio
+  Bologna FC              0-0 AC Florenz
+  Empoli FC               3-2 Atalanta
+  FC Genua                1-1 Sampdoria
+  Lazio Rom               1-1 AC Mailand
+  SSC Neapel              0-0 Chievo Verona
+  Parma Calcio 1913       2-1 Sassuolo Calcio
 [Lun. 26.11.]
   Cagliari Calcio         - FC Turin
 
