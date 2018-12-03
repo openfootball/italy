@@ -221,12 +221,12 @@
   Sampdoria               4-1 Bologna FC
   SPAL 2013 Ferrara       2-2 Empoli FC
 [Dom. 2.12.]
-  Chievo Verona           - Lazio Rom
-  Frosinone Calcio        - Cagliari Calcio
-  AC Mailand              - Parma Calcio 1913
-  AS Rom                  - Inter Mailand
-  Sassuolo Calcio         - Udinese Calcio
-  FC Turin                - FC Genua
+  Chievo Verona           1-1 Lazio Rom
+  Frosinone Calcio        1-1 Cagliari Calcio
+  AC Mailand              2-1 Parma Calcio 1913
+  AS Rom                  2-2 Inter Mailand
+  Sassuolo Calcio         0-0 Udinese Calcio
+  FC Turin                2-1 FC Genua
 [Lun. 3.12.]
   Atalanta                - SSC Neapel
 
