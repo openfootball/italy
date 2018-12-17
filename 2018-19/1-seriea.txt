@@ -251,12 +251,12 @@
   Inter Mailand           1-0 Udinese Calcio
   FC Turin                0-1 Juventus Turin
 [Dom. 16.12.]
-  Cagliari Calcio         - SSC Neapel
-  AC Florenz              - Empoli FC
-  Frosinone Calcio        - Sassuolo Calcio
-  AS Rom                  - FC Genua
-  Sampdoria               - Parma Calcio 1913
-  SPAL 2013 Ferrara       - Chievo Verona
+  Cagliari Calcio         0-1 SSC Neapel
+  AC Florenz              3-1 Empoli FC
+  Frosinone Calcio        0-2 Sassuolo Calcio
+  AS Rom                  3-2 FC Genua
+  Sampdoria               2-0 Parma Calcio 1913
+  SPAL 2013 Ferrara       0-0 Chievo Verona
 [Lun. 17.12.]
   Atalanta                - Lazio Rom
 [Mar. 18.12.]
