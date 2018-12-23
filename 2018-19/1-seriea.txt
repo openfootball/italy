@@ -265,16 +265,16 @@
 
 17^ Giornata
 [Sab. 22.12.]
-  Chievo Verona           - Inter Mailand
-  Empoli FC               - Sampdoria
-  FC Genua                - Atalanta
-  Juventus Turin          - AS Rom
-  Lazio Rom               - Cagliari Calcio
-  AC Mailand              - AC Florenz
-  SSC Neapel              - SPAL 2013 Ferrara
-  Parma Calcio 1913       - Bologna FC
-  Sassuolo Calcio         - FC Turin
-  Udinese Calcio          - Frosinone Calcio
+  Chievo Verona           1-1 Inter Mailand
+  Empoli FC               2-4 Sampdoria
+  FC Genua                3-1 Atalanta
+  Juventus Turin          1-0 AS Rom
+  Lazio Rom               3-1 Cagliari Calcio
+  AC Mailand              0-1 AC Florenz
+  SSC Neapel              1-0 SPAL 2013 Ferrara
+  Parma Calcio 1913       0-0 Bologna FC
+  Sassuolo Calcio         1-1 FC Turin
+  Udinese Calcio          1-1 Frosinone Calcio
 
 
 18^ Giornata
