@@ -279,16 +279,16 @@
 
 18^ Giornata
 [Mer. 26.12.]
-  Atalanta                - Juventus Turin
-  Bologna FC              - Lazio Rom
-  Cagliari Calcio         - FC Genua
-  AC Florenz              - Parma Calcio 1913
-  Frosinone Calcio        - AC Mailand
-  Inter Mailand           - SSC Neapel
-  AS Rom                  - Sassuolo Calcio
-  Sampdoria               - Chievo Verona
-  SPAL 2013 Ferrara       - Udinese Calcio
-  FC Turin                - Empoli FC
+  Atalanta                2-2 Juventus Turin
+  Bologna FC              0-2 Lazio Rom
+  Cagliari Calcio         1-0 FC Genua
+  AC Florenz              0-1 Parma Calcio 1913
+  Frosinone Calcio        0-0 AC Mailand
+  Inter Mailand           1-0 SSC Neapel
+  AS Rom                  3-1 Sassuolo Calcio
+  Sampdoria               2-0 Chievo Verona
+  SPAL 2013 Ferrara       0-0 Udinese Calcio
+  FC Turin                3-0 Empoli FC
 
 
 19^ Giornata
