@@ -293,17 +293,18 @@
 
 19^ Giornata
 [Sab. 29.12.]
-  Chievo Verona           - Frosinone Calcio
-  Empoli FC               - Inter Mailand
-  FC Genua                - AC Florenz
-  Juventus Turin          - Sampdoria
-  Lazio Rom               - FC Turin
-  AC Mailand              - SPAL 2013 Ferrara
-  SSC Neapel              - Bologna FC
-  Parma Calcio 1913       - AS Rom
-  Sassuolo Calcio         - Atalanta
-  Udinese Calcio          - Cagliari Calcio
+  Chievo Verona           1-0 Frosinone Calcio
+  Empoli FC               0-1 Inter Mailand
+  FC Genua                0-0 AC Florenz
+  Juventus Turin          2-1 Sampdoria
+  Lazio Rom               1-1 FC Turin
+  AC Mailand              2-1 SPAL 2013 Ferrara
+  SSC Neapel              3-2 Bologna FC
+  Parma Calcio 1913       0-2 AS Rom
+  Sassuolo Calcio         2-6 Atalanta
+  Udinese Calcio          2-0 Cagliari Calcio
 
+# Winterpause bis Dom. 20.1.2019 
 
 20^ Giornata
 [Dom. 20.1.]
