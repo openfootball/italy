@@ -304,60 +304,71 @@
   Sassuolo Calcio         2-6 Atalanta
   Udinese Calcio          2-0 Cagliari Calcio
 
+
 # Winterpause bis Dom. 20.1.2019 
 
+
 20^ Giornata
+[Sab 19.1.]
+  Inter Mailand           - Sassuolo Calcio
+  AS Rom                  - FC Turin
+  Udinese Calcio          - Parma Calcio 1913
 [Dom. 20.1.]
   Frosinone Calcio        - Atalanta
   SPAL 2013 Ferrara       - Bologna FC
-  Juventus Turin          - Chievo Verona
   Cagliari Calcio         - Empoli FC
   SSC Neapel              - Lazio Rom
-  FC Genua                - AC Mailand
-  Udinese Calcio          - Parma Calcio 1913
   AC Florenz              - Sampdoria
-  Inter Mailand           - Sassuolo Calcio
-  AS Rom                  - FC Turin
-
-
+[Lun. 21.1.]
+  FC Genua                - AC Mailand
+  Juventus Turin          - Chievo Verona
+  
+  
 21^ Giornata
-[Dom. 27.1.]
+[Sab. 26.1.]
   Sassuolo Calcio         - Cagliari Calcio
+  Sampdoria               - Udinese Calcio
+  AC Mailand              - SSC Neapel
+[Dom. 27.1.]
   Chievo Verona           - AC Florenz
   Bologna FC              - Frosinone Calcio
-  Empoli FC               - FC Genua
   FC Turin                - Inter Mailand
   Lazio Rom               - Juventus Turin
-  AC Mailand              - SSC Neapel
   Atalanta                - AS Rom
   Parma Calcio 1913       - SPAL 2013 Ferrara
-  Sampdoria               - Udinese Calcio
+[Lun. 28.1.]
+  Empoli FC               - FC Genua
 
 
 22^ Giornata
-[Dom. 3.2.]
-  Cagliari Calcio         - Atalanta
-  Inter Mailand           - Bologna FC
+[Sab. 2.2.]
+  Juventus Turin          - Parma Calcio 1913
+  SSC Neapel              - Sampdoria
   Empoli FC               - Chievo Verona
+[Dom. 3.2.]
+  Inter Mailand           - Bologna FC
   Udinese Calcio          - AC Florenz
   Frosinone Calcio        - Lazio Rom
   AS Rom                  - AC Mailand
-  Juventus Turin          - Parma Calcio 1913
-  SSC Neapel              - Sampdoria
   FC Genua                - Sassuolo Calcio
   SPAL 2013 Ferrara       - FC Turin
-
-
+[Lun. 4.2.]
+  Cagliari Calcio         - Atalanta
+  
+  
 23^ Giornata
+[Gio. 7.2.]
+  Lazio Rom               - Empoli FC
+[Ven. 8.2.]
+  Chievo Verona           - AS Rom
+[Sab. 9.2.]
+  AC Florenz              - SSC Neapel
+  Parma Calcio 1913       - Inter Mailand
 [Dom. 10.2.]
   AC Mailand              - Cagliari Calcio
-  Lazio Rom               - Empoli FC
   Sampdoria               - Frosinone Calcio
   Bologna FC              - FC Genua
-  Parma Calcio 1913       - Inter Mailand
   Sassuolo Calcio         - Juventus Turin
-  AC Florenz              - SSC Neapel
-  Chievo Verona           - AS Rom
   Atalanta                - SPAL 2013 Ferrara
   FC Turin                - Udinese Calcio
 
