@@ -374,59 +374,68 @@
 
 
 24^ Giornata
-[Dom. 17.2.]
-  AS Rom                  - Bologna FC
-  Udinese Calcio          - Chievo Verona
-  SPAL 2013 Ferrara       - AC Florenz
+[Ven. 15.2.]
   Juventus Turin          - Frosinone Calcio
-  FC Genua                - Lazio Rom
+[Sab. 16.2.]
   Atalanta                - AC Mailand
   Cagliari Calcio         - Parma Calcio 1913
+[Dom. 17.2.]
+  Udinese Calcio          - Chievo Verona
+  SPAL 2013 Ferrara       - AC Florenz
+  FC Genua                - Lazio Rom
   Inter Mailand           - Sampdoria
   Empoli FC               - Sassuolo Calcio
   SSC Neapel              - FC Turin
+[Lun. 18.2.]
+  AS Rom                  - Bologna FC
 
 
 25^ Giornata
-[Dom. 24.2.]
+[Sab. 23.2.]
   FC Turin                - Atalanta
+  Bologna FC              - Juventus Turin
+  Frosinone Calcio        - AS Rom
+[Dom. 24.2.]
   Sampdoria               - Cagliari Calcio
   AC Mailand              - Empoli FC
   Chievo Verona           - FC Genua
   AC Florenz              - Inter Mailand
-  Bologna FC              - Juventus Turin
   Parma Calcio 1913       - SSC Neapel
-  Frosinone Calcio        - AS Rom
   Sassuolo Calcio         - SPAL 2013 Ferrara
+[Lun, 25.2.]
   Lazio Rom               - Udinese Calcio
 
 
 26^ Giornata
+[Sab. 2.3.]
+  Empoli FC               - Parma Calcio 1913
+  Lazio Rom               - AS Rom
+  AC Mailand              - Sassuolo Calcio
 [Dom. 3.3.]
   Udinese Calcio          - Bologna FC
   FC Turin                - Chievo Verona
-  Atalanta                - AC Florenz
   FC Genua                - Frosinone Calcio
   Cagliari Calcio         - Inter Mailand
   SSC Neapel              - Juventus Turin
-  Empoli FC               - Parma Calcio 1913
-  Lazio Rom               - AS Rom
   SPAL 2013 Ferrara       - Sampdoria
-  AC Mailand              - Sassuolo Calcio
-
+[Lun. 4.3.]
+  Atalanta                - AC Florenz
 
 27^ Giornata
+[Ven. 8.3.]
+  Juventus Turin          - Udinese Calcio
+[Sab. 9.3.]
+  Parma Calcio 1913       - FC Genua
+  Chievo Verona           - AC Mailand
 [Dom. 10.3.]
   Sampdoria               - Atalanta
   Bologna FC              - Cagliari Calcio
-  AS Rom                  - Empoli FC
-  Parma Calcio 1913       - FC Genua
   AC Florenz              - Lazio Rom
-  Chievo Verona           - AC Mailand
   Sassuolo Calcio         - SSC Neapel
   Inter Mailand           - SPAL 2013 Ferrara
   Frosinone Calcio        - FC Turin
-  Juventus Turin          - Udinese Calcio
+[Lun. 11.3.]
+  AS Rom                  - Empoli FC
 
 
 28^ Giornata
