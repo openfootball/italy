@@ -331,11 +331,11 @@
   AC Mailand              0-0 SSC Neapel
 [Dom. 27.1.]
   Chievo Verona           3-4 AC Florenz
-  Bologna FC              - Frosinone Calcio
-  FC Turin                - Inter Mailand
-  Lazio Rom               - Juventus Turin
-  Atalanta                - AS Rom
-  Parma Calcio 1913       - SPAL 2013 Ferrara
+  Bologna FC              0-4 Frosinone Calcio
+  FC Turin                1-0 Inter Mailand
+  Lazio Rom               1-2 Juventus Turin
+  Atalanta                3-3 AS Rom
+  Parma Calcio 1913       2-3 SPAL 2013 Ferrara
 [Lun. 28.1.]
   Empoli FC               - FC Genua
 
