@@ -365,12 +365,12 @@
   AC Florenz              0-0 SSC Neapel
   Parma Calcio 1913       0-1 Inter Mailand
 [Dom. 10.2.]
-  AC Mailand              - Cagliari Calcio
-  Sampdoria               - Frosinone Calcio
-  Bologna FC              - FC Genua
-  Sassuolo Calcio         - Juventus Turin
-  Atalanta                - SPAL 2013 Ferrara
-  FC Turin                - Udinese Calcio
+  AC Mailand              3-0 Cagliari Calcio
+  Sampdoria               0-1 Frosinone Calcio
+  Bologna FC              1-1 FC Genua
+  Sassuolo Calcio         0-3 Juventus Turin
+  Atalanta                2-1 SPAL 2013 Ferrara
+  FC Turin                1-0 Udinese Calcio
 
 
 24^ Giornata
