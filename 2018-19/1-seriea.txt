@@ -397,12 +397,12 @@
   FC Turin                2-0 Atalanta
   Frosinone Calcio        2-3 AS Rom
 [Dom. 24.2.]
-  Bologna FC              - Juventus Turin
-  Sampdoria               - Cagliari Calcio
-  Chievo Verona           - FC Genua
-  AC Florenz              - Inter Mailand
-  Parma Calcio 1913       - SSC Neapel
-  Sassuolo Calcio         - SPAL 2013 Ferrara
+  Bologna FC              0-1 Juventus Turin
+  Sampdoria               1-0 Cagliari Calcio
+  Chievo Verona           0-0 FC Genua
+  AC Florenz              3-3 Inter Mailand
+  Parma Calcio 1913       0-4 SSC Neapel
+  Sassuolo Calcio         1-1 SPAL 2013 Ferrara
 [Lun. 25.2.]
   Lazio Rom               - Udinese Calcio     differire a
 
