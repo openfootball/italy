@@ -415,11 +415,11 @@
   Lazio Rom               3-0 AS Rom
   AC Mailand              1-0 Sassuolo Calcio
 [Dom. 3.3.]
-  Udinese Calcio          - Bologna FC
-  FC Turin                - Chievo Verona
-  FC Genua                - Frosinone Calcio
-  SSC Neapel              - Juventus Turin
-  SPAL 2013 Ferrara       - Sampdoria
+  Udinese Calcio          2-1 Bologna FC
+  FC Turin                3-0 Chievo Verona
+  FC Genua                0-0 Frosinone Calcio
+  SSC Neapel              1-2 Juventus Turin
+  SPAL 2013 Ferrara       1-2 Sampdoria
 [Lun. 4.3.]
   Atalanta                - AC Florenz
 
