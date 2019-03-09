@@ -65,7 +65,7 @@
 [Lun. 17.9.]
   SPAL 2013 Ferrara       2-0 Atalanta
   
-## completanento 1^ Giornata
+## completananto 1^ Giornata
 [Mer. 19.9.]
   Sampdoria               1-1 AC Florenz
 
@@ -162,7 +162,7 @@
 [Lun. 29.10.]
   Lazio Rom               0-3 Inter Mailand
 
-## completanento 1^ Giornata
+## completananto 1^ Giornata
 [Mer. 31.10.]
    AC Mailand             2-1 FC Genua
 
@@ -404,7 +404,7 @@
   Parma Calcio 1913       0-4 SSC Neapel
   Sassuolo Calcio         1-1 SPAL 2013 Ferrara
 [Lun. 25.2.]
-  Lazio Rom               - Udinese Calcio     differire a
+  Lazio Rom               - Udinese Calcio     differire a 10.4.
 
 
 26^ Giornata
@@ -420,8 +420,7 @@
   FC Genua                0-0 Frosinone Calcio
   SSC Neapel              1-2 Juventus Turin
   SPAL 2013 Ferrara       1-2 Sampdoria
-[Lun. 4.3.]
-  Atalanta                1-1 AC Florenz
+  Atalanta                3-1 AC Florenz
 
 27^ Giornata
 [Ven. 8.3.]
@@ -496,6 +495,11 @@
   Lazio Rom               - Sassuolo Calcio
   Cagliari Calcio         - SPAL 2013 Ferrara
   Parma Calcio 1913       - FC Turin
+
+
+## completamanto 25^ Giornata
+[Mer. 10.4.]
+  Lazio Rom               - Udinese Calcio  
 
 
 32^ Giornata
