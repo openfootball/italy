@@ -429,14 +429,14 @@
   Parma Calcio 1913       1-0 FC Genua
   Chievo Verona           1-2 AC Mailand
 [Dom. 10.3.]
-  Sampdoria               - Atalanta
-  Bologna FC              - Cagliari Calcio
-  AC Florenz              - Lazio Rom
-  Sassuolo Calcio         - SSC Neapel
-  Inter Mailand           - SPAL 2013 Ferrara
-  Frosinone Calcio        - FC Turin
+  Sampdoria               1-2 Atalanta
+  Bologna FC              2-0 Cagliari Calcio
+  AC Florenz              1-1 Lazio Rom
+  Sassuolo Calcio         1-1 SSC Neapel
+  Inter Mailand           2-0 SPAL 2013 Ferrara
+  Frosinone Calcio        1-2 FC Turin
 [Lun. 11.3.]
-  AS Rom                  - Empoli FC
+  AS Rom                   Empoli FC
 
 
 28^ Giornata
