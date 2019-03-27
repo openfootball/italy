@@ -488,17 +488,19 @@
 
 
 31^ Giornata
+[Sab. 6.4.]
+  Juventus Turin          - AC Mailand
+  Sampdoria               - AS Rom
+  Parma Calcio 1913       - FC Turin
 [Dom. 7.4.]
   Inter Mailand           - Atalanta
-  Bologna FC              - Chievo Verona
   Udinese Calcio          - Empoli FC
   AC Florenz              - Frosinone Calcio
   SSC Neapel              - FC Genua
-  Juventus Turin          - AC Mailand
-  Sampdoria               - AS Rom
   Lazio Rom               - Sassuolo Calcio
   Cagliari Calcio         - SPAL 2013 Ferrara
-  Parma Calcio 1913       - FC Turin
+[Lun. 8.4.]
+  Bologna FC              - Chievo Verona
 
 
 ## supplemento 25^ Giornata
@@ -507,17 +509,19 @@
 
 
 32^ Giornata
+[Sab. 13.4.]
+  SPAL 2013 Ferrara       - Juventus Turin
+  AC Mailand              - Lazio Rom
+  AS Rom                  - Udinese Calcio
 [Dom. 14.4.]
   AC Florenz              - Bologna FC
   FC Turin                - Cagliari Calcio
   Atalanta                - Empoli FC
-  Sampdoria               - FC Genua
   Frosinone Calcio        - Inter Mailand
-  SPAL 2013 Ferrara       - Juventus Turin
-  AC Mailand              - Lazio Rom
   Chievo Verona           - SSC Neapel
   Sassuolo Calcio         - Parma Calcio 1913
-  AS Rom                  - Udinese Calcio
+[Lun. 15.4.]
+  Sampdoria               - FC Genua
 
 
 33^ Giornata
