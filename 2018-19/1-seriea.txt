@@ -456,13 +456,15 @@
 
 
 29^ Giornata
-[Dom. 31.3.]
-  Parma Calcio 1913       - Atalanta
+[Ven. 29.3.]
   Chievo Verona           - Cagliari Calcio
+[Sab. 30.3.]
   Juventus Turin          - Empoli FC
   Udinese Calcio          - FC Genua
-  Inter Mailand           - Lazio Rom
   Sampdoria               - AC Mailand
+[Dom. 31.3.]
+  Parma Calcio 1913       - Atalanta
+  Inter Mailand           - Lazio Rom
   AS Rom                  - SSC Neapel
   Bologna FC              - Sassuolo Calcio
   Frosinone Calcio        - SPAL 2013 Ferrara
@@ -470,17 +472,19 @@
 
 
 30^ Giornata
+[Mar. 2.4.]
+  AC Mailand              - Udinese Calcio
+  Cagliari Calcio         - Juventus Turin
 [Mer. 3.4.]
-  Atalanta                - Bologna FC
-  Sassuolo Calcio         - Chievo Verona
   AS Rom                  - AC Florenz
   FC Genua                - Inter Mailand
-  Cagliari Calcio         - Juventus Turin
   SPAL 2013 Ferrara       - Lazio Rom
   Empoli FC               - SSC Neapel
   Frosinone Calcio        - Parma Calcio 1913
   FC Turin                - Sampdoria
-  AC Mailand              - Udinese Calcio
+[Gio. 4.4.]
+  Atalanta                - Bologna FC
+  Sassuolo Calcio         - Chievo Verona
 
 
 31^ Giornata
