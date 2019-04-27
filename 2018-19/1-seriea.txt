@@ -523,18 +523,20 @@
 [Lun. 15.4.]
   Atalanta                0-0 Empoli FC
 
+
 33^ Giornata
 [Sab. 20.4.]
-  SSC Neapel              - Atalanta
-  Lazio Rom               - Chievo Verona
-  Juventus Turin          - AC Florenz
-  Cagliari Calcio         - Frosinone Calcio
-  Parma Calcio 1913       - AC Mailand
-  Inter Mailand           - AS Rom
-  Bologna FC              - Sampdoria
-  Udinese Calcio          - Sassuolo Calcio
-  Empoli FC               - SPAL 2013 Ferrara
-  FC Genua                - FC Turin
+  Lazio Rom               1-2 Chievo Verona
+  Juventus Turin          2-1 AC Florenz
+  Cagliari Calcio         1-0 Frosinone Calcio
+  Parma Calcio 1913       1-1 AC Mailand
+  Inter Mailand           1-1 AS Rom
+  Bologna FC              3-0 Sampdoria
+  Udinese Calcio          1-1 Sassuolo Calcio
+  Empoli FC               2-4 SPAL 2013 Ferrara
+  FC Genua                0-1 FC Turin
+[Dom. 21.4.]
+  SSC Neapel              1-2 Atalanta
 
 
 34^ Giornata
