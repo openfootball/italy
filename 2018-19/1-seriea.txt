@@ -404,7 +404,7 @@
   Parma Calcio 1913       0-4 SSC Neapel
   Sassuolo Calcio         1-1 SPAL 2013 Ferrara
 [Lun. 25.2.]
-  Lazio Rom               - Udinese Calcio     trasferito a 10.4.
+  Lazio Rom               2-0 Udinese Calcio     
 
 
 26^ Giornata
@@ -461,68 +461,67 @@
 [Sab. 30.3.]
   Juventus Turin          1-0 Empoli FC
   Udinese Calcio          2-0 FC Genua
-  Sampdoria               - AC Mailand
+  Sampdoria               1-0 AC Mailand
 [Dom. 31.3.]
-  Parma Calcio 1913       - Atalanta
-  Inter Mailand           - Lazio Rom
-  AS Rom                  - SSC Neapel
-  Bologna FC              - Sassuolo Calcio
-  Frosinone Calcio        - SPAL 2013 Ferrara
-  AC Florenz              - FC Turin
+  Parma Calcio 1913       1-3 Atalanta
+  Inter Mailand           0-1 Lazio Rom
+  AS Rom                  1-4 SSC Neapel
+  Bologna FC              2-1 Sassuolo Calcio
+  Frosinone Calcio        0-1 SPAL 2013 Ferrara
+  AC Florenz              1-1 FC Turin
 
 
 30^ Giornata
 [Mar. 2.4.]
-  AC Mailand              - Udinese Calcio
-  Cagliari Calcio         - Juventus Turin
+  AC Mailand              1-1 Udinese Calcio
+  Cagliari Calcio         0-2 Juventus Turin
 [Mer. 3.4.]
-  AS Rom                  - AC Florenz
-  FC Genua                - Inter Mailand
-  SPAL 2013 Ferrara       - Lazio Rom
-  Empoli FC               - SSC Neapel
-  Frosinone Calcio        - Parma Calcio 1913
-  FC Turin                - Sampdoria
+  AS Rom                  2-2 AC Florenz
+  FC Genua                0-4 Inter Mailand
+  SPAL 2013 Ferrara       1-0 Lazio Rom
+  Empoli FC               2-1 SSC Neapel
+  Frosinone Calcio        3-2 Parma Calcio 1913
+  FC Turin                2-1 Sampdoria
 [Gio. 4.4.]
-  Atalanta                - Bologna FC
-  Sassuolo Calcio         - Chievo Verona
+  Atalanta                4-1 Bologna FC
+  Sassuolo Calcio         4-0 Chievo Verona
 
 
 31^ Giornata
 [Sab. 6.4.]
-  Juventus Turin          - AC Mailand
-  Sampdoria               - AS Rom
-  Parma Calcio 1913       - FC Turin
+  Juventus Turin          2-1 AC Mailand
+  Sampdoria               0-1 AS Rom
+  Parma Calcio 1913       0-0 FC Turin
 [Dom. 7.4.]
-  Inter Mailand           - Atalanta
-  Udinese Calcio          - Empoli FC
-  AC Florenz              - Frosinone Calcio
-  SSC Neapel              - FC Genua
-  Lazio Rom               - Sassuolo Calcio
-  Cagliari Calcio         - SPAL 2013 Ferrara
+  Inter Mailand           0-0 Atalanta
+  Udinese Calcio          3-2 Empoli FC
+  AC Florenz              0-1 Frosinone Calcio
+  SSC Neapel              1-1 FC Genua
+  Lazio Rom               2-2 Sassuolo Calcio
+  Cagliari Calcio         2-1 SPAL 2013 Ferrara
 [Lun. 8.4.]
-  Bologna FC              - Chievo Verona
+  Bologna FC              3-0 Chievo Verona
 
 
 ## supplemento 25^ Giornata
 [Mer. 10.4.]
-  Lazio Rom               - Udinese Calcio  
+  Lazio Rom               2-0 Udinese Calcio  
 
 
 32^ Giornata
 [Sab. 13.4.]
-  SPAL 2013 Ferrara       - Juventus Turin
-  AC Mailand              - Lazio Rom
-  AS Rom                  - Udinese Calcio
+  SPAL 2013 Ferrara       2-1 Juventus Turin
+  AC Mailand              1-0 Lazio Rom
+  AS Rom                  1-0 Udinese Calcio
 [Dom. 14.4.]
-  AC Florenz              - Bologna FC
-  FC Turin                - Cagliari Calcio
-  Atalanta                - Empoli FC
-  Frosinone Calcio        - Inter Mailand
-  Chievo Verona           - SSC Neapel
-  Sassuolo Calcio         - Parma Calcio 1913
+  AC Florenz              0-0 Bologna FC
+  FC Turin                1-1 Cagliari Calcio
+  Sampdoria               2-0 FC Genua
+  Frosinone Calcio        1-3 Inter Mailand
+  Chievo Verona           1-3 SSC Neapel
+  Sassuolo Calcio         0-0 Parma Calcio 1913
 [Lun. 15.4.]
-  Sampdoria               - FC Genua
-
+  Atalanta                0-0 Empoli FC
 
 33^ Giornata
 [Sab. 20.4.]
@@ -541,9 +540,9 @@
 34^ Giornata
 [Sab. 27.4.]
   Inter Mailand           - Juventus Turin
-[Dom. 28.4.]
-  AS Rom                  - Cagliari Calcio
-  Bologna FC              - Empoli FC
+  AS Rom                  3-0 Cagliari Calcio
+  Bologna FC              3-1 Empoli FC
+[Dom. 28.4.]  
   SPAL 2013 Ferrara       - FC Genua
   Sampdoria               - Lazio Rom
   FC Turin                - AC Mailand
