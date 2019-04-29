@@ -545,11 +545,12 @@
   AS Rom                  3-0 Cagliari Calcio
   Bologna FC              3-1 Empoli FC
 [Dom. 28.4.]  
-  SPAL 2013 Ferrara       - FC Genua
-  Sampdoria               - Lazio Rom
-  FC Turin                - AC Mailand
-  Frosinone Calcio        - SSC Neapel
-  Chievo Verona           - Parma Calcio 1913
+  SPAL 2013 Ferrara       1-1 FC Genua
+  Sampdoria               1-2 Lazio Rom
+  FC Turin                2-0 AC Mailand
+  Frosinone Calcio        0-2 SSC Neapel
+  Chievo Verona           1-1 Parma Calcio 1913
+[Lun. 29.4.]
   AC Florenz              - Sassuolo Calcio
   Atalanta                - Udinese Calcio
 
