@@ -556,47 +556,55 @@
 
 
 35^ Giornata
+[Ven. 3.5.]
+  Juventus Turin          - FC Turin
+[Sab, 4.5.]
+  Udinese Calcio          - Inter Mailand
+  Chievo Verona           - SPAL 2013 Ferrara
 [Dom. 5.5.]
   Lazio Rom               - Atalanta
-  AC Mailand              - Bologna FC
   SSC Neapel              - Cagliari Calcio
   Empoli FC               - AC Florenz
   Sassuolo Calcio         - Frosinone Calcio
-  Udinese Calcio          - Inter Mailand
   FC Genua                - AS Rom
   Parma Calcio 1913       - Sampdoria
-  Chievo Verona           - SPAL 2013 Ferrara
-  Juventus Turin          - FC Turin
+[Lun. 6.5.]
+  AC Mailand              - Bologna FC
+ 
 
 
 36^ Giornata
-[Dom. 12.5.]
-  Inter Mailand           - Chievo Verona
-  Sampdoria               - Empoli FC
-  Atalanta                - FC Genua
-  AS Rom                  - Juventus Turin
+[Sab. 11.5.]
   Cagliari Calcio         - Lazio Rom
   AC Florenz              - AC Mailand
+  Atalanta                - FC Genua
+[Dom. 12.5.]
+  Sampdoria               - Empoli FC
+  AS Rom                  - Juventus Turin
   SPAL 2013 Ferrara       - SSC Neapel
-  Bologna FC              - Parma Calcio 1913
   FC Turin                - Sassuolo Calcio
   Frosinone Calcio        - Udinese Calcio
-
+[Lun. 13.5.]
+  Bologna FC              - Parma Calcio 1913
+  Inter Mailand           - Chievo Verona
+  
 
 37^ Giornata
+[Sab. 18.5.]
+  FC Genua                - Cagliari Calcio
+  Udinese Calcio          - SPAL 2013 Ferrara
+  Sassuolo Calcio         - AS Rom
 [Dom. 19.5.]
   Juventus Turin          - Atalanta
-  Lazio Rom               - Bologna FC
-  FC Genua                - Cagliari Calcio
   Parma Calcio 1913       - AC Florenz
   AC Mailand              - Frosinone Calcio
   SSC Neapel              - Inter Mailand
-  Sassuolo Calcio         - AS Rom
   Chievo Verona           - Sampdoria
-  Udinese Calcio          - SPAL 2013 Ferrara
   Empoli FC               - FC Turin
-
-
+[Lun. 20.5.]
+  Lazio Rom               - Bologna FC
+  
+  
 38^ Giornata
 [Dom. 26.5.]
   Frosinone Calcio        - Chievo Verona
@@ -609,3 +617,6 @@
   AS Rom                  - Parma Calcio 1913
   Atalanta                - Sassuolo Calcio
   Cagliari Calcio         - Udinese Calcio
+
+
+# Ende Serie A 2018/19
