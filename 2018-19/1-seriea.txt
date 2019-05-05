@@ -562,12 +562,12 @@
   Udinese Calcio          0-0 Inter Mailand
   Chievo Verona           0-4 SPAL 2013 Ferrara
 [Dom. 5.5.]
-  Lazio Rom               - Atalanta
+  Lazio Rom               1-3 Atalanta
   SSC Neapel              - Cagliari Calcio
-  Empoli FC               - AC Florenz
-  Sassuolo Calcio         - Frosinone Calcio
-  FC Genua                - AS Rom
-  Parma Calcio 1913       - Sampdoria
+  Empoli FC               1-0 AC Florenz
+  Sassuolo Calcio         2-2 Frosinone Calcio
+  FC Genua                1-1 AS Rom
+  Parma Calcio 1913       3-3 Sampdoria
 [Lun. 6.5.]
   AC Mailand              - Bologna FC
  
