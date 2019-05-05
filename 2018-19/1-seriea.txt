@@ -572,8 +572,15 @@
   AC Mailand              - Bologna FC
  
 
-# 1. Aufsteiger Serie A:
+# 1. Aufsteiger Serie A 2019/20:
   Brescia Calcio
+  
+# Meister Serie A 2018/19:
+  Juventus Turin
+  
+# Absteiger Serie A 2018/19:
+  Chievo Verona
+  Frosinone Calcio
 
 
 36^ Giornata
