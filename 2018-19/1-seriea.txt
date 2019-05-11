@@ -585,9 +585,9 @@
 
 36^ Giornata
 [Sab. 11.5.]
-  Cagliari Calcio         - Lazio Rom
+  Cagliari Calcio         1-2 Lazio Rom
   AC Florenz              - AC Mailand
-  Atalanta                - FC Genua
+  Atalanta                2-1 FC Genua
 [Dom. 12.5.]
   Sampdoria               - Empoli FC
   AS Rom                  - Juventus Turin
@@ -597,7 +597,11 @@
 [Lun. 13.5.]
   Bologna FC              - Parma Calcio 1913
   Inter Mailand           - Chievo Verona
-  
+
+
+# 2.Aufsteiger Serie A 2019/20:
+  US Lecce
+
 
 37^ Giornata
 [Sab. 18.5.]
