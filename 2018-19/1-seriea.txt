@@ -586,14 +586,14 @@
 36^ Giornata
 [Sab. 11.5.]
   Cagliari Calcio         1-2 Lazio Rom
-  AC Florenz              - AC Mailand
+  AC Florenz              0-1 AC Mailand
   Atalanta                2-1 FC Genua
 [Dom. 12.5.]
-  Sampdoria               - Empoli FC
-  AS Rom                  - Juventus Turin
-  SPAL 2013 Ferrara       - SSC Neapel
-  FC Turin                - Sassuolo Calcio
-  Frosinone Calcio        - Udinese Calcio
+  Sampdoria               1-2 Empoli FC
+  AS Rom                  2-0 Juventus Turin
+  SPAL 2013 Ferrara       1-2 SSC Neapel
+  FC Turin                3-2 Sassuolo Calcio
+  Frosinone Calcio        1-3 Udinese Calcio
 [Lun. 13.5.]
   Bologna FC              - Parma Calcio 1913
   Inter Mailand           - Chievo Verona
@@ -619,6 +619,9 @@
   Lazio Rom               - Bologna FC
   
   
+# 3. Absteiger Serie A 2018/19: 
+
+
 38^ Giornata
 [Dom. 26.5.]
   Frosinone Calcio        - Chievo Verona
@@ -632,5 +635,8 @@
   Atalanta                - Sassuolo Calcio
   Cagliari Calcio         - Udinese Calcio
 
+# 3. Absteiger Serie A 2018/19:
+
+# Play-off um 3. Serie A Aufsteiger 2019/20:
 
 # Ende Serie A 2018/19
