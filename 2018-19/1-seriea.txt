@@ -601,6 +601,12 @@
 
 # 2.Aufsteiger Serie A 2019/20:
   US Lecce
+  
+# Play-off um 3. Serie A Aufsteiger 2019/20:
+[Ven. 17.5.]
+  Spezia Calcio - AS Cittadella
+[Sab. 18.5.]
+  Hellas Verona - AC Perugia Calcio
 
 
 37^ Giornata
@@ -621,7 +627,16 @@
   
 # 3. Absteiger Serie A 2018/19: 
 
-
+# Play-off um 3. Serie A Aufsteiger 2019/20:
+[Mar. 21.5.]
+  Hellas Verona/ AC Perugia Calcio - Pescara Calcio
+[Mer. 22.5.]
+  Spezia Calcio/ AS Cittadella - Benevento Calcio
+[Sab. 25.5.]
+  Pescara Calcio - Hellas Verona/ AC Perugia Calcio
+[Dom. 26.5.]
+  Benevento Calcio - Spezia Calcio/ AS Cittadella  
+  
 38^ Giornata
 [Dom. 26.5.]
   Frosinone Calcio        - Chievo Verona
@@ -635,26 +650,15 @@
   Atalanta                - Sassuolo Calcio
   Cagliari Calcio         - Udinese Calcio
 
+
 # 3. Absteiger Serie A 2018/19:
-
-# Play-off um 3. Serie A Aufsteiger 2019/20:
-
-[Ven. 17.5.]
-  Spezia Calcio - AS Cittadella
-[Sab. 18.5.]
-  Hellas Verona - AC Perugia Calcio
-[Mar. 21.5.]
-  Hellas Verona/ AC Perugia Calcio - Pescara Calcio
-[Mer. 22.5.]
-  Spezia Calcio/ AS Cittadella - Benevento Calcio
-[Sab. 25.5.]
-  Pescara Calcio - Hellas Verona/ AC Perugia Calcio
-[Dom. 26.5.]
-  Benevento Calcio - Spezia Calcio/ AS Cittadella
   
   
+# Play-off um 3. Serie A Aufsteiger 2019/20: 
+
   Pescara Calcio/ Hellas Verona/ AC Perugia Calcio - Benevento Calcio/ Spezia Calcio/ AS Cittadella
   
   Benevento Calcio/ Spezia Calcio/ AS Cittadella - Pescara Calcio/ Hellas Verona/ AC Perugia Calcio
+ 
  
 # Ende Serie A 2018/19
