@@ -615,12 +615,12 @@
   Udinese Calcio          3-2 SPAL 2013 Ferrara
   Sassuolo Calcio         0-0 AS Rom
 [Dom. 19.5.]
-  Juventus Turin          - Atalanta
-  Parma Calcio 1913       - AC Florenz
-  AC Mailand              - Frosinone Calcio
-  SSC Neapel              - Inter Mailand
-  Chievo Verona           - Sampdoria
-  Empoli FC               - FC Turin
+  Juventus Turin          1-1 Atalanta
+  Parma Calcio 1913       1-0 AC Florenz
+  AC Mailand              2-0 Frosinone Calcio
+  SSC Neapel              4-1 Inter Mailand
+  Chievo Verona           0-0 Sampdoria
+  Empoli FC               4-1 FC Turin
 [Lun. 20.5.]
   Lazio Rom               - Bologna FC
   
