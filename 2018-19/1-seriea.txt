@@ -603,6 +603,7 @@
   US Lecce
   
 # Play-off um 3. Serie A Aufsteiger 2019/20:
+# Vorrunde:
 [Ven. 17.5.]
   Spezia Calcio           1-2 AS Cittadella
 [Sab. 18.5.]
@@ -628,6 +629,7 @@
 # 3. Absteiger Serie A 2018/19: 
 
 # Play-off um 3. Serie A Aufsteiger 2019/20:
+# Halbfinale:
 [Mar. 21.5.]
   AS Cittadella           1-2 Benevento Calcio
 [Mer. 22.5.]
@@ -658,6 +660,7 @@
 
   
 # Play-off um 3. Serie A Aufsteiger 2019/20: 
+# Finale:
 [Gio. 30.5]
   AS Cittadella           2-0 Hellas Verona
 [Dom. 2.6.]
