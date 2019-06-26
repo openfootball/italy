@@ -35,6 +35,25 @@ Official site -> [`legaseriea.it`](http://legaseriea.it)
 - 2 CL/GR, CL/4.QR, EL/GR, EL/4.QR, EL/3.QR  -- UEFA Ranking #4
 
 
+## Ups / Downs
+
+2016/17:
+
+(---) 18. Carpi, 19. Frosinone, 20. Hellas Verona
+
+(+++) Cagliari, Crotone, Pescara
+
+2015/16:
+
+(---)  18. Cagliari, 19. Cesena, 20. Parma 
+
+(+++)  Bologna, Carpi, Frosinone
+
+2014/15:
+
+(---)  18º Catania, 19º Bologna, 20º Livorno
+(+++)  1º Palermo, 2º Empoli, Prom. Cesena
+
 
 #### Wikipedia
 
