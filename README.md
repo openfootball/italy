@@ -19,18 +19,18 @@ Events include:
 
 Example:
 
-~~~
-### Serie A
+```
+### Serie A Clubs
 
-milan,     AC Milan|Associazione Calcio Milan, MIL
-inter,     Internazionale|FC Internazionale Milano, INT
-roma,      AS Roma|Associazione Sportiva Roma, ROM
-juventus,  Juventus FC|Juventus Football Club|Juventus Torino, JUV
+AC Milan | Associazione Calcio Milan, MIL
+Internazionale | FC Internazionale Milano, INT
+AS Roma | Associazione Sportiva Roma, ROM
+Juventus FC |Juventus Football Club | Juventus Torino, JUV
 ...
-~~~
+```
 
 
-~~~
+```
 1^ Giornata
 
 [24.8.]
@@ -41,7 +41,7 @@ juventus,  Juventus FC|Juventus Football Club|Juventus Torino, JUV
   AS Livorno     0-2  AS Roma
   SSC Napoli     3-0  Bologna FC
 ...
-~~~
+```
 
 
 ## Build Your Own `football.db` Copy
