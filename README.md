@@ -19,6 +19,7 @@ Events include:
 
 Example:
 
+<!--
 ```
 ### Serie A Clubs
 
@@ -28,7 +29,7 @@ AS Roma | Associazione Sportiva Roma, ROM
 Juventus FC |Juventus Football Club | Juventus Torino, JUV
 ...
 ```
-
+-->
 
 ```
 1^ Giornata
