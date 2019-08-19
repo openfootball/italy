@@ -3,28 +3,32 @@
 
 
 1^ Giornata
-[Dom. 25.8.]
-  Sampdoria Genua         - Lazio Rom
-  Inter Mailand           - US Lecce
+[Sab. 24.8.]
   AC Florenz              - SSC Neapel
   Parma Calcio            - Juventus Turin
+[Dom. 25.8.]
+  Sampdoria Genua         - Lazio Rom
   AS Rom                  - CFC Genua 1893
   Udinese Calcio          - AC Mailand
   Cagliari Calcio         - Brescia Calcio
   Hellas Verona           - FC Bologna
   FC Turin                - Sassuolo Calcio
   SPAL Ferrara            - Atalanta Bergamo
+[Lun. 26.8.]
+  Inter Mailand           - US Lecce
 
 
 2^ Giornata
+[Ven. 30.8.]
+  FC Bologna              - SPAL Ferrara
+[Sab. 31.8.]
+  Juventus Turin          - SSC Neapel
+  AC Mailand              - Brescia Calcio
 [Dom. 1.9.]
   Atalanta Bergamo        - FC Turin
-  FC Bologna              - SPAL Ferrara
   Lazio Rom               - AS Rom
-  Juventus Turin          - SSC Neapel
   US Lecce                - Hellas Verona
   Udinese Calcio          - Parma Calcio
-  AC Mailand              - Brescia Calcio
   Cagliari Calcio         - Inter Mailand
   CFC Genua 1893          - AC Florenz
   Sassuolo Calcio         - Sampdoria Genua
