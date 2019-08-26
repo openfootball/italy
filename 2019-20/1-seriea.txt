@@ -7,13 +7,13 @@
   AC Florenz              3-4 SSC Neapel
   Parma Calcio            0-1 Juventus Turin
 [Dom. 25.8.]
-  Sampdoria Genua         - Lazio Rom
-  AS Rom                  - CFC Genua 1893
-  Udinese Calcio          - AC Mailand
-  Cagliari Calcio         - Brescia Calcio
-  Hellas Verona           - FC Bologna
-  FC Turin                - Sassuolo Calcio
-  SPAL Ferrara            - Atalanta Bergamo
+  Sampdoria Genua         0-3 Lazio Rom
+  AS Rom                  3-3 CFC Genua 1893
+  Udinese Calcio          1-0 AC Mailand
+  Cagliari Calcio         0-1 Brescia Calcio
+  Hellas Verona           1-1 FC Bologna
+  FC Turin                2-1 Sassuolo Calcio
+  SPAL Ferrara            2-3 Atalanta Bergamo
 [Lun. 26.8.]
   Inter Mailand           - US Lecce
 
