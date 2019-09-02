@@ -25,13 +25,13 @@
   Juventus Turin          4-3 SSC Neapel
   AC Mailand              1-0 Brescia Calcio
 [Dom. 1.9.]
-  Atalanta Bergamo        - FC Turin
-  Lazio Rom               - AS Rom
-  US Lecce                - Hellas Verona
-  Udinese Calcio          - Parma Calcio
-  Cagliari Calcio         - Inter Mailand
-  CFC Genua 1893          - AC Florenz
-  Sassuolo Calcio         - Sampdoria Genua
+  Atalanta Bergamo        2-3 FC Turin
+  Lazio Rom               1-1 AS Rom
+  US Lecce                0-1 Hellas Verona
+  Udinese Calcio          1-3 Parma Calcio
+  Cagliari Calcio         1-2 Inter Mailand
+  CFC Genua 1893          2-1 AC Florenz
+  Sassuolo Calcio         4-1 Sampdoria Genua
 
 
 3^ Giornata
