@@ -213,45 +213,51 @@
 
 
 14^ Giornata
+[Sab. 30.11.]
+  AC Florenz              - US Lecce
+  CFC Genua 1893          - FC Turin
+  Brescia Calcio          - Atalanta Bergamo
 [Dom. 1.12.]
   Lazio Rom               - Udinese Calcio
   Inter Mailand           - SPAL Ferrara
-  AC Florenz              - US Lecce
   Juventus Turin          - Sassuolo Calcio
-  Brescia Calcio          - Atalanta Bergamo
   Parma Calcio            - AC Mailand
   SSC Neapel              - FC Bologna
-  Cagliari Calcio         - Sampdoria Genua
   Hellas Verona           - AS Rom
-  CFC Genua 1893          - FC Turin
+[Lun. 2.12.]
+  Cagliari Calcio         - Sampdoria Genua
 
 
 15^ Giornata
-[Dom. 8.12.]
+[Ven. 6.12.]
+  Inter Mailand           - AS Rom
+[Sab. 7.12.]
   Atalanta Bergamo        - Hellas Verona
+  Udinese Calcio          - SSC Neapel
+  Lazio Rom               - Juventus Turin
+[Dom. 8.12.]
   Sampdoria Genua         - Parma Calcio
   FC Bologna              - AC Mailand
-  Lazio Rom               - Juventus Turin
-  Inter Mailand           - AS Rom
   US Lecce                - CFC Genua 1893
-  Udinese Calcio          - SSC Neapel
   FC Turin                - AC Florenz
   SPAL Ferrara            - Brescia Calcio
   Sassuolo Calcio         - Cagliari Calcio
 
 
 16^ Giornata
+[Sab. 14.12.]
+  Brescia Calcio          - US Lecce
+  SSC Neapel              - Parma Calcio
+  CFC Genua 1893          - Sampdoria Genua
 [Dom. 15.12.]
   FC Bologna              - Atalanta Bergamo
   AC Florenz              - Inter Mailand
   Juventus Turin          - Udinese Calcio
-  Brescia Calcio          - US Lecce
   AS Rom                  - SPAL Ferrara
   AC Mailand              - Sassuolo Calcio
-  SSC Neapel              - Parma Calcio
-  Cagliari Calcio         - Lazio Rom
   Hellas Verona           - FC Turin
-  CFC Genua 1893          - Sampdoria Genua
+[Lun. 16.12.]
+ Cagliari Calcio         - Lazio Rom
 
 
 17^ Giornata
