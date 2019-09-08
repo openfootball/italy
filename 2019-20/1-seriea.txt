@@ -35,45 +35,51 @@
 
 
 3^ Giornata
-[Dom. 15.9.]
+[Sab. 14.9.]
   Inter Mailand           - Udinese Calcio
   AC Florenz              - Juventus Turin
+  SSC Neapel              - Sampdoria Genua
+[Dom. 15.9.]
   Brescia Calcio          - FC Bologna
   Parma Calcio            - Cagliari Calcio
   AS Rom                  - Sassuolo Calcio
-  SSC Neapel              - Sampdoria Genua
   Hellas Verona           - AC Mailand
-  FC Turin                - US Lecce
   CFC Genua 1893          - Atalanta Bergamo
   SPAL Ferrara            - Lazio Rom
+[Lun. 16.9.]
+  FC Turin                - US Lecce
 
 
 4^ Giornata
+[Ven. 20.9.]
+  Cagliari Calcio         - CFC Genua 1893
+[Sab. 21.9.]
+  Juventus Turin          - Hellas Verona
+  Udinese Calcio          - Brescia Calcio
+  AC Mailand              - Inter Mailand
 [Dom. 22.9.]
   Atalanta Bergamo        - AC Florenz
   Sampdoria Genua         - FC Turin
   FC Bologna              - AS Rom
   Lazio Rom               - Parma Calcio
-  Juventus Turin          - Hellas Verona
   US Lecce                - SSC Neapel
-  Udinese Calcio          - Brescia Calcio
-  AC Mailand              - Inter Mailand
-  Cagliari Calcio         - CFC Genua 1893
   Sassuolo Calcio         - SPAL Ferrara
 
 
 5^ Giornata
+[Mar. 24.9.]
+  Brescia Calcio          - Juventus Turin
+  Hellas Verona           - Udinese Calcio
 [Mer. 25.9.]
   Inter Mailand           - Lazio Rom
   AC Florenz              - Sampdoria Genua
-  Brescia Calcio          - Juventus Turin
   Parma Calcio            - Sassuolo Calcio
   AS Rom                  - Atalanta Bergamo
   SSC Neapel              - Cagliari Calcio
-  Hellas Verona           - Udinese Calcio
-  FC Turin                - AC Mailand
   CFC Genua 1893          - FC Bologna
   SPAL Ferrara            - US Lecce
+[Gio. 26.9.]
+  FC Turin                - AC Mailand
 
 
 6^ Giornata
