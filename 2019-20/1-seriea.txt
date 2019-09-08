@@ -148,59 +148,68 @@
 
 
 10^ Giornata
+[Mar. 29.10.]
+  Brescia Calcio          - Inter Mailand
+  Parma Calcio            - Hellas Verona
 [Mer. 30.10.]
   Sampdoria Genua         - US Lecce
   Lazio Rom               - FC Turin
   Juventus Turin          - CFC Genua 1893
-  Brescia Calcio          - Inter Mailand
-  Parma Calcio            - Hellas Verona
   Udinese Calcio          - AS Rom
-  AC Mailand              - SPAL Ferrara
   SSC Neapel              - Atalanta Bergamo
   Cagliari Calcio         - FC Bologna
   Sassuolo Calcio         - AC Florenz
+[Gio. 31.10.]
+  AC Mailand              - SPAL Ferrara
 
 
 11^ Giornata
+[Sab. 2.11.]
+  FC Bologna              - Inter Mailand
+  FC Turin                - Juventus Turin
+  AS Rom                  - SSC Neapel
 [Dom. 3.11.]
   Atalanta Bergamo        - Cagliari Calcio
-  FC Bologna              - Inter Mailand
   AC Florenz              - Parma Calcio
-  AS Rom                  - SSC Neapel
   US Lecce                - Sassuolo Calcio
   AC Mailand              - Lazio Rom
   Hellas Verona           - Brescia Calcio
-  FC Turin                - Juventus Turin
   CFC Genua 1893          - Udinese Calcio
+[Lun. 4.11.]
   SPAL Ferrara            - Sampdoria Genua
 
 
 12^ Giornata
+[Ven. 8.11.]
+  Sassuolo Calcio         - FC Bologna
+[Sab. 9.11.]
+  Inter Mailand           - Hellas Verona
+  SSC Neapel              - CFC Genua 1893
+  Brescia Calcio          - FC Turin
 [Dom. 10.11.]
   Sampdoria Genua         - Atalanta Bergamo
   Lazio Rom               - US Lecce
-  Inter Mailand           - Hellas Verona
   Juventus Turin          - AC Mailand
-  Brescia Calcio          - FC Turin
   Parma Calcio            - AS Rom
   Udinese Calcio          - SPAL Ferrara
-  SSC Neapel              - CFC Genua 1893
   Cagliari Calcio         - AC Florenz
-  Sassuolo Calcio         - FC Bologna
+  
 
 
 13^ Giornata
-[Dom. 24.11.]
+[Sab. 23.11.]
   Atalanta Bergamo        - Juventus Turin
+  AC Mailand              - SSC Neapel
+  FC Turin                - Inter Mailand
+[Dom. 24.11.]
   Sampdoria Genua         - Udinese Calcio
   FC Bologna              - Parma Calcio
   AS Rom                  - Brescia Calcio
   US Lecce                - Cagliari Calcio
-  AC Mailand              - SSC Neapel
   Hellas Verona           - AC Florenz
-  FC Turin                - Inter Mailand
-  SPAL Ferrara            - CFC Genua 1893
   Sassuolo Calcio         - Lazio Rom
+[Lun. 25.11.]
+  SPAL Ferrara            - CFC Genua 1893
 
 
 14^ Giornata
