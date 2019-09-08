@@ -83,58 +83,67 @@
 
 
 6^ Giornata
-[Dom. 29.9.]
+[Sab. 28.9.]
   Sampdoria Genua         - Inter Mailand
-  Lazio Rom               - CFC Genua 1893
+  Sassuolo Calcio         - Atalanta Bergamo
   Juventus Turin          - SPAL Ferrara
-  Parma Calcio            - FC Turin
+[Dom. 29.9.]
+  Lazio Rom               - CFC Genua 1893
   US Lecce                - AS Rom
   Udinese Calcio          - FC Bologna
   AC Mailand              - AC Florenz
   SSC Neapel              - Brescia Calcio
   Cagliari Calcio         - Hellas Verona
-  Sassuolo Calcio         - Atalanta Bergamo
+[Lun. 30.9.] 
+  Parma Calcio            - FC Turin
 
 
 7^ Giornata
+[Ven. 4.10.]
+  Brescia Calcio          - Sassuolo Calcio
+[Sab. 5.10.]
+  Hellas Verona           - Sampdoria Genua
+  CFC Genua 1893          - AC Mailand
+  SPAL Ferrara            - Parma Calcio
 [Dom. 6.10.]
   Atalanta Bergamo        - US Lecce
   FC Bologna              - Lazio Rom
   Inter Mailand           - Juventus Turin
   AC Florenz              - Udinese Calcio
-  Brescia Calcio          - Sassuolo Calcio
-  AS Rom                  - Cagliari Calcio
-  Hellas Verona           - Sampdoria Genua
   FC Turin                - SSC Neapel
-  CFC Genua 1893          - AC Mailand
-  SPAL Ferrara            - Parma Calcio
+  AS Rom                  - Cagliari Calcio
+  
 
 
 8^ Giornata
-[Dom. 20.10.]
-  Sampdoria Genua         - AS Rom
+[Sab. 19.10.]
   Lazio Rom               - Atalanta Bergamo
   Juventus Turin          - FC Bologna
-  Brescia Calcio          - AC Florenz
+  SSC Neapel              - Hellas Verona
+[Dom. 20.10.]
+  Sampdoria Genua         - AS Rom
   Parma Calcio            - CFC Genua 1893
   Udinese Calcio          - FC Turin
   AC Mailand              - US Lecce
-  SSC Neapel              - Hellas Verona
   Cagliari Calcio         - SPAL Ferrara
   Sassuolo Calcio         - Inter Mailand
+[Lun. 21.10.]
+ Brescia Calcio          - AC Florenz
 
 
 9^ Giornata
+[Ven. 25.10.]
+  Hellas Verona           - Sassuolo Calcio
+[Sab. 26.10.]
+  Inter Mailand           - Parma Calcio
+  US Lecce                - Juventus Turin
+  CFC Genua 1893          - Brescia Calcio
 [Dom. 27.10.]
   Atalanta Bergamo        - Udinese Calcio
   FC Bologna              - Sampdoria Genua
-  Inter Mailand           - Parma Calcio
   AC Florenz              - Lazio Rom
   AS Rom                  - AC Mailand
-  US Lecce                - Juventus Turin
-  Hellas Verona           - Sassuolo Calcio
   FC Turin                - Cagliari Calcio
-  CFC Genua 1893          - Brescia Calcio
   SPAL Ferrara            - SSC Neapel
 
 
