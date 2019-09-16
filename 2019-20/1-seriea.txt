@@ -40,12 +40,12 @@
   AC Florenz              0-0 Juventus Turin
   SSC Neapel              2-0 Sampdoria Genua
 [Dom. 15.9.]
-  Brescia Calcio          - FC Bologna
-  Parma Calcio            - Cagliari Calcio
-  AS Rom                  - Sassuolo Calcio
-  Hellas Verona           - AC Mailand
-  CFC Genua 1893          - Atalanta Bergamo
-  SPAL Ferrara            - Lazio Rom
+  Brescia Calcio          3-4 FC Bologna
+  Parma Calcio            1-3 Cagliari Calcio
+  AS Rom                  4-2 Sassuolo Calcio
+  Hellas Verona           0-1 AC Mailand
+  CFC Genua 1893          1-2 Atalanta Bergamo
+  SPAL Ferrara            2-1 Lazio Rom
 [Lun. 16.9.]
   FC Turin                - US Lecce
 
