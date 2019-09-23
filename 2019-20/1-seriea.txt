@@ -58,12 +58,12 @@
   Udinese Calcio          0-1 Brescia Calcio
   AC Mailand              0-2 Inter Mailand
 [Dom. 22.9.]
-  Atalanta Bergamo        - AC Florenz
-  Sampdoria Genua         - FC Turin
-  FC Bologna              - AS Rom
-  Lazio Rom               - Parma Calcio
-  US Lecce                - SSC Neapel
-  Sassuolo Calcio         - SPAL Ferrara
+  Atalanta Bergamo        2-2 AC Florenz
+  Sampdoria Genua         1-0 FC Turin
+  FC Bologna              1-2 AS Rom
+  Lazio Rom               2-0 Parma Calcio
+  US Lecce                1-4 SSC Neapel
+  Sassuolo Calcio         3-0 SPAL Ferrara
 
 
 5^ Giornata
