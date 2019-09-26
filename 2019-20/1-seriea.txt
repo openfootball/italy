@@ -68,16 +68,16 @@
 
 5^ Giornata
 [Mar. 24.9.]
-  Brescia Calcio          - Juventus Turin
-  Hellas Verona           - Udinese Calcio
+  Brescia Calcio          1-2 Juventus Turin
+  Hellas Verona           0-0 Udinese Calcio
 [Mer. 25.9.]
-  Inter Mailand           - Lazio Rom
-  AC Florenz              - Sampdoria Genua
-  Parma Calcio            - Sassuolo Calcio
-  AS Rom                  - Atalanta Bergamo
-  SSC Neapel              - Cagliari Calcio
-  CFC Genua 1893          - FC Bologna
-  SPAL Ferrara            - US Lecce
+  Inter Mailand           1-0 Lazio Rom
+  AC Florenz              2-1 Sampdoria Genua
+  Parma Calcio            1-0 Sassuolo Calcio
+  AS Rom                  0-2 Atalanta Bergamo
+  SSC Neapel              0-1 Cagliari Calcio
+  CFC Genua 1893          0-0 FC Bologna
+  SPAL Ferrara            1-3 US Lecce
 [Gio. 26.9.]
   FC Turin                - AC Mailand
 
