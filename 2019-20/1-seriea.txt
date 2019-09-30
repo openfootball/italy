@@ -88,12 +88,12 @@
   Sassuolo Calcio         1-4 Atalanta Bergamo
   Juventus Turin          2-0 SPAL Ferrara
 [Dom. 29.9.]
-  Lazio Rom               - CFC Genua 1893
-  US Lecce                - AS Rom
-  Udinese Calcio          - FC Bologna
-  AC Mailand              - AC Florenz
-  SSC Neapel              - Brescia Calcio
-  Cagliari Calcio         - Hellas Verona
+  Lazio Rom               4-0 CFC Genua 1893
+  US Lecce                0-1 AS Rom
+  Udinese Calcio          1-0 FC Bologna
+  AC Mailand              1-3 AC Florenz
+  SSC Neapel              2-1 Brescia Calcio
+  Cagliari Calcio         1-1 Hellas Verona
 [Lun. 30.9.] 
   Parma Calcio            - FC Turin
 
