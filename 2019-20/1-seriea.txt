@@ -106,12 +106,12 @@
   CFC Genua 1893          1-2 AC Mailand
   SPAL Ferrara            1-0 Parma Calcio
 [Dom. 6.10.]
-  Atalanta Bergamo        - US Lecce
-  FC Bologna              - Lazio Rom
-  Inter Mailand           - Juventus Turin
-  AC Florenz              - Udinese Calcio
-  FC Turin                - SSC Neapel
-  AS Rom                  - Cagliari Calcio
+  Atalanta Bergamo        3-1 US Lecce
+  FC Bologna              2-2 Lazio Rom
+  Inter Mailand           1-2 Juventus Turin
+  AC Florenz              1-0 Udinese Calcio
+  FC Turin                0-0 SSC Neapel
+  AS Rom                  1-1 Cagliari Calcio
   
 
 
