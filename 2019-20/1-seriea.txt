@@ -100,7 +100,7 @@
 
 7^ Giornata
 [Ven. 4.10.]
-  Brescia Calcio          - Sassuolo Calcio     Termin verschoben wegen Präsidententod Sassuolo Calcio
+  Brescia Calcio          - Sassuolo Calcio     18.12.
 [Sab. 5.10.]
   Hellas Verona           2-0 Sampdoria Genua
   CFC Genua 1893          1-2 AC Mailand
@@ -258,6 +258,11 @@
   Hellas Verona           - FC Turin
 [Lun. 16.12.]
  Cagliari Calcio         - Lazio Rom
+ 
+ 
+# 7^ Giornata
+[Mer. 18.12.]
+ Brescia Calcio          - Sassuolo Calcio
 
 
 17^ Giornata
