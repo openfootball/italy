@@ -121,12 +121,12 @@
   Juventus Turin          2-1 FC Bologna
   SSC Neapel              2-0 Hellas Verona
 [Dom. 20.10.]
-  Sampdoria Genua         - AS Rom
-  Parma Calcio            - CFC Genua 1893
-  Udinese Calcio          - FC Turin
-  AC Mailand              - US Lecce
-  Cagliari Calcio         - SPAL Ferrara
-  Sassuolo Calcio         - Inter Mailand
+  Sampdoria Genua         0-0 AS Rom
+  Parma Calcio            5-1 CFC Genua 1893
+  Udinese Calcio          1-0 FC Turin
+  AC Mailand              2-2 US Lecce
+  Cagliari Calcio         2-0 SPAL Ferrara
+  Sassuolo Calcio         3-4 Inter Mailand
 [Lun. 21.10.]
  Brescia Calcio          - AC Florenz
 
