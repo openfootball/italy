@@ -152,13 +152,13 @@
   Brescia Calcio          1-2 Inter Mailand
   Parma Calcio            0-1 Hellas Verona
 [Mer. 30.10.]
-  Sampdoria Genua         - US Lecce
-  Lazio Rom               - FC Turin
-  Juventus Turin          - CFC Genua 1893
-  Udinese Calcio          - AS Rom
-  SSC Neapel              - Atalanta Bergamo
-  Cagliari Calcio         - FC Bologna
-  Sassuolo Calcio         - AC Florenz
+  Sampdoria Genua         1-1 US Lecce
+  Lazio Rom               4-0 FC Turin
+  Juventus Turin          2-1 CFC Genua 1893
+  Udinese Calcio          0-4 AS Rom
+  SSC Neapel              2-2 Atalanta Bergamo
+  Cagliari Calcio         3-2 FC Bologna
+  Sassuolo Calcio         1-2 AC Florenz
 [Gio. 31.10.]
   AC Mailand              - SPAL Ferrara
 
