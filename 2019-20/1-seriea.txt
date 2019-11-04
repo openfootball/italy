@@ -169,12 +169,12 @@
   FC Turin                0-1 Juventus Turin
   AS Rom                  2-1 SSC Neapel
 [Dom. 3.11.]
-  Atalanta Bergamo        - Cagliari Calcio
-  AC Florenz              - Parma Calcio
-  US Lecce                - Sassuolo Calcio
-  AC Mailand              - Lazio Rom
-  Hellas Verona           - Brescia Calcio
-  CFC Genua 1893          - Udinese Calcio
+  Atalanta Bergamo        0-2 Cagliari Calcio
+  AC Florenz              1-1 Parma Calcio
+  US Lecce                2-2 Sassuolo Calcio
+  AC Mailand              1-2 Lazio Rom
+  Hellas Verona           2-1 Brescia Calcio
+  CFC Genua 1893          1-3 Udinese Calcio
 [Lun. 4.11.]
   SPAL Ferrara            - Sampdoria Genua
 
