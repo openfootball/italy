@@ -187,14 +187,13 @@
   SSC Neapel              0-0 CFC Genua 1893
   Brescia Calcio          0-4 FC Turin
 [Dom. 10.11.]
-  Sampdoria Genua         - Atalanta Bergamo
-  Lazio Rom               - US Lecce
-  Juventus Turin          - AC Mailand
-  Parma Calcio            - AS Rom
-  Udinese Calcio          - SPAL Ferrara
-  Cagliari Calcio         - AC Florenz
+  Sampdoria Genua         0-0 Atalanta Bergamo
+  Lazio Rom               4-2 US Lecce
+  Juventus Turin          1-0 AC Mailand
+  Parma Calcio            2-0 AS Rom
+  Udinese Calcio          0-0 SPAL Ferrara
+  Cagliari Calcio         5-2 AC Florenz
   
-
 
 13^ Giornata
 [Sab. 23.11.]
