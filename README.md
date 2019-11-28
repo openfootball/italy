@@ -1,11 +1,12 @@
-# Italy (it)
+# Italy
 
 ## What's `football.db`?
 
-A free open public domain football (soccer) database & schema
+A free open public domain football database & schema
 for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+(e.g. uses datasets in plain text).
 More [`football.db` Project Site »](http://openfootball.github.io)
+
 
 ## Intro
 
@@ -57,9 +58,9 @@ Build the database for all Italian clubs, leagues and seasons:
 
     $ sportdb new it
 
-Build the database for the 2017/18 season:
+Build the database for the 2019/20 season:
 
-    $ sportdb new it2017-18
+    $ sportdb new it2019-20
 
 
 
