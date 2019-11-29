@@ -1,0 +1,291 @@
+12 datafiles:
+[1/12] >2013-14/seriea-i.txt<
+  1 section(s):
+    259 lines - league: >Serie A< (it.1), season: >2013/14<
+      20 clubs:
+        Hellas Verona x19
+        AC Milan x19
+        Sampdoria x19
+        Juventus x19
+        Inter x19
+        Genoa CFC x19
+        Cagliari x19
+        Atalanta x19
+        Lazio x19
+        Udinese x19
+        AS Livorno x19
+        AS Roma x19
+        SSC Napoli x19
+        Bologna FC x19
+        Parma FC x19
+        Chievo Verona x19
+        Torino FC x19
+        Sassuolo x19
+        Fiorentina x19
+        Catania x19
+[2/12] >2013-14/seriea-ii.txt<
+  1 section(s):
+    209 lines - league: >Serie A< (it.1), season: >2013/14<
+      20 clubs:
+        AS Roma x19
+        AS Livorno x19
+        Juventus x19
+        Sampdoria x19
+        Udinese x19
+        Lazio Roma x19
+        Atalanta Bergamo x19
+        Cagliari x19
+        Catania x19
+        Fiorentina x19
+        Genoa CFC x19
+        Internazionale x19
+        Bologna FC x19
+        SSC Napoli x19
+        Chievo Verona x19
+        Parma FC x19
+        Sassuolo x19
+        Torino FC x19
+        AC Milan x19
+        Hellas Verona x19
+[3/12] >2014-15/seriea-i.txt<
+  1 section(s):
+    256 lines - league: >Serie A< (it.1), season: >2014/15<
+      20 clubs:
+        Chievo Verona x19
+        Juventus x19
+        AS Roma x19
+        Fiorentina x19
+        Atalanta x19
+        Hellas Verona x19
+        AC Milan x19
+        Lazio Roma x19
+        AC Cesena x19
+        Parma FC x19
+        Genoa CFC x19
+        SSC Napoli x19
+        US Palermo x19
+        Sampdoria x19
+        Sassuolo x19
+        Cagliari x19
+        Torino FC x19
+        Internazionale x19
+        Udinese x19
+        Empoli FC x19
+[4/12] >2014-15/seriea-ii.txt<
+  1 section(s):
+    228 lines - league: >Serie A< (it.1), season: >2014/15<
+      20 clubs:
+        Hellas Verona x19
+        Atalanta x19
+        Parma FC x19
+        AC Cesena x19
+        Juventus x19
+        Chievo Verona x19
+        SSC Napoli x19
+        Genoa CFC x19
+        Lazio Roma x19
+        AC Milan x19
+        Sampdoria x19
+        US Palermo x19
+        Fiorentina x19
+        AS Roma x19
+        Cagliari x19
+        Sassuolo x19
+        Internazionale x19
+        Torino FC x19
+        Empoli FC x19
+        Udinese x19
+[5/12] >2015-16/seriea-i.txt<
+  1 section(s):
+    230 lines - league: >Serie A< (it.1), season: >2015/16<
+      21 clubs:
+        Hellas Verona x19
+        AS Roma x19
+        Lazio Roma x19
+        Bologna FC x19
+        Juventus x19
+        Udinese Calcio x19
+        Empoli FC x19
+        Chievo Verona x19
+        Fiorentina x19
+        AC Milan x19
+        Frosinone Calcio x19
+        Torino FC x19
+        Internazionale x19
+        Atalanta x19
+        Palermo x1
+        Genoa CFC x19
+        Sampdoria x19
+        Carpi FC x19
+        Sassuolo Calcio x19
+        SSC Napoli x19
+        US Palermo x18
+[6/12] >2015-16/seriea-ii.txt<
+  1 section(s):
+    228 lines - league: >Serie A< (it.1), season: >2015/16<
+      20 clubs:
+        Chievo Verona x19
+        Empoli FC x19
+        AC Milan x19
+        Fiorentina x19
+        Torino FC x19
+        Frosinone Calcio x19
+        AS Roma x19
+        Hellas Verona x19
+        Atalanta x19
+        Internazionale x19
+        Udinese Calcio x19
+        Juventus x19
+        Bologna FC x19
+        Lazio Roma x19
+        Genoa CFC x19
+        US Palermo x19
+        Carpi FC x19
+        Sampdoria x19
+        SSC Napoli x19
+        Sassuolo Calcio x19
+[7/12] >2016-17/seriea-i.txt<
+  1 section(s):
+    240 lines - league: >Serie A< (it.1), season: >2016/17<
+      20 clubs:
+        Roma x19
+        Udinese x19
+        Juventus x19
+        Fiorentina x20
+        Atalanta x19
+        Lazio x19
+        Bologna x19
+        Crotone x19
+        Chievo x19
+        Inter x19
+        Empoli x19
+        Sampdoria x19
+        Genoa x20
+        Cagliari x19
+        Milan x19
+        Torino x19
+        Palermo x19
+        Sassuolo x19
+        Pescara x19
+        Napoli x19
+[8/12] >2016-17/seriea-ii.txt<
+  1 section(s):
+    235 lines - league: >Serie A< (it.1), season: >2016/17<
+      20 clubs:
+        Lazio x19
+        Atalanta x19
+        Crotone x20
+        Bologna x20
+        Inter x19
+        Chievo x19
+        Sampdoria x19
+        Empoli x19
+        Cagliari x19
+        Genoa x19
+        Fiorentina x20
+        Juventus x20
+        Torino x19
+        Milan x20
+        Sassuolo x19
+        Palermo x19
+        Napoli x19
+        Pescara x20
+        Udinese x19
+        Roma x19
+[9/12] >2017-18/seriea-i.txt<
+  1 section(s):
+    255 lines - league: >Serie A< (it.1), season: >2017/18<
+      20 clubs:
+        Juventus x19
+        Cagliari Calcio x19
+        Hellas Verona x19
+        SSC Napoli x19
+        Bologna FC x19
+        Torino FC x19
+        Inter x19
+        ACF Fiorentina x19
+        Lazio Roma x19
+        SPAL 2013 Ferrara x19
+        Sampdoria x19
+        Benevento Calcio x19
+        Sassuolo Calcio x19
+        Genoa CFC x19
+        Udinese Calcio x19
+        Chievo Verona x19
+        Atalanta x19
+        AS Roma x19
+        FC Crotone x19
+        AC Milan x19
+[10/12] >2017-18/seriea-ii.txt<
+  1 section(s):
+    267 lines - league: >Serie A< (it.1), season: >2017/18<
+      21 clubs:
+        Chievo Verona x20
+        Udinese Calcio x21
+        ACF Fiorentina x20
+        Inter x20
+        AS Roma x20
+        Atalanta x20
+        Torino FC x20
+        Bologna FC x19
+        AC Milan x20
+        FC Crotone x20
+        SSC Napoli x19
+        Hellas Verona x20
+        Cagliari Calcio x20
+        Juventus x20
+        SPAL 2013 Ferrara x19
+        Lazio Roma x20
+        Benevento Calcio x20
+        Sampdoria x21
+        Genoa CFC x20
+        Sassuolo Calcio x20
+        Atlanta x1
+[11/12] >2018-19/1-seriea.txt<
+  1 section(s):
+    540 lines - league: >Serie A< (it.1), season: >2018/19<
+      20 clubs:
+        Chievo Verona x38
+        Juventus Turin x38
+        Lazio Rom x39
+        SSC Neapel x38
+        FC Turin x38
+        AS Rom x38
+        Bologna FC x38
+        SPAL 2013 Ferrara x38
+        Empoli FC x38
+        Cagliari Calcio x38
+        AC Mailand x39
+        FC Genua x39
+        Parma Calcio 1913 x38
+        Udinese Calcio x39
+        Sampdoria x39
+        AC Florenz x39
+        Sassuolo Calcio x38
+        Inter Mailand x38
+        Atalanta x38
+        Frosinone Calcio x38
+[12/12] >2019-20/1-seriea.txt<
+  1 section(s):
+    490 lines - league: >Serie A< (it.1), season: >2019/20<
+      20 clubs:
+        AC Florenz x38
+        SSC Neapel x38
+        Parma Calcio x38
+        Juventus Turin x38
+        Sampdoria Genua x38
+        Lazio Rom x38
+        AS Rom x38
+        CFC Genua 1893 x38
+        Udinese Calcio x38
+        AC Mailand x38
+        Cagliari Calcio x38
+        Brescia Calcio x39
+        Hellas Verona x38
+        FC Bologna x38
+        FC Turin x38
+        Sassuolo Calcio x39
+        SPAL Ferrara x38
+        Atalanta Bergamo x38
+        Inter Mailand x38
+        US Lecce x38
