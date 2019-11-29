@@ -1,5 +1,6 @@
-#####################
-# Serie A 2013/14
+= Serie A 2013/14
+
+# start_at: 2013-08-24
 
 
 1^ Giornata
@@ -299,4 +300,3 @@
 [Lun. 13.1.]
   Sampdoria      3-0 Udinese
   Inter          1-1 Chievo Verona
-

@@ -1,5 +1,4 @@
-###################################
-# Serie A 2018/19
+= Serie A 2018/19
 
 
 1^ Giornata
@@ -10,9 +9,9 @@
   FC Turin                0-1 AS Rom
   Bologna FC              0-1 SPAL 2013 Ferrara
   Empoli FC               2-0 Cagliari Calcio
-  AC Mailand              2-1 FC Genua            
+  AC Mailand              2-1 FC Genua
   Parma Calcio 1913       2-2 Udinese Calcio
-  Sampdoria               1-1 AC Florenz          
+  Sampdoria               1-1 AC Florenz
   Sassuolo Calcio         1-0 Inter Mailand
 [Lun. 20.8.]
   Atalanta                4-0 Frosinone Calcio
@@ -64,7 +63,7 @@
   Udinese Calcio          1-1 FC Turin
 [Lun. 17.9.]
   SPAL 2013 Ferrara       2-0 Atalanta
-  
+
 ## supplemento 1^ Giornata
 [Mer. 19.9.]
   Sampdoria               1-1 AC Florenz
@@ -99,7 +98,7 @@
 [Gio. 27.9.]
   SPAL 2013 Ferrara       0-2 Sassuolo Calcio
   Empoli FC               1-1 AC Mailand
-  
+
 7^ Giornata
 [Sab. 29.9.]
   Inter Mailand           2-0 Cagliari Calcio
@@ -129,8 +128,8 @@
   AC Mailand              3-1 Chievo Verona
   SSC Neapel              2-0 Sassuolo Calcio
   SPAL 2013 Ferrara       1-2 Inter Mailand
- 
-  
+
+
 9^ Giornata
 [Sab. 20.10.]
   Juventus Turin          1-1 FC Genua
@@ -196,7 +195,7 @@
   AC Mailand              0-2 Juventus Turin
   AS Rom                  4-1 Sampdoria
   Sassuolo Calcio         1-1 Lazio Rom
-  
+
 
 
 13^ Giornata
@@ -305,7 +304,7 @@
   Udinese Calcio          2-0 Cagliari Calcio
 
 
-# Winterpause bis Dom. 20.1.2019 
+# Winterpause bis Dom. 20.1.2019
 
 
 20^ Giornata
@@ -322,8 +321,8 @@
 [Lun. 21.1.]
   FC Genua                0-2 AC Mailand
   Juventus Turin          3-0 Chievo Verona
-  
-  
+
+
 21^ Giornata
 [Sab. 26.1.]
   Sassuolo Calcio         3-0 Cagliari Calcio
@@ -354,8 +353,8 @@
 [Lun. 4.2.]
   Cagliari Calcio         0-1 Atalanta
   Frosinone Calcio        0-1 Lazio Rom
-  
-  
+
+
 23^ Giornata
 [Gio. 7.2.]
   Lazio Rom               1-0 Empoli FC
@@ -404,7 +403,7 @@
   Parma Calcio 1913       0-4 SSC Neapel
   Sassuolo Calcio         1-1 SPAL 2013 Ferrara
 [Lun. 25.2.]
-  Lazio Rom               2-0 Udinese Calcio     
+  Lazio Rom               2-0 Udinese Calcio
 
 
 26^ Giornata
@@ -505,7 +504,7 @@
 
 ## supplemento 25^ Giornata
 [Mer. 10.4.]
-  Lazio Rom               2-0 Udinese Calcio  
+  Lazio Rom               2-0 Udinese Calcio
 
 
 32^ Giornata
@@ -544,7 +543,7 @@
   Inter Mailand           1-1 Juventus Turin
   AS Rom                  3-0 Cagliari Calcio
   Bologna FC              3-1 Empoli FC
-[Dom. 28.4.]  
+[Dom. 28.4.]
   SPAL 2013 Ferrara       1-1 FC Genua
   Sampdoria               1-2 Lazio Rom
   FC Turin                2-0 AC Mailand
@@ -570,14 +569,14 @@
   Parma Calcio 1913       3-3 Sampdoria
 [Lun. 6.5.]
   AC Mailand              2-1 Bologna FC
- 
+
 
 # 1. Aufsteiger Serie A 2019/20:
   Brescia Calcio
-  
+
 # Meister Serie A 2018/19:
   Juventus Turin
-  
+
 # Absteiger Serie A 2018/19:
   Chievo Verona
   Frosinone Calcio
@@ -600,14 +599,14 @@
 
 
 # 2.Aufsteiger Serie A 2019/20:
-  US Lecce
-  
+#  US Lecce
+
 # Play-off um 3. Serie A Aufsteiger 2019/20:
 # Vorrunde:
-[Ven. 17.5.]
-  Spezia Calcio           1-2 AS Cittadella
-[Sab. 18.5.]
-  Hellas Verona           4-1 AC Perugia Calcio
+# [Ven. 17.5.]
+#  Spezia Calcio           1-2 AS Cittadella
+# [Sab. 18.5.]
+#  Hellas Verona           4-1 AC Perugia Calcio
 
 
 37^ Giornata
@@ -624,22 +623,22 @@
   Empoli FC               4-1 FC Turin
 [Lun. 20.5.]
   Lazio Rom               3-3 Bologna FC
-  
-  
-# 3. Absteiger Serie A 2018/19: 
+
+
+# 3. Absteiger Serie A 2018/19:
 
 # Play-off um 3. Serie A Aufsteiger 2019/20:
 # Halbfinale:
-[Mar. 21.5.]
-  AS Cittadella           1-2 Benevento Calcio
-[Mer. 22.5.]
-  Hellas Verona           0-0 Pescara Calcio
-[Sab. 25.5.]
-  Benevento Calcio        0-3 AS Cittadella
-[Dom. 26.5.]
-  Pescara Calcio          0-1 Hellas Verona 
-  
-  
+# [Mar. 21.5.]
+#  AS Cittadella           1-2 Benevento Calcio
+# [Mer. 22.5.]
+#  Hellas Verona           0-0 Pescara Calcio
+# [Sab. 25.5.]
+#  Benevento Calcio        0-3 AS Cittadella
+# [Dom. 26.5.]
+#  Pescara Calcio          0-1 Hellas Verona
+
+
 38^ Giornata
 [Sab. 25.5.]
   Frosinone Calcio        0-0 Chievo Verona
@@ -656,20 +655,20 @@
 
 
 # 3. Absteiger Serie A 2018/19:
-  Empoli FC 
+#  Empoli FC
 
-  
-# Play-off um 3. Serie A Aufsteiger 2019/20: 
+
+# Play-off um 3. Serie A Aufsteiger 2019/20:
 # Finale:
-[Gio. 30.5]
-  AS Cittadella           2-0 Hellas Verona
-[Dom. 2.6.]
-  Hellas Verona           3-0 AS Cittadella
+# [Gio. 30.5]
+#  AS Cittadella           2-0 Hellas Verona
+# [Dom. 2.6.]
+#  Hellas Verona           3-0 AS Cittadella
 
 # Play-off Sieger in Serie A 2019/20:
-  Hellas Verona 
- 
- 
+#  Hellas Verona
+
+
 # Ende Serie A 2018/19
 
 # 24.8. Start Serie A 2019/20

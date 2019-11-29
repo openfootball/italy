@@ -1,5 +1,5 @@
-#####################
-# Serie A 2016/17
+= Serie A 2016/17
+
 # Girone di ritorno
 
 

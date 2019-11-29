@@ -1,5 +1,5 @@
 ##########################################
-# Italy, it  [it]
+# Italy
 
 Key,          Name,                      Code
 milan,        AC Milan,                  MIL

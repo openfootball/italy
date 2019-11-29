@@ -1,3 +1,6 @@
+= Serie A 2017/18
+
+
 20^ Giornata
 [Ven. 5.1.]
   Chievo Verona        1-1  Udinese Calcio
@@ -11,11 +14,11 @@
   SPAL 2013 Ferrara    2-5  Lazio Roma
   Benevento Calcio     2-1  Sampdoria
   Genoa CFC            1-0  Sassuolo Calcio
-  
-  
-  
-Winterpause bis 21.1.18
-  
+
+
+
+#  Winterpause bis 21.1.18
+
 
 21^ Giornata
 [Dom. 21.1.]
@@ -30,14 +33,14 @@ Winterpause bis 21.1.18
   Sassuolo Calcio     1-1  Torino FC
 [Lun. 22.1.]
   Juventus            1-0  Genoa CFC
-  
+
 ## completamento 12^ Giornata
 [Mer. 24.1.]
   Lazio Roma          3-0  Udinese Calcio
 ## completamento 3^ Giornata
 [Mer. 24.1.]
   Sampdoria           1-1  AS Roma
-  
+
 22^ Giornata
 [Sab. 27.1.]
   Sassuolo Calcio     0-3  Atalanta
@@ -96,13 +99,13 @@ Winterpause bis 21.1.18
   SSC Napoli          1-0  SPAL 2013 Ferrara
 [Lun. 19.2.]
   Lazio Roma          2-0  Hellas Verona
-  
+
 26^ Giornata
 [Sab. 24.2.]
   Inter               2-0  Benevento Calcio
   Bologna FC          2-0  Genoa CFC
 [Dom. 25.2.]
-  Juventus            2-0  Atalanta            
+  Juventus            2-0  Atalanta
   ACF Fiorentina      1-0  Chievo Verona
   Sassuolo Calcio     0-3  Lazio Roma
   AS Roma             0-2  AC Milan
@@ -111,20 +114,20 @@ Winterpause bis 21.1.18
   Sampdoria           2-1  Udinese Calcio
 [Lun. 26.2.]
   Cagliari Calcio     0-5  SSC Napoli
-  
+
 27^ Giornata
 [Sab. 3.3.]
   Lazio Roma          0-1  Juventus
   SSC Napoli          2-4  AS Roma
   SPAL 2013 Ferrara   1-0  Bologna FC
 [Dom. 4.3.]
-  Genoa CFC           2-1  Cagliari Calcio         
-  Torino FC           4-1  FC Crotone             
-  Udinese Calcio      0-2  ACF Fiorentina     
-  Benevento Calcio    3-0  Hellas Verona    
-  AC Milan            0-0  Inter                   
-  Atalanta            1-2  Sampdoria                
-  Chievo Verona       1-1  Sassuolo Calcio     
+  Genoa CFC           2-1  Cagliari Calcio
+  Torino FC           4-1  FC Crotone
+  Udinese Calcio      0-2  ACF Fiorentina
+  Benevento Calcio    3-0  Hellas Verona
+  AC Milan            0-0  Inter
+  Atalanta            1-2  Sampdoria
+  Chievo Verona       1-1  Sassuolo Calcio
 
 28^ Giornata
 [Vie. 9.3.]
@@ -144,7 +147,7 @@ Winterpause bis 21.1.18
 ## completamento 26^ Giornata
 [Mer. 14.3.]
   Juventus            2-0  Atlanta
-  
+
 29^ Giornata
 [Sab. 17.3.]
   Udinese Calcio      1-2  Sassuolo Calcio
@@ -158,7 +161,7 @@ Winterpause bis 21.1.18
   SSC Napoli          1-0  Genoa CFC
   Sampdoria           0-5  Inter
   FC Crotone          0-2  AS Roma
-  
+
 30^ Giornata
 [Sab. 31.3.]
   Lazio Roma          6-2  Benevento Calcio
@@ -171,18 +174,18 @@ Winterpause bis 21.1.18
   Genoa CFC           1-1  SPAL 2013 Ferrara
   Cagliari Calcio     0-4  Torino FC
   Atalanta            2-0  Udinese Calcio
-  
+
 ## completamento 27^Giornata
 [Mer. 3.4.]
-   Genoa CFC          2-1  Cagliari Calcio 
+   Genoa CFC          2-1  Cagliari Calcio
    Udinese Calcio     0-2  ACF Fiorentina
-   Atalanta           1-2  Sampdoria  
+   Atalanta           1-2  Sampdoria
 [Gio. 4.4.]
-  Torino FC           4-1  FC Crotone 
-  Benevento Calcio    3-0  Hellas Verona 
+  Torino FC           4-1  FC Crotone
+  Benevento Calcio    3-0  Hellas Verona
   Chievo Verona       1-1  Sassuolo Calcio
   AC Milan            0-0  Inter
-  
+
 31^ Giornata
 [Sab. 7.4.]
   AS Roma             0-2  ACF Fiorentina
@@ -210,7 +213,7 @@ Winterpause bis 21.1.18
   Lazio Roma          0-0  AS Roma
   Juventus            3-0  Sampdoria
   ACF Fiorentina      0-0  SPAL 2013 Ferrara
-  
+
 
 33^ Giornata
 [Mar. 17.4.]
@@ -240,10 +243,10 @@ Winterpause bis 21.1.18
   Atalanta            2-1  Torino FC
 [Lun. 23.4.]
   Genoa CFC           3-1  Hellas Verona
- 
+
 ## 1. Absteiger Serie A 2017/18:
-  Benevento Calcio
-  
+#  Benevento Calcio
+
 35^ Giornata
 [Sab. 28.4.]
   AS Roma             4-1  Chievo Verona
@@ -257,10 +260,10 @@ Winterpause bis 21.1.18
   ACF Fiorentina      3-0  SSC Napoli
   Hellas Verona       1-3  SPAL 2013 Ferrara
   Benevento Calcio    3-3  Udinese Calcio
-  
+
 ## 1. Aufsteiger Serie A 2018/19:
-  Empoli FC
-  
+#  Empoli FC
+
 36^ Giornata
 [Sab. 5.5]
   AC Milan            4-1  Hellas Verona
@@ -276,8 +279,8 @@ Winterpause bis 21.1.18
   SSC Napoli          2-2  Torino FC
 
 ## 2. Absteiger Seriea A 2017/18:
-  Hellas Verona
-  
+#  Hellas Verona
+
 37^ Giornata
 [Sab. 12.5.]
   Inter               1-2  Sassuolo Calcio
@@ -293,11 +296,11 @@ Winterpause bis 21.1.18
   Hellas Verona       0-1  Udinese Calcio
 
 ## Meister Serie A 2017/18:
-   Juventus
- 
+#   Juventus
+
 ## 2. Aufsteiger in Serie A 2018/19:
-   Parma Calcio 1913
-   
+#   Parma Calcio 1913
+
 38^ Giornata
 [Sab. 19.5.]
   Juventus           2-1  Hellas Verona
@@ -311,31 +314,29 @@ Winterpause bis 21.1.18
   Lazio Roma         2-3  Inter
   Sassuolo Calcio    0-1  AS Roma
   SPAL 2013 Ferrara  3-1  Sampdoria
-  
+
 ## 3. Absteiger Serie A 2017/18:
-  FC Crotone
- 
+#  FC Crotone
+
 ## Playoff Sieger in Serie A 2018/19:
-[Dom. 3.6.]
-   AS Cittadella     2-2 AS Bari
-   Venezia FC        3-0 AC Perugia Calcio
-   
-[Mer. 6.6.]
-   AS Cittadella     1-1 Frosinone Calcio
-   Venezia FC        1-1 US Palermo
-[Dom. 10.6.]
-   Frosinone Calcio  1-1 AS Cittadella
-   US Palermo        1-0 Venezia FC
-   
-[Mer. 13.6.]
-   US Palermo        2-1 Frosinone Calcio 
-[Sab. 16.6.]
-   Frosinone Calcio  2-0 US Palermo 
-   
+# [Dom. 3.6.]
+#   AS Cittadella     2-2 AS Bari
+#   Venezia FC        3-0 AC Perugia Calcio
+#
+# [Mer. 6.6.]
+#   AS Cittadella     1-1 Frosinone Calcio
+#   Venezia FC        1-1 US Palermo
+# [Dom. 10.6.]
+#   Frosinone Calcio  1-1 AS Cittadella
+#   US Palermo        1-0 Venezia FC
+#
+# [Mer. 13.6.]
+#   US Palermo        2-1 Frosinone Calcio
+# [Sab. 16.6.]
+#   Frosinone Calcio  2-0 US Palermo
+#
 ## 3. Aufsteiger Serie A 2018/19:
-   Frosinone Calcio
-   
- 
- ## Sommerpause bis 19.8.2018
- 
- 
+#   Frosinone Calcio
+
+
+## Sommerpause bis 19.8.2018

@@ -1,5 +1,6 @@
-#####################
-# Serie A 2016/17
+= Serie A 2016/17
+
+# start_at: 2016-08-21
 # Girone di andata
 
 

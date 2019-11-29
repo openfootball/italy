@@ -1,5 +1,6 @@
-#####################
-# Serie A 2014/15
+= Serie A 2014/15
+
+# start_at: 2014-08-30
 
 
 1^ Giornata
@@ -313,4 +314,3 @@
   US Palermo     1-1  AS Roma
   Parma FC       0-2  Sampdoria
   Udinese        2-2  Cagliari
-

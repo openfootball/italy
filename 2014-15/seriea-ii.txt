@@ -1,5 +1,5 @@
-#####################
-# Serie A 2014/15
+= Serie A 2014/15
+
 
 20^ Giornata
 
@@ -67,13 +67,13 @@
   Juventus          2-1  Atalanta
   AC Milan          2-0  AC Cesena
   Empoli FC         3-0  Chievo Verona
-  Sampdoria         1-1  Genoa CFC     
+  Sampdoria         1-1  Genoa CFC
   Cagliari          1-2  Internazionale
   Lazio Roma        2-1  US Palermo
   Hellas Verona     1-1  AS Roma
   SSC Napoli        2-0  Sassuolo
   Fiorentina        1-1  Torino FC
-  Parma FC          1-0  Udinese          
+  Parma FC          1-0  Udinese
 
 
 25^ Giornata
@@ -86,7 +86,7 @@
   Sassuolo          0-3  Lazio Roma
   Chievo Verona     0-0  AC Milan
   Torino FC         1-0  SSC Napoli
-  Genoa CFC         2-0  Parma FC     
+  Genoa CFC         2-0  Parma FC
   Atalanta          1-2  Sampdoria
   AC Cesena         1-0  Udinese
 
@@ -216,7 +216,7 @@
 [Dom. 3.5.]
   Fiorentina       3-1  AC Cesena
   Internazionale   0-0  Chievo Verona
-  Torino FC        0-1  Empoli FC    
+  Torino FC        0-1  Empoli FC
   AS Roma          2-0  Genoa CFC
   Sampdoria        0-1  Juventus
   Atalanta         1-1  Lazio Roma
@@ -296,13 +296,12 @@
 #  AC Perugia Calcio  1-2    Pescara Calcio
 # Spezia Calcio      1-2 nV AS Avellino
 #
-# Pescara Calcio    1-0     Vicenza Calcio 
+# Pescara Calcio    1-0     Vicenza Calcio
 # Vicenza Calcio    2-2     Pescara Calcio
-# 
-# AS Avellino       0-1     Bologna FC
-# Bologna FC        2-3     AS Avellino 
-# 
-# Pescara Calcio    0-0     Bologna FC  
-# Bologna FC        1-1     Pescara Calcio   
 #
-
+# AS Avellino       0-1     Bologna FC
+# Bologna FC        2-3     AS Avellino
+#
+# Pescara Calcio    0-0     Bologna FC
+# Bologna FC        1-1     Pescara Calcio
+#
