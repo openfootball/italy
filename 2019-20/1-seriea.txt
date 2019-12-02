@@ -215,12 +215,12 @@
   CFC Genua 1893          0-1 FC Turin
   Brescia Calcio          0-3 Atalanta Bergamo
 [Dom. 1.12.]
-  Lazio Rom               - Udinese Calcio
-  Inter Mailand           - SPAL Ferrara
-  Juventus Turin          - Sassuolo Calcio
-  Parma Calcio            - AC Mailand
-  SSC Neapel              - FC Bologna
-  Hellas Verona           - AS Rom
+  Lazio Rom               3-0 Udinese Calcio
+  Inter Mailand           2-1 SPAL Ferrara
+  Juventus Turin          2-2 Sassuolo Calcio
+  Parma Calcio            0-1 AC Mailand
+  SSC Neapel              1-2 FC Bologna
+  Hellas Verona           1-3 AS Rom
 [Lun. 2.12.]
   Cagliari Calcio         - Sampdoria Genua
 
