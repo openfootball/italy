@@ -222,7 +222,7 @@
   SSC Neapel              1-2 FC Bologna
   Hellas Verona           1-3 AS Rom
 [Lun. 2.12.]
-  Cagliari Calcio         - Sampdoria Genua
+  Cagliari Calcio         4-3 Sampdoria Genua
 
 
 15^ Giornata
@@ -274,6 +274,9 @@
   Udinese Calcio          - Cagliari Calcio
   FC Turin                - SPAL Ferrara
   Sassuolo Calcio         - SSC Neapel
+
+
+# Winterpause incl. 3.1.20
 
 
 18^ Giornata
