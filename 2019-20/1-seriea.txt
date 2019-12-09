@@ -233,12 +233,12 @@
   Udinese Calcio          1-1 SSC Neapel
   Lazio Rom               3-1 Juventus Turin
 [Dom. 8.12.]
-  Sampdoria Genua         - Parma Calcio
-  FC Bologna              - AC Mailand
-  US Lecce                - CFC Genua 1893
-  FC Turin                - AC Florenz
-  SPAL Ferrara            - Brescia Calcio
-  Sassuolo Calcio         - Cagliari Calcio
+  Sampdoria Genua         0-1 Parma Calcio
+  FC Bologna              2-3 AC Mailand
+  US Lecce                2-2 CFC Genua 1893
+  FC Turin                2-1 AC Florenz
+  SPAL Ferrara            0-1 Brescia Calcio
+  Sassuolo Calcio         2-2 Cagliari Calcio
 
 
 16^ Giornata
