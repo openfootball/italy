@@ -254,99 +254,111 @@
   AC Mailand              - Sassuolo Calcio
   Hellas Verona           - FC Turin
 [Lun. 16.12.]
- Cagliari Calcio         - Lazio Rom
+  Cagliari Calcio         - Lazio Rom
 
 
 # 7^ Giornata
 [Mer. 18.12.]
- Brescia Calcio          - Sassuolo Calcio
+  Brescia Calcio          - Sassuolo Calcio
 
 
 17^ Giornata
+[Gio. 19.12.]
+  Sampdoria Genua         - Juventus Turin
+[Ven. 20.12.]
+  AC Florenz              - AS Rom
+[Sab. 21.12.]
+ Udinese Calcio          - Cagliari Calcio
+  FC Turin                - SPAL Ferrara
+  Inter Mailand           - CFC Genua 1893
 [Dom. 22.12.]
   Atalanta Bergamo        - AC Mailand
-  Sampdoria Genua         - Juventus Turin
-  Lazio Rom               - Hellas Verona
-  Inter Mailand           - CFC Genua 1893
-  AC Florenz              - AS Rom
+  Lazio Rom               - Hellas Verona          8.1.20
   Parma Calcio            - Brescia Calcio
   US Lecce                - FC Bologna
-  Udinese Calcio          - Cagliari Calcio
-  FC Turin                - SPAL Ferrara
   Sassuolo Calcio         - SSC Neapel
 
 
-# Winterpause incl. 3.1.20
+# Winterpause incl. 4.1.20
 
 
 18^ Giornata
 [Dom. 5.1.]
-  Atalanta Bergamo        - Parma Calcio
-  FC Bologna              - AC Florenz
-  Juventus Turin          - Cagliari Calcio
   Brescia Calcio          - Lazio Rom
   AS Rom                  - FC Turin
+  CFC Genua 1893          - Sassuolo Calcio
+  SPAL Ferrara            - Hellas Verona
+[Lun. 6.1.]
   US Lecce                - Udinese Calcio
   AC Mailand              - Sampdoria Genua
   SSC Neapel              - Inter Mailand
-  CFC Genua 1893          - Sassuolo Calcio
-  SPAL Ferrara            - Hellas Verona
-
-
+  Atalanta Bergamo        - Parma Calcio
+  FC Bologna              - AC Florenz
+  Juventus Turin          - Cagliari Calcio
+  
+  
 19^ Giornata
-[Dom. 12.1.]
-  Sampdoria Genua         - Brescia Calcio
+[Sab. 11.1.]
   Lazio Rom               - SSC Neapel
   Inter Mailand           - Atalanta Bergamo
+  Cagliari Calcio         - AC Mailand
+[Dom. 12.1.]
+  Sampdoria Genua         - Brescia Calcio
   AC Florenz              - SPAL Ferrara
-  Parma Calcio            - US Lecce
   AS Rom                  - Juventus Turin
   Udinese Calcio          - Sassuolo Calcio
-  Cagliari Calcio         - AC Mailand
   Hellas Verona           - CFC Genua 1893
   FC Turin                - FC Bologna
-
+[Lun. 13.1.]
+  Parma Calcio            - US Lecce
+  
 
 20^ Giornata
-[Dom. 19.1.]
-  Atalanta Bergamo        - SPAL Ferrara
-  FC Bologna              - Hellas Verona
+[Sab. 18.1.]
+  SSC Neapel              - AC Florenz
+  Sassuolo Calcio         - FC Turin
   Lazio Rom               - Sampdoria Genua
+[Dom. 19.1.]
+  FC Bologna              - Hellas Verona
   Juventus Turin          - Parma Calcio
   Brescia Calcio          - Cagliari Calcio
   US Lecce                - Inter Mailand
   AC Mailand              - Udinese Calcio
-  SSC Neapel              - AC Florenz
   CFC Genua 1893          - AS Rom
-  Sassuolo Calcio         - FC Turin
+[Lun. 20.1.]  
+  Atalanta Bergamo        - SPAL Ferrara
 
 
 21^ Giornata
+[Ven. 24.1.]
+  Brescia Calcio          - AC Mailand
+[Sab. 25.1.]
+  FC Turin                - Atalanta Bergamo
+  SPAL Ferrara            - FC Bologna
+  AC Florenz              - CFC Genua 1893
 [Dom. 26.1.]
   Sampdoria Genua         - Sassuolo Calcio
   Inter Mailand           - Cagliari Calcio
-  AC Florenz              - CFC Genua 1893
-  Brescia Calcio          - AC Mailand
   Parma Calcio            - Udinese Calcio
   AS Rom                  - Lazio Rom
   SSC Neapel              - Juventus Turin
   Hellas Verona           - US Lecce
-  FC Turin                - Atalanta Bergamo
-  SPAL Ferrara            - FC Bologna
-
+  
 
 22^ Giornata
+[Sab. 1.2.]
+  Cagliari Calcio         - Parma Calcio
+  Sassuolo Calcio         - AS Rom
+  FC Bologna              - Brescia Calcio
 [Dom. 2.2.]
   Atalanta Bergamo        - CFC Genua 1893
-  Sampdoria Genua         - SSC Neapel
-  FC Bologna              - Brescia Calcio
   Lazio Rom               - SPAL Ferrara
   Juventus Turin          - AC Florenz
   US Lecce                - FC Turin
   Udinese Calcio          - Inter Mailand
   AC Mailand              - Hellas Verona
-  Cagliari Calcio         - Parma Calcio
-  Sassuolo Calcio         - AS Rom
+[Lun. 3.2.]  
+  Sampdoria Genua         - SSC Neapel
 
 
 23^ Giornata
