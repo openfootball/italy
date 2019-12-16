@@ -99,7 +99,7 @@
 
 7^ Giornata
 [Ven. 4.10.]
-  Brescia Calcio          - Sassuolo Calcio     18.12.
+  Brescia Calcio          - Sassuolo Calcio    ## 18.12.
 [Sab. 5.10.]
   Hellas Verona           2-0 Sampdoria Genua
   CFC Genua 1893          1-2 AC Mailand
@@ -247,12 +247,12 @@
   SSC Neapel              1-2 Parma Calcio
   CFC Genua 1893          0-1 Sampdoria Genua
 [Dom. 15.12.]
-  FC Bologna              - Atalanta Bergamo
-  AC Florenz              - Inter Mailand
-  Juventus Turin          - Udinese Calcio
-  AS Rom                  - SPAL Ferrara
-  AC Mailand              - Sassuolo Calcio
-  Hellas Verona           - FC Turin
+  FC Bologna              2-1 Atalanta Bergamo
+  AC Florenz              1-1 Inter Mailand
+  Juventus Turin          3-1 Udinese Calcio
+  AS Rom                  3-1 SPAL Ferrara
+  AC Mailand              0-0 Sassuolo Calcio
+  Hellas Verona           3-3 FC Turin
 [Lun. 16.12.]
   Cagliari Calcio         - Lazio Rom
 
@@ -273,7 +273,7 @@
   Inter Mailand           - CFC Genua 1893
 [Dom. 22.12.]
   Atalanta Bergamo        - AC Mailand
-  Lazio Rom               - Hellas Verona          8.1.20
+  Lazio Rom               - Hellas Verona       ##   8.1.20
   Parma Calcio            - Brescia Calcio
   US Lecce                - FC Bologna
   Sassuolo Calcio         - SSC Neapel
@@ -295,6 +295,11 @@
   Atalanta Bergamo        - Parma Calcio
   FC Bologna              - AC Florenz
   Juventus Turin          - Cagliari Calcio
+
+
+# 17^Giornata
+[Mer. 8.1.]
+  Lazio Rom               - Hellas Verona
   
   
 19^ Giornata
