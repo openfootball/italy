@@ -99,7 +99,7 @@
 
 7^ Giornata
 [Ven. 4.10.]
-  Brescia Calcio          - Sassuolo Calcio    ## 18.12.
+  Brescia Calcio          0-2 Sassuolo Calcio    
 [Sab. 5.10.]
   Hellas Verona           2-0 Sampdoria Genua
   CFC Genua 1893          1-2 AC Mailand
@@ -259,12 +259,12 @@
 
 # 7^ Giornata
 [Mer. 18.12.]
-  Brescia Calcio          - Sassuolo Calcio
+  Brescia Calcio          0-2 Sassuolo Calcio
 
 
 17^ Giornata
-[Gio. 19.12.]
-  Sampdoria Genua         - Juventus Turin
+[Mer. 18.12.]
+  Sampdoria Genua         1-2 Juventus Turin
 [Ven. 20.12.]
   AC Florenz              - AS Rom
 [Sab. 21.12.]
