@@ -272,11 +272,11 @@
   FC Turin                1-2 SPAL Ferrara
   Inter Mailand           4-0 CFC Genua 1893
 [Dom. 22.12.]
-  Atalanta Bergamo        - AC Mailand
+  Atalanta Bergamo        5-0 AC Mailand
   Lazio Rom               - Hellas Verona       ##   8.1.20
-  Parma Calcio            - Brescia Calcio
-  US Lecce                - FC Bologna
-  Sassuolo Calcio         - SSC Neapel
+  Parma Calcio            1-1 Brescia Calcio
+  US Lecce                2-3 FC Bologna
+  Sassuolo Calcio         1-2 SSC Neapel
 
 
 # Winterpause incl. 4.1.20
