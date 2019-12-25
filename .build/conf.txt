@@ -1,28 +1,66 @@
 12 datafiles:
 [1/12] >2013-14/seriea-i.txt<
   1 section(s):
+    259 lines - league: >Serie A< (it.1), season: >2013/14<, 20 clubs, 19 rounds
+[2/12] >2013-14/seriea-ii.txt<
+  1 section(s):
+    209 lines - league: >Serie A< (it.1), season: >2013/14<, 20 clubs, 19 rounds
+[3/12] >2014-15/seriea-i.txt<
+  1 section(s):
+    256 lines - league: >Serie A< (it.1), season: >2014/15<, 20 clubs, 19 rounds
+[4/12] >2014-15/seriea-ii.txt<
+  1 section(s):
+    228 lines - league: >Serie A< (it.1), season: >2014/15<, 20 clubs, 19 rounds
+[5/12] >2015-16/seriea-i.txt<
+  1 section(s):
+    230 lines - league: >Serie A< (it.1), season: >2015/16<, 20 clubs, 19 rounds
+[6/12] >2015-16/seriea-ii.txt<
+  1 section(s):
+    228 lines - league: >Serie A< (it.1), season: >2015/16<, 20 clubs, 19 rounds
+[7/12] >2016-17/seriea-i.txt<
+  1 section(s):
+    240 lines - league: >Serie A< (it.1), season: >2016/17<, 20 clubs, 19 rounds
+[8/12] >2016-17/seriea-ii.txt<
+  1 section(s):
+    235 lines - league: >Serie A< (it.1), season: >2016/17<, 20 clubs, 21 rounds
+[9/12] >2017-18/seriea-i.txt<
+  1 section(s):
+    255 lines - league: >Serie A< (it.1), season: >2017/18<, 20 clubs, 19 rounds
+[10/12] >2017-18/seriea-ii.txt<
+  1 section(s):
+    267 lines - league: >Serie A< (it.1), season: >2017/18<, 20 clubs, 19 rounds
+[11/12] >2018-19/1-seriea.txt<
+  1 section(s):
+    540 lines - league: >Serie A< (it.1), season: >2018/19<, 20 clubs, 38 rounds
+[12/12] >2019-20/1-seriea.txt<
+  1 section(s):
+    504 lines - league: >Serie A< (it.1), season: >2019/20<, 20 clubs, 38 rounds
+
+
+[1/12] >2013-14/seriea-i.txt<
+  1 section(s):
     259 lines - league: >Serie A< (it.1), season: >2013/14<
       20 clubs:
-        AC Milan x19
-        AS Livorno x19
-        AS Roma x19
-        Atalanta x19
-        Bologna FC x19
-        Cagliari x19
-        Catania x19
-        Chievo Verona x19
-        Fiorentina x19
-        Genoa CFC x19
-        Hellas Verona x19
-        Inter x19
-        Juventus x19
-        Lazio x19
-        Parma FC x19
-        SSC Napoli x19
-        Sampdoria x19
-        Sassuolo x19
-        Torino FC x19
-        Udinese x19
+        19× AC Milan
+        19× AS Livorno ⇒ AS Livorno Calcio
+        19× AS Roma
+        19× Atalanta ⇒ Atalanta BC
+        19× Bologna FC
+        19× Cagliari ⇒ Cagliari Calcio
+        19× Catania ⇒ Calcio Catania
+        19× Chievo Verona ⇒ AC Chievo Verona
+        19× Fiorentina ⇒ ACF Fiorentina
+        19× Genoa CFC
+        19× Hellas Verona ⇒ Hellas Verona FC
+        19× Inter ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio ⇒ SS Lazio
+        19× Parma FC ⇒ Parma
+        19× SSC Napoli
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo ⇒ US Sassuolo Calcio
+        19× Torino FC
+        19× Udinese ⇒ Udinese Calcio
       19 rounds:
         1^ Giornata, 10 matches
         2^ Giornata, 10 matches
@@ -47,26 +85,26 @@
   1 section(s):
     209 lines - league: >Serie A< (it.1), season: >2013/14<
       20 clubs:
-        AC Milan x19
-        AS Livorno x19
-        AS Roma x19
-        Atalanta Bergamo x19
-        Bologna FC x19
-        Cagliari x19
-        Catania x19
-        Chievo Verona x19
-        Fiorentina x19
-        Genoa CFC x19
-        Hellas Verona x19
-        Internazionale x19
-        Juventus x19
-        Lazio Roma x19
-        Parma FC x19
-        SSC Napoli x19
-        Sampdoria x19
-        Sassuolo x19
-        Torino FC x19
-        Udinese x19
+        19× AC Milan
+        19× AS Livorno ⇒ AS Livorno Calcio
+        19× AS Roma
+        19× Atalanta Bergamo ⇒ Atalanta BC
+        19× Bologna FC
+        19× Cagliari ⇒ Cagliari Calcio
+        19× Catania ⇒ Calcio Catania
+        19× Chievo Verona ⇒ AC Chievo Verona
+        19× Fiorentina ⇒ ACF Fiorentina
+        19× Genoa CFC
+        19× Hellas Verona ⇒ Hellas Verona FC
+        19× Internazionale ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio Roma ⇒ SS Lazio
+        19× Parma FC ⇒ Parma
+        19× SSC Napoli
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo ⇒ US Sassuolo Calcio
+        19× Torino FC
+        19× Udinese ⇒ Udinese Calcio
       19 rounds:
         20^ Giornata, 10 matches
         21^ Giornata, 10 matches
@@ -91,26 +129,26 @@
   1 section(s):
     256 lines - league: >Serie A< (it.1), season: >2014/15<
       20 clubs:
-        AC Cesena x19
-        AC Milan x19
-        AS Roma x19
-        Atalanta x19
-        Cagliari x19
-        Chievo Verona x19
-        Empoli FC x19
-        Fiorentina x19
-        Genoa CFC x19
-        Hellas Verona x19
-        Internazionale x19
-        Juventus x19
-        Lazio Roma x19
-        Parma FC x19
-        SSC Napoli x19
-        Sampdoria x19
-        Sassuolo x19
-        Torino FC x19
-        US Palermo x19
-        Udinese x19
+        19× AC Cesena ⇒ Cesena
+        19× AC Milan
+        19× AS Roma
+        19× Atalanta ⇒ Atalanta BC
+        19× Cagliari ⇒ Cagliari Calcio
+        19× Chievo Verona ⇒ AC Chievo Verona
+        19× Empoli FC ⇒ Empoli
+        19× Fiorentina ⇒ ACF Fiorentina
+        19× Genoa CFC
+        19× Hellas Verona ⇒ Hellas Verona FC
+        19× Internazionale ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio Roma ⇒ SS Lazio
+        19× Parma FC ⇒ Parma
+        19× SSC Napoli
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo ⇒ US Sassuolo Calcio
+        19× Torino FC
+        19× US Palermo ⇒ Palermo
+        19× Udinese ⇒ Udinese Calcio
       19 rounds:
         1^ Giornata, 10 matches
         2^ Giornata, 10 matches
@@ -135,26 +173,26 @@
   1 section(s):
     228 lines - league: >Serie A< (it.1), season: >2014/15<
       20 clubs:
-        AC Cesena x19
-        AC Milan x19
-        AS Roma x19
-        Atalanta x19
-        Cagliari x19
-        Chievo Verona x19
-        Empoli FC x19
-        Fiorentina x19
-        Genoa CFC x19
-        Hellas Verona x19
-        Internazionale x19
-        Juventus x19
-        Lazio Roma x19
-        Parma FC x19
-        SSC Napoli x19
-        Sampdoria x19
-        Sassuolo x19
-        Torino FC x19
-        US Palermo x19
-        Udinese x19
+        19× AC Cesena ⇒ Cesena
+        19× AC Milan
+        19× AS Roma
+        19× Atalanta ⇒ Atalanta BC
+        19× Cagliari ⇒ Cagliari Calcio
+        19× Chievo Verona ⇒ AC Chievo Verona
+        19× Empoli FC ⇒ Empoli
+        19× Fiorentina ⇒ ACF Fiorentina
+        19× Genoa CFC
+        19× Hellas Verona ⇒ Hellas Verona FC
+        19× Internazionale ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio Roma ⇒ SS Lazio
+        19× Parma FC ⇒ Parma
+        19× SSC Napoli
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo ⇒ US Sassuolo Calcio
+        19× Torino FC
+        19× US Palermo ⇒ Palermo
+        19× Udinese ⇒ Udinese Calcio
       19 rounds:
         20^ Giornata, 10 matches
         21^ Giornata, 10 matches
@@ -178,28 +216,27 @@
 [5/12] >2015-16/seriea-i.txt<
   1 section(s):
     230 lines - league: >Serie A< (it.1), season: >2015/16<
-      21 clubs:
-        AC Milan x19
-        AS Roma x19
-        Atalanta x19
-        Bologna FC x19
-        Carpi FC x19
-        Chievo Verona x19
-        Empoli FC x19
-        Fiorentina x19
-        Frosinone Calcio x19
-        Genoa CFC x19
-        Hellas Verona x19
-        Internazionale x19
-        Juventus x19
-        Lazio Roma x19
-        SSC Napoli x19
-        Sampdoria x19
-        Sassuolo Calcio x19
-        Torino FC x19
-        Udinese Calcio x19
-        US Palermo x18
-        Palermo
+      20 clubs:
+        19× AC Milan
+        19× AS Roma
+        19× Atalanta ⇒ Atalanta BC
+        19× Bologna FC
+        19× Carpi FC ⇒ Carpi
+        19× Chievo Verona ⇒ AC Chievo Verona
+        19× Empoli FC ⇒ Empoli
+        19× Fiorentina ⇒ ACF Fiorentina
+        19× Frosinone Calcio ⇒ Frosinone
+        19× Genoa CFC
+        19× Hellas Verona ⇒ Hellas Verona FC
+        19× Internazionale ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio Roma ⇒ SS Lazio
+        19× SSC Napoli
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo Calcio ⇒ US Sassuolo Calcio
+        19× Torino FC
+        19× US Palermo ⇒ Palermo
+        19× Udinese Calcio
       19 rounds:
         1^ Giornata, 10 matches
         2^ Giornata, 10 matches
@@ -224,26 +261,26 @@
   1 section(s):
     228 lines - league: >Serie A< (it.1), season: >2015/16<
       20 clubs:
-        AC Milan x19
-        AS Roma x19
-        Atalanta x19
-        Bologna FC x19
-        Carpi FC x19
-        Chievo Verona x19
-        Empoli FC x19
-        Fiorentina x19
-        Frosinone Calcio x19
-        Genoa CFC x19
-        Hellas Verona x19
-        Internazionale x19
-        Juventus x19
-        Lazio Roma x19
-        SSC Napoli x19
-        Sampdoria x19
-        Sassuolo Calcio x19
-        Torino FC x19
-        US Palermo x19
-        Udinese Calcio x19
+        19× AC Milan
+        19× AS Roma
+        19× Atalanta ⇒ Atalanta BC
+        19× Bologna FC
+        19× Carpi FC ⇒ Carpi
+        19× Chievo Verona ⇒ AC Chievo Verona
+        19× Empoli FC ⇒ Empoli
+        19× Fiorentina ⇒ ACF Fiorentina
+        19× Frosinone Calcio ⇒ Frosinone
+        19× Genoa CFC
+        19× Hellas Verona ⇒ Hellas Verona FC
+        19× Internazionale ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio Roma ⇒ SS Lazio
+        19× SSC Napoli
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo Calcio ⇒ US Sassuolo Calcio
+        19× Torino FC
+        19× US Palermo ⇒ Palermo
+        19× Udinese Calcio
       19 rounds:
         20^ Giornata, 10 matches
         21^ Giornata, 10 matches
@@ -268,30 +305,30 @@
   1 section(s):
     240 lines - league: >Serie A< (it.1), season: >2016/17<
       20 clubs:
-        Fiorentina x20
-        Genoa x20
-        Atalanta x19
-        Bologna x19
-        Cagliari x19
-        Chievo x19
-        Crotone x19
-        Empoli x19
-        Inter x19
-        Juventus x19
-        Lazio x19
-        Milan x19
-        Napoli x19
-        Palermo x19
-        Pescara x19
-        Roma x19
-        Sampdoria x19
-        Sassuolo x19
-        Torino x19
-        Udinese x19
+        20× Fiorentina ⇒ ACF Fiorentina
+        20× Genoa ⇒ Genoa CFC
+        19× Atalanta ⇒ Atalanta BC
+        19× Bologna ⇒ Bologna FC
+        19× Cagliari ⇒ Cagliari Calcio
+        19× Chievo ⇒ AC Chievo Verona
+        19× Crotone ⇒ FC Crotone
+        19× Empoli
+        19× Inter ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio ⇒ SS Lazio
+        19× Milan ⇒ AC Milan
+        19× Napoli ⇒ SSC Napoli
+        19× Palermo
+        19× Pescara
+        19× Roma ⇒ AS Roma
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo ⇒ US Sassuolo Calcio
+        19× Torino ⇒ Torino FC
+        19× Udinese ⇒ Udinese Calcio
       19 rounds:
         1^ Giornata, 10 matches
         2^ Giornata, 10 matches
-        3^ Giornata x2, 11 matches
+        3^ Giornata ×2, 11 matches
         4^ Giornata, 10 matches
         5^ Giornata, 10 matches
         6^ Giornata, 10 matches
@@ -312,26 +349,26 @@
   1 section(s):
     235 lines - league: >Serie A< (it.1), season: >2016/17<
       20 clubs:
-        Bologna x20
-        Crotone x20
-        Fiorentina x20
-        Juventus x20
-        Milan x20
-        Pescara x20
-        Atalanta x19
-        Cagliari x19
-        Chievo x19
-        Empoli x19
-        Genoa x19
-        Inter x19
-        Lazio x19
-        Napoli x19
-        Palermo x19
-        Roma x19
-        Sampdoria x19
-        Sassuolo x19
-        Torino x19
-        Udinese x19
+        20× Bologna ⇒ Bologna FC
+        20× Crotone ⇒ FC Crotone
+        20× Fiorentina ⇒ ACF Fiorentina
+        20× Juventus
+        20× Milan ⇒ AC Milan
+        20× Pescara
+        19× Atalanta ⇒ Atalanta BC
+        19× Cagliari ⇒ Cagliari Calcio
+        19× Chievo ⇒ AC Chievo Verona
+        19× Empoli
+        19× Genoa ⇒ Genoa CFC
+        19× Inter ⇒ FC Internazionale Milano
+        19× Lazio ⇒ SS Lazio
+        19× Napoli ⇒ SSC Napoli
+        19× Palermo
+        19× Roma ⇒ AS Roma
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo ⇒ US Sassuolo Calcio
+        19× Torino ⇒ Torino FC
+        19× Udinese ⇒ Udinese Calcio
       21 rounds:
         20^ Giornata, 10 matches
         21^ Giornata, 10 matches
@@ -358,26 +395,26 @@
   1 section(s):
     255 lines - league: >Serie A< (it.1), season: >2017/18<
       20 clubs:
-        AC Milan x19
-        ACF Fiorentina x19
-        AS Roma x19
-        Atalanta x19
-        Benevento Calcio x19
-        Bologna FC x19
-        Cagliari Calcio x19
-        Chievo Verona x19
-        FC Crotone x19
-        Genoa CFC x19
-        Hellas Verona x19
-        Inter x19
-        Juventus x19
-        Lazio Roma x19
-        SPAL 2013 Ferrara x19
-        SSC Napoli x19
-        Sampdoria x19
-        Sassuolo Calcio x19
-        Torino FC x19
-        Udinese Calcio x19
+        19× AC Milan
+        19× ACF Fiorentina
+        19× AS Roma
+        19× Atalanta ⇒ Atalanta BC
+        19× Benevento Calcio ⇒ Benevento
+        19× Bologna FC
+        19× Cagliari Calcio
+        19× Chievo Verona ⇒ AC Chievo Verona
+        19× FC Crotone
+        19× Genoa CFC
+        19× Hellas Verona ⇒ Hellas Verona FC
+        19× Inter ⇒ FC Internazionale Milano
+        19× Juventus
+        19× Lazio Roma ⇒ SS Lazio
+        19× SPAL 2013 Ferrara ⇒ SPAL
+        19× SSC Napoli
+        19× Sampdoria ⇒ UC Sampdoria
+        19× Sassuolo Calcio ⇒ US Sassuolo Calcio
+        19× Torino FC
+        19× Udinese Calcio
       19 rounds:
         1^ Giornata, 10 matches
         2^ Giornata, 10 matches
@@ -401,28 +438,27 @@
 [10/12] >2017-18/seriea-ii.txt<
   1 section(s):
     267 lines - league: >Serie A< (it.1), season: >2017/18<
-      21 clubs:
-        Sampdoria x21
-        Udinese Calcio x21
-        AC Milan x20
-        ACF Fiorentina x20
-        AS Roma x20
-        Atalanta x20
-        Benevento Calcio x20
-        Cagliari Calcio x20
-        Chievo Verona x20
-        FC Crotone x20
-        Genoa CFC x20
-        Hellas Verona x20
-        Inter x20
-        Juventus x20
-        Lazio Roma x20
-        Sassuolo Calcio x20
-        Torino FC x20
-        Bologna FC x19
-        SPAL 2013 Ferrara x19
-        SSC Napoli x19
-        Atlanta
+      20 clubs:
+        21× Atalanta ⇒ Atalanta BC
+        21× Sampdoria ⇒ UC Sampdoria
+        21× Udinese Calcio
+        20× AC Milan
+        20× ACF Fiorentina
+        20× AS Roma
+        20× Benevento Calcio ⇒ Benevento
+        20× Cagliari Calcio
+        20× Chievo Verona ⇒ AC Chievo Verona
+        20× FC Crotone
+        20× Genoa CFC
+        20× Hellas Verona ⇒ Hellas Verona FC
+        20× Inter ⇒ FC Internazionale Milano
+        20× Juventus
+        20× Lazio Roma ⇒ SS Lazio
+        20× Sassuolo Calcio ⇒ US Sassuolo Calcio
+        20× Torino FC
+        19× Bologna FC
+        19× SPAL 2013 Ferrara ⇒ SPAL
+        19× SSC Napoli
       19 rounds:
         20^ Giornata, 10 matches
         21^ Giornata, 12 matches
@@ -447,26 +483,26 @@
   1 section(s):
     540 lines - league: >Serie A< (it.1), season: >2018/19<
       20 clubs:
-        AC Florenz x39
-        AC Mailand x39
-        FC Genua x39
-        Lazio Rom x39
-        Sampdoria x39
-        Udinese Calcio x39
-        AS Rom x38
-        Atalanta x38
-        Bologna FC x38
-        Cagliari Calcio x38
-        Chievo Verona x38
-        Empoli FC x38
-        FC Turin x38
-        Frosinone Calcio x38
-        Inter Mailand x38
-        Juventus Turin x38
-        Parma Calcio 1913 x38
-        SPAL 2013 Ferrara x38
-        SSC Neapel x38
-        Sassuolo Calcio x38
+        39× AC Florenz ⇒ ACF Fiorentina
+        39× AC Mailand ⇒ AC Milan
+        39× FC Genua ⇒ Genoa CFC
+        39× Lazio Rom ⇒ SS Lazio
+        39× Sampdoria ⇒ UC Sampdoria
+        39× Udinese Calcio
+        38× AS Rom ⇒ AS Roma
+        38× Atalanta ⇒ Atalanta BC
+        38× Bologna FC
+        38× Cagliari Calcio
+        38× Chievo Verona ⇒ AC Chievo Verona
+        38× Empoli FC ⇒ Empoli
+        38× FC Turin ⇒ Torino FC
+        38× Frosinone Calcio ⇒ Frosinone
+        38× Inter Mailand ⇒ FC Internazionale Milano
+        38× Juventus Turin ⇒ Juventus
+        38× Parma Calcio 1913 ⇒ Parma
+        38× SPAL 2013 Ferrara ⇒ SPAL
+        38× SSC Neapel ⇒ SSC Napoli
+        38× Sassuolo Calcio ⇒ US Sassuolo Calcio
       38 rounds:
         1^ Giornata, 10 matches
         2^ Giornata, 10 matches
@@ -508,28 +544,28 @@
         38^ Giornata, 10 matches
 [12/12] >2019-20/1-seriea.txt<
   1 section(s):
-    490 lines - league: >Serie A< (it.1), season: >2019/20<
+    504 lines - league: >Serie A< (it.1), season: >2019/20<
       20 clubs:
-        Brescia Calcio x39
-        Sassuolo Calcio x39
-        AC Florenz x38
-        AC Mailand x38
-        AS Rom x38
-        Atalanta Bergamo x38
-        CFC Genua 1893 x38
-        Cagliari Calcio x38
-        FC Bologna x38
-        FC Turin x38
-        Hellas Verona x38
-        Inter Mailand x38
-        Juventus Turin x38
-        Lazio Rom x38
-        Parma Calcio x38
-        SPAL Ferrara x38
-        SSC Neapel x38
-        Sampdoria Genua x38
-        US Lecce x38
-        Udinese Calcio x38
+        39× Brescia Calcio ⇒ Brescia
+        39× Hellas Verona ⇒ Hellas Verona FC
+        39× Lazio Rom ⇒ SS Lazio
+        39× Sassuolo Calcio ⇒ US Sassuolo Calcio
+        38× AC Florenz ⇒ ACF Fiorentina
+        38× AC Mailand ⇒ AC Milan
+        38× AS Rom ⇒ AS Roma
+        38× Atalanta Bergamo ⇒ Atalanta BC
+        38× CFC Genua 1893 ⇒ Genoa CFC
+        38× Cagliari Calcio
+        38× FC Bologna ⇒ Bologna FC
+        38× FC Turin ⇒ Torino FC
+        38× Inter Mailand ⇒ FC Internazionale Milano
+        38× Juventus Turin ⇒ Juventus
+        38× Parma Calcio ⇒ Parma
+        38× SPAL Ferrara ⇒ SPAL
+        38× SSC Neapel ⇒ SSC Napoli
+        38× Sampdoria Genua ⇒ UC Sampdoria
+        38× US Lecce
+        38× Udinese Calcio
       38 rounds:
         1^ Giornata, 10 matches
         2^ Giornata, 10 matches
@@ -552,7 +588,7 @@
         19^ Giornata, 10 matches
         20^ Giornata, 10 matches
         21^ Giornata, 10 matches
-        22^ Giornata, 10 matches
+        22^ Giornata, 11 matches
         23^ Giornata, 10 matches
         24^ Giornata, 10 matches
         25^ Giornata, 10 matches
