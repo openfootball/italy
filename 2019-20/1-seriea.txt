@@ -289,12 +289,12 @@
   CFC Genua 1893          2-1 Sassuolo Calcio
   SPAL Ferrara            0-2 Hellas Verona
 [Lun. 6.1.]
-  US Lecce                - Udinese Calcio
-  AC Mailand              - Sampdoria Genua
-  SSC Neapel              - Inter Mailand
-  Atalanta Bergamo        - Parma Calcio
-  FC Bologna              - AC Florenz
-  Juventus Turin          - Cagliari Calcio
+  US Lecce                0-1 Udinese Calcio
+  AC Mailand              0-0 Sampdoria Genua
+  SSC Neapel              1-3 Inter Mailand
+  Atalanta Bergamo        5-0 Parma Calcio
+  FC Bologna              1-1 AC Florenz
+  Juventus Turin          4-0 Cagliari Calcio
 
 
 19^ Giornata
