@@ -303,12 +303,12 @@
   Inter Mailand           1-1 Atalanta Bergamo
   Cagliari Calcio         0-2 AC Mailand
 [Dom. 12.1.]
-  Sampdoria Genua         - Brescia Calcio
-  AC Florenz              - SPAL Ferrara
-  AS Rom                  - Juventus Turin
-  Udinese Calcio          - Sassuolo Calcio
-  Hellas Verona           - CFC Genua 1893
-  FC Turin                - FC Bologna
+  Sampdoria Genua         5-1 Brescia Calcio
+  AC Florenz              1-0 SPAL Ferrara
+  AS Rom                  1-2 Juventus Turin
+  Udinese Calcio          3-0 Sassuolo Calcio
+  Hellas Verona           2-1 CFC Genua 1893
+  FC Turin                1-0 FC Bologna
 [Lun. 13.1.]
   Parma Calcio            - US Lecce
   
