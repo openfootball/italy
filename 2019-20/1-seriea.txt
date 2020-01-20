@@ -319,12 +319,12 @@
   Sassuolo Calcio         2-1 FC Turin
   Lazio Rom               5-1 Sampdoria Genua
 [Dom. 19.1.]
-  FC Bologna              - Hellas Verona
-  Juventus Turin          - Parma Calcio
-  Brescia Calcio          - Cagliari Calcio
-  US Lecce                - Inter Mailand
-  AC Mailand              - Udinese Calcio
-  CFC Genua 1893          - AS Rom
+  FC Bologna              1-1 Hellas Verona
+  Juventus Turin          2-1 Parma Calcio
+  Brescia Calcio          2-2 Cagliari Calcio
+  US Lecce                1-1 Inter Mailand
+  AC Mailand              3-2 Udinese Calcio
+  CFC Genua 1893          1-3 AS Rom
 [Lun. 20.1.]  
   Atalanta Bergamo        - SPAL Ferrara
 
