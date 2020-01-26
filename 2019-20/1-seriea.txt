@@ -447,45 +447,51 @@ AC Florenz              - AC Mailand
 
 
 28^ Giornata
-[Dom. 15.3.]
-  Sampdoria Genua         - FC Bologna
-  Lazio Rom               - AC Florenz
+[Ven. 13.3.]
   Juventus Turin          - US Lecce
+[Sab. 14.3.]
+  SSC Neapel              - SPAL Ferrara
+  Sassuolo Calcio         - Hellas Verona
+  Sampdoria Genua         - FC Bologna
+[Dom. 15.3.]
+  Lazio Rom               - AC Florenz
   Brescia Calcio          - CFC Genua 1893
   Parma Calcio            - Inter Mailand
   Udinese Calcio          - Atalanta Bergamo
   AC Mailand              - AS Rom
-  SSC Neapel              - SPAL Ferrara
   Cagliari Calcio         - FC Turin
-  Sassuolo Calcio         - Hellas Verona
-
+  
 
 29^ Giornata
+[Ven. 20.3.]
+  AC Florenz              - Sassuolo Calcio
+[Sab. 21.3.]
+  FC Turin                - Lazio Rom
+  CFC Genua 1893          - Juventus Turin
+  SPAL Ferrara            - AC Mailand
 [Dom. 22.3.]
   Atalanta Bergamo        - SSC Neapel
   FC Bologna              - Cagliari Calcio
   Inter Mailand           - Brescia Calcio
-  AC Florenz              - Sassuolo Calcio
   AS Rom                  - Udinese Calcio
   US Lecce                - Sampdoria Genua
   Hellas Verona           - Parma Calcio
-  FC Turin                - Lazio Rom
-  CFC Genua 1893          - Juventus Turin
-  SPAL Ferrara            - AC Mailand
-
+  
 
 30^ Giornata
+[Sab. 4.4.]
+ SSC Neapel              - AS Rom
+  Cagliari Calcio         - Atalanta Bergamo
+  Juventus Turin          - FC Turin
 [Dom. 5.4.]
   Sampdoria Genua         - SPAL Ferrara
   Lazio Rom               - AC Mailand
   Inter Mailand           - FC Bologna
-  Juventus Turin          - FC Turin
   Brescia Calcio          - Hellas Verona
   Parma Calcio            - AC Florenz
-  Udinese Calcio          - CFC Genua 1893
-  SSC Neapel              - AS Rom
-  Cagliari Calcio         - Atalanta Bergamo
   Sassuolo Calcio         - US Lecce
+[Lun. 6.4.]
+  Udinese Calcio          - CFC Genua 1893
 
 
 31^ Giornata
