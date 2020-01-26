@@ -367,73 +367,83 @@
 
 
 23^ Giornata
-[Dom. 9.2.]
-  Inter Mailand           - AC Mailand
-  AC Florenz              - Atalanta Bergamo
-  Brescia Calcio          - Udinese Calcio
-  Parma Calcio            - Lazio Rom
+[Ven. 7.2.]
   AS Rom                  - FC Bologna
-  SSC Neapel              - US Lecce
+[Sab. 8.2.]
   Hellas Verona           - Juventus Turin
   FC Turin                - Sampdoria Genua
+  AC Florenz              - Atalanta Bergamo
+[Dom. 9.2.]
+  Inter Mailand           - AC Mailand
+  Brescia Calcio          - Udinese Calcio
+  Parma Calcio            - Lazio Rom
+  SSC Neapel              - US Lecce
   CFC Genua 1893          - Cagliari Calcio
   SPAL Ferrara            - Sassuolo Calcio
 
 
 24^ Giornata
-[Dom. 16.2.]
+[Sab. 15.2.]
   Atalanta Bergamo        - AS Rom
-  Sampdoria Genua         - AC Florenz
+  US Lecce                - SPAL Ferrara
   FC Bologna              - CFC Genua 1893
+[Dom. 16.2.]
+  Sampdoria Genua         - AC Florenz
   Lazio Rom               - Inter Mailand
   Juventus Turin          - Brescia Calcio
-  US Lecce                - SPAL Ferrara
   Udinese Calcio          - Hellas Verona
-  AC Mailand              - FC Turin
   Cagliari Calcio         - SSC Neapel
   Sassuolo Calcio         - Parma Calcio
+[Lun. 17.2.]
+  AC Mailand              - FC Turin
 
 
 25^ Giornata
+[Ven. 21.2.]
+  Brescia Calcio          - SSC Neapel
+[Sab. 22.2.]
+AC Florenz              - AC Mailand
+  SPAL Ferrara            - Juventus Turin
+  FC Bologna              - Udinese Calcio
 [Dom. 23.2.]
   Atalanta Bergamo        - Sassuolo Calcio
-  FC Bologna              - Udinese Calcio
   Inter Mailand           - Sampdoria Genua
-  AC Florenz              - AC Mailand
-  Brescia Calcio          - SSC Neapel
   AS Rom                  - US Lecce
   Hellas Verona           - Cagliari Calcio
   FC Turin                - Parma Calcio
   CFC Genua 1893          - Lazio Rom
-  SPAL Ferrara            - Juventus Turin
-
+ 
 
 26^ Giornata
-[Dom. 1.3.]
-  Sampdoria Genua         - Hellas Verona
+[Sab. 29.2.]
+  SSC Neapel              - FC Turin
+  Udinese Calcio          - AC Florenz
   Lazio Rom               - FC Bologna
+[Dom. 1.3.]
   Juventus Turin          - Inter Mailand
   Parma Calcio            - SPAL Ferrara
   US Lecce                - Atalanta Bergamo
-  Udinese Calcio          - AC Florenz
   AC Mailand              - CFC Genua 1893
-  SSC Neapel              - FC Turin
   Cagliari Calcio         - AS Rom
   Sassuolo Calcio         - Brescia Calcio
+[Lun. 2.3.]
+  Sampdoria Genua         - Hellas Verona
 
 
 27^ Giornata
-[Dom. 8.3.]
+[Sab. 7.3.]
+  CFC Genua 1893          - Parma Calcio
+  SPAL Ferrara            - Cagliari Calcio
   Atalanta Bergamo        - Lazio Rom
+[Dom. 8.3.]
   FC Bologna              - Juventus Turin
   Inter Mailand           - Sassuolo Calcio
   AC Florenz              - Brescia Calcio
   AS Rom                  - Sampdoria Genua
-  US Lecce                - AC Mailand
   Hellas Verona           - SSC Neapel
+[Lun. 9.3.]
+  US Lecce                - AC Mailand
   FC Turin                - Udinese Calcio
-  CFC Genua 1893          - Parma Calcio
-  SPAL Ferrara            - Cagliari Calcio
 
 
 28^ Giornata
