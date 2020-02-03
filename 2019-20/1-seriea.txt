@@ -351,12 +351,12 @@
   Sassuolo Calcio         4-2 AS Rom
   FC Bologna              2-1 Brescia Calcio
 [Dom. 2.2.]
-  Atalanta Bergamo        - CFC Genua 1893
-  Lazio Rom               - SPAL Ferrara
-  Juventus Turin          - AC Florenz
-  US Lecce                - FC Turin
-  Udinese Calcio          - Inter Mailand
-  AC Mailand              - Hellas Verona
+  Atalanta Bergamo        2-2 CFC Genua 1893
+  Lazio Rom               5-1 SPAL Ferrara
+  Juventus Turin          3-0 AC Florenz
+  US Lecce                4-0 FC Turin
+  Udinese Calcio          0-2 Inter Mailand
+  AC Mailand              1-1 Hellas Verona
 [Lun. 3.2.]  
   Sampdoria Genua         - SSC Neapel
 
