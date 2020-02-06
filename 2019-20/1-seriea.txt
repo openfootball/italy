@@ -273,7 +273,7 @@
   Inter Mailand           4-0 CFC Genua 1893
 [Dom. 22.12.]
   Atalanta Bergamo        5-0 AC Mailand
-  Lazio Rom               - Hellas Verona       ##   5.2.20
+  Lazio Rom               0-0 Hellas Verona       
   Parma Calcio            1-1 Brescia Calcio
   US Lecce                2-3 FC Bologna
   Sassuolo Calcio         1-2 SSC Neapel
@@ -363,7 +363,7 @@
 
 # 17^Giornata
 [Mer. 5.2.]
-  Lazio Rom               - Hellas Verona
+  Lazio Rom               0-0 Hellas Verona
 
 
 23^ Giornata
