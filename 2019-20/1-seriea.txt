@@ -388,12 +388,12 @@
   US Lecce                2-1 SPAL Ferrara
   FC Bologna              0-3 CFC Genua 1893
 [Dom. 16.2.]
-  Sampdoria Genua         - AC Florenz
-  Lazio Rom               - Inter Mailand
-  Juventus Turin          - Brescia Calcio
-  Udinese Calcio          - Hellas Verona
-  Cagliari Calcio         - SSC Neapel
-  Sassuolo Calcio         - Parma Calcio
+  Sampdoria Genua         1-5 AC Florenz
+  Lazio Rom               2-1 Inter Mailand
+  Juventus Turin          2-0 Brescia Calcio
+  Udinese Calcio          0-0 Hellas Verona
+  Cagliari Calcio         0-1 SSC Neapel
+  Sassuolo Calcio         0-1 Parma Calcio
 [Lun. 17.2.]
   AC Mailand              - FC Turin
 
