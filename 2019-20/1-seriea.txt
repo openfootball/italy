@@ -406,12 +406,12 @@
   SPAL Ferrara            1-2 Juventus Turin
   FC Bologna              1-1 Udinese Calcio
 [Dom. 23.2.]
-  Atalanta Bergamo        - Sassuolo Calcio
-  Inter Mailand           - Sampdoria Genua
-  AS Rom                  - US Lecce
-  Hellas Verona           - Cagliari Calcio
-  FC Turin                - Parma Calcio
-  CFC Genua 1893          - Lazio Rom
+  Atalanta Bergamo        - Sassuolo Calcio        # Termin verschoben
+  Inter Mailand           - Sampdoria Genua        # Termin verschoben
+  AS Rom                  4-0 US Lecce
+  Hellas Verona           - Cagliari Calcio        # Termin verschoben
+  FC Turin                - Parma Calcio           # Termin verschoben
+  CFC Genua 1893          2-3 Lazio Rom
  
 
 26^ Giornata
