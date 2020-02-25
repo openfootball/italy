@@ -420,7 +420,7 @@
   Udinese Calcio          - AC Florenz
   Lazio Rom               - FC Bologna
 [Dom. 1.3.]
-  Juventus Turin          - Inter Mailand
+  Juventus Turin          - Inter Mailand          # Spiel ohne offizielle Zuschauer
   Parma Calcio            - SPAL Ferrara
   US Lecce                - Atalanta Bergamo
   AC Mailand              - CFC Genua 1893
