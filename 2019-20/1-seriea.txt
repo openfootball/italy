@@ -409,8 +409,8 @@
   Atalanta Bergamo        - Sassuolo Calcio        # Termin verschoben
   Inter Mailand           - Sampdoria Genua        # Termin verschoben
   AS Rom                  4-0 US Lecce
-  Hellas Verona           - Cagliari Calcio        # Termin verschoben
-  FC Turin                - Parma Calcio           # Termin verschoben
+  Hellas Verona           - Cagliari Calcio        # 11.3.
+  FC Turin                - Parma Calcio           # 11.3.
   CFC Genua 1893          2-3 Lazio Rom
  
 
@@ -420,7 +420,7 @@
   Udinese Calcio           - AC Florenz            # 13.5.
   Lazio Rom               2-0 FC Bologna
 [Dom. 1.3.]
-  Juventus Turin          - Inter Mailand          # 13.5
+  Juventus Turin          - Inter Mailand          
   Parma Calcio            - SPAL Ferrara           # 13.5.
   US Lecce                2-7 Atalanta Bergamo
   AC Mailand              - CFC Genua 1893         # 13.5.
@@ -444,6 +444,12 @@
 [Lun. 9.3.]
   US Lecce                - AC Mailand
   FC Turin                - Udinese Calcio
+  
+  
+# 25^ Giornata 
+[Mer. 11.3.]
+  Hellas Verona           - Cagliari Calcio        
+  FC Turin                - Parma Calcio           
 
 
 28^ Giornata
@@ -577,10 +583,10 @@
   CFC Genua 1893          - Inter Mailand
   SPAL Ferrara            - FC Turin
 
+
 # 26^ Giornata
 [Mer. 13.5.]
   Udinese Calcio           - AC Florenz            
-  Juventus Turin          - Inter Mailand          
   Parma Calcio            - SPAL Ferrara           
   AC Mailand              - CFC Genua 1893         
   Sassuolo Calcio         - Brescia Calcio 
