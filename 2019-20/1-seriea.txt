@@ -409,8 +409,8 @@
   Atalanta Bergamo        - Sassuolo Calcio        # Termin verschoben
   Inter Mailand           - Sampdoria Genua        # Termin verschoben
   AS Rom                  4-0 US Lecce
-  Hellas Verona           - Cagliari Calcio        # 11.3.
-  FC Turin                - Parma Calcio           # 11.3.
+  Hellas Verona           - Cagliari Calcio        # Termin verschoben
+  FC Turin                - Parma Calcio           # Termin verschoben
   CFC Genua 1893          2-3 Lazio Rom
  
 
@@ -443,29 +443,23 @@
   Hellas Verona           - SSC Neapel                # Termin verschoben
 [Lun. 9.3.]
   US Lecce                - AC Mailand                # Termin verschoben
-  FC Turin                - Udinese Calcio            # Termin verschoben
-  
-  
-# 25^ Giornata 
-[Mer. 11.3.]
-  Hellas Verona           - Cagliari Calcio        
-  FC Turin                - Parma Calcio           
+  FC Turin                - Udinese Calcio            # Termin verschoben          
 
 
 28^ Giornata
 [Ven. 13.3.]
-  Juventus Turin          - US Lecce
+  Juventus Turin          - US Lecce                  # Termin verschoben
 [Sab. 14.3.]
-  SSC Neapel              - SPAL Ferrara
-  Sassuolo Calcio         - Hellas Verona
-  Sampdoria Genua         - FC Bologna
+  SSC Neapel              - SPAL Ferrara              # Termin verschoben
+  Sassuolo Calcio         - Hellas Verona             # Termin verschoben
+  Sampdoria Genua         - FC Bologna                # Termin verschoben
 [Dom. 15.3.]
-  Lazio Rom               - AC Florenz
-  Brescia Calcio          - CFC Genua 1893
-  Parma Calcio            - Inter Mailand
-  Udinese Calcio          - Atalanta Bergamo
-  AC Mailand              - AS Rom
-  Cagliari Calcio         - FC Turin
+  Lazio Rom               - AC Florenz                # Termin verschoben
+  Brescia Calcio          - CFC Genua 1893            # Termin verschoben
+  Parma Calcio            - Inter Mailand             # Termin verschoben
+  Udinese Calcio          - Atalanta Bergamo          # Termin verschoben
+  AC Mailand              - AS Rom                    # Termin verschoben
+  Cagliari Calcio         - FC Turin                  # Termin verschoben
   
 
 29^ Giornata
