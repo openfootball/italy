@@ -464,18 +464,18 @@
 
 29^ Giornata
 [Ven. 20.3.]
-  AC Florenz              - Sassuolo Calcio
+  AC Florenz              - Sassuolo Calcio           # Termin verschoben
 [Sab. 21.3.]
-  FC Turin                - Lazio Rom
-  CFC Genua 1893          - Juventus Turin
-  SPAL Ferrara            - AC Mailand
+  FC Turin                - Lazio Rom                 # Termin verschoben
+  CFC Genua 1893          - Juventus Turin            # Termin verschoben
+  SPAL Ferrara            - AC Mailand                # Termin verschoben
 [Dom. 22.3.]
-  Atalanta Bergamo        - SSC Neapel
-  FC Bologna              - Cagliari Calcio
-  Inter Mailand           - Brescia Calcio
-  AS Rom                  - Udinese Calcio
-  US Lecce                - Sampdoria Genua
-  Hellas Verona           - Parma Calcio
+  Atalanta Bergamo        - SSC Neapel                # Termin verschoben
+  FC Bologna              - Cagliari Calcio           # Termin verschoben
+  Inter Mailand           - Brescia Calcio            # Termin verschoben
+  AS Rom                  - Udinese Calcio            # Termin verschoben
+  US Lecce                - Sampdoria Genua           # Termin verschoben
+  Hellas Verona           - Parma Calcio              # Termin verschoben
   
 
 30^ Giornata
