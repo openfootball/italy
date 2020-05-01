@@ -1,4 +1,4 @@
-= Serie A 2019/20
+= Italian Serie A 2019/20
 
 
 1^ Giornata
@@ -99,7 +99,7 @@
 
 7^ Giornata
 [Ven. 4.10.]
-  Brescia Calcio          0-2 Sassuolo Calcio    
+  Brescia Calcio          0-2 Sassuolo Calcio
 [Sab. 5.10.]
   Hellas Verona           2-0 Sampdoria Genua
   CFC Genua 1893          1-2 AC Mailand
@@ -273,7 +273,7 @@
   Inter Mailand           4-0 CFC Genua 1893
 [Dom. 22.12.]
   Atalanta Bergamo        5-0 AC Mailand
-  Lazio Rom               0-0 Hellas Verona       
+  Lazio Rom               0-0 Hellas Verona
   Parma Calcio            1-1 Brescia Calcio
   US Lecce                2-3 FC Bologna
   Sassuolo Calcio         1-2 SSC Neapel
@@ -311,7 +311,7 @@
   FC Turin                1-0 FC Bologna
 [Lun. 13.1.]
   Parma Calcio            2-0 US Lecce
-  
+
 
 20^ Giornata
 [Sab. 18.1.]
@@ -325,7 +325,7 @@
   US Lecce                1-1 Inter Mailand
   AC Mailand              3-2 Udinese Calcio
   CFC Genua 1893          1-3 AS Rom
-[Lun. 20.1.]  
+[Lun. 20.1.]
   Atalanta Bergamo        1-2 SPAL Ferrara
 
 
@@ -343,7 +343,7 @@
   AS Rom                  1-1 Lazio Rom
   SSC Neapel              2-1 Juventus Turin
   Hellas Verona           3-0 US Lecce
-  
+
 
 22^ Giornata
 [Sab. 1.2.]
@@ -357,7 +357,7 @@
   US Lecce                4-0 FC Turin
   Udinese Calcio          0-2 Inter Mailand
   AC Mailand              1-1 Hellas Verona
-[Lun. 3.2.]  
+[Lun. 3.2.]
   Sampdoria Genua         2-4 SSC Neapel
 
 
@@ -412,22 +412,22 @@
   Hellas Verona           - Cagliari Calcio        # Termin verschoben
   FC Turin                - Parma Calcio           # Termin verschoben
   CFC Genua 1893          2-3 Lazio Rom
- 
+
 
 26^ Giornata
 [Sab. 29.2.]
   SSC Neapel              2-1 FC Turin
-  Udinese Calcio          0-0 AC Florenz            
+  Udinese Calcio          0-0 AC Florenz
   Lazio Rom               2-0 FC Bologna
 [Dom. 1.3.]
-  Juventus Turin          2-0 Inter Mailand          
-  Parma Calcio            0-1 SPAL Ferrara           
+  Juventus Turin          2-0 Inter Mailand
+  Parma Calcio            0-1 SPAL Ferrara
   US Lecce                2-7 Atalanta Bergamo
-  AC Mailand              1-2 CFC Genua 1893         
+  AC Mailand              1-2 CFC Genua 1893
   Cagliari Calcio         3-4 AS Rom
-  Sassuolo Calcio         3-0 Brescia Calcio         
+  Sassuolo Calcio         3-0 Brescia Calcio
 [Lun. 2.3.]
-  Sampdoria Genua         2-1 Hellas Verona          
+  Sampdoria Genua         2-1 Hellas Verona
 
 
 27^ Giornata
@@ -443,7 +443,7 @@
   Hellas Verona           - SSC Neapel                # Termin verschoben
 [Lun. 9.3.]
   US Lecce                - AC Mailand                # Termin verschoben
-  FC Turin                - Udinese Calcio            # Termin verschoben          
+  FC Turin                - Udinese Calcio            # Termin verschoben
 
 
 28^ Giornata
@@ -460,7 +460,7 @@
   Udinese Calcio          - Atalanta Bergamo          # Termin verschoben
   AC Mailand              - AS Rom                    # Termin verschoben
   Cagliari Calcio         - FC Turin                  # Termin verschoben
-  
+
 
 29^ Giornata
 [Ven. 20.3.]
@@ -476,7 +476,7 @@
   AS Rom                  - Udinese Calcio            # Termin verschoben
   US Lecce                - Sampdoria Genua           # Termin verschoben
   Hellas Verona           - Parma Calcio              # Termin verschoben
-  
+
 
 30^ Giornata
 [Sab. 4.4.]
@@ -575,9 +575,9 @@
   Cagliari Calcio         - Udinese Calcio
   Hellas Verona           - Lazio Rom
   CFC Genua 1893          - Inter Mailand
-  SPAL Ferrara            - FC Turin 
-  
-  
+  SPAL Ferrara            - FC Turin
+
+
 37^ Giornata
 [Dom. 17.5.]
   Sampdoria Genua         - AC Mailand
