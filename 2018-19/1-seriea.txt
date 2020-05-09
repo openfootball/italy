@@ -571,17 +571,6 @@
   AC Mailand              2-1 Bologna FC
 
 
-# 1. Aufsteiger Serie A 2019/20:
-  Brescia Calcio
-
-# Meister Serie A 2018/19:
-  Juventus Turin
-
-# Absteiger Serie A 2018/19:
-  Chievo Verona
-  Frosinone Calcio
-
-
 36^ Giornata
 [Sab. 11.5.]
   Cagliari Calcio         1-2 Lazio Rom
@@ -598,6 +587,8 @@
   Inter Mailand           2-0 Chievo Verona
 
 
+# 1. Aufsteiger Serie A 2019/20:
+#  Brescia Calcio
 # 2.Aufsteiger Serie A 2019/20:
 #  US Lecce
 
@@ -657,7 +648,6 @@
 # 3. Absteiger Serie A 2018/19:
 #  Empoli FC
 
-
 # Play-off um 3. Serie A Aufsteiger 2019/20:
 # Finale:
 # [Gio. 30.5]
@@ -667,8 +657,3 @@
 
 # Play-off Sieger in Serie A 2019/20:
 #  Hellas Verona
-
-
-# Ende Serie A 2018/19
-
-# 24.8. Start Serie A 2019/20
