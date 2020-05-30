@@ -1,0 +1,76 @@
+# Clubs
+
+  Serie A - 7 records
+    Serie A 2013/14  -- teams: 20, matches: 380, rounds: 38
+    Serie A 2014/15  -- teams: 20, matches: 380, rounds: 38
+    Serie A 2015/16  -- teams: 20, matches: 380, rounds: 38
+    Serie A 2016/17  -- teams: 20, matches: 380, rounds: 38
+    Serie A 2017/18  -- teams: 20, matches: 390, rounds: 38
+    Serie A 2018/19  -- teams: 20, matches: 383, rounds: 38
+    Serie A 2019/20  -- teams: 20, matches: 382, rounds: 38
+
+
+31 Clubs
+
+   1. AC Milan                
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   2. ACF Fiorentina          
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   3. AS Roma                 
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   4. Atalanta BC             
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   5. FC Internazionale Milano
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   6. Genoa CFC               
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   7. Juventus                
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   8. SS Lazio                
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+   9. SSC Napoli              
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  10. Torino FC               
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  11. UC Sampdoria            
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  12. US Sassuolo Calcio      
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  13. Udinese Calcio          
+      - Serie A                    7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  14. AC Chievo Verona        
+      - Serie A                    6  (2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  15. Bologna FC              
+      - Serie A                    6  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2013/14)
+  16. Cagliari Calcio         
+      - Serie A                    6  (2019/20, 2018/19, 2017/18, 2016/17, 2014/15, 2013/14)
+  17. Hellas Verona FC        
+      - Serie A                    5  (2019/20, 2017/18, 2015/16, 2014/15, 2013/14)
+  18. Empoli                  
+      - Serie A                    4  (2018/19, 2016/17, 2015/16, 2014/15)
+  19. Parma                   
+      - Serie A                    4  (2019/20, 2018/19, 2014/15, 2013/14)
+  20. Palermo                 
+      - Serie A                    3  (2016/17, 2015/16, 2014/15)
+  21. SPAL                    
+      - Serie A                    3  (2019/20, 2018/19, 2017/18)
+  22. FC Crotone              
+      - Serie A                    2  (2017/18, 2016/17)
+  23. Frosinone               
+      - Serie A                    2  (2018/19, 2015/16)
+  24. AC Cesena (1940-2018)   
+      - Serie A                    1  (2014/15)
+  25. AS Livorno Calcio       
+      - Serie A                    1  (2013/14)
+  26. Benevento               
+      - Serie A                    1  (2017/18)
+  27. Brescia                 
+      - Serie A                    1  (2019/20)
+  28. Calcio Catania          
+      - Serie A                    1  (2013/14)
+  29. Carpi                   
+      - Serie A                    1  (2015/16)
+  30. Pescara                 
+      - Serie A                    1  (2016/17)
+  31. US Lecce                
+      - Serie A                    1  (2019/20)
