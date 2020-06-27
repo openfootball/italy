@@ -1,6 +1,320 @@
 = Italian Serie A 2014/15
 
 
+1^ Giornata
+
+[Sab. 30.8.]
+  Chievo Verona  0-1  Juventus
+  AS Roma        2-0  Fiorentina
+[Dom. 31.8.]
+  Atalanta       0-0  Hellas Verona
+  AC Milan       3-1  Lazio Roma
+  AC Cesena      1-0  Parma FC
+  Genoa CFC      1-2  SSC Napoli
+  US Palermo     1-1  Sampdoria
+  Sassuolo       1-1  Cagliari
+  Torino FC      0-0  Internazionale
+  Udinese        2-0  Empoli FC
+
+
+2^ Giornata
+
+[Sab. 13.9.]
+  Empoli FC      0-1  AS Roma
+  Juventus       2-0  Udinese
+[Dom. 14.9.]
+  Sampdoria      2-0  Torino FC
+  Cagliari       1-2  Atalanta
+  Fiorentina     0-0  Genoa CFC
+  Internazionale 7-0  Sassuolo
+  Lazio Roma     3-0  AC Cesena
+  SSC Napoli     0-1  Chievo Verona
+  Parma FC       4-5  AC Milan
+[Lun. 15.9.]
+  Hellas Verona  2-1  US Palermo
+
+
+3^ Giornata
+
+[Sab. 20.9.]
+  AC Cesena      2-2  Empoli FC
+  AC Milan       0-1  Juventus
+[Dom. 21.9.]
+  Chievo Verona  2-3  Parma FC
+  Genoa CFC      1-0  Lazio Roma
+  AS Roma        2-0  Cagliari
+  Sassuolo       0-0  Sampdoria
+  Atalanta       0-1  Fiorentina
+  Udinese        1-0  SSC Napoli
+  US Palermo     1-1  Internazionale
+  Torino FC      0-1  Hellas Verona
+
+
+4^ Giornata
+
+[Mar. 23.9.]
+  Empoli FC      2-2  AC Milan
+[Mer. 24.9.]
+  Cagliari       1-2  Torino FC
+  Fiorentina     0-0  Sassuolo
+  Hellas Verona  2-2  Genoa CFC
+  Internazionale 2-0  Atalanta
+  Juventus       3-0  AC Cesena
+  SSC Napoli     3-3  US Palermo
+  Parma FC       1-2  AS Roma
+  Sampdoria      2-1  Chievo Verona
+[Gio. 25.9.]
+  Lazio Roma     0-1  Udinese
+
+
+5^ Giornata
+
+[Sab. 27.9.]
+  AS Roma        2-0  Hellas Verona
+  Atalanta       0-3  Juventus
+[Dom. 28.9.]
+  Sassuolo       0-1  SSC Napoli
+  AC Cesena      1-1  AC Milan
+  Chievo Verona  1-1  Empoli FC
+  Internazionale 1-4  Cagliari
+  Torino FC      1-1  Fiorentina
+  Genoa CFC      0-1  Sampdoria
+[Lun. 29.9.]
+  Udinese        4-2  Parma FC
+  US Palermo     0-4  Lazio Roma
+
+
+6^ Giornata
+
+[Sab. 4.10.]
+  Hellas Verona  1-0  Cagliari
+  AC Milan       2-0  Chievo Verona
+[Dom. 5.10.]
+  Empoli FC      3-0  US Palermo
+  Lazio Roma     3-2  Sassuolo
+  Parma FC       1-2  Genoa CFC
+  Sampdoria      1-0  Atalanta
+  Udinese        1-1  AC Cesena
+  Juventus       3-2  AS Roma
+  Fiorentina     3-0  Internazionale
+  SSC Napoli     2-1  Torino FC
+
+
+7^ Giornata
+
+[Sab. 18.10.]
+  AS Roma        3-0  Chievo Verona
+[Dom. 19.10.]
+  Fiorentina     0-2  Lazio Roma
+  Atalanta       1-0  Parma FC
+  Cagliari       2-2   Sampdoria
+  Hellas Verona  1-3  AC Milan
+  US Palermo     2-1  AC Cesena
+  Torino FC      1-0  Udinese
+  Internazionale 2-2  SSC Napoli
+  Sassuolo       1-1  Juventus
+[Lun. 20.10.]
+  Genoa CFC      1-1  Empoli FC
+
+
+8^ Giornata
+
+[Sab. 25.10.]
+  Empoli FC      0-4  Cagliari
+  Parma FC       1-3  Sassuolo
+  Sampdoria      0-0  AS Roma
+[Dom. 26.10.]
+  Chievo Verona  1-2  Genoa CFC
+  Juventus       2-0  US Palermo
+  Udinese        2-0  Atalanta
+  AC Cesena      0-1  Internazionale
+  Lazio Roma     2-1  Torino FC
+  SSC Napoli     6-2  Hellas Verona
+  AC Milan       1-1  Fiorentina
+
+
+9^ Giornata
+
+[Mar. 28.10.]
+  Sassuolo       3-1  Empoli FC
+[Mer. 29.10.]
+  Atalanta       1-1  SSC Napoli
+  Cagliari       1-1   AC Milan
+  Fiorentina     3-0  Udinese
+  Genoa CFC      1-0  Juventus
+  Internazionale 1-0  Sampdoria
+  US Palermo     1-0  Chievo Verona
+  AS Roma        2-0  AC Cesena
+  Torino FC      1-0  Parma FC
+[Gio. 30.10.]
+  Hellas Verona  1-1  Lazio Roma
+
+
+10^ Giornata
+
+[Sab. 1.11.]
+  SSC Napoli     2-0  AS Roma
+  Empoli FC      0-2  Juventus
+  Parma FC       2-0  Internazionale
+[Dom. 2.11.]
+  Chievo Verona  0-0  Sassuolo
+  Sampdoria      3-1  Fiorentina
+  Torino FC      0-0  Atalanta
+  Udinese        2-4  Genoa CFC
+  AC Milan       0-2  US Palermo
+[Lun. 3.11.]
+  AC Cesena      1-1  Hellas Verona
+  Lazio Roma     4-2  Cagliari
+
+
+11^ Giornata
+
+[Sab. 8.11.]
+  Sassuolo       0-0  Atalanta
+  Sampdoria      2-2  AC Milan
+[Dom. 9.11.]
+  Cagliari       1-1  Genoa CFC
+  Chievo Verona  2-1  AC Cesena
+  Empoli FC      2-1  Lazio Roma
+  Juventus       7-0  Parma FC
+  US Palermo     1-1  Udinese
+  Fiorentina     0-1  SSC Napoli
+  Internazionale 2-2  Hellas Verona
+  AS Roma        3-0  Torino FC
+
+
+12^ Giornata
+
+[Sab. 22.11.]
+  Atalanta       1-2  AS Roma
+  Lazio Roma     0-3  Juventus
+[Dom. 23.11.]
+  Torino FC      0-1  Sassuolo
+  AC Cesena      1-1  Sampdoria
+  Hellas Verona  1-2  Fiorentina
+  SSC Napoli     3-3  Cagliari
+  Parma FC       0-2  Empoli FC
+  Udinese        1-1  Chievo Verona
+  AC Milan       1-1  Internazionale
+[Lun. 24.11.]
+  Genoa CFC      1-1  US Palermo
+
+
+13^ Giornata
+
+[Sab. 29.11.]
+  Sassuolo       2-1  Hellas Verona
+  Chievo Verona  0-0  Lazio Roma
+[Dom. 30.11.]
+  AC Cesena      0-3  Genoa CFC
+  Empoli FC      0-0  Atalanta
+  AC Milan       2-0  Udinese
+  US Palermo     2-1  Parma FC
+  Juventus       2-1  Torino FC
+  AS Roma        4-2  Internazionale
+[Lun. 1.12.]
+  Cagliari       0-4  Fiorentina
+  Sampdoria      1-1  SSC Napoli
+
+
+14^ Giornata
+
+[Ven. 5.12.]
+  Fiorentina     0-0  Juventus
+[Sab. 6.12.]
+  AS Roma        2-2  Sassuolo
+  Torino FC      2-2  US Palermo
+[Dom. 7.12.]
+  SSC Napoli     2-2  Empoli FC
+  Atalanta       3-2  AC Cesena
+  Genoa CFC      1-0  AC Milan
+  Parma FC       1-2  Lazio Roma
+  Internazionale 1-2  Udinese
+[Lun. 8.12.]
+  Cagliari       0-2  Chievo Verona
+  Hellas Verona  1-3  Sampdoria
+
+
+15^ Giornata
+
+[Sab. 13.12.]
+  US Palermo     2-1  Sassuolo
+  Lazio Roma     3-0  Atalanta
+[Dom. 14.12.]
+  Juventus       1-1  Sampdoria
+  Genoa CFC      0-1  AS Roma
+  Parma FC       0-0  Cagliari
+  Udinese        1-2  Hellas Verona
+  AC Cesena      1-4  Fiorentina
+  AC Milan       2-0  SSC Napoli
+[Lun. 15.12.]
+  Empoli FC      0-0  Torino FC
+  Chievo Verona  0-2  Internazionale
+
+
+16^ Giornata
+
+[Gio. 18.12.]
+  Cagliari       1-3  Juventus
+  SSC Napoli     2-0  Parma FC
+[Sab. 20.12.]
+  Sassuolo       1-1  AC Cesena
+  AS Roma        0-0  AC Milan
+[Dom. 21.12.]
+  Hellas Verona  0-1  Chievo Verona
+  Atalanta       3-3  US Palermo
+  Fiorentina     1-1  Empoli FC
+  Sampdoria      2-2  Udinese
+  Torino FC      2-1  Genoa CFC
+  Internazionale 2-2  Lazio Roma
+
+
+17^ Giornata
+
+[Mar. 6.1.]
+  AC Cesena      1-4  SSC Napoli
+  Chievo Verona  0-0  Torino FC
+  Empoli FC      0-0  Hellas Verona
+  Genoa CFC      2-2  Atalanta
+  Juventus       1-1  Internazionale
+  Lazio Roma     3-0  Sampdoria
+  AC Milan       1-2  Sassuolo
+  US Palermo     5-0  Cagliari
+  Parma FC       1-0  Fiorentina
+  Udinese        0-1  AS Roma
+
+
+18^ Giornata
+
+[Dom. 11.1.]
+  Atalanta       1-1  Chievo Verona
+  Cagliari       2-1  AC Cesena
+  Fiorentina     4-3  US Palermo
+  Hellas Verona  3-1  Parma FC
+  Internazionale 3-1  Genoa CFC
+  SSC Napoli     1-3  Juventus
+  AS Roma        2-2  Lazio Roma
+  Sampdoria      1-0  Empoli FC
+  Sassuolo       1-1  Udinese
+  Torino FC      1-1  AC Milan
+
+
+19^ Giornata
+
+[Dom. 18.1.]
+  AC Cesena      2-3  Torino FC
+  Chievo Verona  1-2  Fiorentina
+  Empoli FC      0-0  Internazionale
+  Genoa CFC      3-3  Sassuolo
+  Juventus       4-0  Hellas Verona
+  Lazio Roma     0-1  SSC Napoli
+  AC Milan       0-1  Atalanta
+  US Palermo     1-1  AS Roma
+  Parma FC       0-2  Sampdoria
+  Udinese        2-2  Cagliari
+
+
+
 20^ Giornata
 
 [Dom. 25.1.]
@@ -286,22 +600,3 @@
   Cagliari         4-3  Udinese
 
 
-#####################
-# Aufsteiger Serie A
-#
-# Carpi FC, Frosinone Calcio, Bologna FC
-#
-# Aufstiegsspiele Serie A
-#
-#  AC Perugia Calcio  1-2    Pescara Calcio
-# Spezia Calcio      1-2 nV AS Avellino
-#
-# Pescara Calcio    1-0     Vicenza Calcio
-# Vicenza Calcio    2-2     Pescara Calcio
-#
-# AS Avellino       0-1     Bologna FC
-# Bologna FC        2-3     AS Avellino
-#
-# Pescara Calcio    0-0     Bologna FC
-# Bologna FC        1-1     Pescara Calcio
-#
