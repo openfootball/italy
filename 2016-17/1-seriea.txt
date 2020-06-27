@@ -1,532 +1,605 @@
 = Italian Serie A 2016/17
 
 
-
 1^ Giornata
 [Sab. 20.8.]
-      Roma        4-0  Udinese
-      Juventus    2-1  Fiorentina
+  AS Roma                  4-0  Udinese Calcio
+  Juventus                 2-1  ACF Fiorentina
 [Dom. 21.8.]
-      Atalanta    3-4  Lazio
-      Bologna     1-0  Crotone
-      Chievo      2-0  Inter
-      Empoli      0-1  Sampdoria
-      Genoa       3-1  Cagliari
-      Milan       3-2  Torino
-      Palermo     0-1  Sassuolo
-      Pescara     2-2  Napoli
+  AC Milan                 3-2  Torino FC
+  Empoli                   0-1  UC Sampdoria
+  AC Chievo Verona         2-0  FC Internazionale Milano
+  Palermo                  0-1  US Sassuolo Calcio
+  Pescara                  2-2  SSC Napoli
+  Bologna FC               1-0  FC Crotone
+  Atalanta BC              3-4  SS Lazio
+  Genoa CFC                3-1  Cagliari Calcio
 
 
 2^ Giornata
 [Sab. 27.8.]
-      Lazio       0-1  Juventus
-      Napoli      4-2  Milan
+  SS Lazio                 0-1  Juventus
+  SSC Napoli               4-2  AC Milan
 [Dom. 28.8.]
-      Cagliari    2-2  Roma
-      Crotone     1-3  Genoa
-      Fiorentina  1-0  Chievo
-      Inter       1-1  Palermo
-      Sampdoria   2-1  Atalanta
-      Sassuolo    0-3  Pescara    ## strafverifiziert
-      Torino      5-1  Bologna
-      Udinese     2-0  Empoli
+  FC Internazionale Milano  1-1  Palermo
+  UC Sampdoria             2-1  Atalanta BC
+  Torino FC                5-1  Bologna FC
+  Cagliari Calcio          2-2  AS Roma
+  US Sassuolo Calcio       0-3  Pescara
+  ACF Fiorentina           1-0  AC Chievo Verona
+  FC Crotone               1-3  Genoa CFC
+  Udinese Calcio           2-0  Empoli
+
 
 3^ Giornata
 [Sab. 10.9.]
-      Juventus    3-1  Sassuolo
-      Palermo     0-3  Napoli
+  Juventus                 3-1  US Sassuolo Calcio
+  Palermo                  0-3  SSC Napoli
 [Dom. 11.9.]
-      Atalanta    2-1  Torino
-      Bologna     2-1  Cagliari
-      Chievo      1-1  Lazio
-      Genoa       1-0  Fiorentina
-      Milan       0-1  Udinese
-      Pescara     1-2  Inter
-      Roma        3-2  Sampdoria
+  Bologna FC               2-1  Cagliari Calcio
+  Atalanta BC              2-1  Torino FC
+  AC Chievo Verona         1-1  SS Lazio
+  AC Milan                 0-1  Udinese Calcio
+  AS Roma                  3-2  UC Sampdoria
+  Pescara                  1-2  FC Internazionale Milano
 [Lun. 12.9.]
-      Empoli      2-1  Crotone
+  Empoli                   2-1  FC Crotone
+
 
 4^ Giornata
 [Ven. 16.9.]
-      Sampdoria   0-1  Milan
+  UC Sampdoria             0-1  AC Milan
 [Sab. 17.9.]
-      Lazio       3-0  Pescara
-      Napoli      3-1  Bologna
+  SS Lazio                 3-0  Pescara
+  SSC Napoli               3-1  Bologna FC
 [Dom. 18.9.]
-      Cagliari    3-0  Atalanta
-      Crotone     1-1  Palermo
-      Fiorentina  1-0  Roma
-      Inter       2-1  Juventus
-      Sassuolo    2-0  Genoa
-      Torino      0-0  Empoli
-      Udinese     1-2  Chievo
+  Udinese Calcio           1-2  AC Chievo Verona
+  US Sassuolo Calcio       2-0  Genoa CFC
+  FC Crotone               1-1  Palermo
+  Cagliari Calcio          3-0  Atalanta BC
+  Torino FC                0-0  Empoli
+  FC Internazionale Milano  2-1  Juventus
+  ACF Fiorentina           1-0  AS Roma
+
 
 5^ Giornata
 [Mar. 20.9.]
-      Milan       2-0  Lazio
+  AC Milan                 2-0  SS Lazio
 [Mer. 21.9.]
-      Atalanta    0-1  Palermo
-      Bologna     2-0  Sampdoria
-      Chievo      2-1  Sassuolo
-      Empoli      0-2  Inter
-      Genoa       0-0  Napoli
-      Juventus    4-0  Cagliari
-      Pescara     0-0  Torino
-      Roma        4-0  Crotone
-      Udinese     2-2  Fiorentina
+  Bologna FC               2-0  UC Sampdoria
+  AC Chievo Verona         2-1  US Sassuolo Calcio
+  Genoa CFC                0-0  SSC Napoli
+  AS Roma                  4-0  FC Crotone
+  Udinese Calcio           2-2  ACF Fiorentina
+  Atalanta BC              0-1  Palermo
+  Juventus                 4-0  Cagliari Calcio
+  Empoli                   0-2  FC Internazionale Milano
+  Pescara                  0-0  Torino FC
+
 
 6^ Giornata
 [Sab. 24.9.]
-      Napoli      2-0  Chievo
-      Palermo     0-1  Juventus
+  Palermo                  0-1  Juventus
+  SSC Napoli               2-0  AC Chievo Verona
 [Dom. 25.9.]
-      Fiorentina  0-0  Milan
-      Genoa       1-1  Pescara
-      Inter       1-1  Bologna
-      Lazio       2-0  Empoli
-      Sassuolo    1-0  Udinese
-      Torino      3-1  Roma
+  Torino FC                3-1  AS Roma
+  Genoa CFC                1-1  Pescara
+  FC Internazionale Milano  1-1  Bologna FC
+  SS Lazio                 2-0  Empoli
+  US Sassuolo Calcio       1-0  Udinese Calcio
+  ACF Fiorentina           0-0  AC Milan
 [Lun. 26.9.]
-      Cagliari    2-1  Sampdoria
-      Crotone     1-3  Atalanta
+  FC Crotone               1-3  Atalanta BC
+  Cagliari Calcio          2-1  UC Sampdoria
+
 
 7^ Giornata
+[Sab. 1.10.]
+  Pescara                  0-2  AC Chievo Verona
+  Udinese Calcio           0-3  SS Lazio
 [Dom. 2.10.]
-      Atalanta    1-0  Napoli
-      Bologna     0-1  Genoa
-      Cagliari    2-1  Crotone
-      Empoli      0-3  Juventus
-      Milan       4-3  Sassuolo
-      Pescara     0-2  Chievo
-      Roma        2-1  Inter
-      Sampdoria   1-1  Palermo
-      Torino      2-1  Fiorentina
-      Udinese     0-3  Lazio
+  Empoli                   0-3  Juventus
+  Bologna FC               0-1  Genoa CFC
+  Atalanta BC              1-0  SSC Napoli
+  UC Sampdoria             1-1  Palermo
+  Cagliari Calcio          2-1  FC Crotone
+  AC Milan                 4-3  US Sassuolo Calcio
+  Torino FC                2-1  ACF Fiorentina
+  AS Roma                  2-1  FC Internazionale Milano
+
 
 8^ Giornata
+[Sab. 15.10.]
+  SSC Napoli               1-3  AS Roma
+  Pescara                  1-1  UC Sampdoria
+  Juventus                 2-1  Udinese Calcio
 [Dom. 16.10.]
-      Chievo      1-3 Milan
-      Fiorentina  0-0 Atalanta
-      Genoa       0-0 Empoli
-      Inter       1-2 Cagliari
-      Juventus    2-1 Udinese
-      Lazio       1-1 Bologna
-      Napoli      1-3 Roma
-      Palermo     1-4 Torino
-      Pescara     1-1 Sampdoria
-      Sassuolo    2-1 Crotone
+  ACF Fiorentina           0-0  Atalanta BC
+  FC Internazionale Milano  1-2  Cagliari Calcio
+  Genoa CFC                0-0  Empoli
+  US Sassuolo Calcio       2-1  FC Crotone
+  SS Lazio                 1-1  Bologna FC
+  AC Chievo Verona         1-3  AC Milan
+[Lun. 17.10.]
+  Palermo                  1-4  Torino FC
+
 
 9^ Giornata
+[Sab. 22.10.]
+  UC Sampdoria             2-1  Genoa CFC
+  AC Milan                 1-0  Juventus
 [Dom. 23.10.]
-      Atalanta    2-1 Inter
-      Bologna     1-1 Sassuolo
-      Cagliari    3-5 Fiorentina
-      Crotone     1-2 Napoli
-      Empoli      0-0 Chievo
-      Milan       1-0 Juventus
-      Roma        4-1 Palermo
-      Sampdoria   2-1 Genoa
-      Torino      2-2 Lazio
-      Udinese     3-1 Pescara
+  Udinese Calcio           3-1  Pescara
+  Empoli                   0-0  AC Chievo Verona
+  Atalanta BC              2-1  FC Internazionale Milano
+  Cagliari Calcio          3-5  ACF Fiorentina
+  FC Crotone               1-2  SSC Napoli
+  Torino FC                2-2  SS Lazio
+  Bologna FC               1-1  US Sassuolo Calcio
+  AS Roma                  4-1  Palermo
+
 
 10^ Giornata
+[Mar. 25.10.]
+  Genoa CFC                3-0  AC Milan
 [Mer. 26.10.]
-      Chievo      1-1 Bologna
-      Fiorentina  1-1 Crotone
-      Genoa       3-0 Milan
-      Inter       2-1 Torino
-      Juventus    4-1 Sampdoria
-      Lazio       4-1 Cagliari
-      Napoli      2-0 Empoli
-      Palermo     1-3 Udinese
-      Pescara     0-1 Atalanta
-      Sassuolo    1-3 Roma
+  SSC Napoli               2-0  Empoli
+  Pescara                  0-1  Atalanta BC
+  Juventus                 4-1  UC Sampdoria
+  FC Internazionale Milano  2-1  Torino FC
+  AC Chievo Verona         1-1  Bologna FC
+  US Sassuolo Calcio       1-3  AS Roma
+  ACF Fiorentina           1-1  FC Crotone
+  SS Lazio                 4-1  Cagliari Calcio
+[Gio. 27.10.]
+  Palermo                  1-3  Udinese Calcio
+
 
 11^ Giornata
+[Sab. 29.10.]
+  Bologna FC               0-1  ACF Fiorentina
+  Juventus                 2-1  SSC Napoli
 [Dom. 30.10.]
-      Atalanta    3-0 Genoa
-      Bologna     0-1 Fiorentina
-      Cagliari    2-1 Palermo
-      Crotone     2-0 Chievo
-      Empoli      0-0 Roma
-      Juventus    2-1 Napoli
-      Lazio       2-1 Sassuolo
-      Milan       1-0 Pescara
-      Sampdoria   1-0 Inter
-      Udinese     2-2 Torino
+  Atalanta BC              3-0  Genoa CFC
+  Empoli                   0-0  AS Roma
+  FC Crotone               2-0  AC Chievo Verona
+  SS Lazio                 2-1  US Sassuolo Calcio
+  AC Milan                 1-0  Pescara
+  UC Sampdoria             1-0  FC Internazionale Milano
+[Lun. 31.10.]
+  Udinese Calcio           2-2  Torino FC
+  Cagliari Calcio          2-1  Palermo
+
 
 12^ Giornata
+[Sab. 5.11.]
+  Torino FC                5-1  Cagliari Calcio
+  SSC Napoli               1-1  SS Lazio
 [Dom. 6.11.]
-      Chievo      1-2 Juventus
-      Fiorentina  1-1 Sampdoria
-      Genoa       1-1 Udinese
-      Inter       3-0 Crotone
-      Napoli      1-1 Lazio
-      Palermo     1-2 Milan
-      Pescara     0-4 Empoli
-      Roma        3-0 Bologna
-      Sassuolo    0-3 Atalanta
-      Torino      5-1 Cagliari
+  Pescara                  0-4  Empoli
+  Palermo                  1-2  AC Milan
+  AC Chievo Verona         1-2  Juventus
+  US Sassuolo Calcio       0-3  Atalanta BC
+  Genoa CFC                1-1  Udinese Calcio
+  FC Internazionale Milano  3-0  FC Crotone
+  ACF Fiorentina           1-1  UC Sampdoria
+  AS Roma                  3-0  Bologna FC
+
 
 13^ Giornata
+[Sab. 19.11.]
+  AC Chievo Verona         1-0  Cagliari Calcio
+  Udinese Calcio           1-2  SSC Napoli
+  Juventus                 3-0  Pescara
 [Dom. 20.11.]
-      Atalanta    2-1 Roma
-      Bologna     3-1 Palermo
-      Chievo      1-0 Cagliari
-      Crotone     0-2 Torino
-      Empoli      0-4 Fiorentina
-      Juventus    3-0 Pescara
-      Lazio       3-1 Genoa
-      Milan       2-2 Inter
-      Sampdoria   3-2 Sassuolo
-      Udinese     1-2 Napoli
+  UC Sampdoria             3-2  US Sassuolo Calcio
+  Bologna FC               3-1  Palermo
+  Atalanta BC              2-1  AS Roma
+  SS Lazio                 3-1  Genoa CFC
+  FC Crotone               0-2  Torino FC
+  Empoli                   0-4  ACF Fiorentina
+  AC Milan                 2-2  FC Internazionale Milano
+
 
 14^ Giornata
+[Sab. 26.11.]
+  Torino FC                2-1  AC Chievo Verona
+  Empoli                   1-4  AC Milan
 [Dom. 27.11.]
-      Bologna     0-2 Atalanta
-      Cagliari    2-1 Udinese
-      Crotone     1-1 Sampdoria
-      Empoli      1-4 Milan
-      Genoa       3-1 Juventus
-      Inter       4-2 Fiorentina
-      Napoli      1-1 Sassuolo
-      Palermo     0-1 Lazio
-      Roma        3-2 Pescara
-      Torino      2-1 Chievo
+  Palermo                  0-1  SS Lazio
+  Cagliari Calcio          2-1  Udinese Calcio
+  Bologna FC               0-2  Atalanta BC
+  Genoa CFC                3-1  Juventus
+  FC Crotone               1-1  UC Sampdoria
+  AS Roma                  3-2  Pescara
+[Lun. 28.11.]
+  SSC Napoli               1-1  US Sassuolo Calcio
+  FC Internazionale Milano  4-2  ACF Fiorentina
+
 
 15^ Giornata
+[Ven. 2.12.]
+  SSC Napoli               3-0  FC Internazionale Milano
+[Sab. 3.12.]
+  Juventus                 3-1  Atalanta BC
 [Dom. 4.12.]
-      Chievo      0-0 Genoa
-      Fiorentina  2-1 Palermo
-      Juventus    3-1 Atalanta
-      Lazio       0-2 Roma
-      Milan       2-1 Crotone
-      Napoli      3-0 Inter
-      Pescara     1-1 Cagliari
-      Sampdoria   2-0 Torino
-      Sassuolo    3-0 Empoli
-      Udinese     1-0 Bologna
+  AC Milan                 2-1  FC Crotone
+  Pescara                  1-1  Cagliari Calcio
+  US Sassuolo Calcio       3-0  Empoli
+  SS Lazio                 0-2  AS Roma
+  UC Sampdoria             2-0  Torino FC
+  ACF Fiorentina           2-1  Palermo
+[Lun. 5.12.]
+  AC Chievo Verona         0-0  Genoa CFC
+  Udinese Calcio           1-0  Bologna FC
+
 
 16^ Giornata
+[Sab. 10.12.]
+  FC Crotone               2-1  Pescara
+  UC Sampdoria             1-2  SS Lazio
 [Dom. 11.12.]
-      Atalanta    1-3 Udinese
-      Bologna     0-0 Empoli
-      Cagliari    0-5 Napoli
-      Crotone     2-1 Pescara
-      Fiorentina  2-1 Sassuolo
-      Inter       2-0 Genoa
-      Palermo     0-2 Chievo
-      Roma        1-0 Milan
-      Sampdoria   1-2 Lazio
-      Torino      1-3 Juventus
+  Cagliari Calcio          0-5  SSC Napoli
+  Torino FC                1-3  Juventus
+  Palermo                  0-2  AC Chievo Verona
+  Bologna FC               0-0  Empoli
+  Atalanta BC              1-3  Udinese Calcio
+  FC Internazionale Milano  2-0  Genoa CFC
+[Lun. 12.12.]
+  ACF Fiorentina           2-1  US Sassuolo Calcio
+  AS Roma                  1-0  AC Milan
 
 
-3^ Giornata    ## postponed / nachtrag
+3^ Giornata
 [Gio. 15.12.]
-      Genoa       1-0 Fiorentina
+  Genoa CFC                1-0  ACF Fiorentina
 
 
 17^ Giornata
+[Sab. 17.12.]
+  Empoli                   2-0  Cagliari Calcio
+  AC Milan                 0-0  Atalanta BC
+  Juventus                 1-0  AS Roma
 [Dom. 18.12.]
-      Chievo      2-1 Sampdoria
-      Empoli      2-0 Cagliari
-      Genoa       3-4 Palermo
-      Juventus    1-0 Roma
-      Lazio       3-1 Fiorentina
-      Milan       0-0 Atalanta
-      Napoli      5-3 Torino
-      Pescara     0-3 Bologna
-      Sassuolo    0-1 Inter
-      Udinese     2-0 Crotone
+  US Sassuolo Calcio       0-1  FC Internazionale Milano
+  SSC Napoli               5-3  Torino FC
+  Pescara                  0-3  Bologna FC
+  Udinese Calcio           2-0  FC Crotone
+  AC Chievo Verona         2-1  UC Sampdoria
+  Genoa CFC                3-4  Palermo
+  SS Lazio                 3-1  ACF Fiorentina
+
 
 18^ Giornata
-[Mer. 22.12.]
-      Atalanta    2-1 Empoli
-      Bologna     0-1 Milan       ## postponed 08.02.17
-      Cagliari    4-3 Sassuolo
-      Crotone     0-2 Juventus    ## postponed 08.02.17
-      Fiorentina  3-3 Napoli
-      Inter       3-0 Lazio
-      Palermo     1-1 Pescara
-      Roma        3-1 Chievo
-      Sampdoria   0-0 Udinese
-      Torino      1-0 Genoa
-
+[Mar. 20.12.]
+  Atalanta BC              2-1  Empoli
+[Mer. 21.12.]
+  FC Internazionale Milano  3-0  SS Lazio
+[Gio. 22.12.]
+  Palermo                  1-1  Pescara
+  UC Sampdoria             0-0  Udinese Calcio
+  Cagliari Calcio          4-3  US Sassuolo Calcio
+  ACF Fiorentina           3-3  SSC Napoli
+  Torino FC                1-0  Genoa CFC
+  AS Roma                  3-1  AC Chievo Verona
 
 
 19^ Giornata
+[Sab. 7.1.]
+  Empoli                   1-0  Palermo
+  SSC Napoli               2-1  UC Sampdoria
 [Dom. 8.1.]
-      Chievo      1-4 Atalanta
-      Empoli      1-0 Palermo
-      Genoa       0-1 Roma
-      Juventus    3-0 Bologna
-      Lazio       1-0 Crotone
-      Milan       1-0 Cagliari
-      Napoli      2-1 Sampdoria
-      Pescara     1-2 Fiorentina
-      Sassuolo    0-0 Torino
-      Udinese     1-2 Inter
+  Udinese Calcio           1-2  FC Internazionale Milano
+  Genoa CFC                0-1  AS Roma
+  AC Chievo Verona         1-4  Atalanta BC
+  SS Lazio                 1-0  FC Crotone
+  US Sassuolo Calcio       0-0  Torino FC
+  AC Milan                 1-0  Cagliari Calcio
+  Juventus                 3-0  Bologna FC
 
 
 20^ Giornata
+[Sab. 14.1.]
+  FC Crotone               0-1  Bologna FC
+  FC Internazionale Milano  3-1  AC Chievo Verona
 [Dom. 15.1.]
-      Lazio           2-1 Atalanta
-      Crotone         0-1 Bologna
-      Inter           3-1 Chievo
-      Sampdoria       0-0 Empoli
-      Cagliari        4-1 Genoa
-      Fiorentina      2-1 Juventus
-      Torino          2-2 Milan
-      Sassuolo        4-1 Palermo
-      Napoli          3-1 Pescara
-      Udinese         0-1 Roma
+  Cagliari Calcio          4-1  Genoa CFC
+  US Sassuolo Calcio       4-1  Palermo
+  SS Lazio                 2-1  Atalanta BC
+  Udinese Calcio           0-1  AS Roma
+  SSC Napoli               3-1  Pescara
+  UC Sampdoria             0-0  Empoli
+  ACF Fiorentina           2-1  Juventus
+[Lun. 16.1.]
+  Torino FC                2-2  AC Milan
+
 
 21^ Giornata
+[Sab. 21.1.]
+  AC Chievo Verona         0-3  ACF Fiorentina
+  AC Milan                 1-2  SSC Napoli
 [Dom. 22.1.]
-      Roma            1-0 Cagliari
-      Genoa           2-2 Crotone
-      Chievo          0-3 Fiorentina
-      Palermo         0-1 Inter
-      Juventus        2-0 Lazio
-      Milan           1-2 Napoli
-      Atalanta        1-0 Sampdoria
-      Pescara         1-3 Sassuolo
-      Bologna         2-0 Torino
-      Empoli          1-0 Udinese
+  Juventus                 2-0  SS Lazio
+  Empoli                   1-0  Udinese Calcio
+  Genoa CFC                2-2  FC Crotone
+  Bologna FC               2-0  Torino FC
+  Palermo                  0-1  FC Internazionale Milano
+  Pescara                  1-3  US Sassuolo Calcio
+  Atalanta BC              1-0  UC Sampdoria
+  AS Roma                  1-0  Cagliari Calcio
+
 
 22^ Giornata
+[Sab. 28.1.]
+  SS Lazio                 0-1  AC Chievo Verona
+  FC Internazionale Milano  3-0  Pescara
 [Dom. 29.1.]
-      Torino          1-1 Atalanta
-      Cagliari        1-1 Bologna
-      Lazio           0-1 Chievo
-      Crotone         4-1 Empoli
-      Fiorentina      3-3 Genoa
-      Sassuolo        0-2 Juventus
-      Udinese         2-1 Milan
-      Napoli          1-1 Palermo
-      Inter           3-0 Pescara
-      Sampdoria       3-2 Roma
+  Torino FC                1-1  Atalanta BC
+  UC Sampdoria             3-2  AS Roma
+  Cagliari Calcio          1-1  Bologna FC
+  FC Crotone               4-1  Empoli
+  US Sassuolo Calcio       0-2  Juventus
+  Udinese Calcio           2-1  AC Milan
+  ACF Fiorentina           3-3  Genoa CFC
+  SSC Napoli               1-1  Palermo
 
 
-19^ Giornata   ## postponed / nachtrag
-[Gio. 2.2.]
-      Pescara         1-2 Fiorentina
+19^ Giornata
+[Mer. 1.2.]
+  Pescara                  1-2  ACF Fiorentina
+
 
 23^ Giornata
+[Sab. 4.2.]
+  Bologna FC               1-7  SSC Napoli
 [Dom. 5.2.]
-      Atalanta        2-0 Cagliari
-      Palermo         1-0 Crotone
-      Roma            4-0 Fiorentina
-      Juventus        1-0 Inter
-      Pescara         2-6 Lazio
-      Bologna         1-7 Napoli
-      Milan           0-1 Sampdoria
-      Genoa           0-1 Sassuolo
-      Empoli          1-1 Torino
-      Chievo          0-0 Udinese
+  AC Milan                 0-1  UC Sampdoria
+  Atalanta BC              2-0  Cagliari Calcio
+  Genoa CFC                0-1  US Sassuolo Calcio
+  Pescara                  2-6  SS Lazio
+  AC Chievo Verona         0-0  Udinese Calcio
+  Empoli                   1-1  Torino FC
+  Palermo                  1-0  FC Crotone
+  Juventus                 1-0  FC Internazionale Milano
+[Mar. 7.2.]
+  AS Roma                  4-0  ACF Fiorentina
 
 
-18^ Giornata   ## postponed / nachtrag
+18^ Giornata
 [Mer. 8.2.]
-      Bologna         0-1 Milan
-      Crotone         0-2 Juventus
+  FC Crotone               0-2  Juventus
+  Bologna FC               0-1  AC Milan
 
 
 24^ Giornata
+[Ven. 10.2.]
+  SSC Napoli               2-0  Genoa CFC
+[Sab. 11.2.]
+  ACF Fiorentina           3-0  Udinese Calcio
 [Dom. 12.2.]
-      Palermo         1-3 Atalanta
-      Sampdoria       3-1 Bologna
-      Sassuolo        1-3 Chievo
-      Inter           2-0 Empoli
-      Napoli          2-0 Genoa
-      Lazio           1-1 Milan
-      Cagliari        0-2 Juventus
-      Torino          5-3 Pescara
-      Crotone         0-2 Roma
-      Fiorentina      3-0 Udinese
+  FC Crotone               0-2  AS Roma
+  US Sassuolo Calcio       1-3  AC Chievo Verona
+  Torino FC                5-3  Pescara
+  Palermo                  1-3  Atalanta BC
+  FC Internazionale Milano  2-0  Empoli
+  UC Sampdoria             3-1  Bologna FC
+  Cagliari Calcio          0-2  Juventus
+[Lun. 13.2.]
+  SS Lazio                 1-1  AC Milan
+
 
 25^ Giornata
+[Ven. 17.2.]
+  Juventus                 4-1  Palermo
+[Sab. 18.2.]
+  Atalanta BC              1-0  FC Crotone
+  Empoli                   1-2  SS Lazio
 [Dom. 19.2.]
-      Sampdoria       1-1 Cagliari
-      Atalanta        1-0 Crotone
-      Milan           2-1 Fiorentina
-      Pescara         5-0 Genoa
-      Bologna         0-1 Inter
-      Empoli          1-2 Lazio
-      Chievo          1-3 Napoli
-      Juventus        4-1 Palermo
-      Udinese         1-2 Sassuolo
-      Roma            4-1 Torino
+  Bologna FC               0-1  FC Internazionale Milano
+  UC Sampdoria             1-1  Cagliari Calcio
+  AC Chievo Verona         1-3  SSC Napoli
+  Udinese Calcio           1-2  US Sassuolo Calcio
+  Pescara                  5-0  Genoa CFC
+  AS Roma                  4-1  Torino FC
+  AC Milan                 2-1  ACF Fiorentina
+
 
 26^ Giornata
+[Sab. 25.2.]
+  SSC Napoli               0-2  Atalanta BC
+  Juventus                 2-0  Empoli
 [Dom. 26.2.]
-      Napoli          0-2 Atalanta
-      Genoa           1-1 Bologna
-      Crotone         1-2 Cagliari
-      Juventus        2-0 Empoli
-      Sassuolo        0-1 Milan
-      Chievo          2-0 Pescara
-      Inter           1-3 Roma
-      Palermo         1-1 Sampdoria
-      Fiorentina      2-2 Torino
-      Lazio           1-0 Udinese
+  Palermo                  1-1  UC Sampdoria
+  Genoa CFC                1-1  Bologna FC
+  SS Lazio                 1-0  Udinese Calcio
+  US Sassuolo Calcio       0-1  AC Milan
+  AC Chievo Verona         2-0  Pescara
+  FC Crotone               1-2  Cagliari Calcio
+  FC Internazionale Milano  1-3  AS Roma
+[Lun. 27.2.]
+  ACF Fiorentina           2-2  Torino FC
+
 
 27^ Giornata
+[Sab. 4.3.]
+  AS Roma                  1-2  SSC Napoli
+  UC Sampdoria             3-1  Pescara
+  AC Milan                 3-1  AC Chievo Verona
 [Dom. 5.3.]
-      Milan           3-1 Chievo
-      Atalanta        0-0 Fiorentina
-      Empoli          0-2 Genoa
-      Cagliari        1-5 Inter
-      Udinese         1-1 Juventus
-      Bologna         0-2 Lazio
-      Roma            1-2 Napoli
-      Torino          3-1 Palermo
-      Sampdoria       3-1 Pescara
-      Crotone         0-0 Sassuolo
+  Atalanta BC              0-0  ACF Fiorentina
+  Udinese Calcio           1-1  Juventus
+  Cagliari Calcio          1-5  FC Internazionale Milano
+  FC Crotone               0-0  US Sassuolo Calcio
+  Empoli                   0-2  Genoa CFC
+  Torino FC                3-1  Palermo
+  Bologna FC               0-2  SS Lazio
+
 
 28^ Giornata
+[Ven. 10.3.]
+  Juventus                 2-1  AC Milan
+[Sab. 11.3.]
+  Genoa CFC                0-1  UC Sampdoria
 [Dom. 12.3.]
-      Inter           7-1 Atalanta
-      Sassuolo        0-1 Bologna
-      Fiorentina      1-0 Cagliari
-      Napoli          3-0 Crotone
-      Chievo          4-0 Empoli
-      Juventus        2-1 Milan
-      Palermo         0-3 Roma
-      Genoa           0-1 Sampdoria
-      Lazio           3-1 Torino
-      Pescara         1-3 Udinese
+  US Sassuolo Calcio       0-1  Bologna FC
+  ACF Fiorentina           1-0  Cagliari Calcio
+  Pescara                  1-3  Udinese Calcio
+  SSC Napoli               3-0  FC Crotone
+  AC Chievo Verona         4-0  Empoli
+  FC Internazionale Milano  7-1  Atalanta BC
+  Palermo                  0-3  AS Roma
+[Lun. 13.3.]
+  SS Lazio                 3-1  Torino FC
+
 
 29^ Giornata
+[Sab. 18.3.]
+  Torino FC                2-2  FC Internazionale Milano
+  AC Milan                 1-0  Genoa CFC
 [Dom. 19.3.]
-      Bologna         4-1 Chievo
-      Crotone         0-1 Fiorentina
-      Milan           1-0 Genoa
-      Torino          2-2 Inter
-      Sampdoria       0-1 Juventus
-      Cagliari        0-0 Lazio
-      Empoli          2-3 Napoli
-      Udinese         4-1 Palermo
-      Atalanta        3-0 Pescara
-      Roma            3-1 Sassuolo
+  Empoli                   2-3  SSC Napoli
+  Atalanta BC              3-0  Pescara
+  Cagliari Calcio          0-0  SS Lazio
+  Bologna FC               4-1  AC Chievo Verona
+  UC Sampdoria             0-1  Juventus
+  FC Crotone               0-1  ACF Fiorentina
+  Udinese Calcio           4-1  Palermo
+  AS Roma                  3-1  US Sassuolo Calcio
+
 
 30^ Giornata
+[Sab. 1.4.]
+  US Sassuolo Calcio       1-2  SS Lazio
+  AS Roma                  2-0  Empoli
 [Dom. 2.4.]
-      Genoa           0-5 Atalanta
-      Fiorentina      1-0 Bologna
-      Palermo         1-3 Cagliari
-      Chievo          1-2 Crotone
-      Roma            2-0 Empoli
-      Napoli          1-1 Juventus
-      Sassuolo        1-2 Lazio
-      Pescara         1-1 Milan
-      Inter           1-2 Sampdoria
-      Torino          2-2 Udinese
+  Torino FC                2-2  Udinese Calcio
+  Genoa CFC                0-5  Atalanta BC
+  AC Chievo Verona         1-2  FC Crotone
+  Palermo                  1-3  Cagliari Calcio
+  Pescara                  1-1  AC Milan
+  ACF Fiorentina           1-0  Bologna FC
+  SSC Napoli               1-1  Juventus
+[Lun. 3.4.]
+  FC Internazionale Milano  1-2  UC Sampdoria
+
 
 31^ Giornata
+[Sab. 8.4.]
+  Empoli                   1-1  Pescara
+  Atalanta BC              1-1  US Sassuolo Calcio
+  Juventus                 2-0  AC Chievo Verona
 [Dom. 9.4.]
-      Juventus        2-0 Chievo
-      Sampdoria       2-2 Fiorentina
-      Udinese         3-0 Genoa
-      Crotone         2-1 Inter
-      Lazio           0-3 Napoli
-      Milan           4-0 Palermo
-      Empoli          1-1 Pescara
-      Bologna         0-3 Roma
-      Atalanta        1-1 Sassuolo
-      Cagliari        2-3 Torino
+  UC Sampdoria             2-2  ACF Fiorentina
+  Udinese Calcio           3-0  Genoa CFC
+  FC Crotone               2-1  FC Internazionale Milano
+  AC Milan                 4-0  Palermo
+  Bologna FC               0-3  AS Roma
+  Cagliari Calcio          2-3  Torino FC
+  SS Lazio                 0-3  SSC Napoli
+
 
 32^ Giornata
-[Dom. 15.4.]
-      Roma            1-1 Atalanta
-      Palermo         0-0 Bologna
-      Cagliari        4-0 Chievo
-      Torino          1-1 Crotone
-      Fiorentina      1-2 Empoli
-      Pescara         0-2 Juventus
-      Genoa           2-2 Lazio
-      Inter           2-2 Milan
-      Sassuolo        2-1 Sampdoria
-      Napoli          3-0 Udinese
+[Sab. 15.4.]
+  FC Internazionale Milano  2-2  AC Milan
+  AS Roma                  1-1  Atalanta BC
+  Torino FC                1-1  FC Crotone
+  Palermo                  0-0  Bologna FC
+  Cagliari Calcio          4-0  AC Chievo Verona
+  Pescara                  0-2  Juventus
+  ACF Fiorentina           1-2  Empoli
+  Genoa CFC                2-2  SS Lazio
+  US Sassuolo Calcio       2-1  UC Sampdoria
+  SSC Napoli               3-0  Udinese Calcio
+
 
 33^ Giornata
+[Sab. 22.4.]
+  Atalanta BC              3-2  Bologna FC
+  ACF Fiorentina           5-4  FC Internazionale Milano
 [Dom. 23.4.]
-      Atalanta        3-2 Bologna
-      Udinese         2-1 Cagliari
-      Sampdoria       1-2 Crotone
-      Milan           1-2 Empoli
-      Juventus        4-0 Genoa
-      Fiorentina      5-4 Inter
-      Sassuolo        2-2 Napoli
-      Lazio           6-2 Palermo
-      Pescara         1-4 Roma
-      Chievo          1-3 Torino
+  US Sassuolo Calcio       2-2  SSC Napoli
+  Udinese Calcio           2-1  Cagliari Calcio
+  AC Chievo Verona         1-3  Torino FC
+  AC Milan                 1-2  Empoli
+  UC Sampdoria             1-2  FC Crotone
+  SS Lazio                 6-2  Palermo
+  Juventus                 4-0  Genoa CFC
+[Lun. 24.4.]
+  Pescara                  1-4  AS Roma
+
 
 34^ Giornata
+[Ven. 28.4.]
+  Atalanta BC              2-2  Juventus
+[Sab. 29.4.]
+  Torino FC                1-1  UC Sampdoria
 [Dom. 30.4.]
-      Genoa           1-2 Chievo
-      Palermo         2-0 Fiorentina
-      Atalanta        2-2 Juventus
-      Roma            1-3 Lazio
-      Crotone         1-1 Milan
-      Inter           0-1 Napoli
-      Cagliari        1-0 Pescara
-      Torino          1-1 Sampdoria
-      Empoli          1-3 Sassuolo
-      Bologna         4-0 Udinese
+  AS Roma                  1-3  SS Lazio
+  Empoli                   1-3  US Sassuolo Calcio
+  Genoa CFC                1-2  AC Chievo Verona
+  FC Crotone               1-1  AC Milan
+  Cagliari Calcio          1-0  Pescara
+  Bologna FC               4-0  Udinese Calcio
+  Palermo                  2-0  ACF Fiorentina
+  FC Internazionale Milano  0-1  SSC Napoli
 
 
 35^ Giornata
+[Sab. 6.5.]
+  SSC Napoli               3-1  Cagliari Calcio
+  Juventus                 1-1  Torino FC
 [Dom. 7.5.]
-      Udinese         1-1 Atalanta
-      Empoli          3-1 Bologna
-      Napoli          3-1 Cagliari
-      Pescara         0-1 Crotone
-      Sassuolo        2-2 Fiorentina
-      Genoa           1-0 Inter
-      Chievo          1-1 Palermo
-      Milan           1-4 Roma
-      Lazio           7-3 Sampdoria
-      Juventus        1-1 Torino
+  Udinese Calcio           1-1  Atalanta BC
+  SS Lazio                 7-3  UC Sampdoria
+  Genoa CFC                1-0  FC Internazionale Milano
+  AC Chievo Verona         1-1  Palermo
+  US Sassuolo Calcio       2-2  ACF Fiorentina
+  Empoli                   3-1  Bologna FC
+  Pescara                  0-1  FC Crotone
+  AC Milan                 1-4  AS Roma
 
 
 36^ Giornata
+[Sab. 13.5.]
+  ACF Fiorentina           3-2  SS Lazio
+  Atalanta BC              1-1  AC Milan
 [Dom. 14.5.]
-      Sampdoria        1-1  Chievo
-      Cagliari         3-2 Empoli
-      Palermo          1-0 Genoa
-      Roma             3-1 Juventus
-      Fiorentina       3-2 Lazio
-      Atalanta         1-1 Milan
-      Torino           0-5 Napoli
-      Bologna          3-1 Pescara
-      Inter            1-2 Sassuolo
-      Crotone          1-0 Udinese
+  FC Internazionale Milano  1-2  US Sassuolo Calcio
+  Torino FC                0-5  SSC Napoli
+  UC Sampdoria             1-1  AC Chievo Verona
+  Palermo                  1-0  Genoa CFC
+  Bologna FC               3-1  Pescara
+  Cagliari Calcio          3-2  Empoli
+  FC Crotone               1-0  Udinese Calcio
+  AS Roma                  3-1  Juventus
 
 
 37^ Giornata
+[Sab. 20.5.]
+  AC Chievo Verona         3-5  AS Roma
+  SSC Napoli               4-1  ACF Fiorentina
 [Dom. 21.5.]
-      Empoli            0-1 Atalanta
-      Milan             3-0 Bologna
-      Sassuolo          6-2 Cagliari
-      Juventus          3-0 Crotone
-      Napoli            4-1 Fiorentina
-      Lazio             1-3 Inter
-      Pescara           2-0  Palermo
-      Chievo            3-5 Roma
-      Udinese           1-1 Sampdoria
-      Genoa             2-1 Torino
+  US Sassuolo Calcio       6-2  Cagliari Calcio
+  AC Milan                 3-0  Bologna FC
+  Juventus                 3-0  FC Crotone
+  Genoa CFC                2-1  Torino FC
+  Udinese Calcio           1-1  UC Sampdoria
+  Empoli                   0-1  Atalanta BC
+  SS Lazio                 1-3  FC Internazionale Milano
+[Lun. 22.5.]
+  Pescara                  2-0  Palermo
 
 
 38^ Giornata
+[Sab. 27.5.]
+  Atalanta BC              1-0  AC Chievo Verona
+  Bologna FC               1-2  Juventus
 [Dom. 28.5.]
-      Atalanta          1-0 Chievo
-      Palermo           2-1 Empoli
-      Roma              3-2 Genoa
-      Bologna           1-2 Juventus
-      Crotone           3-1 Lazio
-      Cagliari          2-1 Milan
-      Sampdoria         2-4 Napoli
-      Fiorentina        2-2 Pescara
-      Torino            5-3 Sassuolo
-      Inter             5-2 Udinese
+  Cagliari Calcio          2-1  AC Milan
+  UC Sampdoria             2-4  SSC Napoli
+  AS Roma                  3-2  Genoa CFC
+  Palermo                  2-1  Empoli
+  FC Internazionale Milano  5-2  Udinese Calcio
+  Torino FC                5-3  US Sassuolo Calcio
+  ACF Fiorentina           2-2  Pescara
+  FC Crotone               3-1  SS Lazio

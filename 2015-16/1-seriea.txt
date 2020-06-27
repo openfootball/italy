@@ -3,506 +3,593 @@
 
 1^ Giornata
 [Sab. 22.8.]
-  Hellas Verona      1-1  AS Roma
-  Lazio Roma         2-1  Bologna FC
+  Hellas Verona FC         1-1  AS Roma
+  SS Lazio                 2-1  Bologna FC
 [Dom. 23.8.]
-  Juventus           0-1  Udinese Calcio
-  Empoli FC          1-3  Chievo Verona
-  Fiorentina         2-0  AC Milan
-  Frosinone Calcio   1-2  Torino FC
-  Internazionale     1-0  Atalanta
-  US Palermo            1-0  Genoa CFC
-  Sampdoria          5-2  Carpi FC
-  Sassuolo Calcio    2-1  SSC Napoli
+  Juventus                 0-1  Udinese Calcio
+  FC Internazionale Milano  1-0  Atalanta BC
+  US Sassuolo Calcio       2-1  SSC Napoli
+  Palermo                  1-0  Genoa CFC
+  Frosinone                1-2  Torino FC
+  ACF Fiorentina           2-0  AC Milan
+  Empoli                   1-3  AC Chievo Verona
+  UC Sampdoria             5-2  Carpi
+
 
 2^ Giornata
 [Sab. 29.8.]
-  Bologna FC         0-1  Sassuolo Calcio
-  AC Milan           2-1  Empoli FC
+  Bologna FC               0-1  US Sassuolo Calcio
+  AC Milan                 2-1  Empoli
 [Dom. 30.8.]
-  AS Roma            2-1  Juventus
-  Atalanta           2-0  Frosinone Calcio
-  Carpi FC           1-2  Internazionale
-  Chievo Verona      4-0  Lazio Roma
-  Genoa CFC          2-0  Hellas Verona
-  SSC Napoli         2-2  Sampdoria
-  Torino FC          3-1  Fiorentina
-  Udinese Calcio     0-1  US Palermo
+  AS Roma                  2-1  Juventus
+  AC Chievo Verona         4-0  SS Lazio
+  Atalanta BC              2-0  Frosinone
+  SSC Napoli               2-2  UC Sampdoria
+  Udinese Calcio           0-1  Palermo
+  Carpi                    1-2  FC Internazionale Milano
+  Torino FC                3-1  ACF Fiorentina
+  Genoa CFC                2-0  Hellas Verona FC
+
 
 3^ Giornata
+[Sab. 12.9.]
+  ACF Fiorentina           1-0  Genoa CFC
+  Frosinone                0-2  AS Roma
+  Juventus                 1-1  AC Chievo Verona
 [Dom. 13.9.]
-  Empoli FC          2-2  SSC Napoli
-  Fiorentina         1-0  Genoa CFC
-  Frosinone Calcio   0-2  AS Roma
-  Hellas Verona      2-2  Torino FC
-  Internazionale     1-0  AC Milan
-  Juventus           1-1  Chievo Verona
-  Lazio Roma         2-0  Udinese Calcio
-  US Palermo         2-2  Carpi FC
-  Sampdoria          2-0  Bologna FC
-  Sassuolo Calcio    2-2  Atalanta
+  Hellas Verona FC         2-2  Torino FC
+  US Sassuolo Calcio       2-2  Atalanta BC
+  Palermo                  2-2  Carpi
+  Empoli                   2-2  SSC Napoli
+  SS Lazio                 2-0  Udinese Calcio
+  FC Internazionale Milano  1-0  AC Milan
+[Lun. 14.9.]
+  UC Sampdoria             2-0  Bologna FC
+
 
 4^ Giornata
+[Sab. 19.9.]
+  Udinese Calcio           1-2  Empoli
+  AC Milan                 3-2  Palermo
 [Dom. 20.9.]
-  Atalanta           1-1  Hellas Verona
-  Bologna FC         1-1  Frosinone Calcio
-  Carpi FC           0-1  Fiorentina
-  Chievo Verona      0-1  Internazionale
-  Genoa CFC          0-2  Juventus
-  AC Milan           3-2  US Palermo
-  SSC Napoli         5-0  Lazio Roma
-  AS Roma            2-2  Sassuolo Calcio
-  Torino FC          2-0  Sampdoria
-  Udinese Calcio     1-2  Empoli FC
+  AC Chievo Verona         0-1  FC Internazionale Milano
+  Genoa CFC                0-2  Juventus
+  Atalanta BC              1-1  Hellas Verona FC
+  AS Roma                  2-2  US Sassuolo Calcio
+  Bologna FC               1-0  Frosinone
+  Torino FC                2-0  UC Sampdoria
+  Carpi                    0-1  ACF Fiorentina
+  SSC Napoli               5-0  SS Lazio
+
 
 5^ Giornata
+[Mar. 22.9.]
+  Udinese Calcio           2-3  AC Milan
 [Mer. 23.9.]
-  Carpi FC           0-0  SSC Napoli
-  Chievo Verona      1-0  Torino FC
-  Empoli FC          0-1  Atalanta
-  Internazionale     1-0  Hellas Verona
-  Juventus           1-1  Frosinone Calcio
-  Lazio Roma         2-0  Genoa CFC
-  US Palermo         0-1  Sassuolo Calcio
-  Sampdoria          2-1  AS Roma
-  Udinese Calcio     2-3  AC Milan
-  Fiorentina         2-0  Bologna FC
+  Palermo                  0-1  US Sassuolo Calcio
+  Juventus                 1-1  Frosinone
+  ACF Fiorentina           2-0  Bologna FC
+  UC Sampdoria             2-1  AS Roma
+  FC Internazionale Milano  1-0  Hellas Verona FC
+  Carpi                    0-0  SSC Napoli
+  AC Chievo Verona         1-0  Torino FC
+  SS Lazio                 2-0  Genoa CFC
+[Gio. 24.9.]
+  Empoli                   0-1  Atalanta BC
+
 
 6^ Giornata
+[Sab. 26.9.]
+  AS Roma                  5-1  Carpi
+  SSC Napoli               2-1  Juventus
 [Dom. 27.9.]
-  Atalanta           2-1  Sampdoria
-  Bologna FC         1-2  Udinese Calcio
-  Frosinone Calcio   2-0  Empoli FC
-  Genoa CFC          1-0  AC Milan
-  Hellas Verona      1-2  Lazio Roma
-  Internazionale     1-4  Fiorentina
-  SSC Napoli         2-1  Juventus
-  AS Roma            5-1  Carpi FC
-  Sassuolo Calcio    1-1  Chievo Verona
-  Torino FC          2-1  US Palermo
+  Genoa CFC                1-0  AC Milan
+  Hellas Verona FC         1-2  SS Lazio
+  US Sassuolo Calcio       1-1  AC Chievo Verona
+  Torino FC                2-1  Palermo
+  Bologna FC               1-2  Udinese Calcio
+  FC Internazionale Milano  1-4  ACF Fiorentina
+[Lun. 28.9.]
+  Frosinone                2-0  Empoli
+  Atalanta BC              2-1  UC Sampdoria
+
 
 7^ Giornata
+[Sab. 3.10.]
+  Carpi                    2-1  Torino FC
+  AC Chievo Verona         1-1  Hellas Verona FC
 [Dom. 4.10.]
-  Carpi FC           2-1  Torino FC
-  Chievo Verona      1-1  Hellas Verona
-  Empoli FC          1-0  Sassuolo Calcio
-  Fiorentina         3-0  Atalanta
-  Juventus           3-1  Bologna FC
-  Lazio Roma         2-0  Frosinone Calcio
-  AC Milan           0-4  SSC Napoli
-  US Palermo         2-4  AS Roma
-  Sampdoria          1-1  Internazionale
-  Udinese Calcio     1-1  Genoa CFC
+  Empoli                   1-0  US Sassuolo Calcio
+  Palermo                  2-4  AS Roma
+  UC Sampdoria             1-1  FC Internazionale Milano
+  Udinese Calcio           1-1  Genoa CFC
+  Juventus                 3-1  Bologna FC
+  SS Lazio                 2-0  Frosinone
+  AC Milan                 0-4  SSC Napoli
+  ACF Fiorentina           3-0  Atalanta BC
+
 
 8^ Giornata
+[Sab. 17.10.]
+  AS Roma                  3-1  Empoli
+  Torino FC                1-1  AC Milan
 [Dom. 18.10.]
-  Atalanta           3-0  Carpi FC
-  Bologna FC         0-1  US Palermo
-  Frosinone Calcio   2-0  Sampdoria
-  Genoa CFC          3-2  Chievo Verona
-  Hellas Verona      1-1  Udinese Calcio
-  Internazionale     0-0  Juventus
-  SSC Napoli         2-1  Fiorentina
-  AS Roma            3-1  Empoli FC
-  Sassuolo Calcio    2-1  Lazio Roma
-  Torino FC          1-1  AC Milan
+  Bologna FC               0-1  Palermo
+  SSC Napoli               2-1  ACF Fiorentina
+  Genoa CFC                3-2  AC Chievo Verona
+  Frosinone                2-0  UC Sampdoria
+  Hellas Verona FC         1-1  Udinese Calcio
+  Atalanta BC              3-0  Carpi
+  US Sassuolo Calcio       2-1  SS Lazio
+  FC Internazionale Milano  0-0  Juventus
 
 
 9^ Giornata
+[Sab. 24.10.]
+  Empoli                   2-0  Genoa CFC
+  Carpi                    1-2  Bologna FC
+  Palermo                  1-1  FC Internazionale Milano
 [Dom. 25.10.]
-  Carpi FC           1-2  Bologna FC
-  Chievo Verona      0-1  SSC Napoli
-  Empoli FC          2-0  Genoa CFC
-  Fiorentina         1-2  AS Roma
-  Juventus           2-0  Atalanta
-  Lazio Roma         3-0  Torino FC
-  AC Milan           2-1  Sassuolo Calcio
-  US Palermo         1-1  Internazionale
-  Sampdoria          4-1  Hellas Verona
-  Udinese Calcio     1-0  Frosinone Calcio
+  UC Sampdoria             4-1  Hellas Verona FC
+  AC Milan                 2-1  US Sassuolo Calcio
+  Juventus                 2-0  Atalanta BC
+  Udinese Calcio           1-0  Frosinone
+  ACF Fiorentina           1-2  AS Roma
+  SS Lazio                 3-0  Torino FC
+  AC Chievo Verona         0-1  SSC Napoli
 
 
 10^ Giornata
+[Mar. 27.10.]
+  Bologna FC               0-1  FC Internazionale Milano
 [Mer. 28.10.]
-  Atalanta           2-1  Lazio Roma
-  Bologna FC         0-1  Internazionale
-  Frosinone Calcio   2-1  Carpi FC
-  Hellas Verona      0-2  Fiorentina
-  AC Milan           1-0  Chievo Verona
-  SSC Napoli         2-0  US Palermo
-  AS Roma            3-1  Udinese Calcio
-  Sampdoria          1-1  Empoli FC
-  Sassuolo Calcio    1-0  Juventus
-  Torino FC          3-3  Genoa CFC
+  Hellas Verona FC         0-2  ACF Fiorentina
+  Frosinone                2-1  Carpi
+  Torino FC                3-3  Genoa CFC
+  US Sassuolo Calcio       1-0  Juventus
+  AS Roma                  3-1  Udinese Calcio
+  Atalanta BC              2-1  SS Lazio
+  SSC Napoli               2-0  Palermo
+  AC Milan                 1-0  AC Chievo Verona
+[Gio. 29.10.]
+  UC Sampdoria             1-1  Empoli
+
 
 11^ Giornata
+[Sab. 31.10.]
+  Juventus                 2-1  Torino FC
+  FC Internazionale Milano  1-0  AS Roma
 [Dom. 1.11.]
-  Bologna FC         3-0  Atalanta
-  Carpi FC           0-0  Hellas Verona
-  Chievo Verona      1-1  Sampdoria
-  Fiorentina         4-1  Frosinone Calcio
-  Genoa CFC          0-0  SSC Napoli
-  Internazionale     1-0  AS Roma
-  Juventus           2-1  Torino FC
-  Lazio Roma         1-3  AC Milan
-  US Palermo         0-1  Empoli FC
-  Udinese Calcio     0-0  Sassuolo Calcio
+  ACF Fiorentina           4-1  Frosinone
+  Udinese Calcio           0-0  US Sassuolo Calcio
+  Bologna FC               3-0  Atalanta BC
+  Carpi                    0-0  Hellas Verona FC
+  Genoa CFC                0-0  SSC Napoli
+  SS Lazio                 1-3  AC Milan
+[Lun. 2.11.]
+  AC Chievo Verona         1-1  UC Sampdoria
+  Palermo                  0-1  Empoli
+
 
 12^ Giornata
+[Sab. 7.11.]
+  Hellas Verona FC         0-2  Bologna FC
+  AC Milan                 0-0  Atalanta BC
 [Dom. 8.11.]
-  Empoli FC          1-3  Juventus
-  Frosinone Calcio   2-2  Genoa CFC
-  Hellas Verona      0-2  Bologna FC
-  AC Milan           0-0  Atalanta
-  SSC Napoli         1-0  Udinese Calcio
-  US Palermo         1-0  Chievo Verona
-  AS Roma            2-0  Lazio Roma
-  Sampdoria          0-2  Fiorentina
-  Sassuolo Calcio    1-0  Carpi FC
-  Torino FC          0-1  Internazionale
+  Torino FC                0-1  FC Internazionale Milano
+  AS Roma                  2-0  SS Lazio
+  Palermo                  1-0  AC Chievo Verona
+  US Sassuolo Calcio       1-0  Carpi
+  Empoli                   1-3  Juventus
+  Frosinone                2-2  Genoa CFC
+  SSC Napoli               1-0  Udinese Calcio
+  UC Sampdoria             0-2  ACF Fiorentina
+
 
 13^ Giornata
+[Sab. 21.11.]
+  Bologna FC               2-2  AS Roma
+  Juventus                 1-0  AC Milan
 [Dom. 22.11.]
-  Atalanta           0-1  Torino FC
-  Bologna FC         2-2  AS Roma
-  Carpi FC           1-2  Chievo Verona
-  Fiorentina         2-2  Empoli FC
-  Genoa CFC          2-1  Sassuolo Calcio
-  Hellas Verona      0-2  SSC Napoli
-  Internazionale     4-0  Frosinone Calcio
-  Juventus           1-0  AC Milan
-  Lazio Roma         1-1  US Palermo
-  Udinese Calcio     1-0  Sampdoria
+  Hellas Verona FC         0-2  SSC Napoli
+  Carpi                    1-2  AC Chievo Verona
+  SS Lazio                 1-1  Palermo
+  Genoa CFC                2-1  US Sassuolo Calcio
+  Udinese Calcio           1-0  UC Sampdoria
+  Atalanta BC              0-1  Torino FC
+  ACF Fiorentina           2-2  Empoli
+  FC Internazionale Milano  4-0  Frosinone
+
 
 14^ Giornata
+[Sab. 28.11.]
+  Torino FC                2-0  Bologna FC
+  AC Milan                 4-1  UC Sampdoria
 [Dom. 29.11.]
-  Chievo Verona      2-3  Udinese Calcio
-  Empoli FC          1-0  Lazio Roma
-  Frosinone Calcio   3-2  Hellas Verona
-  Genoa CFC          1-2  Carpi FC
-  AC Milan           4-1  Sampdoria
-  SSC Napoli         2-1  Internazionale
-  US Palermo         0-3  Juventus
-  AS Roma            0-2  Atalanta
-  Sassuolo Calcio    1-1  Fiorentina
-  Torino FC          2-0  Bologna FC
+  AC Chievo Verona         2-3  Udinese Calcio
+  AS Roma                  0-2  Atalanta BC
+  Genoa CFC                1-2  Carpi
+  Frosinone                3-2  Hellas Verona FC
+  Empoli                   1-0  SS Lazio
+  Palermo                  0-3  Juventus
+[Lun. 30.11.]
+  US Sassuolo Calcio       1-1  ACF Fiorentina
+  SSC Napoli               2-1  FC Internazionale Milano
+
 
 15^ Giornata
+[Ven. 4.12.]
+  SS Lazio                 0-2  Juventus
+[Sab. 5.12.]
+  Torino FC                1-1  AS Roma
+  FC Internazionale Milano  1-0  Genoa CFC
 [Dom. 6.12.]
-  Atalanta           3-0  US Palermo
-  Bologna FC         3-2  SSC Napoli
-  Carpi FC           0-0  AC Milan
-  Fiorentina         3-0  Udinese Calcio
-  Frosinone Calcio   0-2  Chievo Verona
-  Hellas Verona      0-1  Empoli FC
-  Internazionale     1-0  Genoa CFC
-  Lazio Roma         0-2  Juventus
-  Sampdoria          1-3  Sassuolo Calcio
-  Torino FC          1-1  AS Roma
+  Bologna FC               3-2  SSC Napoli
+  Hellas Verona FC         0-1  Empoli
+  ACF Fiorentina           3-0  Udinese Calcio
+  Atalanta BC              3-0  Palermo
+  Frosinone                0-2  AC Chievo Verona
+  UC Sampdoria             1-3  US Sassuolo Calcio
+  Carpi                    0-0  AC Milan
+
 
 16^ Giornata
+[Sab. 12.12.]
+  Genoa CFC                0-1  Bologna FC
+  Palermo                  4-1  Frosinone
+  Udinese Calcio           0-4  FC Internazionale Milano
 [Dom. 13.12.]
-  Chievo Verona      1-0  Atalanta
-  Empoli FC          3-0  Carpi FC
-  Genoa CFC          0-1  Bologna FC
-  Juventus           3-1  Fiorentina
-  Lazio Roma         1-1  Sampdoria
-  AC Milan           1-1  Hellas Verona
-  SSC Napoli         0-0  AS Roma
-  US Palermo         4-1  Frosinone Calcio
-  Sassuolo Calcio    1-1  Torino FC
-  Udinese Calcio     0-4  Internazionale
+  AC Chievo Verona         1-0  Atalanta BC
+  Empoli                   3-0  Carpi
+  AC Milan                 1-1  Hellas Verona FC
+  SSC Napoli               0-0  AS Roma
+  Juventus                 3-1  ACF Fiorentina
+[Lun. 14.12.]
+  SS Lazio                 1-1  UC Sampdoria
+
 
 17^ Giornata
+[Sab. 19.12.]
+  Bologna FC               2-3  Empoli
 [Dom. 20.12.]
-  Atalanta           1-3  SSC Napoli
-  Bologna FC         2-3  Empoli FC
-  Carpi FC           2-3  Juventus
-  Fiorentina         2-0  Chievo Verona
-  Frosinone Calcio   2-4  AC Milan
-  Hellas Verona      1-1  Sassuolo Calcio
-  Internazionale     1-2  Lazio Roma
-  AS Roma            2-0  Genoa CFC
-  Sampdoria          2-0  US Palermo
-  Torino FC          0-1  Udinese Calcio
+  Carpi                    2-3  Juventus
+  ACF Fiorentina           2-0  AC Chievo Verona
+  Atalanta BC              1-3  SSC Napoli
+  Hellas Verona FC         1-1  US Sassuolo Calcio
+  AS Roma                  2-0  Genoa CFC
+  Frosinone                2-4  AC Milan
+  Torino FC                0-1  Udinese Calcio
+  UC Sampdoria             2-0  Palermo
+  FC Internazionale Milano  1-2  SS Lazio
+
 
 18^ Giornata
+[Mar. 5.1.]
+  Genoa CFC                2-3  UC Sampdoria
 [Mer. 6.1.]
-  Chievo Verona      3-3  AS Roma
-  Empoli FC          0-1  Internazionale
-  Genoa CFC          2-3  Sampdoria
-  Juventus           3-0  Hellas Verona
-  Lazio Roma         0-0  Carpi FC
-  AC Milan           0-1  Bologna FC
-  SSC Napoli         2-1  Torino FC
-  US Palermo         1-3  Fiorentina
-  Sassuolo Calcio    2-2  Frosinone Calcio
-  Udinese Calcio     2-1  Atalanta
+  Udinese Calcio           2-1  Atalanta BC
+  US Sassuolo Calcio       2-2  Frosinone
+  Palermo                  1-3  ACF Fiorentina
+  SS Lazio                 0-0  Carpi
+  Juventus                 3-0  Hellas Verona FC
+  AC Milan                 0-1  Bologna FC
+  AC Chievo Verona         3-3  AS Roma
+  Empoli                   0-1  FC Internazionale Milano
+  SSC Napoli               2-1  Torino FC
+
 
 19^ Giornata
+[Sab. 9.1.]
+  Carpi                    2-1  Udinese Calcio
+  ACF Fiorentina           1-3  SS Lazio
+  AS Roma                  1-1  AC Milan
 [Dom. 10.1.]
-  Atalanta           0-2  Genoa CFC
-  Bologna FC         0-1  Chievo Verona
-  Carpi FC           2-1  Udinese Calcio
-  Fiorentina         1-3  Lazio Roma
-  Frosinone Calcio   1-5  SSC Napoli
-  Hellas Verona      0-1  US Palermo
-  Internazionale     0-1  Sassuolo Calcio
-  AS Roma            1-1  AC Milan
-  Sampdoria          1-2  Juventus
-  Torino FC          0-1  Empoli FC
+  FC Internazionale Milano  0-1  US Sassuolo Calcio
+  Torino FC                0-1  Empoli
+  Hellas Verona FC         0-1  Palermo
+  Bologna FC               0-1  AC Chievo Verona
+  Atalanta BC              0-2  Genoa CFC
+  Frosinone                1-5  SSC Napoli
+  UC Sampdoria             1-2  Juventus
 
 
 20^ Giornata
+[Sab. 16.1.]
+  Atalanta BC              1-1  FC Internazionale Milano
+  Torino FC                4-2  Frosinone
+  SSC Napoli               3-1  US Sassuolo Calcio
 [Dom. 17.1.]
-  Chievo Verona     1-1  Empoli FC
-  AC Milan          2-0  Fiorentina
-  Torino FC         4-2  Frosinone Calcio
-  AS Roma           1-1  Hellas Verona
-  Atalanta          1-1  Internazionale
-  Udinese Calcio    0-4  Juventus
-  Bologna FC        2-2  Lazio Roma
-  Genoa CFC         4-0  US Palermo
-  Carpi FC          2-1  Sampdoria
-  SSC Napoli        3-1  Sassuolo Calcio
+  Genoa CFC                4-0  Palermo
+  Bologna FC               2-2  SS Lazio
+  AS Roma                  1-1  Hellas Verona FC
+  Udinese Calcio           0-4  Juventus
+  Carpi                    2-1  UC Sampdoria
+  AC Chievo Verona         1-1  Empoli
+  AC Milan                 2-0  ACF Fiorentina
+
+
+16^ Giornata
+[Mer. 20.1.]
+  US Sassuolo Calcio       1-1  Torino FC
+
 
 21^ Giornata
+[Sab. 23.1.]
+  Frosinone                0-0  Atalanta BC
+  Empoli                   2-2  AC Milan
 [Dom. 24.1.]
-  Frosinone Calcio  0-0  Atalanta
-  Sassuolo Calcio   0-2  Bologna FC
-  Internazionale    1-1  Carpi FC
-  Lazio Roma        4-1  Chievo Verona
-  Hellas Verona     1-1  Genoa CFC
-  Empoli FC         2-2  AC Milan
-  Sampdoria         2-4  SSC Napoli
-  Juventus          1-0  AS Roma
-  Fiorentina        2-0  Torino FC
-  US Palermo        4-1  Udinese Calcio
+  ACF Fiorentina           2-0  Torino FC
+  Palermo                  4-1  Udinese Calcio
+  FC Internazionale Milano  1-1  Carpi
+  UC Sampdoria             2-4  SSC Napoli
+  Hellas Verona FC         1-1  Genoa CFC
+  US Sassuolo Calcio       0-2  Bologna FC
+  SS Lazio                 4-1  AC Chievo Verona
+  Juventus                 1-0  AS Roma
+
 
 22^ Giornata
+[Sab. 30.1.]
+  Carpi                    1-1  Palermo
+  Atalanta BC              1-1  US Sassuolo Calcio
+  AS Roma                  3-1  Frosinone
 [Dom. 31.1.]
-  SSC Napoli        5-1  Empoli FC
-  Genoa CFC         0-0  Fiorentina
-  AS Roma           3-1  Frosinone Calcio
-  Torino FC         0-0  Hellas Verona
-  AC Milan          3-0  Internazionale
-  Chievo Verona     0-4  Juventus
-  Udinese Calcio    0-0  Lazio Roma
-  Carpi FC          1-1  US Palermo
-  Bologna FC        3-2  Sampdoria
-  Atalanta          1-1  Sassuolo Calcio
+  AC Chievo Verona         0-4  Juventus
+  SSC Napoli               5-1  Empoli
+  Udinese Calcio           0-0  SS Lazio
+  Genoa CFC                0-0  ACF Fiorentina
+  Torino FC                0-0  Hellas Verona FC
+  Bologna FC               3-2  UC Sampdoria
+  AC Milan                 3-0  FC Internazionale Milano
+
 
 23^ Giornata
+[Mar. 2.2.]
+  US Sassuolo Calcio       0-2  AS Roma
 [Mer. 3.2.]
-  Hellas Verona     2-1  Atalanta
-  Frosinone Calcio  1-0  Bologna FC
-  Fiorentina        2-1  Carpi FC
-  Internazionale    1-0  Chievo Verona
-  Juventus          1-0  Genoa CFC
-  US Palermo        0-2  AC Milan
-  Lazio Roma        0-2  SSC Napoli
-  Sassuolo Calcio   1-2  AS Roma
-  Sampdoria         2-2  Torino FC
-  Empoli FC         1-1  Udinese Calcio
+  Frosinone                1-0  Bologna FC
+  UC Sampdoria             2-2  Torino FC
+  Juventus                 1-0  Genoa CFC
+  FC Internazionale Milano  1-0  AC Chievo Verona
+  Palermo                  0-2  AC Milan
+  ACF Fiorentina           2-1  Carpi
+  SS Lazio                 0-2  SSC Napoli
+  Empoli                   1-1  Udinese Calcio
+  Hellas Verona FC         2-1  Atalanta BC
+
 
 24^ Giornata
+[Sab. 6.2.]
+  Bologna FC               1-1  ACF Fiorentina
+  Genoa CFC                0-0  SS Lazio
 [Dom. 7.2.]
-  SSC Napoli        1-0  Carpi FC
-  Torino FC         1-2  Chievo Verona
-  Atalanta          0-0  Empoli FC
-  Hellas Verona     3-3  Internazionale
-  Frosinone Calcio  0-2  Juventus
-  Genoa CFC         0-0  Lazio Roma
-  Sassuolo Calcio   2-2  US Palermo
-  AS Roma           2-1  Sampdoria
-  AC Milan          1-1  Udinese Calcio
-  Bologna FC        1-1  Fiorentina
+  Hellas Verona FC         3-3  FC Internazionale Milano
+  Torino FC                1-2  AC Chievo Verona
+  AC Milan                 1-1  Udinese Calcio
+  US Sassuolo Calcio       2-2  Palermo
+  Frosinone                0-2  Juventus
+  SSC Napoli               1-0  Carpi
+  Atalanta BC              0-0  Empoli
+  AS Roma                  2-1  UC Sampdoria
+
 
 25^ Giornata
+[Gio. 11.2.]
+  SS Lazio                 5-2  Hellas Verona FC
+[Ven. 12.2.]
+  Carpi                    1-3  AS Roma
+[Sab. 13.2.]
+  Empoli                   1-2  Frosinone
+  AC Chievo Verona         1-1  US Sassuolo Calcio
+  Juventus                 1-0  SSC Napoli
 [Dom. 14.2.]
-  Sampdoria         0-0  Atalanta
-  Udinese Calcio    0-1  Bologna FC
-  Empoli FC         1-2  Frosinone Calcio
-  AC Milan          2-1  Genoa CFC
-  Lazio Roma        5-2  Hellas Verona
-  Fiorentina        2-1  Internazionale
-  Juventus          1-0  SSC Napoli
-  Carpi FC          1-3  AS Roma
-  Chievo Verona     1-1  Sassuolo Calcio
-  US Palermo        1-3  Torino FC
+  AC Milan                 2-1  Genoa CFC
+  Palermo                  1-3  Torino FC
+  UC Sampdoria             0-0  Atalanta BC
+  Udinese Calcio           0-1  Bologna FC
+  ACF Fiorentina           2-1  FC Internazionale Milano
+
 
 26^ Giornata
+[Ven. 19.2.]
+  Bologna FC               0-0  Juventus
+[Sab. 20.2.]
+  Hellas Verona FC         3-1  AC Chievo Verona
+  FC Internazionale Milano  3-1  UC Sampdoria
 [Dom. 21.2.]
-  Torino FC         0-0  Carpi FC
-  Hellas Verona     3-1  Chievo Verona
-  Sassuolo Calcio   3-2  Empoli FC
-  Atalanta          2-3  Fiorentina
-  Bologna FC        0-0  Juventus
-  Frosinone Calcio  0-0  Lazio Roma
-  SSC Napoli        1-1  AC Milan
-  AS Roma           5-0  US Palermo
-  Internazionale    3-1  Sampdoria
-  Genoa CFC         2-1  Udinese Calcio
+  Torino FC                0-0  Carpi
+  Atalanta BC              2-3  ACF Fiorentina
+  Genoa CFC                2-1  Udinese Calcio
+  US Sassuolo Calcio       3-2  Empoli
+  Frosinone                0-0  SS Lazio
+  AS Roma                  5-0  Palermo
+[Lun. 22.2.]
+  SSC Napoli               1-1  AC Milan
+
 
 27^ Giornata
+[Sab. 27.2.]
+  Empoli                   1-3  AS Roma
+  AC Milan                 1-0  Torino FC
 [Dom. 28.2.]
-  Carpi FC          1-1  Atalanta
-  US Palermo        0-0  Bologna FC
-  Sampdoria         2-0  Frosinone Calcio
-  Chievo Verona     1-0  Genoa CFC
-  Udinese Calcio    2-0  Hellas Verona
-  Juventus          2-0  Internazionale
-  Fiorentina        1-1  SSC Napoli
-  Empoli FC         1-3  AS Roma
-  Lazio Roma        0-2  Sassuolo Calcio
-  AC Milan          1-0  Torino FC
+  Palermo                  0-0  Bologna FC
+  UC Sampdoria             2-0  Frosinone
+  Carpi                    1-1  Atalanta BC
+  Udinese Calcio           2-0  Hellas Verona FC
+  AC Chievo Verona         1-0  Genoa CFC
+  Juventus                 2-0  FC Internazionale Milano
+[Lun. 29.2.]
+  SS Lazio                 0-2  US Sassuolo Calcio
+  ACF Fiorentina           1-1  SSC Napoli
+
 
 28^ Giornata
+[Ven. 4.3.]
+  AS Roma                  4-1  ACF Fiorentina
+[Sab. 5.3.]
+  Hellas Verona FC         0-3  UC Sampdoria
+  SSC Napoli               3-1  AC Chievo Verona
 [Dom. 6.3.]
-  Bologna FC        0-0  Carpi FC
-  SSC Napoli        3-1  Chievo Verona
-  Genoa CFC         1-0  Empoli FC
-  AS Roma           4-1  Fiorentina
-  Atalanta          0-2  Juventus
-  Torino FC         1-1  Lazio Roma
-  Sassuolo Calcio   2-0  AC Milan
-  Internazionale    3-1  US Palermo
-  Hellas Verona     0-3  Sampdoria
-  Frosinone Calcio  2-0  Udinese Calcio
+  Torino FC                1-1  SS Lazio
+  US Sassuolo Calcio       2-0  AC Milan
+  Bologna FC               0-0  Carpi
+  Atalanta BC              0-2  Juventus
+  Genoa CFC                1-0  Empoli
+  Frosinone                2-0  Udinese Calcio
+  FC Internazionale Milano  3-1  Palermo
+
 
 29^ Giornata
+[Ven. 11.3.]
+  Juventus                 1-0  US Sassuolo Calcio
+[Sab. 12.3.]
+  Empoli                   1-1  UC Sampdoria
+  FC Internazionale Milano  2-1  Bologna FC
 [Dom. 13.3.]
-  Lazio Roma        2-0  Atalanta
-  Internazionale    2-1  Bologna FC
-  Carpi FC          2-1  Frosinone Calcio
-  Fiorentina        1-1  Hellas Verona
-  Chievo Verona     0-0  AC Milan
-  US Palermo        0-1  SSC Napoli
-  Udinese Calcio    1-2  AS Roma
-  Empoli FC         1-1  Sampdoria
-  Juventus          1-0  Sassuolo Calcio
-  Genoa CFC         3-2  Torino FC
+  AC Chievo Verona         0-0  AC Milan
+  Udinese Calcio           1-2  AS Roma
+  ACF Fiorentina           1-1  Hellas Verona FC
+  Carpi                    2-1  Frosinone
+  Genoa CFC                3-2  Torino FC
+  Palermo                  0-1  SSC Napoli
+  SS Lazio                 2-0  Atalanta BC
+
 
 30^ Giornata
+[Sab. 19.3.]
+  Empoli                   0-0  Palermo
+  AS Roma                  1-1  FC Internazionale Milano
 [Dom. 20.3.]
-  SSC Napoli        3-1  Genoa CFC
-  Torino FC         1-4  Juventus
-  Empoli FC         0-0  US Palermo
-  Sassuolo Calcio   1-1  Udinese Calcio
-  Atalanta          2-0  Bologna FC
-  Hellas Verona     1-2  Carpi FC
-  Sampdoria         0-1  Chievo Verona
-  Frosinone Calcio  0-0  Fiorentina
-  AS Roma           1-1  Internazionale
-  AC Milan          1-1  Lazio Roma
+  Atalanta BC              2-0  Bologna FC
+  Frosinone                0-0  ACF Fiorentina
+  US Sassuolo Calcio       1-1  Udinese Calcio
+  Torino FC                1-4  Juventus
+  Hellas Verona FC         1-2  Carpi
+  UC Sampdoria             0-1  AC Chievo Verona
+  SSC Napoli               3-1  Genoa CFC
+  AC Milan                 1-1  SS Lazio
+
 
 31^ Giornata
+[Sab. 2.4.]
+  Carpi                    1-3  US Sassuolo Calcio
+  Juventus                 1-0  Empoli
 [Dom. 3.4.]
-  Juventus          1-0  Empoli FC
-  Genoa CFC         4-0  Frosinone Calcio
-  Bologna FC        0-1  Hellas Verona
-  Atalanta          2-1  AC Milan
-  Udinese Calcio    3-1  SSC Napoli
-  Chievo Verona     3-1  US Palermo
-  Lazio Roma        1-4  AS Roma
-  Fiorentina        1-1  Sampdoria
-  Carpi FC          1-3  Sassuolo Calcio
-  Internazionale    1-2  Torino FC
+  Udinese Calcio           3-1  SSC Napoli
+  ACF Fiorentina           1-1  UC Sampdoria
+  Atalanta BC              2-1  AC Milan
+  SS Lazio                 1-4  AS Roma
+  AC Chievo Verona         3-1  Palermo
+  Genoa CFC                4-0  Frosinone
+  FC Internazionale Milano  1-2  Torino FC
+[Lun. 4.4.]
+  Bologna FC               0-1  Hellas Verona FC
+
 
 32^ Giornata
+[Sab. 9.4.]
+  Frosinone                0-1  FC Internazionale Milano
+  US Sassuolo Calcio       0-1  Genoa CFC
+  AC Chievo Verona         1-0  Carpi
+  AC Milan                 1-2  Juventus
 [Dom. 10.4.]
-  Torino FC         2-1  Atalanta
-  AS Roma           1-1  Bologna FC
-  Chievo Verona     1-0  Carpi FC
-  Empoli FC         2-0  Fiorentina
-  Sassuolo Calcio   0-1  Genoa CFC
-  SSC Napoli        3-0  Hellas Verona
-  Frosinone Calcio  0-1  Internazionale
-  AC Milan          1-2  Juventus
-  US Palermo        0-3  Lazio Roma
-  Sampdoria         2-0  Udinese Calcio
+  Empoli                   2-0  ACF Fiorentina
+  Torino FC                2-1  Atalanta BC
+  UC Sampdoria             2-0  Udinese Calcio
+  SSC Napoli               3-0  Hellas Verona FC
+  Palermo                  0-3  SS Lazio
+[Lun. 11.4.]
+  AS Roma                  1-1  Bologna FC
+
 
 33^ Giornata
+[Sab. 16.4.]
+  Bologna FC               0-1  Torino FC
+  Carpi                    4-1  Genoa CFC
+  FC Internazionale Milano  2-0  SSC Napoli
 [Dom. 17.4.]
-  Udinese Calcio    0-0  Chievo Verona
-  Lazio Roma        2-0  Empoli FC
-  Hellas Verona     1-2  Frosinone Calcio
-  Carpi FC          4-1  Genoa CFC
-  Sampdoria         0-1  AC Milan
-  Internazionale    2-0  SSC Napoli
-  Juventus          4-0 US Palermo
-  Atalanta          3-3  AS Roma
-  Fiorentina        3-1  Sassuolo Calcio
-  Bologna FC        0-1  Torino FC
+  Atalanta BC              3-3  AS Roma
+  Udinese Calcio           0-0  AC Chievo Verona
+  ACF Fiorentina           3-1  US Sassuolo Calcio
+  Hellas Verona FC         1-2  Frosinone
+  Juventus                 4-0  Palermo
+  SS Lazio                 2-0  Empoli
+  UC Sampdoria             0-1  AC Milan
+
 
 34^ Giornata
+[Mar. 19.4.]
+  SSC Napoli               6-0  Bologna FC
 [Mer. 20.4.]
-  US Palermo        2-2  Atalanta
-  SSC Napoli        6-0  Bologna FC
-  AC Milan          0-0  Carpi FC
-  Udinese Calcio    2-1  Fiorentina
-  Chievo Verona     5-1  Frosinone Calcio
-  Empoli FC         1-0  Hellas Verona
-  Genoa CFC         1-0  Internazionale
-  Juventus          3-0  Lazio Roma
-  Sassuolo Calcio   0-0  Sampdoria
-  AS Roma           3-2  Torino FC
+  US Sassuolo Calcio       0-0  UC Sampdoria
+  AS Roma                  3-2  Torino FC
+  Juventus                 3-0  SS Lazio
+  Udinese Calcio           2-1  ACF Fiorentina
+  Empoli                   1-0  Hellas Verona FC
+  Palermo                  2-2  Atalanta BC
+  AC Chievo Verona         5-1  Frosinone
+  Genoa CFC                1-0  FC Internazionale Milano
+[Gio. 21.4.]
+  AC Milan                 0-0  Carpi
+
 
 35^ Giornata
+[Sab. 23.4.]
+  FC Internazionale Milano  3-1  Udinese Calcio
 [Dom. 24.4.]
-  Atalanta          1-0  Chievo Verona
-  Carpi FC          1-0  Empoli FC
-  Bologna FC        2-0  Genoa CFC
-  Fiorentina        1-2  Juventus
-  Sampdoria         2-1  Lazio Roma
-  Hellas Verona     2-1  AC Milan
-  AS Roma           1-0  SSC Napoli
-  Frosinone Calcio  0-2  US Palermo
-  Torino FC         1-3  Sassuolo Calcio
-  Internazionale    3-1  Udinese Calcio
+  Frosinone                0-2  Palermo
+  UC Sampdoria             2-1  SS Lazio
+  Atalanta BC              1-0  AC Chievo Verona
+  Bologna FC               2-0  Genoa CFC
+  Torino FC                1-3  US Sassuolo Calcio
+  ACF Fiorentina           1-2  Juventus
+[Lun. 25.4.]
+  AS Roma                  1-0  SSC Napoli
+  Hellas Verona FC         2-1  AC Milan
+  Carpi                    1-0  Empoli
+
 
 36^ Giornata
+[Sab. 30.4.]
+  Udinese Calcio           1-5  Torino FC
+  AC Chievo Verona         0-0  ACF Fiorentina
 [Dom. 1.5.]
-  SSC Napoli        2-1  Atalanta
-  Empoli FC         0-0  Bologna FC
-  Juventus          2-0  Carpi FC
-  Chievo Verona     0-0  Fiorentina
-  AC Milan          3-3  Frosinone Calcio
-  Sassuolo Calcio   1-0  Hellas Verona
-  Lazio Roma        2-0  Internazionale
-  Genoa CFC         2-3  AS Roma
-  US Palermo        2-0  Sampdoria
-  Udinese Calcio    1-5  Torino FC
-
+  Juventus                 2-0  Carpi
+  Empoli                   0-0  Bologna FC
+  Palermo                  2-0  UC Sampdoria
+  US Sassuolo Calcio       1-0  Hellas Verona FC
+  AC Milan                 3-3  Frosinone
+  SS Lazio                 2-0  FC Internazionale Milano
+[Lun. 2.5.]
+  Genoa CFC                2-3  AS Roma
+  SSC Napoli               2-1  Atalanta BC
 
 
 37^ Giornata
+[Sab. 7.5.]
+  FC Internazionale Milano  2-1  Empoli
+  Bologna FC               0-1  AC Milan
 [Dom. 8.5.]
-  AS Roma            3-0  Chievo Verona
-  Internazionale     2-1  Empoli FC
-  Sampdoria          0-3  Genoa CFC
-  Hellas Verona      2-1  Juventus
-  Carpi FC           1-3  Lazio Roma
-  Bologna FC         0-1  AC Milan
-  Torino FC          1-2  SSC Napoli
-  Fiorentina         0-0  US Palermo
-  Frosinone Calcio   0-1  Sassuolo Calcio
-  Atalanta           1-1  Udinese Calcio
+  AS Roma                  3-0  AC Chievo Verona
+  Frosinone                0-1  US Sassuolo Calcio
+  ACF Fiorentina           0-0  Palermo
+  UC Sampdoria             0-3  Genoa CFC
+  Carpi                    1-3  SS Lazio
+  Atalanta BC              1-1  Udinese Calcio
+  Torino FC                1-2  SSC Napoli
+  Hellas Verona FC         2-1  Juventus
 
 
 38^ Giornata
+[Sab. 14.5.]
+  Juventus                 5-0  UC Sampdoria
+  SSC Napoli               4-0  Frosinone
+  AC Milan                 1-3  AS Roma
+  US Sassuolo Calcio       3-1  FC Internazionale Milano
 [Dom. 15.5.]
-  Genoa CFC          1-2  Atalanta
-  Chievo Verona      0-0  Bologna FC
-  Udinese Calcio     1-2  Carpi FC
-  Lazio Roma         2-4  Fiorentina
-  SSC Napoli         4-0  Frosinone Calcio
-  US Palermo         3-2  Hellas Verona
-  Sassuolo Calcio    3-1  Internazionale
-  AC Milan           1-3  AS Roma
-  Juventus           5-0  Sampdoria
-  Empoli FC          2-1  Torino FC
-
-
-
-
+  Genoa CFC                1-2  Atalanta BC
+  AC Chievo Verona         0-0  Bologna FC
+  Empoli                   2-1  Torino FC
+  Udinese Calcio           1-2  Carpi
+  Palermo                  3-2  Hellas Verona FC
+  SS Lazio                 2-4  ACF Fiorentina

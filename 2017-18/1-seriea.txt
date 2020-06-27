@@ -1,583 +1,600 @@
 = Italian Serie A 2017/18
 
 
-
 1^ Giornata
 [Sab. 19.8.]
-  Juventus             3-0  Cagliari Calcio
-  Hellas Verona        1-3  SSC Napoli
+  Juventus                 3-0  Cagliari Calcio
+  Hellas Verona FC         1-3  SSC Napoli
 [Dom. 20.8.]
-  Bologna FC           1-1  Torino FC
-  Inter                3-0  ACF Fiorentina
-  Lazio Roma           0-0  SPAL 2013 Ferrara
-  Sampdoria            2-1  Benevento Calcio
-  Sassuolo Calcio      0-0  Genoa CFC
-  Udinese Calcio       1-2  Chievo Verona
-  Atalanta             0-1  AS Roma
-  FC Crotone           0-3  AC Milan
+  Udinese Calcio           1-2  AC Chievo Verona
+  UC Sampdoria             2-1  Benevento
+  Atalanta BC              0-1  AS Roma
+  Bologna FC               1-1  Torino FC
+  SS Lazio                 0-0  SPAL
+  FC Crotone               0-3  AC Milan
+  US Sassuolo Calcio       0-0  Genoa CFC
+  FC Internazionale Milano  3-0  ACF Fiorentina
+
 
 2^ Giornata
 [Sab. 26.8.]
-  Genoa CFC            2-4  Juventus
-  AS Roma              1-3  Inter
-  Benevento Calcio     0-1  Bologna FC
+  Benevento                0-1  Bologna FC
+  Genoa CFC                2-4  Juventus
+  AS Roma                  1-3  FC Internazionale Milano
 [Dom. 27.8.]
-  Torino FC            3-0  Sassuolo Calcio
-  Chievo Verona        1-2  Lazio Roma
-  FC Crotone           0-0  Hellas Verona
-  ACF Fiorentina       1-2  Sampdoria
-  AC Milan             2-1  Cagliari Calcio
-  SSC Napoli           3-1  Atalanta
-  SPAL 2013 Ferrara    3-2  Udinese Calcio
+  SSC Napoli               3-1  Atalanta BC
+  Torino FC                3-0  US Sassuolo Calcio
+  AC Chievo Verona         1-2  SS Lazio
+  FC Crotone               0-0  Hellas Verona FC
+  AC Milan                 2-1  Cagliari Calcio
+  SPAL                     3-2  Udinese Calcio
+  ACF Fiorentina           1-2  UC Sampdoria
+
 
 3^ Giornata
 [Sab. 9.9.]
-  Juventus             3-0  Chievo Verona
-  Sampdoria            1-1  AS Roma
+  Juventus                 3-0  AC Chievo Verona
 [Dom. 10.9.]
-  Atalanta             2-1  Sassuolo Calcio
-  Benevento Calcio     0-1  Torino FC
-  Bologna FC           0-3  SSC Napoli
-  Cagliari Calcio      1-0  FC Crotone
-  Hellas Verona        0-5  ACF Fiorentina
-  Inter                2-0  SPAL 2013 Ferrara
-  Lazio Roma           4-1  AC Milan
-  Udinese Calcio       1-0  Genoa CFC
+  Atalanta BC              2-1  US Sassuolo Calcio
+  Hellas Verona FC         0-5  ACF Fiorentina
+  Cagliari Calcio          1-0  FC Crotone
+  FC Internazionale Milano  2-0  SPAL
+  Bologna FC               0-3  SSC Napoli
+  SS Lazio                 4-1  AC Milan
+  Benevento                0-1  Torino FC
+  Udinese Calcio           1-0  Genoa CFC
+
 
 4^ Giornata
 [Sab. 16.9.]
-  FC Crotone           0-2  Inter
-  ACF Fiorentina       2-1  Bologna FC
-  AS Roma              3-0  Hellas Verona
+  FC Crotone               0-2  FC Internazionale Milano
+  ACF Fiorentina           2-1  Bologna FC
+  AS Roma                  3-0  Hellas Verona FC
 [Dom. 17.9.]
-  Chievo Verona        1-1  Atalanta
-  Genoa CFC            2-3  Lazio Roma
-  AC Milan             2-1  Udinese Calcio
-  SSC Napoli           6-0  Benevento Calcio
-  Sassuolo Calcio      1-3  Juventus
-  SPAL 2013 Ferrara    0-2  Cagliari Calcio
-  Torino FC            2-2  Sampdoria
+  Torino FC                2-2  UC Sampdoria
+  US Sassuolo Calcio       1-3  Juventus
+  SPAL                     0-2  Cagliari Calcio
+  SSC Napoli               6-0  Benevento
+  AC Milan                 2-1  Udinese Calcio
+  AC Chievo Verona         1-1  Atalanta BC
+  Genoa CFC                2-3  SS Lazio
+
 
 5^ Giornata
 [Mar. 19.9.]
-  Bologna FC           1-1  Inter
+  Bologna FC               1-1  FC Internazionale Milano
 [Mer. 20.9.]
-  Atalanta             5-1  FC Crotone
-  Benevento Calcio     0-4  AS Roma
-  Cagliari Calcio      0-1  Sassuolo Calcio
-  Genoa CFC            1-1  Chievo Verona
-  Hellas Verona        0-0  Sampdoria
-  Juventus             1-0  ACF Fiorentina
-  Lazio Roma           1-4  SSC Napoli
-  AC Milan             2-0  SPAL 2013 Ferrara
-  Udinese Calcio       2-3  Torino FC
+  Udinese Calcio           2-3  Torino FC
+  Juventus                 1-0  ACF Fiorentina
+  Cagliari Calcio          0-1  US Sassuolo Calcio
+  Genoa CFC                1-1  AC Chievo Verona
+  Hellas Verona FC         0-0  UC Sampdoria
+  AC Milan                 2-0  SPAL
+  SS Lazio                 1-4  SSC Napoli
+  Atalanta BC              5-1  FC Crotone
+  Benevento                0-4  AS Roma
+
 
 6^ Giornata
 [Sab. 23.9.]
-  SPAL 2013 Ferrara    2-3  SSC Napoli
-  Juventus             4-0  Torino FC
-  AS Roma              3-1  Udinese Calcio
+  Juventus                 4-0  Torino FC
+  SPAL                     2-3  SSC Napoli
+  AS Roma                  3-1  Udinese Calcio
 [Dom. 24.9.]
-  Cagliari Calcio      0-2  Chievo Verona
-  FC Crotone           2-0  Benevento Calcio
-  ACF Fiorentina       1-1  Atalanta
-  Hellas Verona        0-3  Lazio Roma
-  Sampdoria            2-0  AC Milan
-  Sassuolo Calcio      0-1  Bologna FC
-  Inter                1-0  Genoa CFC
+  UC Sampdoria             2-0  AC Milan
+  Cagliari Calcio          0-2  AC Chievo Verona
+  Hellas Verona FC         0-3  SS Lazio
+  FC Internazionale Milano  1-0  Genoa CFC
+  ACF Fiorentina           1-1  Atalanta BC
+  US Sassuolo Calcio       0-1  Bologna FC
+  FC Crotone               2-0  Benevento
+
 
 7^ Giornata
 [Sab. 30.9.]
-  Udinese Calcio       4-0  Sampdoria
-  Genoa CFC            0-1  Bologna FC
+  Udinese Calcio           4-0  UC Sampdoria
+  Genoa CFC                0-1  Bologna FC
 [Dom. 1.10.]
-  Atalanta             2-2  Juventus
-  Benevento Calcio     1-2  Inter
-  Chievo Verona        2-1  ACF Fiorentina
-  Lazio Roma           6-1  Sassuolo Calcio
-  AC Milan             0-2  AS Roma
-  SSC Napoli           3-0  Cagliari Calcio
-  SPAL 2013 Ferrara    1-1  FC Crotone
-  Torino FC            2-2  Hellas Verona
+  SSC Napoli               3-0  Cagliari Calcio
+  SPAL                     1-1  FC Crotone
+  SS Lazio                 6-1  US Sassuolo Calcio
+  Atalanta BC              2-2  Juventus
+  Benevento                1-2  FC Internazionale Milano
+  AC Chievo Verona         2-1  ACF Fiorentina
+  AC Milan                 0-2  AS Roma
+  Torino FC                2-2  Hellas Verona FC
 
 
 8^ Giornata
 [Sab. 14.10.]
-  Juventus             1-2  Lazio Roma
-  AS Roma              0-1  SSC Napoli
+  Juventus                 1-2  SS Lazio
+  AS Roma                  0-1  SSC Napoli
 [Dom. 15.10.]
-  Bologna FC           2-1  SPAL 2013 Ferrara
-  Cagliari Calcio      2-3  Genoa CFC
-  FC Crotone           2-2  Torino FC
-  ACF Fiorentina       2-1  Udinese Calcio
-  Inter                3-2  AC Milan
-  Sampdoria            3-1  Atalanta
-  Sassuolo Calcio      0-0  Chievo Verona
+  Bologna FC               2-1  SPAL
+  FC Crotone               2-2  Torino FC
+  ACF Fiorentina           2-1  Udinese Calcio
+  UC Sampdoria             3-1  Atalanta BC
+  FC Internazionale Milano  3-2  AC Milan
+  US Sassuolo Calcio       0-0  AC Chievo Verona
+  Cagliari Calcio          2-3  Genoa CFC
 [Lun. 16.10.]
-  Hellas Verona        1-0  Benevento Calcio
+  Hellas Verona FC         1-0  Benevento
+
 
 9^ Giornata
 [Sab. 21.10.]
-  SSC Napoli           0-0  Inter
-  Sampdoria            5-0  FC Crotone
+  UC Sampdoria             5-0  FC Crotone
+  SSC Napoli               0-0  FC Internazionale Milano
 [Dom. 22.10.]
-  Atalanta             1-0  Bologna FC
-  Benevento Calcio     0-3  ACF Fiorentina
-  Chievo Verona        3-2  Hellas Verona
-  Lazio Roma           3-0  Cagliari Calcio
-  AC Milan             0-0  Genoa CFC
-  SPAL 2013 Ferrara    0-1  Sassuolo Calcio
-  Torino FC            0-1  AS Roma
-  Udinese Calcio       2-6  Juventus
+  Torino FC                0-1  AS Roma
+  SPAL                     0-1  US Sassuolo Calcio
+  AC Chievo Verona         3-2  Hellas Verona FC
+  Benevento                0-3  ACF Fiorentina
+  Atalanta BC              1-0  Bologna FC
+  AC Milan                 0-0  Genoa CFC
+  Udinese Calcio           2-6  Juventus
+  SS Lazio                 3-0  Cagliari Calcio
+
 
 10^ Giornata
 [Mar. 24.10.]
-  Inter                3-2  Sampdoria
+  FC Internazionale Milano  3-2  UC Sampdoria
 [Mer. 25.10.]
-  Atalanta             3-0  Hellas Verona
-  Bologna FC           1-2  Lazio Roma
-  Cagliari Calcio      2-1  Benevento Calcio
-  Chievo Verona        1-4  AC Milan
-  ACF Fiorentina       3-0  Torino FC
-  Genoa CFC            2-3  SSC Napoli
-  Juventus             4-1  SPAL 2013 Ferrara
-  AS Roma              1-0  FC Crotone
-  Sassuolo Calcio      0-1  Udinese Calcio
+  Genoa CFC                2-3  SSC Napoli
+  ACF Fiorentina           3-0  Torino FC
+  Cagliari Calcio          2-1  Benevento
+  Atalanta BC              3-0  Hellas Verona FC
+  US Sassuolo Calcio       0-1  Udinese Calcio
+  Bologna FC               1-2  SS Lazio
+  Juventus                 4-1  SPAL
+  AS Roma                  1-0  FC Crotone
+  AC Chievo Verona         1-4  AC Milan
+
 
 11^ Giornata
 [Sab. 28.10.]
-  AC Milan             0-2  Juventus
-  AS Roma              1-0  Bologna FC
+  AC Milan                 0-2  Juventus
+  AS Roma                  1-0  Bologna FC
 [Dom. 29.10.]
-  Benevento Calcio     1-5  Lazio Roma
-  FC Crotone           2-1  ACF Fiorentina
-  SSC Napoli           3-1  Sassuolo Calcio
-  Sampdoria            4-1  Chievo Verona
-  SPAL 2013 Ferrara    1-0  Genoa CFC
-  Torino FC            2-1  Cagliari Calcio
-  Udinese Calcio       2-1  Atalanta
+  SPAL                     1-0  Genoa CFC
+  UC Sampdoria             4-1  AC Chievo Verona
+  Benevento                1-5  SS Lazio
+  Udinese Calcio           2-1  Atalanta BC
+  SSC Napoli               3-1  US Sassuolo Calcio
+  FC Crotone               2-1  ACF Fiorentina
+  Torino FC                2-1  Cagliari Calcio
 [Lun. 30.10.]
-  Hellas Verona        1-2  Inter
+  Hellas Verona FC         1-2  FC Internazionale Milano
+
 
 12^ Giornata
 [Sab. 4.11.]
-  Bologna FC           2-3  FC Crotone
-  Genoa CFC            0-2  Sampdoria
+  Bologna FC               2-3  FC Crotone
+  Genoa CFC                0-2  UC Sampdoria
 [Dom. 5.11.]
-  Atalanta             1-1  SPAL 2013 Ferrara
-  Cagliari Calcio      2-1  Hellas Verona
-  Chievo Verona        0-0  SSC Napoli
-  ACF Fiorentina       2-4  AS Roma
-  Inter                1-1  Torino FC
-  Juventus             2-1  Benevento Calcio
-  Lazio Roma           3-0  Udinese Calcio
-  Sassuolo Calcio      0-2  AC Milan
+  ACF Fiorentina           2-4  AS Roma
+  US Sassuolo Calcio       0-2  AC Milan
+  FC Internazionale Milano  1-1  Torino FC
+  Cagliari Calcio          2-1  Hellas Verona FC
+  Juventus                 2-1  Benevento
+  Atalanta BC              1-1  SPAL
+  AC Chievo Verona         0-0  SSC Napoli
+
 
 13^ Giornata
 [Sab. 18.11.]
-  SSC Napoli           2-1  AC Milan
-  AS Roma              2-1  Lazio Roma
+  AS Roma                  2-1  SS Lazio
+  SSC Napoli               2-1  AC Milan
 [Dom. 19.11.]
-  Benevento Calcio     1-2  Sassuolo Calcio
-  FC Crotone           0-1  Genoa CFC
-  Inter                2-0  Atalanta
-  Sampdoria            3-2  Juventus
-  SPAL 2013 Ferrara    1-1  ACF Fiorentina
-  Torino FC            1-1  Chievo Verona
-  Udinese Calcio       0-1  Cagliari Calcio
+  Benevento                1-2  US Sassuolo Calcio
+  SPAL                     1-1  ACF Fiorentina
+  FC Crotone               0-1  Genoa CFC
+  Torino FC                1-1  AC Chievo Verona
+  FC Internazionale Milano  2-0  Atalanta BC
+  Udinese Calcio           0-1  Cagliari Calcio
+  UC Sampdoria             3-2  Juventus
 [Lun. 20.11.]
-  Hellas Verona        2-3  Bologna FC
+  Hellas Verona FC         2-3  Bologna FC
+
 
 14^ Giornata
 [Sab. 25.11.]
-  Bologna FC           3-0  Sampdoria
-  Cagliari Calcio      1-3  Inter
-  Chievo Verona        2-1  SPAL 2013 Ferrara
-  Sassuolo Calcio      0-2  Hellas Verona
+  Bologna FC               3-0  UC Sampdoria
+  US Sassuolo Calcio       0-2  Hellas Verona FC
+  AC Chievo Verona         2-1  SPAL
+  Cagliari Calcio          1-3  FC Internazionale Milano
 [Dom. 26.11.]
-  Genoa CFC            1-1  AS Roma
-  Juventus             3-0  FC Crotone
-  Lazio Roma           1-1  ACF Fiorentina
-  AC Milan             0-0  Torino FC
-  Udinese Calcio       0-1  SSC Napoli
+  Genoa CFC                1-1  AS Roma
+  Juventus                 3-0  FC Crotone
+  AC Milan                 0-0  Torino FC
+  SS Lazio                 1-1  ACF Fiorentina
+  Udinese Calcio           0-1  SSC Napoli
 [Lun. 27.11.]
-  Atalanta             1-0  Benevento Calcio
+  Atalanta BC              1-0  Benevento
+
 
 15^ Giornata
 [Ven. 1.12.]
-  SSC Napoli           0-1  Juventus
-  AS Roma              3-1  SPAL 2013 Ferrara
+  SSC Napoli               0-1  Juventus
+  AS Roma                  3-1  SPAL
 [Sab. 2.12.]
-  Torino FC            1-1  Atalanta
+  Torino FC                1-1  Atalanta BC
 [Dom. 3.12.]
-  Benevento Calcio     2-2  AC Milan
-  Bologna FC           1-1  Cagliari Calcio
-  ACF Fiorentina       3-0  Sassuolo Calcio
-  Inter                5-0  Chievo Verona
-  Sampdoria            1-2  Lazio Roma
+  Benevento                2-2  AC Milan
+  FC Internazionale Milano  5-0  AC Chievo Verona
+  ACF Fiorentina           3-0  US Sassuolo Calcio
+  UC Sampdoria             1-2  SS Lazio
+  Bologna FC               1-1  Cagliari Calcio
 [Lun. 4.12.]
-  FC Crotone           0-3  Udinese Calcio
-  Hellas Verona        0-1  Genoa CFC
+  FC Crotone               0-3  Udinese Calcio
+  Hellas Verona FC         0-1  Genoa CFC
+
 
 16^ Giornata
 [Sab. 9.12.]
-  Cagliari Calcio      2-2  Sampdoria
-  Juventus             0-0  Inter
+  Juventus                 0-0  FC Internazionale Milano
+  Cagliari Calcio          2-2  UC Sampdoria
 [Dom. 10.12.]
-  Chievo Verona        0-0  AS Roma
-  AC Milan             2-1  Bologna FC
-  SSC Napoli           0-0  ACF Fiorentina
-  Sassuolo Calcio      2-1  FC Crotone
-  SPAL 2013 Ferrara    2-2  Hellas Verona
-  Udinese Calcio       2-0  Benevento Calcio
+  AC Chievo Verona         0-0  AS Roma
+  SSC Napoli               0-0  ACF Fiorentina
+  Udinese Calcio           2-0  Benevento
+  SPAL                     2-2  Hellas Verona FC
+  US Sassuolo Calcio       2-1  FC Crotone
+  AC Milan                 2-1  Bologna FC
 [Lun. 11.12.]
- Lazio Roma            1-3  Torino FC
+  SS Lazio                 1-3  Torino FC
 [Mar. 12.12.]
-  Genoa CFC            1-2  Atalanta
+  Genoa CFC                1-2  Atalanta BC
+
 
 17^ Giornata
 [Sab. 16.12.]
-  Inter                1-3  Udinese Calcio
-  AS Roma              1-0  Cagliari Calcio
-  Torino FC            1-3  SSC Napoli
+  AS Roma                  1-0  Cagliari Calcio
+  Torino FC                1-3  SSC Napoli
+  FC Internazionale Milano  1-3  Udinese Calcio
 [Dom. 17.12.]
-  Atalanta             3-3  Lazio Roma
-  Benevento Calcio     1-2  SPAL 2013 Ferrara
-  Bologna FC           0-3  Juventus
-  FC Crotone           1-0  Chievo Verona
-  ACF Fiorentina       0-0  Genoa CFC
-  Hellas Verona        3-0  AC Milan
-  Sampdoria            0-1  Sassuolo Calcio
+  Hellas Verona FC         3-0  AC Milan
+  FC Crotone               1-0  AC Chievo Verona
+  Atalanta BC              3-3  SS Lazio
+  ACF Fiorentina           0-0  Genoa CFC
+  Bologna FC               0-3  Juventus
+  Benevento                1-2  SPAL
+  UC Sampdoria             0-1  US Sassuolo Calcio
 
 
 18^ Giornata
 [Ven. 22.12.]
-  Cagliari Calcio      0-1  ACF Fiorentina
-  Chievo Verona        2-3  Bologna FC
+  AC Chievo Verona         2-3  Bologna FC
+  Cagliari Calcio          0-1  ACF Fiorentina
 [Sab. 23.12.]
-  Genoa CFC            1-0  Benevento Calcio
-  Juventus             1-0  AS Roma
-  Lazio Roma           4-0  FC Crotone
-  AC Milan             0-2  Atalanta
-  SSC Napoli           3-2  Sampdoria
-  Sassuolo Calcio      1-0  Inter
-  SPAL 2013 Ferrara    2-2  Torino FC
-  Udinese Calcio       4-0  Hellas Verona
+  Genoa CFC                1-0  Benevento
+  US Sassuolo Calcio       1-0  FC Internazionale Milano
+  SS Lazio                 4-0  FC Crotone
+  Juventus                 1-0  AS Roma
+  SSC Napoli               3-2  UC Sampdoria
+  Udinese Calcio           4-0  Hellas Verona FC
+  AC Milan                 0-2  Atalanta BC
+  SPAL                     2-2  Torino FC
+
 
 19^ Giornata
 [Ven. 29.12.]
-  FC Crotone           0-1  SSC Napoli
+  FC Crotone               0-1  SSC Napoli
 [Sab. 30.12.]
-  Atalanta             1-2  Cagliari Calcio
-  Benevento Calcio     1-0  Chievo Verona
-  Bologna FC           1-2  Udinese Calcio
-  ACF Fiorentina       1-1  AC Milan
-  Hellas Verona        1-3  Juventus
-  Inter                0-0  Lazio Roma
-  AS Roma              1-1  Sassuolo Calcio
-  Sampdoria            2-0  SPAL 2013 Ferrara
-  Torino FC            0-0  Genoa CFC
+  ACF Fiorentina           1-1  AC Milan
+  AS Roma                  1-1  US Sassuolo Calcio
+  Bologna FC               1-2  Udinese Calcio
+  UC Sampdoria             2-0  SPAL
+  Benevento                1-0  AC Chievo Verona
+  Torino FC                0-0  Genoa CFC
+  Atalanta BC              1-2  Cagliari Calcio
+  FC Internazionale Milano  0-0  SS Lazio
+  Hellas Verona FC         1-3  Juventus
 
 
 20^ Giornata
 [Ven. 5.1.]
-  Chievo Verona        1-1  Udinese Calcio
-  ACF Fiorentina       1-1  Inter
+  AC Chievo Verona         1-1  Udinese Calcio
+  ACF Fiorentina           1-1  FC Internazionale Milano
 [Sab. 6.1.]
-  AS Roma              1-2  Atalanta
-  Torino FC            3-0  Bologna FC
-  AC Milan             1-0  FC Crotone
-  SSC Napoli           2-0  Hellas Verona
-  Cagliari Calcio      0-1  Juventus
-  SPAL 2013 Ferrara    2-5  Lazio Roma
-  Benevento Calcio     2-1  Sampdoria
-  Genoa CFC            1-0  Sassuolo Calcio
-
-
-
-#  Winterpause bis 21.1.18
+  AC Milan                 1-0  FC Crotone
+  Benevento                3-2  UC Sampdoria
+  Cagliari Calcio          0-1  Juventus
+  SPAL                     2-5  SS Lazio
+  SSC Napoli               2-0  Hellas Verona FC
+  Genoa CFC                1-0  US Sassuolo Calcio
+  AS Roma                  1-2  Atalanta BC
+  Torino FC                3-0  Bologna FC
 
 
 21^ Giornata
 [Dom. 21.1.]
-  Bologna FC          3-0  Benevento Calcio
-  Lazio Roma          5-1  Chievo Verona
-  Hellas Verona       0-3  FC Crotone
-  Sampdoria           3-1  ACF Fiorentina
-  Cagliari Calcio     1-2  AC Milan
-  Atalanta            0-1  SSC Napoli
-  Inter               1-1  AS Roma
-  Udinese Calcio      1-1  SPAL 2013 Ferrara
-  Sassuolo Calcio     1-1  Torino FC
+  Atalanta BC              0-1  SSC Napoli
+  UC Sampdoria             3-1  ACF Fiorentina
+  US Sassuolo Calcio       1-1  Torino FC
+  Udinese Calcio           1-1  SPAL
+  SS Lazio                 5-1  AC Chievo Verona
+  FC Internazionale Milano  1-1  AS Roma
+  Hellas Verona FC         0-3  FC Crotone
+  Cagliari Calcio          1-2  AC Milan
+  Bologna FC               3-0  Benevento
 [Lun. 22.1.]
-  Juventus            1-0  Genoa CFC
+  Juventus                 1-0  Genoa CFC
 
-## completamento 12^ Giornata
+
+3^ Giornata
 [Mer. 24.1.]
-  Lazio Roma          3-0  Udinese Calcio
-## completamento 3^ Giornata
+  UC Sampdoria             1-1  AS Roma
+
+
+12^ Giornata
 [Mer. 24.1.]
-  Sampdoria           1-1  AS Roma
+  SS Lazio                 3-0  Udinese Calcio
+
 
 22^ Giornata
 [Sab. 27.1.]
-  Sassuolo Calcio     0-3  Atalanta
-  Chievo Verona       0-2  Juventus
+  US Sassuolo Calcio       0-3  Atalanta BC
+  AC Chievo Verona         0-2  Juventus
 [Dom. 28.1.]
-  Torino FC           3-0  Benevento Calcio
-  SSC Napoli          3-1  Bologna FC
-  FC Crotone          1-1  Cagliari Calcio
-  ACF Fiorentina      1-4  Hellas Verona
-  SPAL 2013 Ferrara   1-1  Inter
-  AC Milan            2-1  Lazio Roma
-  AS Roma             0-1  Sampdoria
-  Genoa CFC           0-1  Udinese Calcio
+  Genoa CFC                0-1  Udinese Calcio
+  AS Roma                  0-1  UC Sampdoria
+  SPAL                     1-1  FC Internazionale Milano
+  FC Crotone               1-1  Cagliari Calcio
+  Torino FC                3-0  Benevento
+  ACF Fiorentina           1-4  Hellas Verona FC
+  AC Milan                 2-1  SS Lazio
+  SSC Napoli               3-1  Bologna FC
+
 
 23^ Giornata
 [Sab. 3.2.]
-  Sampdoria           1-1  Torino FC
-  Inter               1-1  FC Crotone
+  UC Sampdoria             1-1  Torino FC
+  FC Internazionale Milano  1-1  FC Crotone
 [Dom. 4.2.]
-  Atalanta            1-0  Chievo Verona
-  Bologna FC          1-2  ACF Fiorentina
-  Udinese Calcio      1-1  AC Milan
-  Benevento Calcio    0-2  SSC Napoli
-  Hellas Verona       0-1  AS Roma
-  Juventus            7-0  Sassuolo Calcio
-  Cagliari Calcio     2-0  SPAL 2013 Ferrara
+  Atalanta BC              1-0  AC Chievo Verona
+  Benevento                0-2  SSC Napoli
+  Hellas Verona FC         0-1  AS Roma
+  Bologna FC               1-2  ACF Fiorentina
+  Juventus                 7-0  US Sassuolo Calcio
+  Cagliari Calcio          2-0  SPAL
+  Udinese Calcio           1-1  AC Milan
 [Lun. 5.2.]
-  Lazio Roma          1-2  Genoa CFC
+  SS Lazio                 1-2  Genoa CFC
+
 
 24^ Giornata
 [Ven. 9.2.]
-  ACF Fiorentina      0-2  Juventus
+  ACF Fiorentina           0-2  Juventus
 [Sab. 10.2.]
-  SSC Napoli          4-1  Lazio Roma
-  SPAL 2013 Ferrara   0-4  AC Milan
-  FC Crotone          1-1  Atalanta
+  SPAL                     0-4  AC Milan
+  FC Crotone               1-1  Atalanta BC
+  SSC Napoli               4-1  SS Lazio
 [Dom. 11.2.]
-  AS Roma             5-2  Benevento Calcio
-  Inter               2-1  Bologna FC
-  Sassuolo Calcio     0-0  Cagliari Calcio
-  Chievo Verona       0-1  Genoa CFC
-  Sampdoria           2-0  Hellas Verona
-  Torino FC           2-0  Udinese Calcio
+  US Sassuolo Calcio       0-0  Cagliari Calcio
+  FC Internazionale Milano  2-1  Bologna FC
+  UC Sampdoria             2-0  Hellas Verona FC
+  Torino FC                2-0  Udinese Calcio
+  AS Roma                  5-2  Benevento
+  AC Chievo Verona         0-1  Genoa CFC
+
 
 25^ Giornata
 [Sab. 17.2.]
-  Chievo Verona       2-1  Cagliari Calcio
-  Udinese Calcio      0-2  AS Roma
-  Genoa CFC           2-0  Inter
+  Udinese Calcio           0-2  AS Roma
+  AC Chievo Verona         2-1  Cagliari Calcio
+  Genoa CFC                2-0  FC Internazionale Milano
 [Dom. 18.2.]
-  Benevento Calcio    3-2  FC Crotone
-  Atalanta            1-1  ACF Fiorentina
-  Torino FC           0-1  Juventus
-  AC Milan            1-0  Sampdoria
-  Bologna FC          2-1  Sassuolo Calcio
-  SSC Napoli          1-0  SPAL 2013 Ferrara
+  SSC Napoli               1-0  SPAL
+  Torino FC                0-1  Juventus
+  AC Milan                 1-0  UC Sampdoria
+  Benevento                3-2  FC Crotone
+  Atalanta BC              1-1  ACF Fiorentina
+  Bologna FC               2-1  US Sassuolo Calcio
 [Lun. 19.2.]
-  Lazio Roma          2-0  Hellas Verona
+  SS Lazio                 2-0  Hellas Verona FC
+
 
 26^ Giornata
 [Sab. 24.2.]
-  Inter               2-0  Benevento Calcio
-  Bologna FC          2-0  Genoa CFC
+  Bologna FC               2-0  Genoa CFC
+  FC Internazionale Milano  2-0  Benevento
 [Dom. 25.2.]
-  Juventus            2-0  Atalanta
-  ACF Fiorentina      1-0  Chievo Verona
-  Sassuolo Calcio     0-3  Lazio Roma
-  AS Roma             0-2  AC Milan
-  FC Crotone          2-3  SPAL 2013 Ferrara
-  Hellas Verona       2-1  Torino FC
-  Sampdoria           2-1  Udinese Calcio
+  Hellas Verona FC         2-1  Torino FC
+  FC Crotone               2-3  SPAL
+  US Sassuolo Calcio       0-3  SS Lazio
+  AS Roma                  0-2  AC Milan
+  UC Sampdoria             2-1  Udinese Calcio
+  ACF Fiorentina           1-0  AC Chievo Verona
 [Lun. 26.2.]
-  Cagliari Calcio     0-5  SSC Napoli
+  Cagliari Calcio          0-5  SSC Napoli
+
 
 27^ Giornata
 [Sab. 3.3.]
-  Lazio Roma          0-1  Juventus
-  SSC Napoli          2-4  AS Roma
-  SPAL 2013 Ferrara   1-0  Bologna FC
-[Dom. 4.3.]
-  Genoa CFC           2-1  Cagliari Calcio
-  Torino FC           4-1  FC Crotone
-  Udinese Calcio      0-2  ACF Fiorentina
-  Benevento Calcio    3-0  Hellas Verona
-  AC Milan            0-0  Inter
-  Atalanta            1-2  Sampdoria
-  Chievo Verona       1-1  Sassuolo Calcio
+  SPAL                     1-0  Bologna FC
+  SSC Napoli               2-4  AS Roma
+  SS Lazio                 0-1  Juventus
+
 
 28^ Giornata
-[Vie. 9.3.]
-  AS Roma             3-0  Torino FC
+[Ven. 9.3.]
+  AS Roma                  3-0  Torino FC
 [Sab. 10.3.]
-  Hellas Verona       1-0  Chievo Verona
+  Hellas Verona FC         1-0  AC Chievo Verona
 [Dom. 11.3.]
-  Bologna FC          0-1  Atalanta
-  ACF Fiorentina      1-0  Benevento Calcio
-  Cagliari Calcio     2-2  Lazio Roma
-  Genoa CFC           0-1  AC Milan
-  Inter               0-0  SSC Napoli
-  FC Crotone          4-1  Sampdoria
-  Sassuolo Calcio     1-1  SPAL 2013 Ferrara
-  Juventus            2-0  Udinese Calcio
+  Juventus                 2-0  Udinese Calcio
+  FC Crotone               4-1  UC Sampdoria
+  ACF Fiorentina           1-0  Benevento
+  Bologna FC               0-1  Atalanta BC
+  US Sassuolo Calcio       1-1  SPAL
+  Cagliari Calcio          2-2  SS Lazio
+  FC Internazionale Milano  0-0  SSC Napoli
+  Genoa CFC                0-1  AC Milan
 
-## completamento 26^ Giornata
+
+26^ Giornata
 [Mer. 14.3.]
-  Juventus            2-0  Atalanta
+  Juventus                 2-0  Atalanta BC
+
 
 29^ Giornata
 [Sab. 17.3.]
-  Udinese Calcio      1-2  Sassuolo Calcio
-  SPAL 2013 Ferrara   0-0  Juventus
+  Udinese Calcio           1-2  US Sassuolo Calcio
+  SPAL                     0-0  Juventus
 [Dom. 18.3.]
-  Benevento Calcio    1-2  Cagliari Calcio
-  Hellas Verona       0-5  Atalanta
-  Lazio Roma          1-1  Bologna FC
-  AC Milan            3-2  Chievo Verona
-  Torino FC           1-2  ACF Fiorentina
-  SSC Napoli          1-0  Genoa CFC
-  Sampdoria           0-5  Inter
-  FC Crotone          0-2  AS Roma
+  AC Milan                 3-2  AC Chievo Verona
+  Torino FC                1-2  ACF Fiorentina
+  UC Sampdoria             0-5  FC Internazionale Milano
+  Hellas Verona FC         0-5  Atalanta BC
+  FC Crotone               0-2  AS Roma
+  Benevento                1-2  Cagliari Calcio
+  SS Lazio                 1-1  Bologna FC
+  SSC Napoli               1-0  Genoa CFC
+
 
 30^ Giornata
 [Sab. 31.3.]
-  Lazio Roma          6-2  Benevento Calcio
-  ACF Fiorentina      2-0  FC Crotone
-  Inter               3-0  Hellas Verona
-  Juventus            3-1  AC Milan
-  Sassuolo Calcio     1-1  SSC Napoli
-  Bologna FC          1-1  AS Roma
-  Chievo Verona       2-1  Sampdoria
-  Genoa CFC           1-1  SPAL 2013 Ferrara
-  Cagliari Calcio     0-4  Torino FC
-  Atalanta            2-0  Udinese Calcio
+  Bologna FC               1-1  AS Roma
+  SS Lazio                 6-2  Benevento
+  Cagliari Calcio          0-4  Torino FC
+  FC Internazionale Milano  3-0  Hellas Verona FC
+  Genoa CFC                1-1  SPAL
+  ACF Fiorentina           2-0  FC Crotone
+  Juventus                 3-1  AC Milan
+  AC Chievo Verona         2-1  UC Sampdoria
+  US Sassuolo Calcio       1-1  SSC Napoli
+  Atalanta BC              2-0  Udinese Calcio
 
-## completamento 27^Giornata
-[Mer. 3.4.]
-   Genoa CFC          2-1  Cagliari Calcio
-   Udinese Calcio     0-2  ACF Fiorentina
-   Atalanta           1-2  Sampdoria
-[Gio. 4.4.]
-  Torino FC           4-1  FC Crotone
-  Benevento Calcio    3-0  Hellas Verona
-  Chievo Verona       1-1  Sassuolo Calcio
-  AC Milan            0-0  Inter
+
+27^ Giornata
+[Mar. 3.4.]
+  Genoa CFC                2-1  Cagliari Calcio
+  Atalanta BC              1-2  UC Sampdoria
+  Udinese Calcio           0-2  ACF Fiorentina
+[Mer. 4.4.]
+  Benevento                3-0  Hellas Verona FC
+  Torino FC                4-1  FC Crotone
+  AC Chievo Verona         1-1  US Sassuolo Calcio
+  AC Milan                 0-0  FC Internazionale Milano
+
 
 31^ Giornata
 [Sab. 7.4.]
-  AS Roma             0-2  ACF Fiorentina
-  Sampdoria           0-0  Genoa CFC
-  SPAL 2013 Ferrara   1-1  Atalanta
-  Benevento Calcio    2-4  Juventus
+  Benevento                2-4  Juventus
+  UC Sampdoria             0-0  Genoa CFC
+  AS Roma                  0-2  ACF Fiorentina
+  SPAL                     1-1  Atalanta BC
 [Dom. 8.4.]
-  FC Crotone          1-0  Bologna FC
-  Hellas Verona       1-0  Cagliari Calcio
-  SSC Napoli          2-1  Chievo Verona
-  Torino FC           1-0  Inter
-  Udinese Calcio      1-2  Lazio Roma
-  AC Milan            1-1  Sassuolo Calcio
+  Torino FC                1-0  FC Internazionale Milano
+  FC Crotone               1-0  Bologna FC
+  AC Milan                 1-1  US Sassuolo Calcio
+  Hellas Verona FC         1-0  Cagliari Calcio
+  Udinese Calcio           1-2  SS Lazio
+  SSC Napoli               2-1  AC Chievo Verona
+
 
 32^ Giornata
-[Sab. 14.4]
-  Chievo Verona       0-0  Torino FC
-  Cagliari Calcio     2-1  Udinese Calcio
-  Genoa CFC           1-0  FC Crotone
-  Atalanta            0-0  Inter
+[Sab. 14.4.]
+  Cagliari Calcio          2-1  Udinese Calcio
+  AC Chievo Verona         0-0  Torino FC
+  Genoa CFC                1-0  FC Crotone
+  Atalanta BC              0-0  FC Internazionale Milano
 [Dom. 15.4.]
-  Sassuolo Calcio     2-2  Benevento Calcio
-  Bologna FC          2-0  Hellas Verona
-  AC Milan            0-0  SSC Napoli
-  Lazio Roma          0-0  AS Roma
-  Juventus            3-0  Sampdoria
-  ACF Fiorentina      0-0  SPAL 2013 Ferrara
+  ACF Fiorentina           0-0  SPAL
+  SS Lazio                 0-0  AS Roma
+  US Sassuolo Calcio       2-2  Benevento
+  AC Milan                 0-0  SSC Napoli
+  Juventus                 3-0  UC Sampdoria
+  Bologna FC               2-0  Hellas Verona FC
 
 
 33^ Giornata
 [Mar. 17.4.]
-  Inter               4-0  Cagliari Calcio
+  FC Internazionale Milano  4-0  Cagliari Calcio
 [Mer. 18.4.]
-  Benevento Calcio    0-3  Atalanta
-  Sampdoria           1-0  Bologna FC
-  SPAL 2013 Ferrara   0-0  Chievo Verona
-  AS Roma             2-1  Genoa CFC
-  FC Crotone          1-1  Juventus
-  ACF Fiorentina      3-4  Lazio Roma
-  Torino FC           1-1  AC Milan
-  Hellas Verona       0-1  Sassuolo Calcio
-  SSC Napoli          4-2  Udinese Calcio
+  Benevento                0-3  Atalanta BC
+  Torino FC                1-1  AC Milan
+  AS Roma                  2-1  Genoa CFC
+  SSC Napoli               4-2  Udinese Calcio
+  UC Sampdoria             1-0  Bologna FC
+  FC Crotone               1-1  Juventus
+  Hellas Verona FC         0-1  US Sassuolo Calcio
+  ACF Fiorentina           3-4  SS Lazio
+  SPAL                     0-0  AC Chievo Verona
+
 
 34^ Giornata
 [Sab. 21.4.]
-  SPAL 2013 Ferrara   0-3  AS Roma
-  Sassuolo Calcio     1-0  ACF Fiorentina
-  AC Milan            0-1  Benevento Calcio
+  SPAL                     0-3  AS Roma
+  US Sassuolo Calcio       1-0  ACF Fiorentina
+  AC Milan                 0-1  Benevento
 [Dom. 22.4.]
-  Cagliari Calcio     0-0  Bologna FC
-  Udinese Calcio      1-2  FC Crotone
-  Chievo Verona       1-2  Inter
-  Juventus            0-1  SSC Napoli
-  Lazio Roma          4-0  Sampdoria
-  Atalanta            2-1  Torino FC
+  Atalanta BC              2-1  Torino FC
+  Cagliari Calcio          0-0  Bologna FC
+  AC Chievo Verona         1-2  FC Internazionale Milano
+  Juventus                 0-1  SSC Napoli
+  SS Lazio                 4-0  UC Sampdoria
+  Udinese Calcio           1-2  FC Crotone
 [Lun. 23.4.]
-  Genoa CFC           3-1  Hellas Verona
+  Genoa CFC                3-1  Hellas Verona FC
 
 
 35^ Giornata
 [Sab. 28.4.]
-  AS Roma             4-1  Chievo Verona
-  Inter               2-3  Juventus
+  AS Roma                  4-1  AC Chievo Verona
+  FC Internazionale Milano  2-3  Juventus
 [Dom. 29.4.]
-  FC Crotone          4-1  Sassuolo Calcio
-  Sampdoria           4-1  Cagliari Calcio
-  Atalanta            3-1  Genoa CFC
-  Torino FC           0-1  Lazio Roma
-  Bologna FC          1-2  AC Milan
-  ACF Fiorentina      3-0  SSC Napoli
-  Hellas Verona       1-3  SPAL 2013 Ferrara
-  Benevento Calcio    3-3  Udinese Calcio
+  Benevento                3-3  Udinese Calcio
+  Atalanta BC              3-1  Genoa CFC
+  FC Crotone               4-1  US Sassuolo Calcio
+  UC Sampdoria             4-1  Cagliari Calcio
+  Bologna FC               1-2  AC Milan
+  Hellas Verona FC         1-3  SPAL
+  ACF Fiorentina           3-0  SSC Napoli
+  Torino FC                0-1  SS Lazio
 
 
 36^ Giornata
-[Sab. 5.5]
-  AC Milan            4-1  Hellas Verona
-  Juventus            3-1  Bologna FC
+[Sab. 5.5.]
+  AC Milan                 4-1  Hellas Verona FC
+  Juventus                 3-1  Bologna FC
 [Dom. 6.5.]
-  Lazio Roma          1-1  Atalanta
-  SPAL 2013 Ferrara   2-0  Benevento Calcio
-  Chievo Verona       2-1  FC Crotone
-  Genoa CFC           2-3  ACF Fiorentina
-  Udinese Calcio      0-4  Inter
-  Cagliari Calcio     0-1  AS Roma
-  Sassuolo Calcio     1-0  Sampdoria
-  SSC Napoli          2-2  Torino FC
+  SS Lazio                 1-1  Atalanta BC
+  Genoa CFC                2-3  ACF Fiorentina
+  Udinese Calcio           0-4  FC Internazionale Milano
+  SSC Napoli               2-2  Torino FC
+  SPAL                     2-0  Benevento
+  AC Chievo Verona         2-1  FC Crotone
+  US Sassuolo Calcio       1-0  UC Sampdoria
+  Cagliari Calcio          0-1  AS Roma
 
 
 37^ Giornata
 [Sab. 12.5.]
-  Inter               1-2  Sassuolo Calcio
-  Benevento Calcio    1-0  Genoa CFC
+  Benevento                1-0  Genoa CFC
+  FC Internazionale Milano  1-2  US Sassuolo Calcio
 [Dom. 13.5.]
-  ACF Fiorentina      0-1  Cagliari Calcio
-  Bologna FC          1-2  Chievo Verona
-  AS Roma             0-0  Juventus
-  FC Crotone          2-2  Lazio Roma
-  Atalanta            1-1  AC Milan
-  Sampdoria           0-2  SSC Napoli
-  Torino FC           2-1  SPAL 2013 Ferrara
-  Hellas Verona       0-1  Udinese Calcio
+  ACF Fiorentina           0-1  Cagliari Calcio
+  Torino FC                2-1  SPAL
+  Bologna FC               1-2  AC Chievo Verona
+  Hellas Verona FC         0-1  Udinese Calcio
+  FC Crotone               2-2  SS Lazio
+  Atalanta BC              1-1  AC Milan
+  UC Sampdoria             0-2  SSC Napoli
+  AS Roma                  0-0  Juventus
 
 
 38^ Giornata
 [Sab. 19.5.]
-  Juventus           2-1  Hellas Verona
+  Juventus                 2-1  Hellas Verona FC
 [Dom. 20.5.]
-  Cagliari Calcio    1-0  Atalanta
-  Chievo Verona      1-0  Benevento Calcio
-  Udinese Calcio     1-0  Bologna FC
-  SSC Napoli         2-1  FC Crotone
-  AC Milan           5-1  ACF Fiorentina
-  Genoa CFC          1-2  Torino FC
-  Lazio Roma         2-3  Inter
-  Sassuolo Calcio    0-1  AS Roma
-  SPAL 2013 Ferrara  3-1  Sampdoria
+  Genoa CFC                1-2  Torino FC
+  AC Milan                 5-1  ACF Fiorentina
+  SPAL                     3-1  UC Sampdoria
+  Udinese Calcio           1-0  Bologna FC
+  SSC Napoli               2-1  FC Crotone
+  AC Chievo Verona         1-0  Benevento
+  Cagliari Calcio          1-0  Atalanta BC
+  US Sassuolo Calcio       0-1  AS Roma
+  SS Lazio                 2-3  FC Internazionale Milano
