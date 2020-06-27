@@ -3,604 +3,613 @@
 
 1^ Giornata
 [Sab. 24.8.]
-  AC Florenz              3-4 SSC Neapel
-  Parma Calcio            0-1 Juventus Turin
+  Parma                    0-1  Juventus
+  ACF Fiorentina           3-4  SSC Napoli
 [Dom. 25.8.]
-  Sampdoria Genua         0-3 Lazio Rom
-  AS Rom                  3-3 CFC Genua 1893
-  Udinese Calcio          1-0 AC Mailand
-  Cagliari Calcio         0-1 Brescia Calcio
-  Hellas Verona           1-1 FC Bologna
-  FC Turin                2-1 Sassuolo Calcio
-  SPAL Ferrara            2-3 Atalanta Bergamo
+  UC Sampdoria             0-3  SS Lazio
+  AS Roma                  3-3  Genoa CFC
+  Udinese Calcio           1-0  AC Milan
+  Cagliari Calcio          0-1  Brescia
+  Torino FC                2-1  US Sassuolo Calcio
+  Hellas Verona FC         1-1  Bologna FC
+  SPAL                     2-3  Atalanta BC
 [Lun. 26.8.]
-  Inter Mailand           4-0 US Lecce
+  FC Internazionale Milano  4-0  US Lecce
 
 
 2^ Giornata
 [Ven. 30.8.]
-  FC Bologna              1-0 SPAL Ferrara
+  Bologna FC               1-0  SPAL
 [Sab. 31.8.]
-  Juventus Turin          4-3 SSC Neapel
-  AC Mailand              1-0 Brescia Calcio
+  AC Milan                 1-0  Brescia
+  Juventus                 4-3  SSC Napoli
 [Dom. 1.9.]
-  Atalanta Bergamo        2-3 FC Turin
-  Lazio Rom               1-1 AS Rom
-  US Lecce                0-1 Hellas Verona
-  Udinese Calcio          1-3 Parma Calcio
-  Cagliari Calcio         1-2 Inter Mailand
-  CFC Genua 1893          2-1 AC Florenz
-  Sassuolo Calcio         4-1 Sampdoria Genua
+  US Lecce                 0-1  Hellas Verona FC
+  SS Lazio                 1-1  AS Roma
+  Atalanta BC              2-3  Torino FC
+  Cagliari Calcio          1-2  FC Internazionale Milano
+  Genoa CFC                2-1  ACF Fiorentina
+  US Sassuolo Calcio       4-1  UC Sampdoria
+  Udinese Calcio           1-3  Parma
 
 
 3^ Giornata
 [Sab. 14.9.]
-  Inter Mailand           1-0 Udinese Calcio
-  AC Florenz              0-0 Juventus Turin
-  SSC Neapel              2-0 Sampdoria Genua
+  ACF Fiorentina           0-0  Juventus
+  SSC Napoli               2-0  UC Sampdoria
+  FC Internazionale Milano  1-0  Udinese Calcio
 [Dom. 15.9.]
-  Brescia Calcio          3-4 FC Bologna
-  Parma Calcio            1-3 Cagliari Calcio
-  AS Rom                  4-2 Sassuolo Calcio
-  Hellas Verona           0-1 AC Mailand
-  CFC Genua 1893          1-2 Atalanta Bergamo
-  SPAL Ferrara            2-1 Lazio Rom
+  Hellas Verona FC         0-1  AC Milan
+  Genoa CFC                1-2  Atalanta BC
+  Brescia                  3-4  Bologna FC
+  SPAL                     2-1  SS Lazio
+  AS Roma                  4-2  US Sassuolo Calcio
+  Parma                    1-3  Cagliari Calcio
 [Lun. 16.9.]
-  FC Turin                1-2 US Lecce
+  Torino FC                1-2  US Lecce
 
 
 4^ Giornata
 [Ven. 20.9.]
-  Cagliari Calcio         3-1 CFC Genua 1893
+  Cagliari Calcio          3-1  Genoa CFC
 [Sab. 21.9.]
-  Juventus Turin          2-1 Hellas Verona
-  Udinese Calcio          0-1 Brescia Calcio
-  AC Mailand              0-2 Inter Mailand
+  Udinese Calcio           0-1  Brescia
+  Juventus                 2-1  Hellas Verona FC
+  AC Milan                 0-2  FC Internazionale Milano
 [Dom. 22.9.]
-  Atalanta Bergamo        2-2 AC Florenz
-  Sampdoria Genua         1-0 FC Turin
-  FC Bologna              1-2 AS Rom
-  Lazio Rom               2-0 Parma Calcio
-  US Lecce                1-4 SSC Neapel
-  Sassuolo Calcio         3-0 SPAL Ferrara
+  US Sassuolo Calcio       3-0  SPAL
+  UC Sampdoria             1-0  Torino FC
+  Bologna FC               1-2  AS Roma
+  US Lecce                 1-4  SSC Napoli
+  SS Lazio                 2-0  Parma
+  Atalanta BC              2-2  ACF Fiorentina
 
 
 5^ Giornata
 [Mar. 24.9.]
-  Brescia Calcio          1-2 Juventus Turin
-  Hellas Verona           0-0 Udinese Calcio
+  Hellas Verona FC         0-0  Udinese Calcio
+  Brescia                  1-2  Juventus
 [Mer. 25.9.]
-  Inter Mailand           1-0 Lazio Rom
-  AC Florenz              2-1 Sampdoria Genua
-  Parma Calcio            1-0 Sassuolo Calcio
-  AS Rom                  0-2 Atalanta Bergamo
-  SSC Neapel              0-1 Cagliari Calcio
-  CFC Genua 1893          0-0 FC Bologna
-  SPAL Ferrara            1-3 US Lecce
+  FC Internazionale Milano  1-0  SS Lazio
+  SSC Napoli               0-1  Cagliari Calcio
+  AS Roma                  0-2  Atalanta BC
+  ACF Fiorentina           2-1  UC Sampdoria
+  Parma                    1-0  US Sassuolo Calcio
+  Genoa CFC                0-0  Bologna FC
+  SPAL                     1-3  US Lecce
 [Gio. 26.9.]
-  FC Turin                2-1 AC Mailand
+  Torino FC                2-1  AC Milan
 
 
 6^ Giornata
 [Sab. 28.9.]
-  Sampdoria Genua         1-3 Inter Mailand
-  Sassuolo Calcio         1-4 Atalanta Bergamo
-  Juventus Turin          2-0 SPAL Ferrara
+  UC Sampdoria             1-3  FC Internazionale Milano
+  Juventus                 2-0  SPAL
+  US Sassuolo Calcio       1-4  Atalanta BC
 [Dom. 29.9.]
-  Lazio Rom               4-0 CFC Genua 1893
-  US Lecce                0-1 AS Rom
-  Udinese Calcio          1-0 FC Bologna
-  AC Mailand              1-3 AC Florenz
-  SSC Neapel              2-1 Brescia Calcio
-  Cagliari Calcio         1-1 Hellas Verona
+  SSC Napoli               2-1  Brescia
+  SS Lazio                 4-0  Genoa CFC
+  Udinese Calcio           1-0  Bologna FC
+  US Lecce                 0-1  AS Roma
+  Cagliari Calcio          1-1  Hellas Verona FC
+  AC Milan                 1-3  ACF Fiorentina
 [Lun. 30.9.]
-  Parma Calcio            3-2 FC Turin
+  Parma                    3-2  Torino FC
 
 
 7^ Giornata
-[Ven. 4.10.]
-  Brescia Calcio          0-2 Sassuolo Calcio
 [Sab. 5.10.]
-  Hellas Verona           2-0 Sampdoria Genua
-  CFC Genua 1893          1-2 AC Mailand
-  SPAL Ferrara            1-0 Parma Calcio
+  Hellas Verona FC         2-0  UC Sampdoria
+  SPAL                     1-0  Parma
+  Genoa CFC                1-2  AC Milan
 [Dom. 6.10.]
-  Atalanta Bergamo        3-1 US Lecce
-  FC Bologna              2-2 Lazio Rom
-  Inter Mailand           1-2 Juventus Turin
-  AC Florenz              1-0 Udinese Calcio
-  FC Turin                0-0 SSC Neapel
-  AS Rom                  1-1 Cagliari Calcio
-
+  FC Internazionale Milano  1-2  Juventus
+  AS Roma                  1-1  Cagliari Calcio
+  Atalanta BC              3-1  US Lecce
+  Bologna FC               2-2  SS Lazio
+  Torino FC                0-0  SSC Napoli
+  ACF Fiorentina           1-0  Udinese Calcio
 
 
 8^ Giornata
 [Sab. 19.10.]
-  Lazio Rom               3-3 Atalanta Bergamo
-  Juventus Turin          2-1 FC Bologna
-  SSC Neapel              2-0 Hellas Verona
+  SS Lazio                 3-3  Atalanta BC
+  SSC Napoli               2-0  Hellas Verona FC
+  Juventus                 2-1  Bologna FC
 [Dom. 20.10.]
-  Sampdoria Genua         0-0 AS Rom
-  Parma Calcio            5-1 CFC Genua 1893
-  Udinese Calcio          1-0 FC Turin
-  AC Mailand              2-2 US Lecce
-  Cagliari Calcio         2-0 SPAL Ferrara
-  Sassuolo Calcio         3-4 Inter Mailand
+  AC Milan                 2-2  US Lecce
+  US Sassuolo Calcio       3-4  FC Internazionale Milano
+  UC Sampdoria             0-0  AS Roma
+  Cagliari Calcio          2-0  SPAL
+  Parma                    5-1  Genoa CFC
+  Udinese Calcio           1-0  Torino FC
 [Lun. 21.10.]
-  Brescia Calcio          0-0 AC Florenz
+  Brescia                  0-0  ACF Fiorentina
 
 
 9^ Giornata
 [Ven. 25.10.]
-  Hellas Verona           0-1 Sassuolo Calcio
+  Hellas Verona FC         0-1  US Sassuolo Calcio
 [Sab. 26.10.]
-  Inter Mailand           2-2 Parma Calcio
-  US Lecce                1-1 Juventus Turin
-  CFC Genua 1893          3-1 Brescia Calcio
+  US Lecce                 1-1  Juventus
+  FC Internazionale Milano  2-2  Parma
+  Genoa CFC                3-1  Brescia
 [Dom. 27.10.]
-  Atalanta Bergamo        7-1 Udinese Calcio
-  FC Bologna              2-1 Sampdoria Genua
-  AC Florenz              1-2 Lazio Rom
-  AS Rom                  2-1 AC Mailand
-  FC Turin                1-1 Cagliari Calcio
-  SPAL Ferrara            1-1 SSC Neapel
+  Bologna FC               2-1  UC Sampdoria
+  Atalanta BC              7-1  Udinese Calcio
+  Torino FC                1-1  Cagliari Calcio
+  SPAL                     1-1  SSC Napoli
+  ACF Fiorentina           1-2  SS Lazio
+  AS Roma                  2-1  AC Milan
 
 
 10^ Giornata
 [Mar. 29.10.]
-  Brescia Calcio          1-2 Inter Mailand
-  Parma Calcio            0-1 Hellas Verona
+  Parma                    0-1  Hellas Verona FC
+  Brescia                  1-2  FC Internazionale Milano
 [Mer. 30.10.]
-  Sampdoria Genua         1-1 US Lecce
-  Lazio Rom               4-0 FC Turin
-  Juventus Turin          2-1 CFC Genua 1893
-  Udinese Calcio          0-4 AS Rom
-  SSC Neapel              2-2 Atalanta Bergamo
-  Cagliari Calcio         3-2 FC Bologna
-  Sassuolo Calcio         1-2 AC Florenz
+  SS Lazio                 4-0  Torino FC
+  Juventus                 2-1  Genoa CFC
+  SSC Napoli               2-2  Atalanta BC
+  Udinese Calcio           0-4  AS Roma
+  US Sassuolo Calcio       1-2  ACF Fiorentina
+  Cagliari Calcio          3-2  Bologna FC
+  UC Sampdoria             1-1  US Lecce
 [Gio. 31.10.]
-  AC Mailand              1-0 SPAL Ferrara
+  AC Milan                 1-0  SPAL
 
 
 11^ Giornata
 [Sab. 2.11.]
-  FC Bologna              1-2 Inter Mailand
-  FC Turin                0-1 Juventus Turin
-  AS Rom                  2-1 SSC Neapel
+  Bologna FC               1-2  FC Internazionale Milano
+  AS Roma                  2-1  SSC Napoli
+  Torino FC                0-1  Juventus
 [Dom. 3.11.]
-  Atalanta Bergamo        0-2 Cagliari Calcio
-  AC Florenz              1-1 Parma Calcio
-  US Lecce                2-2 Sassuolo Calcio
-  AC Mailand              1-2 Lazio Rom
-  Hellas Verona           2-1 Brescia Calcio
-  CFC Genua 1893          1-3 Udinese Calcio
+  Atalanta BC              0-2  Cagliari Calcio
+  Genoa CFC                1-3  Udinese Calcio
+  Hellas Verona FC         2-1  Brescia
+  AC Milan                 1-2  SS Lazio
+  ACF Fiorentina           1-1  Parma
+  US Lecce                 2-2  US Sassuolo Calcio
 [Lun. 4.11.]
-  SPAL Ferrara            0-1 Sampdoria Genua
+  SPAL                     0-1  UC Sampdoria
 
 
 12^ Giornata
 [Ven. 8.11.]
-  Sassuolo Calcio         3-1 FC Bologna
+  US Sassuolo Calcio       3-1  Bologna FC
 [Sab. 9.11.]
-  Inter Mailand           2-1 Hellas Verona
-  SSC Neapel              0-0 CFC Genua 1893
-  Brescia Calcio          0-4 FC Turin
+  Brescia                  0-4  Torino FC
+  FC Internazionale Milano  2-1  Hellas Verona FC
+  SSC Napoli               0-0  Genoa CFC
 [Dom. 10.11.]
-  Sampdoria Genua         0-0 Atalanta Bergamo
-  Lazio Rom               4-2 US Lecce
-  Juventus Turin          1-0 AC Mailand
-  Parma Calcio            2-0 AS Rom
-  Udinese Calcio          0-0 SPAL Ferrara
-  Cagliari Calcio         5-2 AC Florenz
+  Cagliari Calcio          5-2  ACF Fiorentina
+  SS Lazio                 4-2  US Lecce
+  Udinese Calcio           0-0  SPAL
+  UC Sampdoria             0-0  Atalanta BC
+  Juventus                 1-0  AC Milan
+  Parma                    2-0  AS Roma
 
 
 13^ Giornata
 [Sab. 23.11.]
-  Atalanta Bergamo        1-3 Juventus Turin
-  AC Mailand              1-1 SSC Neapel
-  FC Turin                0-3 Inter Mailand
+  Torino FC                0-3  FC Internazionale Milano
+  AC Milan                 1-1  SSC Napoli
+  Atalanta BC              1-3  Juventus
 [Dom. 24.11.]
-  Sampdoria Genua         1-2 Udinese Calcio
-  FC Bologna              2-2 Parma Calcio
-  AS Rom                  3-0 Brescia Calcio
-  Hellas Verona           1-0 AC Florenz
-  Sassuolo Calcio         1-2 Lazio Rom
+  Bologna FC               2-2  Parma
+  UC Sampdoria             2-1  Udinese Calcio
+  Hellas Verona FC         1-0  ACF Fiorentina
+  US Sassuolo Calcio       1-2  SS Lazio
+  AS Roma                  3-0  Brescia
 [Lun. 25.11.]
-  SPAL Ferrara            1-1 CFC Genua 1893
-  US Lecce                2-2 Cagliari Calcio
+  US Lecce                 2-2  Cagliari Calcio
+  SPAL                     1-1  Genoa CFC
+
 
 14^ Giornata
 [Sab. 30.11.]
-  AC Florenz              0-1 US Lecce
-  CFC Genua 1893          0-1 FC Turin
-  Brescia Calcio          0-3 Atalanta Bergamo
+  Brescia                  0-3  Atalanta BC
+  Genoa CFC                0-1  Torino FC
+  ACF Fiorentina           0-1  US Lecce
 [Dom. 1.12.]
-  Lazio Rom               3-0 Udinese Calcio
-  Inter Mailand           2-1 SPAL Ferrara
-  Juventus Turin          2-2 Sassuolo Calcio
-  Parma Calcio            0-1 AC Mailand
-  SSC Neapel              1-2 FC Bologna
-  Hellas Verona           1-3 AS Rom
+  Juventus                 2-2  US Sassuolo Calcio
+  FC Internazionale Milano  2-1  SPAL
+  SS Lazio                 3-0  Udinese Calcio
+  Parma                    0-1  AC Milan
+  SSC Napoli               1-2  Bologna FC
+  Hellas Verona FC         1-3  AS Roma
 [Lun. 2.12.]
-  Cagliari Calcio         4-3 Sampdoria Genua
+  Cagliari Calcio          4-3  UC Sampdoria
 
 
 15^ Giornata
 [Ven. 6.12.]
-  Inter Mailand           0-0 AS Rom
+  FC Internazionale Milano  0-0  AS Roma
 [Sab. 7.12.]
-  Atalanta Bergamo        3-2 Hellas Verona
-  Udinese Calcio          1-1 SSC Neapel
-  Lazio Rom               3-1 Juventus Turin
+  Atalanta BC              3-2  Hellas Verona FC
+  Udinese Calcio           1-1  SSC Napoli
+  SS Lazio                 3-1  Juventus
 [Dom. 8.12.]
-  Sampdoria Genua         0-1 Parma Calcio
-  FC Bologna              2-3 AC Mailand
-  US Lecce                2-2 CFC Genua 1893
-  FC Turin                2-1 AC Florenz
-  SPAL Ferrara            0-1 Brescia Calcio
-  Sassuolo Calcio         2-2 Cagliari Calcio
+  US Lecce                 2-2  Genoa CFC
+  Bologna FC               2-3  AC Milan
+  US Sassuolo Calcio       2-2  Cagliari Calcio
+  SPAL                     0-1  Brescia
+  UC Sampdoria             0-1  Parma
+  Torino FC                2-1  ACF Fiorentina
 
 
 16^ Giornata
 [Sab. 14.12.]
-  Brescia Calcio          3-0 US Lecce
-  SSC Neapel              1-2 Parma Calcio
-  CFC Genua 1893          0-1 Sampdoria Genua
+  Brescia                  3-0  US Lecce
+  SSC Napoli               1-2  Parma
+  Genoa CFC                0-1  UC Sampdoria
 [Dom. 15.12.]
-  FC Bologna              2-1 Atalanta Bergamo
-  AC Florenz              1-1 Inter Mailand
-  Juventus Turin          3-1 Udinese Calcio
-  AS Rom                  3-1 SPAL Ferrara
-  AC Mailand              0-0 Sassuolo Calcio
-  Hellas Verona           3-3 FC Turin
+  Juventus                 3-1  Udinese Calcio
+  Hellas Verona FC         3-3  Torino FC
+  ACF Fiorentina           1-1  FC Internazionale Milano
+  Bologna FC               2-1  Atalanta BC
+  AS Roma                  3-1  SPAL
+  AC Milan                 0-0  US Sassuolo Calcio
 [Lun. 16.12.]
-  Cagliari Calcio         1-2 Lazio Rom
+  Cagliari Calcio          1-2  SS Lazio
 
 
-# 7^ Giornata
+7^ Giornata
 [Mer. 18.12.]
-  Brescia Calcio          0-2 Sassuolo Calcio
+  Brescia                  0-2  US Sassuolo Calcio
 
 
 17^ Giornata
 [Mer. 18.12.]
-  Sampdoria Genua         1-2 Juventus Turin
+  UC Sampdoria             1-2  Juventus
 [Ven. 20.12.]
-  AC Florenz              1-4 AS Rom
+  ACF Fiorentina           1-4  AS Roma
 [Sab. 21.12.]
- Udinese Calcio           2-1 Cagliari Calcio
-  FC Turin                1-2 SPAL Ferrara
-  Inter Mailand           4-0 CFC Genua 1893
+  Udinese Calcio           2-1  Cagliari Calcio
+  FC Internazionale Milano  4-0  Genoa CFC
+  Torino FC                1-2  SPAL
 [Dom. 22.12.]
-  Atalanta Bergamo        5-0 AC Mailand
-  Lazio Rom               0-0 Hellas Verona
-  Parma Calcio            1-1 Brescia Calcio
-  US Lecce                2-3 FC Bologna
-  Sassuolo Calcio         1-2 SSC Neapel
-
-
-# Winterpause incl. 4.1.20
+  Atalanta BC              5-0  AC Milan
+  US Sassuolo Calcio       1-2  SSC Napoli
+  US Lecce                 2-3  Bologna FC
+  Parma                    1-1  Brescia
 
 
 18^ Giornata
 [Dom. 5.1.]
-  Brescia Calcio          1-2 Lazio Rom
-  AS Rom                  0-2 FC Turin
-  CFC Genua 1893          2-1 Sassuolo Calcio
-  SPAL Ferrara            0-2 Hellas Verona
+  Brescia                  1-2  SS Lazio
+  AS Roma                  0-2  Torino FC
+  Genoa CFC                2-1  US Sassuolo Calcio
+  SPAL                     0-2  Hellas Verona FC
 [Lun. 6.1.]
-  US Lecce                0-1 Udinese Calcio
-  AC Mailand              0-0 Sampdoria Genua
-  SSC Neapel              1-3 Inter Mailand
-  Atalanta Bergamo        5-0 Parma Calcio
-  FC Bologna              1-1 AC Florenz
-  Juventus Turin          4-0 Cagliari Calcio
+  Bologna FC               1-1  ACF Fiorentina
+  Juventus                 4-0  Cagliari Calcio
+  AC Milan                 0-0  UC Sampdoria
+  Atalanta BC              5-0  Parma
+  SSC Napoli               1-3  FC Internazionale Milano
+  US Lecce                 0-1  Udinese Calcio
 
 
 19^ Giornata
 [Sab. 11.1.]
-  Lazio Rom               1-0 SSC Neapel
-  Inter Mailand           1-1 Atalanta Bergamo
-  Cagliari Calcio         0-2 AC Mailand
+  Cagliari Calcio          0-2  AC Milan
+  FC Internazionale Milano  1-1  Atalanta BC
+  SS Lazio                 1-0  SSC Napoli
 [Dom. 12.1.]
-  Sampdoria Genua         5-1 Brescia Calcio
-  AC Florenz              1-0 SPAL Ferrara
-  AS Rom                  1-2 Juventus Turin
-  Udinese Calcio          3-0 Sassuolo Calcio
-  Hellas Verona           2-1 CFC Genua 1893
-  FC Turin                1-0 FC Bologna
+  AS Roma                  1-2  Juventus
+  ACF Fiorentina           1-0  SPAL
+  UC Sampdoria             5-1  Brescia
+  Torino FC                1-0  Bologna FC
+  Hellas Verona FC         2-1  Genoa CFC
+  Udinese Calcio           3-0  US Sassuolo Calcio
 [Lun. 13.1.]
-  Parma Calcio            2-0 US Lecce
+  Parma                    2-0  US Lecce
 
 
 20^ Giornata
 [Sab. 18.1.]
-  SSC Neapel              0-2 AC Florenz
-  Sassuolo Calcio         2-1 FC Turin
-  Lazio Rom               5-1 Sampdoria Genua
+  SS Lazio                 5-1  UC Sampdoria
+  SSC Napoli               0-2  ACF Fiorentina
+  US Sassuolo Calcio       2-1  Torino FC
 [Dom. 19.1.]
-  FC Bologna              1-1 Hellas Verona
-  Juventus Turin          2-1 Parma Calcio
-  Brescia Calcio          2-2 Cagliari Calcio
-  US Lecce                1-1 Inter Mailand
-  AC Mailand              3-2 Udinese Calcio
-  CFC Genua 1893          1-3 AS Rom
+  AC Milan                 3-2  Udinese Calcio
+  Bologna FC               1-1  Hellas Verona FC
+  Brescia                  2-2  Cagliari Calcio
+  US Lecce                 1-1  FC Internazionale Milano
+  Genoa CFC                1-3  AS Roma
+  Juventus                 2-1  Parma
 [Lun. 20.1.]
-  Atalanta Bergamo        1-2 SPAL Ferrara
+  Atalanta BC              1-2  SPAL
 
 
 21^ Giornata
 [Ven. 24.1.]
-  Brescia Calcio          0-1 AC Mailand
+  Brescia                  0-1  AC Milan
 [Sab. 25.1.]
-  FC Turin                0-7 Atalanta Bergamo
-  SPAL Ferrara            1-3 FC Bologna
-  AC Florenz              0-0 CFC Genua 1893
+  Torino FC                0-7  Atalanta BC
+  ACF Fiorentina           0-0  Genoa CFC
+  SPAL                     1-3  Bologna FC
 [Dom. 26.1.]
-  Sampdoria Genua         0-0 Sassuolo Calcio
-  Inter Mailand           1-1 Cagliari Calcio
-  Parma Calcio            2-0 Udinese Calcio
-  AS Rom                  1-1 Lazio Rom
-  SSC Neapel              2-1 Juventus Turin
-  Hellas Verona           3-0 US Lecce
+  FC Internazionale Milano  1-1  Cagliari Calcio
+  SSC Napoli               2-1  Juventus
+  UC Sampdoria             0-0  US Sassuolo Calcio
+  Hellas Verona FC         3-0  US Lecce
+  AS Roma                  1-1  SS Lazio
+  Parma                    2-0  Udinese Calcio
 
 
 22^ Giornata
 [Sab. 1.2.]
-  Cagliari Calcio         2-2 Parma Calcio
-  Sassuolo Calcio         4-2 AS Rom
-  FC Bologna              2-1 Brescia Calcio
+  Bologna FC               2-1  Brescia
+  Cagliari Calcio          2-2  Parma
+  US Sassuolo Calcio       4-2  AS Roma
 [Dom. 2.2.]
-  Atalanta Bergamo        2-2 CFC Genua 1893
-  Lazio Rom               5-1 SPAL Ferrara
-  Juventus Turin          3-0 AC Florenz
-  US Lecce                4-0 FC Turin
-  Udinese Calcio          0-2 Inter Mailand
-  AC Mailand              1-1 Hellas Verona
+  SS Lazio                 5-1  SPAL
+  Juventus                 3-0  ACF Fiorentina
+  AC Milan                 1-1  Hellas Verona FC
+  Udinese Calcio           0-2  FC Internazionale Milano
+  US Lecce                 4-0  Torino FC
+  Atalanta BC              2-2  Genoa CFC
 [Lun. 3.2.]
-  Sampdoria Genua         2-4 SSC Neapel
+  UC Sampdoria             2-4  SSC Napoli
 
 
-# 17^Giornata
+17^ Giornata
 [Mer. 5.2.]
-  Lazio Rom               0-0 Hellas Verona
+  SS Lazio                 0-0  Hellas Verona FC
 
 
 23^ Giornata
 [Ven. 7.2.]
-  AS Rom                  2-3 FC Bologna
+  AS Roma                  2-3  Bologna FC
 [Sab. 8.2.]
-  Hellas Verona           2-1 Juventus Turin
-  FC Turin                1-3 Sampdoria Genua
-  AC Florenz              1-2 Atalanta Bergamo
+  ACF Fiorentina           1-2  Atalanta BC
+  Torino FC                1-3  UC Sampdoria
+  Hellas Verona FC         2-1  Juventus
 [Dom. 9.2.]
-  Inter Mailand           4-2 AC Mailand
-  Brescia Calcio          1-1 Udinese Calcio
-  Parma Calcio            0-1 Lazio Rom
-  SSC Neapel              2-3 US Lecce
-  CFC Genua 1893          1-0 Cagliari Calcio
-  SPAL Ferrara            1-2 Sassuolo Calcio
+  SPAL                     1-2  US Sassuolo Calcio
+  SSC Napoli               2-3  US Lecce
+  Genoa CFC                1-0  Cagliari Calcio
+  Brescia                  1-1  Udinese Calcio
+  FC Internazionale Milano  4-2  AC Milan
+  Parma                    0-1  SS Lazio
 
 
 24^ Giornata
 [Sab. 15.2.]
-  Atalanta Bergamo        2-1 AS Rom
-  US Lecce                2-1 SPAL Ferrara
-  FC Bologna              0-3 CFC Genua 1893
+  US Lecce                 2-1  SPAL
+  Bologna FC               0-3  Genoa CFC
+  Atalanta BC              2-1  AS Roma
 [Dom. 16.2.]
-  Sampdoria Genua         1-5 AC Florenz
-  Lazio Rom               2-1 Inter Mailand
-  Juventus Turin          2-0 Brescia Calcio
-  Udinese Calcio          0-0 Hellas Verona
-  Cagliari Calcio         0-1 SSC Neapel
-  Sassuolo Calcio         0-1 Parma Calcio
+  Juventus                 2-0  Brescia
+  Udinese Calcio           0-0  Hellas Verona FC
+  UC Sampdoria             1-5  ACF Fiorentina
+  US Sassuolo Calcio       0-1  Parma
+  Cagliari Calcio          0-1  SSC Napoli
+  SS Lazio                 2-1  FC Internazionale Milano
 [Lun. 17.2.]
-  AC Mailand              1-0 FC Turin
+  AC Milan                 1-0  Torino FC
 
 
 25^ Giornata
 [Ven. 21.2.]
-  Brescia Calcio          1-2 SSC Neapel
+  Brescia                  1-2  SSC Napoli
 [Sab. 22.2.]
-  AC Florenz              1-1 AC Mailand
-  SPAL Ferrara            1-2 Juventus Turin
-  FC Bologna              1-1 Udinese Calcio
+  Bologna FC               1-1  Udinese Calcio
+  SPAL                     1-2  Juventus
+  ACF Fiorentina           1-1  AC Milan
 [Dom. 23.2.]
-  Atalanta Bergamo        - Sassuolo Calcio        # Termin verschoben
-  Inter Mailand           - Sampdoria Genua        # Termin verschoben
-  AS Rom                  4-0 US Lecce
-  Hellas Verona           - Cagliari Calcio        # Termin verschoben
-  FC Turin                - Parma Calcio           # Termin verschoben
-  CFC Genua 1893          2-3 Lazio Rom
+  Genoa CFC                2-3  SS Lazio
+  AS Roma                  4-0  US Lecce
 
 
 26^ Giornata
 [Sab. 29.2.]
-  SSC Neapel              2-1 FC Turin
-  Udinese Calcio          0-0 AC Florenz
-  Lazio Rom               2-0 FC Bologna
+  SS Lazio                 2-0  Bologna FC
+  SSC Napoli               2-1  Torino FC
 [Dom. 1.3.]
-  Juventus Turin          2-0 Inter Mailand
-  Parma Calcio            0-1 SPAL Ferrara
-  US Lecce                2-7 Atalanta Bergamo
-  AC Mailand              1-2 CFC Genua 1893
-  Cagliari Calcio         3-4 AS Rom
-  Sassuolo Calcio         3-0 Brescia Calcio
-[Lun. 2.3.]
-  Sampdoria Genua         2-1 Hellas Verona
+  US Lecce                 2-7  Atalanta BC
+  Cagliari Calcio          3-4  AS Roma
+[Dom. 8.3.]
+  AC Milan                 1-2  Genoa CFC
+  Parma                    0-1  SPAL
+  UC Sampdoria             2-1  Hellas Verona FC
+  Juventus                 2-0  FC Internazionale Milano
+  Udinese Calcio           0-0  ACF Fiorentina
+[Lun. 9.3.]
+  US Sassuolo Calcio       3-0  Brescia
+
+
+25^ Giornata
+[Sab. 20.6.]
+  Torino FC                1-1  Parma
+  Hellas Verona FC         2-1  Cagliari Calcio
+[Dom. 21.6.]
+  FC Internazionale Milano  2-1  UC Sampdoria
+  Atalanta BC              4-1  US Sassuolo Calcio
 
 
 27^ Giornata
-[Sab. 7.3.]
-  CFC Genua 1893          - Parma Calcio              # Termin verschoben
-  SPAL Ferrara            - Cagliari Calcio           # Termin verschoben
-  Atalanta Bergamo        - Lazio Rom                 # Termin verschoben
-[Dom. 8.3.]
-  FC Bologna              - Juventus Turin            # Termin verschoben
-  Inter Mailand           - Sassuolo Calcio           # Termin verschoben
-  AC Florenz              - Brescia Calcio            # Termin verschoben
-  AS Rom                  - Sampdoria Genua           # Termin verschoben
-  Hellas Verona           - SSC Neapel                # Termin verschoben
-[Lun. 9.3.]
-  US Lecce                - AC Mailand                # Termin verschoben
-  FC Turin                - Udinese Calcio            # Termin verschoben
+[Lun. 22.6.]
+  Bologna FC               0-2  Juventus
+  US Lecce                 1-4  AC Milan
+  ACF Fiorentina           1-1  Brescia
+[Mar. 23.6.]
+  Genoa CFC                1-4  Parma
+  SPAL                     0-1  Cagliari Calcio
+  Torino FC                1-0  Udinese Calcio
+  Hellas Verona FC         0-2  SSC Napoli
+[Mer. 24.6.]
+  FC Internazionale Milano  3-3  US Sassuolo Calcio
+  AS Roma                  2-1  UC Sampdoria
+  Atalanta BC              3-2  SS Lazio
 
 
 28^ Giornata
-[Ven. 13.3.]
-  Juventus Turin          - US Lecce                  # Termin verschoben
-[Sab. 14.3.]
-  SSC Neapel              - SPAL Ferrara              # Termin verschoben
-  Sassuolo Calcio         - Hellas Verona             # Termin verschoben
-  Sampdoria Genua         - FC Bologna                # Termin verschoben
-[Dom. 15.3.]
-  Lazio Rom               - AC Florenz                # Termin verschoben
-  Brescia Calcio          - CFC Genua 1893            # Termin verschoben
-  Parma Calcio            - Inter Mailand             # Termin verschoben
-  Udinese Calcio          - Atalanta Bergamo          # Termin verschoben
-  AC Mailand              - AS Rom                    # Termin verschoben
-  Cagliari Calcio         - FC Turin                  # Termin verschoben
+[Ven. 26.6.]
+  Juventus                 -  US Lecce
+[Sab. 27.6.]
+  Brescia                  -  Genoa CFC
+  Cagliari Calcio          -  Torino FC
+  SS Lazio                 -  ACF Fiorentina
+[Dom. 28.6.]
+  AC Milan                 -  AS Roma
+  SSC Napoli               -  SPAL
+  Udinese Calcio           -  Atalanta BC
+  Parma                    -  FC Internazionale Milano
+  US Sassuolo Calcio       -  Hellas Verona FC
+  UC Sampdoria             -  Bologna FC
 
 
 29^ Giornata
-[Ven. 20.3.]
-  AC Florenz              - Sassuolo Calcio           # Termin verschoben
-[Sab. 21.3.]
-  FC Turin                - Lazio Rom                 # Termin verschoben
-  CFC Genua 1893          - Juventus Turin            # Termin verschoben
-  SPAL Ferrara            - AC Mailand                # Termin verschoben
-[Dom. 22.3.]
-  Atalanta Bergamo        - SSC Neapel                # Termin verschoben
-  FC Bologna              - Cagliari Calcio           # Termin verschoben
-  Inter Mailand           - Brescia Calcio            # Termin verschoben
-  AS Rom                  - Udinese Calcio            # Termin verschoben
-  US Lecce                - Sampdoria Genua           # Termin verschoben
-  Hellas Verona           - Parma Calcio              # Termin verschoben
+[Mar. 30.6.]
+  Torino FC                -  SS Lazio
+  Genoa CFC                -  Juventus
+[Mer. 1.7.]
+  Bologna FC               -  Cagliari Calcio
+  FC Internazionale Milano  -  Brescia
+  ACF Fiorentina           -  US Sassuolo Calcio
+  Hellas Verona FC         -  Parma
+  US Lecce                 -  UC Sampdoria
+  SPAL                     -  AC Milan
+[Gio. 2.7.]
+  Atalanta BC              -  SSC Napoli
+  AS Roma                  -  Udinese Calcio
 
 
 30^ Giornata
-[Sab. 4.4.]
- SSC Neapel              - AS Rom
-  Cagliari Calcio         - Atalanta Bergamo
-  Juventus Turin          - FC Turin
-[Dom. 5.4.]
-  Sampdoria Genua         - SPAL Ferrara
-  Lazio Rom               - AC Mailand
-  Inter Mailand           - FC Bologna
-  Brescia Calcio          - Hellas Verona
-  Parma Calcio            - AC Florenz
-  Sassuolo Calcio         - US Lecce
-[Lun. 6.4.]
-  Udinese Calcio          - CFC Genua 1893
+[Sab. 4.7.]
+  Juventus                 -  Torino FC
+  US Sassuolo Calcio       -  US Lecce
+  SS Lazio                 -  AC Milan
+[Dom. 5.7.]
+  FC Internazionale Milano  -  Bologna FC
+  Parma                    -  ACF Fiorentina
+  Udinese Calcio           -  Genoa CFC
+  UC Sampdoria             -  SPAL
+  SSC Napoli               -  AS Roma
+  Brescia                  -  Hellas Verona FC
+  Cagliari Calcio          -  Atalanta BC
 
 
 31^ Giornata
-[Sab. 11.4.]
-  Atalanta Bergamo        - Sampdoria Genua
-  FC Bologna              - Sassuolo Calcio
-  AC Florenz              - Cagliari Calcio
-  AS Rom                  - Parma Calcio
-  US Lecce                - Lazio Rom
-  AC Mailand              - Juventus Turin
-  Hellas Verona           - Inter Mailand
-  FC Turin                - Brescia Calcio
-  CFC Genua 1893          - SSC Neapel
-  SPAL Ferrara            - Udinese Calcio
+[Mar. 7.7.]
+  US Lecce                 -  SS Lazio
+  AC Milan                 -  Juventus
+[Mer. 8.7.]
+  Bologna FC               -  US Sassuolo Calcio
+  ACF Fiorentina           -  Cagliari Calcio
+  AS Roma                  -  Parma
+  Atalanta BC              -  UC Sampdoria
+  Torino FC                -  Brescia
+  Genoa CFC                -  SSC Napoli
+[Gio. 9.7.]
+  SPAL                     -  Udinese Calcio
+  Hellas Verona FC         -  FC Internazionale Milano
 
 
 32^ Giornata
-[Dom. 19.4.]
-  Lazio Rom               - Sassuolo Calcio
-  Inter Mailand           - FC Turin
-  AC Florenz              - Hellas Verona
-  Juventus Turin          - Atalanta Bergamo
-  Brescia Calcio          - AS Rom
-  Parma Calcio            - FC Bologna
-  Udinese Calcio          - Sampdoria Genua
-  SSC Neapel              - AC Mailand
-  Cagliari Calcio         - US Lecce
-  CFC Genua 1893          - SPAL Ferrara
+[Sab. 11.7.]
+  SS Lazio                 -  US Sassuolo Calcio
+  Brescia                  -  AS Roma
+  Juventus                 -  Atalanta BC
+[Dom. 12.7.]
+  SSC Napoli               -  AC Milan
+  ACF Fiorentina           -  Hellas Verona FC
+  Parma                    -  Bologna FC
+  Udinese Calcio           -  UC Sampdoria
+  Cagliari Calcio          -  US Lecce
+  Genoa CFC                -  SPAL
+[Lun. 13.7.]
+  FC Internazionale Milano  -  Torino FC
 
 
 33^ Giornata
-[Mer. 22.4.]
-  Atalanta Bergamo        - Brescia Calcio
-  Sampdoria Genua         - Cagliari Calcio
-  FC Bologna              - SSC Neapel
-  AS Rom                  - Hellas Verona
-  US Lecce                - AC Florenz
-  Udinese Calcio          - Lazio Rom
-  AC Mailand              - Parma Calcio
-  FC Turin                - CFC Genua 1893
-  SPAL Ferrara            - Inter Mailand
-  Sassuolo Calcio         - Juventus Turin
+[Mar. 14.7.]
+  Atalanta BC              -  Brescia
+[Mer. 15.7.]
+  UC Sampdoria             -  Cagliari Calcio
+  AC Milan                 -  Parma
+  Bologna FC               -  SSC Napoli
+  Udinese Calcio           -  SS Lazio
+  US Lecce                 -  ACF Fiorentina
+  AS Roma                  -  Hellas Verona FC
+  US Sassuolo Calcio       -  Juventus
+[Gio. 16.7.]
+  SPAL                     -  FC Internazionale Milano
+  Torino FC                -  Genoa CFC
 
 
 34^ Giornata
-[Dom. 26.4.]
-  AC Florenz              - FC Turin
-  Juventus Turin          - Lazio Rom
-  Brescia Calcio          - SPAL Ferrara
-  Parma Calcio            - Sampdoria Genua
-  AS Rom                  - Inter Mailand
-  AC Mailand              - FC Bologna
-  SSC Neapel              - Udinese Calcio
-  Cagliari Calcio         - Sassuolo Calcio
-  Hellas Verona           - Atalanta Bergamo
-  CFC Genua 1893          - US Lecce
+[Sab. 18.7.]
+  Hellas Verona FC         -  Atalanta BC
+  Cagliari Calcio          -  US Sassuolo Calcio
+  AC Milan                 -  Bologna FC
+[Dom. 19.7.]
+  AS Roma                  -  FC Internazionale Milano
+  Parma                    -  UC Sampdoria
+  ACF Fiorentina           -  Torino FC
+  Genoa CFC                -  US Lecce
+  Brescia                  -  SPAL
+  SSC Napoli               -  Udinese Calcio
+[Lun. 20.7.]
+  Juventus                 -  SS Lazio
 
 
 35^ Giornata
-[Dom. 3.5.]
-  Atalanta Bergamo        - FC Bologna
-  Sampdoria Genua         - CFC Genua 1893
-  Lazio Rom               - Cagliari Calcio
-  Inter Mailand           - AC Florenz
-  Parma Calcio            - SSC Neapel
-  US Lecce                - Brescia Calcio
-  Udinese Calcio          - Juventus Turin
-  FC Turin                - Hellas Verona
-  SPAL Ferrara            - AS Rom
-  Sassuolo Calcio         - AC Mailand
+[Mar. 21.7.]
+  Atalanta BC              -  Bologna FC
+  US Sassuolo Calcio       -  AC Milan
+[Mer. 22.7.]
+  FC Internazionale Milano  -  ACF Fiorentina
+  Parma                    -  SSC Napoli
+  US Lecce                 -  Brescia
+  Torino FC                -  Hellas Verona FC
+  SPAL                     -  AS Roma
+  UC Sampdoria             -  Genoa CFC
+[Gio. 23.7.]
+  Udinese Calcio           -  Juventus
+  SS Lazio                 -  Cagliari Calcio
 
 
 36^ Giornata
-[Dom. 10.5.]
-  FC Bologna              - US Lecce
-  Juventus Turin          - Sampdoria Genua
-  Brescia Calcio          - Parma Calcio
-  AS Rom                  - AC Florenz
-  AC Mailand              - Atalanta Bergamo
-  SSC Neapel              - Sassuolo Calcio
-  Cagliari Calcio         - Udinese Calcio
-  Hellas Verona           - Lazio Rom
-  CFC Genua 1893          - Inter Mailand
-  SPAL Ferrara            - FC Turin
+[Dom. 26.7.]
+  Juventus                 -  UC Sampdoria
+  SSC Napoli               -  US Sassuolo Calcio
+  AS Roma                  -  ACF Fiorentina
+  AC Milan                 -  Atalanta BC
+  Cagliari Calcio          -  Udinese Calcio
+  Bologna FC               -  US Lecce
+  Genoa CFC                -  FC Internazionale Milano
+  Brescia                  -  Parma
+  Hellas Verona FC         -  SS Lazio
+  SPAL                     -  Torino FC
 
 
 37^ Giornata
-[Dom. 17.5.]
-  Sampdoria Genua         - AC Mailand
-  Lazio Rom               - Brescia Calcio
-  Inter Mailand           - SSC Neapel
-  AC Florenz              - FC Bologna
-  Parma Calcio            - Atalanta Bergamo
-  Udinese Calcio          - US Lecce
-  Cagliari Calcio         - Juventus Turin
-  Hellas Verona           - SPAL Ferrara
-  FC Turin                - AS Rom
-  Sassuolo Calcio         - CFC Genua 1893
+[Mer. 29.7.]
+  FC Internazionale Milano  -  SSC Napoli
+  ACF Fiorentina           -  Bologna FC
+  SS Lazio                 -  Brescia
+  Parma                    -  Atalanta BC
+  Udinese Calcio           -  US Lecce
+  UC Sampdoria             -  AC Milan
+  Cagliari Calcio          -  Juventus
+  Torino FC                -  AS Roma
+  Hellas Verona FC         -  SPAL
+  US Sassuolo Calcio       -  Genoa CFC
 
 
 38^ Giornata
-[Dom. 24.5.]
-  Atalanta Bergamo        - Inter Mailand
-  FC Bologna              - FC Turin
-  Juventus Turin          - AS Rom
-  Brescia Calcio          - Sampdoria Genua
-  US Lecce                - Parma Calcio
-  AC Mailand              - Cagliari Calcio
-  SSC Neapel              - Lazio Rom
-  CFC Genua 1893          - Hellas Verona
-  SPAL Ferrara            - AC Florenz
-  Sassuolo Calcio         - Udinese Calcio
+[Dom. 2.8.]
+  Juventus                 -  AS Roma
+  SSC Napoli               -  SS Lazio
+  AC Milan                 -  Cagliari Calcio
+  Atalanta BC              -  FC Internazionale Milano
+  Bologna FC               -  Torino FC
+  Genoa CFC                -  Hellas Verona FC
+  Brescia                  -  UC Sampdoria
+  US Sassuolo Calcio       -  Udinese Calcio
+  SPAL                     -  ACF Fiorentina
+  US Lecce                 -  Parma
