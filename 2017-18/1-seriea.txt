@@ -1,6 +1,284 @@
 = Italian Serie A 2017/18
 
 
+
+1^ Giornata
+[Sab. 19.8.]
+  Juventus             3-0  Cagliari Calcio
+  Hellas Verona        1-3  SSC Napoli
+[Dom. 20.8.]
+  Bologna FC           1-1  Torino FC
+  Inter                3-0  ACF Fiorentina
+  Lazio Roma           0-0  SPAL 2013 Ferrara
+  Sampdoria            2-1  Benevento Calcio
+  Sassuolo Calcio      0-0  Genoa CFC
+  Udinese Calcio       1-2  Chievo Verona
+  Atalanta             0-1  AS Roma
+  FC Crotone           0-3  AC Milan
+
+2^ Giornata
+[Sab. 26.8.]
+  Genoa CFC            2-4  Juventus
+  AS Roma              1-3  Inter
+  Benevento Calcio     0-1  Bologna FC
+[Dom. 27.8.]
+  Torino FC            3-0  Sassuolo Calcio
+  Chievo Verona        1-2  Lazio Roma
+  FC Crotone           0-0  Hellas Verona
+  ACF Fiorentina       1-2  Sampdoria
+  AC Milan             2-1  Cagliari Calcio
+  SSC Napoli           3-1  Atalanta
+  SPAL 2013 Ferrara    3-2  Udinese Calcio
+
+3^ Giornata
+[Sab. 9.9.]
+  Juventus             3-0  Chievo Verona
+  Sampdoria            1-1  AS Roma
+[Dom. 10.9.]
+  Atalanta             2-1  Sassuolo Calcio
+  Benevento Calcio     0-1  Torino FC
+  Bologna FC           0-3  SSC Napoli
+  Cagliari Calcio      1-0  FC Crotone
+  Hellas Verona        0-5  ACF Fiorentina
+  Inter                2-0  SPAL 2013 Ferrara
+  Lazio Roma           4-1  AC Milan
+  Udinese Calcio       1-0  Genoa CFC
+
+4^ Giornata
+[Sab. 16.9.]
+  FC Crotone           0-2  Inter
+  ACF Fiorentina       2-1  Bologna FC
+  AS Roma              3-0  Hellas Verona
+[Dom. 17.9.]
+  Chievo Verona        1-1  Atalanta
+  Genoa CFC            2-3  Lazio Roma
+  AC Milan             2-1  Udinese Calcio
+  SSC Napoli           6-0  Benevento Calcio
+  Sassuolo Calcio      1-3  Juventus
+  SPAL 2013 Ferrara    0-2  Cagliari Calcio
+  Torino FC            2-2  Sampdoria
+
+5^ Giornata
+[Mar. 19.9.]
+  Bologna FC           1-1  Inter
+[Mer. 20.9.]
+  Atalanta             5-1  FC Crotone
+  Benevento Calcio     0-4  AS Roma
+  Cagliari Calcio      0-1  Sassuolo Calcio
+  Genoa CFC            1-1  Chievo Verona
+  Hellas Verona        0-0  Sampdoria
+  Juventus             1-0  ACF Fiorentina
+  Lazio Roma           1-4  SSC Napoli
+  AC Milan             2-0  SPAL 2013 Ferrara
+  Udinese Calcio       2-3  Torino FC
+
+6^ Giornata
+[Sab. 23.9.]
+  SPAL 2013 Ferrara    2-3  SSC Napoli
+  Juventus             4-0  Torino FC
+  AS Roma              3-1  Udinese Calcio
+[Dom. 24.9.]
+  Cagliari Calcio      0-2  Chievo Verona
+  FC Crotone           2-0  Benevento Calcio
+  ACF Fiorentina       1-1  Atalanta
+  Hellas Verona        0-3  Lazio Roma
+  Sampdoria            2-0  AC Milan
+  Sassuolo Calcio      0-1  Bologna FC
+  Inter                1-0  Genoa CFC
+
+7^ Giornata
+[Sab. 30.9.]
+  Udinese Calcio       4-0  Sampdoria
+  Genoa CFC            0-1  Bologna FC
+[Dom. 1.10.]
+  Atalanta             2-2  Juventus
+  Benevento Calcio     1-2  Inter
+  Chievo Verona        2-1  ACF Fiorentina
+  Lazio Roma           6-1  Sassuolo Calcio
+  AC Milan             0-2  AS Roma
+  SSC Napoli           3-0  Cagliari Calcio
+  SPAL 2013 Ferrara    1-1  FC Crotone
+  Torino FC            2-2  Hellas Verona
+
+
+8^ Giornata
+[Sab. 14.10.]
+  Juventus             1-2  Lazio Roma
+  AS Roma              0-1  SSC Napoli
+[Dom. 15.10.]
+  Bologna FC           2-1  SPAL 2013 Ferrara
+  Cagliari Calcio      2-3  Genoa CFC
+  FC Crotone           2-2  Torino FC
+  ACF Fiorentina       2-1  Udinese Calcio
+  Inter                3-2  AC Milan
+  Sampdoria            3-1  Atalanta
+  Sassuolo Calcio      0-0  Chievo Verona
+[Lun. 16.10.]
+  Hellas Verona        1-0  Benevento Calcio
+
+9^ Giornata
+[Sab. 21.10.]
+  SSC Napoli           0-0  Inter
+  Sampdoria            5-0  FC Crotone
+[Dom. 22.10.]
+  Atalanta             1-0  Bologna FC
+  Benevento Calcio     0-3  ACF Fiorentina
+  Chievo Verona        3-2  Hellas Verona
+  Lazio Roma           3-0  Cagliari Calcio
+  AC Milan             0-0  Genoa CFC
+  SPAL 2013 Ferrara    0-1  Sassuolo Calcio
+  Torino FC            0-1  AS Roma
+  Udinese Calcio       2-6  Juventus
+
+10^ Giornata
+[Mar. 24.10.]
+  Inter                3-2  Sampdoria
+[Mer. 25.10.]
+  Atalanta             3-0  Hellas Verona
+  Bologna FC           1-2  Lazio Roma
+  Cagliari Calcio      2-1  Benevento Calcio
+  Chievo Verona        1-4  AC Milan
+  ACF Fiorentina       3-0  Torino FC
+  Genoa CFC            2-3  SSC Napoli
+  Juventus             4-1  SPAL 2013 Ferrara
+  AS Roma              1-0  FC Crotone
+  Sassuolo Calcio      0-1  Udinese Calcio
+
+11^ Giornata
+[Sab. 28.10.]
+  AC Milan             0-2  Juventus
+  AS Roma              1-0  Bologna FC
+[Dom. 29.10.]
+  Benevento Calcio     1-5  Lazio Roma
+  FC Crotone           2-1  ACF Fiorentina
+  SSC Napoli           3-1  Sassuolo Calcio
+  Sampdoria            4-1  Chievo Verona
+  SPAL 2013 Ferrara    1-0  Genoa CFC
+  Torino FC            2-1  Cagliari Calcio
+  Udinese Calcio       2-1  Atalanta
+[Lun. 30.10.]
+  Hellas Verona        1-2  Inter
+
+12^ Giornata
+[Sab. 4.11.]
+  Bologna FC           2-3  FC Crotone
+  Genoa CFC            0-2  Sampdoria
+[Dom. 5.11.]
+  Atalanta             1-1  SPAL 2013 Ferrara
+  Cagliari Calcio      2-1  Hellas Verona
+  Chievo Verona        0-0  SSC Napoli
+  ACF Fiorentina       2-4  AS Roma
+  Inter                1-1  Torino FC
+  Juventus             2-1  Benevento Calcio
+  Lazio Roma           3-0  Udinese Calcio
+  Sassuolo Calcio      0-2  AC Milan
+
+13^ Giornata
+[Sab. 18.11.]
+  SSC Napoli           2-1  AC Milan
+  AS Roma              2-1  Lazio Roma
+[Dom. 19.11.]
+  Benevento Calcio     1-2  Sassuolo Calcio
+  FC Crotone           0-1  Genoa CFC
+  Inter                2-0  Atalanta
+  Sampdoria            3-2  Juventus
+  SPAL 2013 Ferrara    1-1  ACF Fiorentina
+  Torino FC            1-1  Chievo Verona
+  Udinese Calcio       0-1  Cagliari Calcio
+[Lun. 20.11.]
+  Hellas Verona        2-3  Bologna FC
+
+14^ Giornata
+[Sab. 25.11.]
+  Bologna FC           3-0  Sampdoria
+  Cagliari Calcio      1-3  Inter
+  Chievo Verona        2-1  SPAL 2013 Ferrara
+  Sassuolo Calcio      0-2  Hellas Verona
+[Dom. 26.11.]
+  Genoa CFC            1-1  AS Roma
+  Juventus             3-0  FC Crotone
+  Lazio Roma           1-1  ACF Fiorentina
+  AC Milan             0-0  Torino FC
+  Udinese Calcio       0-1  SSC Napoli
+[Lun. 27.11.]
+  Atalanta             1-0  Benevento Calcio
+
+15^ Giornata
+[Ven. 1.12.]
+  SSC Napoli           0-1  Juventus
+  AS Roma              3-1  SPAL 2013 Ferrara
+[Sab. 2.12.]
+  Torino FC            1-1  Atalanta
+[Dom. 3.12.]
+  Benevento Calcio     2-2  AC Milan
+  Bologna FC           1-1  Cagliari Calcio
+  ACF Fiorentina       3-0  Sassuolo Calcio
+  Inter                5-0  Chievo Verona
+  Sampdoria            1-2  Lazio Roma
+[Lun. 4.12.]
+  FC Crotone           0-3  Udinese Calcio
+  Hellas Verona        0-1  Genoa CFC
+
+16^ Giornata
+[Sab. 9.12.]
+  Cagliari Calcio      2-2  Sampdoria
+  Juventus             0-0  Inter
+[Dom. 10.12.]
+  Chievo Verona        0-0  AS Roma
+  AC Milan             2-1  Bologna FC
+  SSC Napoli           0-0  ACF Fiorentina
+  Sassuolo Calcio      2-1  FC Crotone
+  SPAL 2013 Ferrara    2-2  Hellas Verona
+  Udinese Calcio       2-0  Benevento Calcio
+[Lun. 11.12.]
+ Lazio Roma            1-3  Torino FC
+[Mar. 12.12.]
+  Genoa CFC            1-2  Atalanta
+
+17^ Giornata
+[Sab. 16.12.]
+  Inter                1-3  Udinese Calcio
+  AS Roma              1-0  Cagliari Calcio
+  Torino FC            1-3  SSC Napoli
+[Dom. 17.12.]
+  Atalanta             3-3  Lazio Roma
+  Benevento Calcio     1-2  SPAL 2013 Ferrara
+  Bologna FC           0-3  Juventus
+  FC Crotone           1-0  Chievo Verona
+  ACF Fiorentina       0-0  Genoa CFC
+  Hellas Verona        3-0  AC Milan
+  Sampdoria            0-1  Sassuolo Calcio
+
+
+18^ Giornata
+[Ven. 22.12.]
+  Cagliari Calcio      0-1  ACF Fiorentina
+  Chievo Verona        2-3  Bologna FC
+[Sab. 23.12.]
+  Genoa CFC            1-0  Benevento Calcio
+  Juventus             1-0  AS Roma
+  Lazio Roma           4-0  FC Crotone
+  AC Milan             0-2  Atalanta
+  SSC Napoli           3-2  Sampdoria
+  Sassuolo Calcio      1-0  Inter
+  SPAL 2013 Ferrara    2-2  Torino FC
+  Udinese Calcio       4-0  Hellas Verona
+
+19^ Giornata
+[Ven. 29.12.]
+  FC Crotone           0-1  SSC Napoli
+[Sab. 30.12.]
+  Atalanta             1-2  Cagliari Calcio
+  Benevento Calcio     1-0  Chievo Verona
+  Bologna FC           1-2  Udinese Calcio
+  ACF Fiorentina       1-1  AC Milan
+  Hellas Verona        1-3  Juventus
+  Inter                0-0  Lazio Roma
+  AS Roma              1-1  Sassuolo Calcio
+  Sampdoria            2-0  SPAL 2013 Ferrara
+  Torino FC            0-0  Genoa CFC
+
+
 20^ Giornata
 [Ven. 5.1.]
   Chievo Verona        1-1  Udinese Calcio
@@ -244,8 +522,6 @@
 [Lun. 23.4.]
   Genoa CFC           3-1  Hellas Verona
 
-## 1. Absteiger Serie A 2017/18:
-#  Benevento Calcio
 
 35^ Giornata
 [Sab. 28.4.]
@@ -261,8 +537,6 @@
   Hellas Verona       1-3  SPAL 2013 Ferrara
   Benevento Calcio    3-3  Udinese Calcio
 
-## 1. Aufsteiger Serie A 2018/19:
-#  Empoli FC
 
 36^ Giornata
 [Sab. 5.5]
@@ -278,8 +552,6 @@
   Sassuolo Calcio     1-0  Sampdoria
   SSC Napoli          2-2  Torino FC
 
-## 2. Absteiger Seriea A 2017/18:
-#  Hellas Verona
 
 37^ Giornata
 [Sab. 12.5.]
@@ -295,11 +567,6 @@
   Torino FC           2-1  SPAL 2013 Ferrara
   Hellas Verona       0-1  Udinese Calcio
 
-## Meister Serie A 2017/18:
-#   Juventus
-
-## 2. Aufsteiger in Serie A 2018/19:
-#   Parma Calcio 1913
 
 38^ Giornata
 [Sab. 19.5.]
@@ -314,29 +581,3 @@
   Lazio Roma         2-3  Inter
   Sassuolo Calcio    0-1  AS Roma
   SPAL 2013 Ferrara  3-1  Sampdoria
-
-## 3. Absteiger Serie A 2017/18:
-#  FC Crotone
-
-## Playoff Sieger in Serie A 2018/19:
-# [Dom. 3.6.]
-#   AS Cittadella     2-2 AS Bari
-#   Venezia FC        3-0 AC Perugia Calcio
-#
-# [Mer. 6.6.]
-#   AS Cittadella     1-1 Frosinone Calcio
-#   Venezia FC        1-1 US Palermo
-# [Dom. 10.6.]
-#   Frosinone Calcio  1-1 AS Cittadella
-#   US Palermo        1-0 Venezia FC
-#
-# [Mer. 13.6.]
-#   US Palermo        2-1 Frosinone Calcio
-# [Sab. 16.6.]
-#   Frosinone Calcio  2-0 US Palermo
-#
-## 3. Aufsteiger Serie A 2018/19:
-#   Frosinone Calcio
-
-
-## Sommerpause bis 19.8.2018
