@@ -1,6 +1,6 @@
 # Notes
 
-´´´
+```
 # start_at: 2017-08-19
 # Girone di andata
 
@@ -42,4 +42,4 @@
 #
 ## 3. Aufsteiger Serie A 2018/19:
 #   Frosinone Calcio
-´´´
+```

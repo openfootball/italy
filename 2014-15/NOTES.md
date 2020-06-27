@@ -2,7 +2,7 @@
 
 ## Aufsteiger Serie A
 
-´´´
+```
 # Carpi FC, Frosinone Calcio, Bologna FC
 #
 # Aufstiegsspiele Serie A
@@ -18,5 +18,4 @@
 #
 # Pescara Calcio    0-0     Bologna FC
 # Bologna FC        1-1     Pescara Calcio
-
-´´´
+```

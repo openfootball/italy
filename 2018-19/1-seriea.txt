@@ -3,657 +3,616 @@
 
 1^ Giornata
 [Sab. 18.8.]
-  Chievo Verona           2-3 Juventus Turin
-  Lazio Rom               1-2 SSC Neapel
+  AC Chievo Verona         2-3  Juventus
+  SS Lazio                 1-2  SSC Napoli
 [Dom. 19.8.]
-  FC Turin                0-1 AS Rom
-  Bologna FC              0-1 SPAL 2013 Ferrara
-  Empoli FC               2-0 Cagliari Calcio
-  AC Mailand              2-1 FC Genua
-  Parma Calcio 1913       2-2 Udinese Calcio
-  Sampdoria               1-1 AC Florenz
-  Sassuolo Calcio         1-0 Inter Mailand
+  Torino FC                0-1  AS Roma
+  Empoli                   2-0  Cagliari Calcio
+  US Sassuolo Calcio       1-0  FC Internazionale Milano
+  Parma                    2-2  Udinese Calcio
+  Bologna FC               0-1  SPAL
 [Lun. 20.8.]
-  Atalanta                4-0 Frosinone Calcio
+  Atalanta BC              4-0  Frosinone
 
 
 2^ Giornata
 [Sab. 25.8.]
-  Juventus Turin          2-0 Lazio Rom
-  SSC Neapel              3-2 AC Mailand
+  Juventus                 2-0  SS Lazio
+  SSC Napoli               3-2  AC Milan
 [Dom. 26.8.]
-  SPAL 2013 Ferrara       1-0 Parma Calcio 1913
-  Cagliari Calcio         2-2 Sassuolo Calcio
-  AC Florenz              6-1 Chievo Verona
-  Frosinone Calcio        0-0 Bologna FC
-  FC Genua                2-1 Empoli FC
-  Inter Mailand           2-2 FC Turin
-  Udinese Calcio          1-0 Sampdoria
+  SPAL                     1-0  Parma
+  Udinese Calcio           1-0  UC Sampdoria
+  Cagliari Calcio          2-2  US Sassuolo Calcio
+  ACF Fiorentina           6-1  AC Chievo Verona
+  FC Internazionale Milano  2-2  Torino FC
+  Genoa CFC                2-1  Empoli
+  Frosinone                0-0  Bologna FC
 [Lun. 27.8.]
-  AS Rom                  3-3 Atalanta
+  AS Roma                  3-3  Atalanta BC
 
 
 3^ Giornata
 [Ven. 31.8.]
-  AC Mailand              2-1 AS Rom
+  AC Milan                 2-1  AS Roma
 [Sab. 1.9.]
-  Bologna FC              0-3 Inter Mailand
-  Parma Calcio 1913       1-2 Juventus Turin
+  Bologna FC               0-3  FC Internazionale Milano
+  Parma                    1-2  Juventus
 [Dom. 2.9.]
-  AC Florenz              1-0 Udinese Calcio
-  Atalanta                0-1 Cagliari Calcio
-  Chievo Verona           0-0 Empoli FC
-  Lazio Rom               1-0 Frosinone Calcio
-  Sampdoria               3-0 SSC Neapel
-  Sassuolo Calcio         5-3 FC Genua
-  FC Turin                1-0 SPAL 2013 Ferrara
+  ACF Fiorentina           1-0  Udinese Calcio
+  AC Chievo Verona         0-0  Empoli
+  SS Lazio                 1-0  Frosinone
+  Atalanta BC              0-1  Cagliari Calcio
+  Torino FC                1-0  SPAL
+  UC Sampdoria             3-0  SSC Napoli
+  US Sassuolo Calcio       5-3  Genoa CFC
 
 
 4^ Giornata
 [Sab. 15.9.]
-  Frosinone Calcio        0-5 Sampdoria
-  Inter Mailand           0-1 Parma Calcio 1913
-  SSC Neapel              1-0 AC Florenz
+  FC Internazionale Milano  0-1  Parma
+  SSC Napoli               1-0  ACF Fiorentina
+  Frosinone                0-5  UC Sampdoria
 [Dom. 16.9.]
-  Cagliari Calcio         1-1 AC Mailand
-  Empoli FC               0-1 Lazio Rom
-  FC Genua                1-0 Bologna FC
-  Juventus Turin          2-1 Sassuolo Calcio
-  AS Rom                  2-2 Chievo Verona
-  Udinese Calcio          1-1 FC Turin
+  AS Roma                  2-2  AC Chievo Verona
+  Udinese Calcio           1-1  Torino FC
+  Genoa CFC                1-0  Bologna FC
+  Juventus                 2-1  US Sassuolo Calcio
+  Empoli                   0-1  SS Lazio
+  Cagliari Calcio          1-1  AC Milan
 [Lun. 17.9.]
-  SPAL 2013 Ferrara       2-0 Atalanta
+  SPAL                     2-0  Atalanta BC
 
-## supplemento 1^ Giornata
+
+1^ Giornata
 [Mer. 19.9.]
-  Sampdoria               1-1 AC Florenz
+  UC Sampdoria             1-1  ACF Fiorentina
+
 
 5^ Giornata
 [Ven. 21.9.]
-  Sassuolo Calcio         3-1 Empoli FC
+  US Sassuolo Calcio       3-1  Empoli
 [Sab. 22.9.]
-  Parma Calcio 1913       2-0 Cagliari Calcio
-  Sampdoria               0-1 Inter Mailand
-  AC Florenz              3-0 SPAL 2013 Ferrara
+  Parma                    2-0  Cagliari Calcio
+  ACF Fiorentina           3-0  SPAL
+  UC Sampdoria             0-1  FC Internazionale Milano
 [Dom. 23.9.]
-  Bologna FC              2-0 AS Rom
-  Chievo Verona           0-2 Udinese Calcio
-  Frosinone Calcio        0-2 Juventus Turin
-  Lazio Rom               4-1 FC Genua
-  AC Mailand              2-2 Atalanta
-  FC Turin                1-3 SSC Neapel
+  Torino FC                1-3  SSC Napoli
+  AC Chievo Verona         0-2  Udinese Calcio
+  SS Lazio                 4-1  Genoa CFC
+  Bologna FC               2-0  AS Roma
+  AC Milan                 2-2  Atalanta BC
+  Frosinone                0-2  Juventus
 
 
 6^ Giornata
 [Mar. 25.9.]
-  Inter Mailand           2-1 AC Florenz
+  FC Internazionale Milano  2-1  ACF Fiorentina
 [Mer. 26.9.]
-  Atalanta                0-0 FC Turin
-  Cagliari Calcio         0-0 Sampdoria
-  FC Genua                2-0 Chievo Verona
-  Juventus Turin          2-0 Bologna FC
-  SSC Neapel              3-0 Parma Calcio 1913
-  AS Rom                  4-0 Frosinone Calcio
-  Udinese Calcio          1-2 Lazio Rom
+  Udinese Calcio           1-2  SS Lazio
+  Juventus                 2-0  Bologna FC
+  Atalanta BC              0-0  Torino FC
+  SSC Napoli               3-0  Parma
+  AS Roma                  4-0  Frosinone
+  Genoa CFC                2-0  AC Chievo Verona
+  Cagliari Calcio          0-0  UC Sampdoria
 [Gio. 27.9.]
-  SPAL 2013 Ferrara       0-2 Sassuolo Calcio
-  Empoli FC               1-1 AC Mailand
+  SPAL                     0-2  US Sassuolo Calcio
+  Empoli                   1-1  AC Milan
+
 
 7^ Giornata
 [Sab. 29.9.]
-  Inter Mailand           2-0 Cagliari Calcio
-  Juventus Turin          3-1 SSC Neapel
-  AS Rom                  3-1 Lazio Rom
+  AS Roma                  3-1  SS Lazio
+  Juventus                 3-1  SSC Napoli
+  FC Internazionale Milano  2-0  Cagliari Calcio
 [Dom. 30.9.]
-  Bologna FC              2-1 Udinese Calcio
-  Chievo Verona           0-1 FC Turin
-  AC Florenz              2-0 Atalanta
-  Frosinone Calcio        1-2 FC Genua
-  Parma Calcio 1913       1-0 Empoli FC
-  Sassuolo Calcio         1-4 AC Mailand
+  Bologna FC               2-1  Udinese Calcio
+  ACF Fiorentina           2-0  Atalanta BC
+  Frosinone                1-2  Genoa CFC
+  AC Chievo Verona         0-1  Torino FC
+  Parma                    1-0  Empoli
+  US Sassuolo Calcio       1-4  AC Milan
 [Lun. 1.10.]
-  Sampdoria               2-1 SPAL 2013 Ferrara
+  UC Sampdoria             2-1  SPAL
+
 
 8^ Giornata
 [Ven. 5.10.]
-  FC Turin                3-2 Frosinone Calcio
+  Torino FC                3-2  Frosinone
 [Sab. 6.10.]
-  Cagliari Calcio         2-0 Bologna FC
-  Empoli FC               0-2 AS Rom
-  Udinese Calcio          0-2 Juventus Turin
+  Cagliari Calcio          2-0  Bologna FC
+  Udinese Calcio           0-2  Juventus
+  Empoli                   0-2  AS Roma
 [Dom. 7.10.]
-  Atalanta                0-1 Sampdoria
-  FC Genua                1-3 Parma Calcio 1913
-  Lazio Rom               1-0 AC Florenz
-  AC Mailand              3-1 Chievo Verona
-  SSC Neapel              2-0 Sassuolo Calcio
-  SPAL 2013 Ferrara       1-2 Inter Mailand
+  Genoa CFC                1-3  Parma
+  Atalanta BC              0-1  UC Sampdoria
+  AC Milan                 3-1  AC Chievo Verona
+  SS Lazio                 1-0  ACF Fiorentina
+  SSC Napoli               2-0  US Sassuolo Calcio
+  SPAL                     1-2  FC Internazionale Milano
 
 
 9^ Giornata
 [Sab. 20.10.]
-  Juventus Turin          1-1 FC Genua
-  AS Rom                  0-2 SPAL 2013 Ferrara
-  Udinese Calcio          0-3 SSC Neapel
+  AS Roma                  0-2  SPAL
+  Juventus                 1-1  Genoa CFC
+  Udinese Calcio           0-3  SSC Napoli
 [Dom. 21.10.]
-  Bologna FC              2-2 FC Turin
-  Chievo Verona           1-5 Atalanta
-  AC Florenz              1-1 Cagliari Calcio
-  Frosinone Calcio        3-3 Empoli FC
-  Inter Mailand           1-0 AC Mailand
-  Parma Calcio 1913       0-2 Lazio Rom
+  Frosinone                3-3  Empoli
+  Parma                    0-2  SS Lazio
+  AC Chievo Verona         1-5  Atalanta BC
+  Bologna FC               2-2  Torino FC
+  ACF Fiorentina           1-1  Cagliari Calcio
+  FC Internazionale Milano  1-0  AC Milan
 [Lun. 22.10.]
-  Sampdoria               0-0 Sassuolo Calcio
+  UC Sampdoria             0-0  US Sassuolo Calcio
 
 
 10^ Giornata
 [Sab. 27.10.]
-  Atalanta                3-0 Parma Calcio 1913
-  Empoli FC               1-2 Juventus Turin
-  FC Turin                1-1 AC Florenz
+  Atalanta BC              3-0  Parma
+  Empoli                   1-2  Juventus
+  Torino FC                1-1  ACF Fiorentina
 [Dom. 28.10.]
-  Cagliari Calcio         2-1 Chievo Verona
-  FC Genua                2-2 Udinese Calcio
-  AC Mailand              3-2 Sampdoria
-  SSC Neapel              1-1 AS Rom
-  Sassuolo Calcio         2-2 Bologna FC
-  SPAL 2013 Ferrara       0-3 Frosinone Calcio
+  US Sassuolo Calcio       2-2  Bologna FC
+  SPAL                     0-3  Frosinone
+  Genoa CFC                2-2  Udinese Calcio
+  Cagliari Calcio          2-1  AC Chievo Verona
+  AC Milan                 3-2  UC Sampdoria
+  SSC Napoli               1-1  AS Roma
 [Lun. 29.10.]
-  Lazio Rom               0-3 Inter Mailand
+  SS Lazio                 0-3  FC Internazionale Milano
 
-## supplemento 1^ Giornata
+
+1^ Giornata
 [Mer. 31.10.]
-   AC Mailand             2-1 FC Genua
+  AC Milan                 2-1  Genoa CFC
+
 
 11^ Giornata
 [Ven. 2.11.]
-  SSC Neapel              5-1 Empoli FC
+  SSC Napoli               5-1  Empoli
 [Sab. 3.11.]
-  AC Florenz              1-1 AS Rom
-  Inter Mailand           5-0 FC Genua
-  Juventus Turin          3-1 Cagliari Calcio
+  FC Internazionale Milano  5-0  Genoa CFC
+  ACF Fiorentina           1-1  AS Roma
+  Juventus                 3-1  Cagliari Calcio
 [Dom. 4.11.]
-  Bologna FC              1-2 Atalanta
-  Chievo Verona           0-2 Sassuolo Calcio
-  Lazio Rom               4-1 SPAL 2013 Ferrara
-  Parma Calcio 1913       0-0 Frosinone Calcio
-  Sampdoria               1-4 FC Turin
-  Udinese Calcio          0-1 AC Mailand
+  SS Lazio                 4-1  SPAL
+  UC Sampdoria             1-4  Torino FC
+  AC Chievo Verona         0-2  US Sassuolo Calcio
+  Parma                    0-0  Frosinone
+  Bologna FC               1-2  Atalanta BC
+  Udinese Calcio           0-1  AC Milan
 
 
 12^ Giornata
 [Ven. 9.11.]
-  Frosinone Calcio        1-1 AC Florenz
+  Frosinone                1-1  ACF Fiorentina
 [Sab. 10.11.]
-  SPAL 2013 Ferrara       2-2 Cagliari Calcio
-  FC Turin                1-2 Parma Calcio 1913
-  FC Genua                1-2 SSC Neapel
+  Torino FC                1-2  Parma
+  SPAL                     2-2  Cagliari Calcio
+  Genoa CFC                1-2  SSC Napoli
 [Dom. 11.11.]
-  Atalanta                4-1 Inter Mailand
-  Chievo Verona           2-2 Bologna FC
-  Empoli FC               2-1 Udinese Calcio
-  AC Mailand              0-2 Juventus Turin
-  AS Rom                  4-1 Sampdoria
-  Sassuolo Calcio         1-1 Lazio Rom
-
+  Atalanta BC              4-1  FC Internazionale Milano
+  AC Chievo Verona         2-2  Bologna FC
+  AS Roma                  4-1  UC Sampdoria
+  Empoli                   2-1  Udinese Calcio
+  US Sassuolo Calcio       1-1  SS Lazio
+  AC Milan                 0-2  Juventus
 
 
 13^ Giornata
 [Sab. 24.11.]
-  Inter Mailand           3-0 Frosinone Calcio
-  Juventus Turin          2-0 SPAL 2013 Ferrara
-  Udinese Calcio          1-0 AS Rom
+  Udinese Calcio           1-0  AS Roma
+  Juventus                 2-0  SPAL
+  FC Internazionale Milano  3-0  Frosinone
 [Dom. 25.11.]
-  Bologna FC              0-0 AC Florenz
-  Empoli FC               3-2 Atalanta
-  FC Genua                1-1 Sampdoria
-  Lazio Rom               1-1 AC Mailand
-  SSC Neapel              0-0 Chievo Verona
-  Parma Calcio 1913       2-1 Sassuolo Calcio
+  Parma                    2-1  US Sassuolo Calcio
+  Bologna FC               0-0  ACF Fiorentina
+  SSC Napoli               0-0  AC Chievo Verona
+  Empoli                   3-2  Atalanta BC
+  SS Lazio                 1-1  AC Milan
+  Genoa CFC                1-1  UC Sampdoria
 [Lun. 26.11.]
-  Cagliari Calcio         0-0 FC Turin
+  Cagliari Calcio          0-0  Torino FC
 
 
 14^ Giornata
 [Sab. 1.12.]
-  AC Florenz              0-3 Juventus Turin
-  Sampdoria               4-1 Bologna FC
-  SPAL 2013 Ferrara       2-2 Empoli FC
+  SPAL                     2-2  Empoli
+  ACF Fiorentina           0-3  Juventus
+  UC Sampdoria             4-1  Bologna FC
 [Dom. 2.12.]
-  Chievo Verona           1-1 Lazio Rom
-  Frosinone Calcio        1-1 Cagliari Calcio
-  AC Mailand              2-1 Parma Calcio 1913
-  AS Rom                  2-2 Inter Mailand
-  Sassuolo Calcio         0-0 Udinese Calcio
-  FC Turin                2-1 FC Genua
+  AC Milan                 2-1  Parma
+  US Sassuolo Calcio       0-0  Udinese Calcio
+  Frosinone                1-1  Cagliari Calcio
+  Torino FC                2-1  Genoa CFC
+  AC Chievo Verona         1-1  SS Lazio
+  AS Roma                  2-2  FC Internazionale Milano
 [Lun. 3.12.]
-  Atalanta                1-2 SSC Neapel
+  Atalanta BC              1-2  SSC Napoli
+
 
 15^ Giornata
 [Ven. 7.12.]
-  Juventus Turin          1-0 Inter Mailand
+  Juventus                 1-0  FC Internazionale Milano
 [Sab. 8.12.]
-  SSC Neapel              4-0 Frosinone Calcio
-  Cagliari Calcio         2-2 AS Rom
-  Lazio Rom               2-2 Sampdoria
+  SSC Napoli               4-0  Frosinone
+  Cagliari Calcio          2-2  AS Roma
+  SS Lazio                 2-2  UC Sampdoria
 [Dom. 9.12.]
-  Empoli FC               2-1 Bologna FC
-  FC Genua                1-1 SPAL 2013 Ferrara
-  AC Mailand              0-0 FC Turin
-  Parma Calcio 1913       1-1 Chievo Verona
-  Sassuolo Calcio         3-3 AC Florenz
-  Udinese Calcio          1-3 Atalanta
+  US Sassuolo Calcio       3-3  ACF Fiorentina
+  Udinese Calcio           1-3  Atalanta BC
+  Empoli                   2-1  Bologna FC
+  Parma                    1-1  AC Chievo Verona
+  Genoa CFC                1-1  SPAL
+  AC Milan                 0-0  Torino FC
 
 
 16^ Giornata
 [Sab. 15.12.]
-  Inter Mailand           1-0 Udinese Calcio
-  FC Turin                0-1 Juventus Turin
+  FC Internazionale Milano  1-0  Udinese Calcio
+  Torino FC                0-1  Juventus
 [Dom. 16.12.]
-  Cagliari Calcio         0-1 SSC Neapel
-  AC Florenz              3-1 Empoli FC
-  Frosinone Calcio        0-2 Sassuolo Calcio
-  AS Rom                  3-2 FC Genua
-  Sampdoria               2-0 Parma Calcio 1913
-  SPAL 2013 Ferrara       0-0 Chievo Verona
+  SPAL                     0-0  AC Chievo Verona
+  ACF Fiorentina           3-1  Empoli
+  UC Sampdoria             2-0  Parma
+  Frosinone                0-2  US Sassuolo Calcio
+  Cagliari Calcio          0-1  SSC Napoli
+  AS Roma                  3-2  Genoa CFC
 [Lun. 17.12.]
-  Atalanta                1-0 Lazio Rom
+  Atalanta BC              1-0  SS Lazio
 [Mar. 18.12.]
-  Bologna FC              0-0 AC Mailand
+  Bologna FC               0-0  AC Milan
 
 
 17^ Giornata
 [Sab. 22.12.]
-  Chievo Verona           1-1 Inter Mailand
-  Empoli FC               2-4 Sampdoria
-  FC Genua                3-1 Atalanta
-  Juventus Turin          1-0 AS Rom
-  Lazio Rom               3-1 Cagliari Calcio
-  AC Mailand              0-1 AC Florenz
-  SSC Neapel              1-0 SPAL 2013 Ferrara
-  Parma Calcio 1913       0-0 Bologna FC
-  Sassuolo Calcio         1-1 FC Turin
-  Udinese Calcio          1-1 Frosinone Calcio
+  SS Lazio                 3-1  Cagliari Calcio
+  Genoa CFC                3-1  Atalanta BC
+  US Sassuolo Calcio       1-1  Torino FC
+  AC Milan                 0-1  ACF Fiorentina
+  SSC Napoli               1-0  SPAL
+  Empoli                   2-4  UC Sampdoria
+  Udinese Calcio           1-1  Frosinone
+  Parma                    0-0  Bologna FC
+  AC Chievo Verona         1-1  FC Internazionale Milano
+  Juventus                 1-0  AS Roma
 
 
 18^ Giornata
 [Mer. 26.12.]
-  Atalanta                2-2 Juventus Turin
-  Bologna FC              0-2 Lazio Rom
-  Cagliari Calcio         1-0 FC Genua
-  AC Florenz              0-1 Parma Calcio 1913
-  Frosinone Calcio        0-0 AC Mailand
-  Inter Mailand           1-0 SSC Neapel
-  AS Rom                  3-1 Sassuolo Calcio
-  Sampdoria               2-0 Chievo Verona
-  SPAL 2013 Ferrara       0-0 Udinese Calcio
-  FC Turin                3-0 Empoli FC
+  Frosinone                0-0  AC Milan
+  Atalanta BC              2-2  Juventus
+  Bologna FC               0-2  SS Lazio
+  UC Sampdoria             2-0  AC Chievo Verona
+  Cagliari Calcio          1-0  Genoa CFC
+  ACF Fiorentina           0-1  Parma
+  Torino FC                3-0  Empoli
+  AS Roma                  3-1  US Sassuolo Calcio
+  SPAL                     0-0  Udinese Calcio
+  FC Internazionale Milano  1-0  SSC Napoli
 
 
 19^ Giornata
 [Sab. 29.12.]
-  Chievo Verona           1-0 Frosinone Calcio
-  Empoli FC               0-1 Inter Mailand
-  FC Genua                0-0 AC Florenz
-  Juventus Turin          2-1 Sampdoria
-  Lazio Rom               1-1 FC Turin
-  AC Mailand              2-1 SPAL 2013 Ferrara
-  SSC Neapel              3-2 Bologna FC
-  Parma Calcio 1913       0-2 AS Rom
-  Sassuolo Calcio         2-6 Atalanta
-  Udinese Calcio          2-0 Cagliari Calcio
-
-
-# Winterpause bis Dom. 20.1.2019
+  Juventus                 2-1  UC Sampdoria
+  Parma                    0-2  AS Roma
+  US Sassuolo Calcio       2-6  Atalanta BC
+  SS Lazio                 1-1  Torino FC
+  Empoli                   0-1  FC Internazionale Milano
+  Genoa CFC                0-0  ACF Fiorentina
+  AC Chievo Verona         1-0  Frosinone
+  Udinese Calcio           2-0  Cagliari Calcio
+  SSC Napoli               3-2  Bologna FC
+  AC Milan                 2-1  SPAL
 
 
 20^ Giornata
-[Sab 19.1.]
-  Inter Mailand           0-0 Sassuolo Calcio
-  AS Rom                  3-2 FC Turin
-  Udinese Calcio          1-2 Parma Calcio 1913
+[Sab. 19.1.]
+  AS Roma                  3-2  Torino FC
+  Udinese Calcio           1-2  Parma
+  FC Internazionale Milano  0-0  US Sassuolo Calcio
 [Dom. 20.1.]
-  Frosinone Calcio        0-5 Atalanta
-  SPAL 2013 Ferrara       1-1 Bologna FC
-  Cagliari Calcio         2-2 Empoli FC
-  SSC Neapel              2-1 Lazio Rom
-  AC Florenz              3-3 Sampdoria
+  Frosinone                0-5  Atalanta BC
+  ACF Fiorentina           3-3  UC Sampdoria
+  SPAL                     1-1  Bologna FC
+  Cagliari Calcio          2-2  Empoli
+  SSC Napoli               2-1  SS Lazio
 [Lun. 21.1.]
-  FC Genua                0-2 AC Mailand
-  Juventus Turin          3-0 Chievo Verona
+  Genoa CFC                0-2  AC Milan
+  Juventus                 3-0  AC Chievo Verona
 
 
 21^ Giornata
 [Sab. 26.1.]
-  Sassuolo Calcio         3-0 Cagliari Calcio
-  Sampdoria               4-0 Udinese Calcio
-  AC Mailand              0-0 SSC Neapel
+  US Sassuolo Calcio       3-0  Cagliari Calcio
+  UC Sampdoria             4-0  Udinese Calcio
+  AC Milan                 0-0  SSC Napoli
 [Dom. 27.1.]
-  Chievo Verona           3-4 AC Florenz
-  Bologna FC              0-4 Frosinone Calcio
-  FC Turin                1-0 Inter Mailand
-  Lazio Rom               1-2 Juventus Turin
-  Atalanta                3-3 AS Rom
-  Parma Calcio 1913       2-3 SPAL 2013 Ferrara
+  AC Chievo Verona         3-4  ACF Fiorentina
+  Parma                    2-3  SPAL
+  Atalanta BC              3-3  AS Roma
+  Bologna FC               0-4  Frosinone
+  Torino FC                1-0  FC Internazionale Milano
+  SS Lazio                 1-2  Juventus
 [Lun. 28.1.]
-  Empoli FC               1-3 FC Genua
+  Empoli                   1-3  Genoa CFC
 
 
 22^ Giornata
 [Sab. 2.2.]
-  Juventus Turin          3-3 Parma Calcio 1913
-  SSC Neapel              3-0 Sampdoria
-  Empoli FC               2-2 Chievo Verona
+  Empoli                   2-2  AC Chievo Verona
+  SSC Napoli               3-0  UC Sampdoria
+  Juventus                 3-3  Parma
 [Dom. 3.2.]
-  Inter Mailand           0-1 Bologna FC
-  Udinese Calcio          1-1 AC Florenz
-  AS Rom                  1-1 AC Mailand
-  FC Genua                1-1 Sassuolo Calcio
-  SPAL 2013 Ferrara       0-0 FC Turin
+  SPAL                     0-0  Torino FC
+  Udinese Calcio           1-1  ACF Fiorentina
+  Genoa CFC                1-1  US Sassuolo Calcio
+  FC Internazionale Milano  0-1  Bologna FC
+  AS Roma                  1-1  AC Milan
 [Lun. 4.2.]
-  Cagliari Calcio         0-1 Atalanta
-  Frosinone Calcio        0-1 Lazio Rom
+  Frosinone                0-1  SS Lazio
+  Cagliari Calcio          0-1  Atalanta BC
 
 
 23^ Giornata
 [Gio. 7.2.]
-  Lazio Rom               1-0 Empoli FC
+  SS Lazio                 1-0  Empoli
 [Ven. 8.2.]
-  Chievo Verona           0-3 AS Rom
+  AC Chievo Verona         0-3  AS Roma
 [Sab. 9.2.]
-  AC Florenz              0-0 SSC Neapel
-  Parma Calcio 1913       0-1 Inter Mailand
+  ACF Fiorentina           0-0  SSC Napoli
+  Parma                    0-1  FC Internazionale Milano
 [Dom. 10.2.]
-  AC Mailand              3-0 Cagliari Calcio
-  Sampdoria               0-1 Frosinone Calcio
-  Bologna FC              1-1 FC Genua
-  Sassuolo Calcio         0-3 Juventus Turin
-  Atalanta                2-1 SPAL 2013 Ferrara
-  FC Turin                1-0 Udinese Calcio
+  Bologna FC               1-1  Genoa CFC
+  Torino FC                1-0  Udinese Calcio
+  UC Sampdoria             0-1  Frosinone
+  Atalanta BC              2-1  SPAL
+  US Sassuolo Calcio       0-3  Juventus
+  AC Milan                 3-0  Cagliari Calcio
 
 
 24^ Giornata
 [Ven. 15.2.]
-  Juventus Turin          3-0 Frosinone Calcio
+  Juventus                 3-0  Frosinone
 [Sab. 16.2.]
-  Atalanta                1-3 AC Mailand
-  Cagliari Calcio         2-1 Parma Calcio 1913
+  Cagliari Calcio          2-1  Parma
+  Atalanta BC              1-3  AC Milan
 [Dom. 17.2.]
-  Udinese Calcio          1-0 Chievo Verona
-  SPAL 2013 Ferrara       1-4 AC Florenz
-  FC Genua                2-1 Lazio Rom
-  Inter Mailand           2-1 Sampdoria
-  Empoli FC               3-0 Sassuolo Calcio
-  SSC Neapel              0-0 FC Turin
+  SPAL                     1-4  ACF Fiorentina
+  Genoa CFC                2-1  SS Lazio
+  Empoli                   3-0  US Sassuolo Calcio
+  Udinese Calcio           1-0  AC Chievo Verona
+  FC Internazionale Milano  2-1  UC Sampdoria
+  SSC Napoli               0-0  Torino FC
 [Lun. 18.2.]
-  AS Rom                  2-1 Bologna FC
+  AS Roma                  2-1  Bologna FC
 
 
 25^ Giornata
 [Ven. 22.2.]
-  AC Mailand              3-0 Empoli FC
+  AC Milan                 3-0  Empoli
 [Sab. 23.2.]
-  FC Turin                2-0 Atalanta
-  Frosinone Calcio        2-3 AS Rom
+  Torino FC                2-0  Atalanta BC
+  Frosinone                2-3  AS Roma
 [Dom. 24.2.]
-  Bologna FC              0-1 Juventus Turin
-  Sampdoria               1-0 Cagliari Calcio
-  Chievo Verona           0-0 FC Genua
-  AC Florenz              3-3 Inter Mailand
-  Parma Calcio 1913       0-4 SSC Neapel
-  Sassuolo Calcio         1-1 SPAL 2013 Ferrara
-[Lun. 25.2.]
-  Lazio Rom               2-0 Udinese Calcio
+  UC Sampdoria             1-0  Cagliari Calcio
+  US Sassuolo Calcio       1-1  SPAL
+  AC Chievo Verona         0-0  Genoa CFC
+  Bologna FC               0-1  Juventus
+  Parma                    0-4  SSC Napoli
+  ACF Fiorentina           3-3  FC Internazionale Milano
 
 
 26^ Giornata
 [Ven. 1.3.]
-  Cagliari Calcio         2-1 Inter Mailand
+  Cagliari Calcio          2-1  FC Internazionale Milano
 [Sab. 2.3.]
-  Empoli FC               3-3 Parma Calcio 1913
-  Lazio Rom               3-0 AS Rom
-  AC Mailand              1-0 Sassuolo Calcio
+  Empoli                   3-3  Parma
+  AC Milan                 1-0  US Sassuolo Calcio
+  SS Lazio                 3-0  AS Roma
 [Dom. 3.3.]
-  Udinese Calcio          2-1 Bologna FC
-  FC Turin                3-0 Chievo Verona
-  FC Genua                0-0 Frosinone Calcio
-  SSC Neapel              1-2 Juventus Turin
-  SPAL 2013 Ferrara       1-2 Sampdoria
-  Atalanta                3-1 AC Florenz
+  Torino FC                3-0  AC Chievo Verona
+  Udinese Calcio           2-1  Bologna FC
+  Genoa CFC                0-0  Frosinone
+  SPAL                     1-2  UC Sampdoria
+  Atalanta BC              3-1  ACF Fiorentina
+  SSC Napoli               1-2  Juventus
+
 
 27^ Giornata
 [Ven. 8.3.]
-  Juventus Turin          4-1 Udinese Calcio
+  Juventus                 4-1  Udinese Calcio
 [Sab. 9.3.]
-  Parma Calcio 1913       1-0 FC Genua
-  Chievo Verona           1-2 AC Mailand
+  Parma                    1-0  Genoa CFC
+  AC Chievo Verona         1-2  AC Milan
 [Dom. 10.3.]
-  Sampdoria               1-2 Atalanta
-  Bologna FC              2-0 Cagliari Calcio
-  AC Florenz              1-1 Lazio Rom
-  Sassuolo Calcio         1-1 SSC Neapel
-  Inter Mailand           2-0 SPAL 2013 Ferrara
-  Frosinone Calcio        1-2 FC Turin
+  Bologna FC               2-0  Cagliari Calcio
+  UC Sampdoria             1-2  Atalanta BC
+  Frosinone                1-2  Torino FC
+  FC Internazionale Milano  2-0  SPAL
+  US Sassuolo Calcio       1-1  SSC Napoli
+  ACF Fiorentina           1-1  SS Lazio
 [Lun. 11.3.]
-  AS Rom                  2-1 Empoli FC
+  AS Roma                  2-1  Empoli
 
 
 28^ Giornata
 [Ven. 15.3.]
-  Cagliari Calcio         2-1 AC Florenz
+  Cagliari Calcio          2-1  ACF Fiorentina
 [Sab. 16.3.]
-  SPAL 2013 Ferrara       2-1 AS Rom
-  Sassuolo Calcio         3-5 Sampdoria
-  FC Turin                2-3 Bologna FC
+  US Sassuolo Calcio       3-5  UC Sampdoria
+  SPAL                     2-1  AS Roma
+  Torino FC                2-3  Bologna FC
 [Dom. 17.3.]
-  Atalanta                1-1 Chievo Verona
-  Empoli FC               2-1 Frosinone Calcio
-  AC Mailand              2-3 Inter Mailand
-  FC Genua                2-0 Juventus Turin
-  Lazio Rom               4-1 Parma Calcio 1913
-  SSC Neapel              4-2 Udinese Calcio
+  Genoa CFC                2-0  Juventus
+  SS Lazio                 4-1  Parma
+  Empoli                   2-1  Frosinone
+  Atalanta BC              1-1  AC Chievo Verona
+  SSC Napoli               4-2  Udinese Calcio
+  AC Milan                 2-3  FC Internazionale Milano
 
 
 29^ Giornata
 [Ven. 29.3.]
-  Chievo Verona           0-3 Cagliari Calcio
+  AC Chievo Verona         0-3  Cagliari Calcio
 [Sab. 30.3.]
-  Juventus Turin          1-0 Empoli FC
-  Udinese Calcio          2-0 FC Genua
-  Sampdoria               1-0 AC Mailand
+  Udinese Calcio           2-0  Genoa CFC
+  Juventus                 1-0  Empoli
+  UC Sampdoria             1-0  AC Milan
 [Dom. 31.3.]
-  Parma Calcio 1913       1-3 Atalanta
-  Inter Mailand           0-1 Lazio Rom
-  AS Rom                  1-4 SSC Neapel
-  Bologna FC              2-1 Sassuolo Calcio
-  Frosinone Calcio        0-1 SPAL 2013 Ferrara
-  AC Florenz              1-1 FC Turin
+  Parma                    1-3  Atalanta BC
+  ACF Fiorentina           1-1  Torino FC
+  AS Roma                  1-4  SSC Napoli
+  Frosinone                0-1  SPAL
+  Bologna FC               2-1  US Sassuolo Calcio
+  FC Internazionale Milano  0-1  SS Lazio
 
 
 30^ Giornata
 [Mar. 2.4.]
-  AC Mailand              1-1 Udinese Calcio
-  Cagliari Calcio         0-2 Juventus Turin
+  AC Milan                 1-1  Udinese Calcio
+  Cagliari Calcio          0-2  Juventus
 [Mer. 3.4.]
-  AS Rom                  2-2 AC Florenz
-  FC Genua                0-4 Inter Mailand
-  SPAL 2013 Ferrara       1-0 Lazio Rom
-  Empoli FC               2-1 SSC Neapel
-  Frosinone Calcio        3-2 Parma Calcio 1913
-  FC Turin                2-1 Sampdoria
+  Empoli                   2-1  SSC Napoli
+  AS Roma                  2-2  ACF Fiorentina
+  Torino FC                2-1  UC Sampdoria
+  SPAL                     1-0  SS Lazio
+  Frosinone                3-2  Parma
+  Genoa CFC                0-4  FC Internazionale Milano
 [Gio. 4.4.]
-  Atalanta                4-1 Bologna FC
-  Sassuolo Calcio         4-0 Chievo Verona
+  US Sassuolo Calcio       4-0  AC Chievo Verona
+  Atalanta BC              4-1  Bologna FC
 
 
 31^ Giornata
 [Sab. 6.4.]
-  Juventus Turin          2-1 AC Mailand
-  Sampdoria               0-1 AS Rom
-  Parma Calcio 1913       0-0 FC Turin
+  Parma                    0-0  Torino FC
+  Juventus                 2-1  AC Milan
+  UC Sampdoria             0-1  AS Roma
 [Dom. 7.4.]
-  Inter Mailand           0-0 Atalanta
-  Udinese Calcio          3-2 Empoli FC
-  AC Florenz              0-1 Frosinone Calcio
-  SSC Neapel              1-1 FC Genua
-  Lazio Rom               2-2 Sassuolo Calcio
-  Cagliari Calcio         2-1 SPAL 2013 Ferrara
+  ACF Fiorentina           0-1  Frosinone
+  Udinese Calcio           3-2  Empoli
+  Cagliari Calcio          2-1  SPAL
+  SS Lazio                 2-2  US Sassuolo Calcio
+  FC Internazionale Milano  0-0  Atalanta BC
+  SSC Napoli               1-1  Genoa CFC
 [Lun. 8.4.]
-  Bologna FC              3-0 Chievo Verona
-
-
-## supplemento 25^ Giornata
-[Mer. 10.4.]
-  Lazio Rom               2-0 Udinese Calcio
+  Bologna FC               3-0  AC Chievo Verona
 
 
 32^ Giornata
 [Sab. 13.4.]
-  SPAL 2013 Ferrara       2-1 Juventus Turin
-  AC Mailand              1-0 Lazio Rom
-  AS Rom                  1-0 Udinese Calcio
+  SPAL                     2-1  Juventus
+  AS Roma                  1-0  Udinese Calcio
+  AC Milan                 1-0  SS Lazio
 [Dom. 14.4.]
-  AC Florenz              0-0 Bologna FC
-  FC Turin                1-1 Cagliari Calcio
-  Sampdoria               2-0 FC Genua
-  Frosinone Calcio        1-3 Inter Mailand
-  Chievo Verona           1-3 SSC Neapel
-  Sassuolo Calcio         0-0 Parma Calcio 1913
+  Torino FC                1-1  Cagliari Calcio
+  UC Sampdoria             2-0  Genoa CFC
+  ACF Fiorentina           0-0  Bologna FC
+  US Sassuolo Calcio       0-0  Parma
+  AC Chievo Verona         1-3  SSC Napoli
+  Frosinone                1-3  FC Internazionale Milano
 [Lun. 15.4.]
-  Atalanta                0-0 Empoli FC
+  Atalanta BC              0-0  Empoli
+
+
+25^ Giornata
+[Mer. 17.4.]
+  SS Lazio                 2-0  Udinese Calcio
 
 
 33^ Giornata
 [Sab. 20.4.]
-  Lazio Rom               1-2 Chievo Verona
-  Juventus Turin          2-1 AC Florenz
-  Cagliari Calcio         1-0 Frosinone Calcio
-  Parma Calcio 1913       1-1 AC Mailand
-  Inter Mailand           1-1 AS Rom
-  Bologna FC              3-0 Sampdoria
-  Udinese Calcio          1-1 Sassuolo Calcio
-  Empoli FC               2-4 SPAL 2013 Ferrara
-  FC Genua                0-1 FC Turin
-[Dom. 21.4.]
-  SSC Neapel              1-2 Atalanta
+  Parma                    1-1  AC Milan
+  Cagliari Calcio          1-0  Frosinone
+  Genoa CFC                0-1  Torino FC
+  Empoli                   2-4  SPAL
+  SS Lazio                 1-2  AC Chievo Verona
+  Bologna FC               3-0  UC Sampdoria
+  Udinese Calcio           1-1  US Sassuolo Calcio
+  Juventus                 2-1  ACF Fiorentina
+  FC Internazionale Milano  1-1  AS Roma
+[Lun. 22.4.]
+  SSC Napoli               1-2  Atalanta BC
 
 
 34^ Giornata
 [Sab. 27.4.]
-  Inter Mailand           1-1 Juventus Turin
-  AS Rom                  3-0 Cagliari Calcio
-  Bologna FC              3-1 Empoli FC
+  Bologna FC               3-1  Empoli
+  AS Roma                  3-0  Cagliari Calcio
+  FC Internazionale Milano  1-1  Juventus
 [Dom. 28.4.]
-  SPAL 2013 Ferrara       1-1 FC Genua
-  Sampdoria               1-2 Lazio Rom
-  FC Turin                2-0 AC Mailand
-  Frosinone Calcio        0-2 SSC Neapel
-  Chievo Verona           1-1 Parma Calcio 1913
+  Frosinone                0-2  SSC Napoli
+  SPAL                     1-1  Genoa CFC
+  AC Chievo Verona         1-1  Parma
+  UC Sampdoria             1-2  SS Lazio
+  Torino FC                2-0  AC Milan
 [Lun. 29.4.]
-  AC Florenz              0-1 Sassuolo Calcio
-  Atalanta                2-0 Udinese Calcio
+  Atalanta BC              2-0  Udinese Calcio
+  ACF Fiorentina           0-1  US Sassuolo Calcio
 
 
 35^ Giornata
 [Ven. 3.5.]
-  Juventus Turin          1-1 FC Turin
-[Sab, 4.5.]
-  Udinese Calcio          0-0 Inter Mailand
-  Chievo Verona           0-4 SPAL 2013 Ferrara
+  Juventus                 1-1  Torino FC
+[Sab. 4.5.]
+  AC Chievo Verona         0-4  SPAL
+  Udinese Calcio           0-0  FC Internazionale Milano
 [Dom. 5.5.]
-  Lazio Rom               1-3 Atalanta
-  SSC Neapel              2-1 Cagliari Calcio
-  Empoli FC               1-0 AC Florenz
-  Sassuolo Calcio         2-2 Frosinone Calcio
-  FC Genua                1-1 AS Rom
-  Parma Calcio 1913       3-3 Sampdoria
+  Empoli                   1-0  ACF Fiorentina
+  Parma                    3-3  UC Sampdoria
+  SS Lazio                 1-3  Atalanta BC
+  US Sassuolo Calcio       2-2  Frosinone
+  Genoa CFC                1-1  AS Roma
+  SSC Napoli               2-1  Cagliari Calcio
 [Lun. 6.5.]
-  AC Mailand              2-1 Bologna FC
+  AC Milan                 2-1  Bologna FC
 
 
 36^ Giornata
 [Sab. 11.5.]
-  Cagliari Calcio         1-2 Lazio Rom
-  AC Florenz              0-1 AC Mailand
-  Atalanta                2-1 FC Genua
+  Atalanta BC              2-1  Genoa CFC
+  Cagliari Calcio          1-2  SS Lazio
+  ACF Fiorentina           0-1  AC Milan
 [Dom. 12.5.]
-  Sampdoria               1-2 Empoli FC
-  AS Rom                  2-0 Juventus Turin
-  SPAL 2013 Ferrara       1-2 SSC Neapel
-  FC Turin                3-2 Sassuolo Calcio
-  Frosinone Calcio        1-3 Udinese Calcio
+  Torino FC                3-2  US Sassuolo Calcio
+  UC Sampdoria             1-2  Empoli
+  Frosinone                1-3  Udinese Calcio
+  SPAL                     1-2  SSC Napoli
+  AS Roma                  2-0  Juventus
 [Lun. 13.5.]
-  Bologna FC              4-1 Parma Calcio 1913
-  Inter Mailand           2-0 Chievo Verona
-
-
-# 1. Aufsteiger Serie A 2019/20:
-#  Brescia Calcio
-# 2.Aufsteiger Serie A 2019/20:
-#  US Lecce
-
-# Play-off um 3. Serie A Aufsteiger 2019/20:
-# Vorrunde:
-# [Ven. 17.5.]
-#  Spezia Calcio           1-2 AS Cittadella
-# [Sab. 18.5.]
-#  Hellas Verona           4-1 AC Perugia Calcio
+  Bologna FC               4-1  Parma
+  FC Internazionale Milano  2-0  AC Chievo Verona
 
 
 37^ Giornata
 [Sab. 18.5.]
-  FC Genua                1-1 Cagliari Calcio
-  Udinese Calcio          3-2 SPAL 2013 Ferrara
-  Sassuolo Calcio         0-0 AS Rom
+  Udinese Calcio           3-2  SPAL
+  Genoa CFC                1-1  Cagliari Calcio
+  US Sassuolo Calcio       0-0  AS Roma
 [Dom. 19.5.]
-  Juventus Turin          1-1 Atalanta
-  Parma Calcio 1913       1-0 AC Florenz
-  AC Mailand              2-0 Frosinone Calcio
-  SSC Neapel              4-1 Inter Mailand
-  Chievo Verona           0-0 Sampdoria
-  Empoli FC               4-1 FC Turin
+  AC Chievo Verona         0-0  UC Sampdoria
+  Empoli                   4-1  Torino FC
+  Parma                    1-0  ACF Fiorentina
+  AC Milan                 2-0  Frosinone
+  SSC Napoli               4-1  FC Internazionale Milano
+  Juventus                 1-1  Atalanta BC
 [Lun. 20.5.]
-  Lazio Rom               3-3 Bologna FC
-
-
-# 3. Absteiger Serie A 2018/19:
-
-# Play-off um 3. Serie A Aufsteiger 2019/20:
-# Halbfinale:
-# [Mar. 21.5.]
-#  AS Cittadella           1-2 Benevento Calcio
-# [Mer. 22.5.]
-#  Hellas Verona           0-0 Pescara Calcio
-# [Sab. 25.5.]
-#  Benevento Calcio        0-3 AS Cittadella
-# [Dom. 26.5.]
-#  Pescara Calcio          0-1 Hellas Verona
+  SS Lazio                 3-3  Bologna FC
 
 
 38^ Giornata
 [Sab. 25.5.]
-  Frosinone Calcio        0-0 Chievo Verona
-  Bologna FC              3-2 SSC Neapel
+  Frosinone                0-0  AC Chievo Verona
+  Bologna FC               3-2  SSC Napoli
 [Dom. 26.5.]
-  Inter Mailand           2-1 Empoli FC
-  AC Florenz              0-0 FC Genua
-  Sampdoria               2-0 Juventus Turin
-  FC Turin                3-1 Lazio Rom
-  SPAL 2013 Ferrara       2-3 AC Mailand
-  AS Rom                  2-1 Parma Calcio 1913
-  Atalanta                3-1 Sassuolo Calcio
-  Cagliari Calcio         1-2 Udinese Calcio
-
-
-# 3. Absteiger Serie A 2018/19:
-#  Empoli FC
-
-# Play-off um 3. Serie A Aufsteiger 2019/20:
-# Finale:
-# [Gio. 30.5]
-#  AS Cittadella           2-0 Hellas Verona
-# [Dom. 2.6.]
-#  Hellas Verona           3-0 AS Cittadella
-
-# Play-off Sieger in Serie A 2019/20:
-#  Hellas Verona
+  Torino FC                3-1  SS Lazio
+  UC Sampdoria             2-0  Juventus
+  ACF Fiorentina           0-0  Genoa CFC
+  Atalanta BC              3-1  US Sassuolo Calcio
+  SPAL                     2-3  AC Milan
+  AS Roma                  2-1  Parma
+  FC Internazionale Milano  2-1  Empoli
+  Cagliari Calcio          1-2  Udinese Calcio
