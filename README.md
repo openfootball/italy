@@ -46,9 +46,9 @@ Juventus FC |Juventus Football Club | Juventus Torino, JUV
 ```
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `italy.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
+Use the `sportdb` command line tool to build your own `italy.db` copy
 from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
 
 
