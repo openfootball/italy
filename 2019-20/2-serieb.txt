@@ -1,0 +1,606 @@
+= Italian Serie B 2019/20
+
+
+1^ Giornata
+[Ven. 23.8.]
+  AC Pisa                  0-0  Benevento
+[Sab. 24.8.]
+  FC Crotone               0-0  Cosenza Calcio
+  Salernitana              3-1  Pescara
+  Ascoli                   3-1  Trapani Calcio
+  Virtus Entella           1-0  AS Livorno Calcio
+  Venezia                  1-2  Cremonese
+  Cittadella               0-3  Spezia
+[Dom. 25.8.]
+  Empoli                   2-1  SS Juve Stabia
+  AC Perugia               2-1  AC Chievo Verona
+[Lun. 26.8.]
+  Pordenone Calcio         3-0  Frosinone
+
+
+2^ Giornata
+[Ven. 30.8.]
+  AC Chievo Verona         1-1  Empoli
+[Sab. 31.8.]
+  Trapani Calcio           0-1  Venezia
+  Benevento                4-1  Cittadella
+  Cosenza Calcio           0-1  Salernitana
+  Cremonese                0-1  Virtus Entella
+  AS Livorno Calcio        0-1  AC Perugia
+  Spezia                   1-2  FC Crotone
+[Dom. 1.9.]
+  SS Juve Stabia           0-2  AC Pisa
+  Pescara                  4-2  Pordenone Calcio
+  Frosinone                2-1  Ascoli
+
+
+3^ Giornata
+[Ven. 13.9.]
+  Pordenone Calcio         1-0  Spezia
+[Sab. 14.9.]
+  Ascoli                   2-0  AS Livorno Calcio
+  Cittadella               2-0  Trapani Calcio
+  AC Perugia               0-0  SS Juve Stabia
+  Venezia                  0-2  AC Chievo Verona
+  Virtus Entella           1-0  Frosinone
+[Dom. 15.9.]
+  Cosenza Calcio           1-2  Pescara
+  FC Crotone               0-0  Empoli
+  AC Pisa                  4-1  Cremonese
+[Lun. 16.9.]
+  Salernitana              0-2  Benevento
+
+
+4^ Giornata
+[Ven. 20.9.]
+  Frosinone                1-1  Venezia
+[Sab. 21.9.]
+  Cremonese                2-1  FC Crotone
+  Benevento                1-0  Cosenza Calcio
+  Empoli                   1-0  Cittadella
+  SS Juve Stabia           1-5  Ascoli
+  AS Livorno Calcio        2-1  Pordenone Calcio
+  Pescara                  1-1  Virtus Entella
+  AC Chievo Verona         2-2  AC Pisa
+  Spezia                   2-2  AC Perugia
+[Dom. 22.9.]
+  Trapani Calcio           0-1  Salernitana
+
+
+5^ Giornata
+[Mar. 24.9.]
+  Ascoli                   3-0  Spezia
+  Cittadella               2-1  Pescara
+  Cosenza Calcio           1-1  AS Livorno Calcio
+  FC Crotone               2-0  SS Juve Stabia
+  Virtus Entella           0-2  Venezia
+  AC Pisa                  2-3  Empoli
+  Pordenone Calcio         1-1  Benevento
+  AC Perugia               3-1  Frosinone
+[Mer. 25.9.]
+  Salernitana              1-1  AC Chievo Verona
+  Trapani Calcio           0-0  Cremonese
+
+
+6^ Giornata
+[Ven. 27.9.]
+  Pescara                  0-3  FC Crotone
+[Sab. 28.9.]
+  Frosinone                1-1  Cosenza Calcio
+  SS Juve Stabia           0-1  Cittadella
+  Venezia                  1-1  AC Pisa
+  Empoli                   3-0  AC Perugia
+[Dom. 29.9.]
+  Benevento                1-1  Virtus Entella
+  AC Chievo Verona         1-1  Pordenone Calcio
+  Spezia                   2-4  Trapani Calcio
+  AS Livorno Calcio        2-3  Salernitana
+[Lun. 30.9.]
+  Cremonese                1-0  Ascoli
+
+
+7^ Giornata
+[Ven. 4.10.]
+  AC Perugia               1-0  AC Pisa
+[Sab. 5.10.]
+  Trapani Calcio           1-2  SS Juve Stabia
+  Cosenza Calcio           1-1  Venezia
+  AS Livorno Calcio        3-4  AC Chievo Verona
+  Pordenone Calcio         2-0  Empoli
+  Spezia                   0-1  Benevento
+  FC Crotone               3-1  Virtus Entella
+[Dom. 6.10.]
+  Cremonese                0-2  Cittadella
+  Salernitana              1-1  Frosinone
+  Ascoli                   0-2  Pescara
+
+
+8^ Giornata
+[Ven. 18.10.]
+  Cittadella               1-3  Cosenza Calcio
+[Sab. 19.10.]
+  SS Juve Stabia           4-2  Pordenone Calcio
+  Pescara                  1-2  Spezia
+  Benevento                1-0  AC Perugia
+  Virtus Entella           1-1  Trapani Calcio
+  Venezia                  1-0  Salernitana
+[Dom. 20.10.]
+  AC Chievo Verona         2-0  Ascoli
+  AC Pisa                  1-1  FC Crotone
+  Empoli                   1-1  Cremonese
+[Lun. 21.10.]
+  Frosinone                1-0  AS Livorno Calcio
+
+
+9^ Giornata
+[Ven. 25.10.]
+  Ascoli                   2-1  Virtus Entella
+[Sab. 26.10.]
+  FC Crotone               3-2  Venezia
+  Cosenza Calcio           1-1  AC Chievo Verona
+  Pescara                  4-0  Benevento
+  Pordenone Calcio         0-0  Cittadella
+  Salernitana              1-1  AC Perugia
+  AS Livorno Calcio        1-0  AC Pisa
+  Trapani Calcio           2-2  Empoli
+  Spezia                   2-0  SS Juve Stabia
+[Dom. 27.10.]
+  Cremonese                1-1  Frosinone
+
+
+10^ Giornata
+[Mar. 29.10.]
+  SS Juve Stabia           2-1  Pescara
+  Cittadella               1-0  AS Livorno Calcio
+  Empoli                   1-1  Spezia
+  AC Chievo Verona         2-1  FC Crotone
+  Virtus Entella           1-0  Cosenza Calcio
+  AC Pisa                  2-1  Salernitana
+  Venezia                  1-2  Pordenone Calcio
+  AC Perugia               1-1  Ascoli
+[Mer. 30.10.]
+  Benevento                2-0  Cremonese
+  Frosinone                3-0  Trapani Calcio
+
+
+11^ Giornata
+[Ven. 1.11.]
+  Spezia                   0-0  AC Chievo Verona
+[Sab. 2.11.]
+  Ascoli                   1-1  Venezia
+  FC Crotone               2-3  AC Perugia
+  Salernitana              2-1  Virtus Entella
+  Pescara                  3-0  AC Pisa
+  AS Livorno Calcio        2-1  SS Juve Stabia
+[Dom. 3.11.]
+  Cittadella               0-0  Frosinone
+  Benevento                2-0  Empoli
+  Pordenone Calcio         2-1  Trapani Calcio
+[Lun. 4.11.]
+  Cosenza Calcio           2-0  Cremonese
+
+
+12^ Giornata
+[Ven. 8.11.]
+  FC Crotone               3-1  Ascoli
+[Sab. 9.11.]
+  AC Perugia               0-2  Cittadella
+  Empoli                   1-2  Pescara
+  AC Pisa                  3-2  Spezia
+  Venezia                  1-0  AS Livorno Calcio
+  Virtus Entella           1-1  Pordenone Calcio
+  SS Juve Stabia           1-1  Benevento
+[Dom. 10.11.]
+  Cremonese                1-0  Salernitana
+  Trapani Calcio           2-2  Cosenza Calcio
+  Frosinone                2-0  AC Chievo Verona
+
+
+13^ Giornata
+[Ven. 22.11.]
+  Pescara                  1-1  Cremonese
+[Sab. 23.11.]
+  Empoli                   1-1  Venezia
+  SS Juve Stabia           2-0  Salernitana
+  AS Livorno Calcio        1-2  Trapani Calcio
+  Pordenone Calcio         3-0  AC Perugia
+  Benevento                2-0  FC Crotone
+[Dom. 24.11.]
+  Ascoli                   3-2  Cosenza Calcio
+  Cittadella               1-1  AC Pisa
+  Spezia                   2-0  Frosinone
+[Lun. 25.11.]
+  AC Chievo Verona         2-1  Virtus Entella
+
+
+14^ Giornata
+[Ven. 29.11.]
+  Cosenza Calcio           1-1  Spezia
+[Sab. 30.11.]
+  Cremonese                0-0  AS Livorno Calcio
+  FC Crotone               1-1  Cittadella
+  Frosinone                4-0  Empoli
+  Venezia                  0-2  Benevento
+  Salernitana              1-1  Ascoli
+[Dom. 1.12.]
+  Trapani Calcio           1-0  AC Chievo Verona
+  Virtus Entella           2-0  SS Juve Stabia
+  AC Perugia               3-1  Pescara
+[Lun. 2.12.]
+  AC Pisa                  2-0  Pordenone Calcio
+
+
+15^ Giornata
+[Ven. 6.12.]
+  Benevento                5-0  Trapani Calcio
+[Sab. 7.12.]
+  Cittadella               4-3  Salernitana
+  Empoli                   2-1  Ascoli
+  AC Chievo Verona         1-0  Cremonese
+  Spezia                   2-0  AS Livorno Calcio
+  Pescara                  2-2  Venezia
+[Dom. 8.12.]
+  SS Juve Stabia           0-2  Frosinone
+  AC Pisa                  0-2  Virtus Entella
+  Pordenone Calcio         1-0  FC Crotone
+[Lun. 9.12.]
+  AC Perugia               2-2  Cosenza Calcio
+
+
+16^ Giornata
+[Ven. 13.12.]
+  AC Chievo Verona         2-3  SS Juve Stabia
+[Sab. 14.12.]
+  Ascoli                   1-0  Cittadella
+  AS Livorno Calcio        0-2  Benevento
+  Venezia                  0-0  Spezia
+  Virtus Entella           2-0  Empoli
+  Frosinone                2-0  Pescara
+[Dom. 15.12.]
+  Cosenza Calcio           1-2  Pordenone Calcio
+  Salernitana              3-2  FC Crotone
+  Cremonese                2-1  AC Perugia
+[Lun. 16.12.]
+  Trapani Calcio           1-3  AC Pisa
+
+
+17^ Giornata
+[Sab. 21.12.]
+  Cittadella               1-1  AC Chievo Verona
+  FC Crotone               2-1  AS Livorno Calcio
+  Empoli                   1-1  Salernitana
+  Benevento                1-0  Frosinone
+  AC Perugia               2-0  Virtus Entella
+  SS Juve Stabia           2-0  Venezia
+[Dom. 22.12.]
+  Pescara                  1-1  Trapani Calcio
+  Pordenone Calcio         2-1  Ascoli
+  AC Pisa                  1-3  Cosenza Calcio
+
+
+18^ Giornata
+[Gio. 26.12.]
+  Virtus Entella           0-0  Spezia
+  Cosenza Calcio           1-0  Empoli
+  AC Chievo Verona         1-2  Benevento
+  Cremonese                1-1  SS Juve Stabia
+  Frosinone                1-2  FC Crotone
+  AS Livorno Calcio        0-2  Pescara
+  Salernitana              4-0  Pordenone Calcio
+  Trapani Calcio           2-2  AC Perugia
+  Venezia                  1-2  Cittadella
+  Ascoli                   1-0  AC Pisa
+
+
+19^ Giornata
+[Dom. 29.12.]
+  Empoli                   1-1  AS Livorno Calcio
+  Pescara                  0-0  AC Chievo Verona
+  Cittadella               1-3  Virtus Entella
+  FC Crotone               3-0  Trapani Calcio
+  SS Juve Stabia           1-0  Cosenza Calcio
+  AC Perugia               0-1  Venezia
+  AC Pisa                  0-0  Frosinone
+  Pordenone Calcio         1-0  Cremonese
+  Spezia                   2-1  Salernitana
+  Benevento                4-0  Ascoli
+
+
+20^ Giornata
+[Ven. 17.1.]
+  Frosinone                2-2  Pordenone Calcio
+[Sab. 18.1.]
+  AS Livorno Calcio        4-4  Virtus Entella
+  Trapani Calcio           3-1  Ascoli
+  SS Juve Stabia           1-0  Empoli
+  AC Chievo Verona         2-0  AC Perugia
+  Cremonese                0-0  Venezia
+[Dom. 19.1.]
+  Pescara                  1-2  Salernitana
+  Spezia                   1-1  Cittadella
+  Benevento                1-1  AC Pisa
+[Lun. 20.1.]
+  Cosenza Calcio           0-1  FC Crotone
+
+
+21^ Giornata
+[Ven. 24.1.]
+  Empoli                   1-1  AC Chievo Verona
+[Sab. 25.1.]
+  Pordenone Calcio         0-2  Pescara
+  Cittadella               1-2  Benevento
+  Virtus Entella           1-1  Cremonese
+  AC Pisa                  1-1  SS Juve Stabia
+  Salernitana              2-1  Cosenza Calcio
+[Dom. 26.1.]
+  Ascoli                   0-1  Frosinone
+  FC Crotone               1-2  Spezia
+  Venezia                  1-1  Trapani Calcio
+[Lun. 27.1.]
+  AC Perugia               1-0  AS Livorno Calcio
+
+
+22^ Giornata
+[Ven. 31.1.]
+  Cremonese                3-4  AC Pisa
+[Sab. 1.2.]
+  Frosinone                1-0  Virtus Entella
+  AS Livorno Calcio        0-3  Ascoli
+  Trapani Calcio           0-3  Cittadella
+  Spezia                   1-0  Pordenone Calcio
+  Empoli                   3-1  FC Crotone
+[Dom. 2.2.]
+  Benevento                1-1  Salernitana
+  SS Juve Stabia           1-2  AC Perugia
+  AC Chievo Verona         0-1  Venezia
+[Lun. 3.2.]
+  Pescara                  2-1  Cosenza Calcio
+
+
+23^ Giornata
+[Ven. 7.2.]
+  Ascoli                   2-2  SS Juve Stabia
+[Sab. 8.2.]
+  Pordenone Calcio         2-2  AS Livorno Calcio
+  FC Crotone               1-0  Cremonese
+  Cittadella               1-2  Empoli
+  AC Perugia               0-3  Spezia
+  Venezia                  0-1  Frosinone
+[Dom. 9.2.]
+  Virtus Entella           2-0  Pescara
+  AC Pisa                  1-1  AC Chievo Verona
+  Cosenza Calcio           0-1  Benevento
+[Lun. 10.2.]
+  Salernitana              1-0  Trapani Calcio
+
+
+17^ Giornata
+[Mar. 11.2.]
+  Spezia                   3-2  Cremonese
+
+
+24^ Giornata
+[Ven. 14.2.]
+  Pescara                  1-2  Cittadella
+[Sab. 15.2.]
+  AS Livorno Calcio        0-3  Cosenza Calcio
+  SS Juve Stabia           3-2  FC Crotone
+  Benevento                2-1  Pordenone Calcio
+  Spezia                   3-1  Ascoli
+  Venezia                  2-2  Virtus Entella
+[Dom. 16.2.]
+  Frosinone                1-0  AC Perugia
+  Cremonese                5-0  Trapani Calcio
+  Empoli                   2-1  AC Pisa
+[Lun. 17.2.]
+  AC Chievo Verona         2-0  Salernitana
+
+
+25^ Giornata
+[Ven. 21.2.]
+  Cosenza Calcio           0-2  Frosinone
+[Sab. 22.2.]
+  Virtus Entella           0-4  Benevento
+  Cittadella               3-0  SS Juve Stabia
+  AC Pisa                  1-2  Venezia
+  Trapani Calcio           1-1  Spezia
+[Dom. 23.2.]
+  Pordenone Calcio         0-1  AC Chievo Verona
+  Salernitana              1-0  AS Livorno Calcio
+  FC Crotone               4-1  Pescara
+[Lun. 24.2.]
+  AC Perugia               0-1  Empoli
+
+
+26^ Giornata
+[Ven. 28.2.]
+  Virtus Entella           1-2  FC Crotone
+[Sab. 29.2.]
+  AC Pisa                  1-0  AC Perugia
+  Venezia                  1-1  Cosenza Calcio
+  AC Chievo Verona         0-1  AS Livorno Calcio
+  Frosinone                1-0  Salernitana
+  Empoli                   0-1  Pordenone Calcio
+  Benevento                3-1  Spezia
+  SS Juve Stabia           2-2  Trapani Calcio
+  Cittadella               0-0  Cremonese
+[Dom. 1.3.]
+  Pescara                  2-1  Ascoli
+
+
+27^ Giornata
+[Mar. 3.3.]
+  Cremonese                2-3  Empoli
+  AC Perugia               1-2  Benevento
+  Cosenza Calcio           1-2  Cittadella
+  Trapani Calcio           4-1  Virtus Entella
+  Salernitana              2-0  Venezia
+  Pordenone Calcio         2-1  SS Juve Stabia
+  FC Crotone               1-0  AC Pisa
+  AS Livorno Calcio        2-2  Frosinone
+[Mer. 4.3.]
+  Ascoli                   1-1  AC Chievo Verona
+  Spezia                   2-0  Pescara
+
+
+28^ Giornata
+[Sab. 7.3.]
+  Frosinone                0-2  Cremonese
+  Cittadella               0-2  Pordenone Calcio
+  AC Perugia               1-0  Salernitana
+  Venezia                  1-3  FC Crotone
+  AC Pisa                  1-0  AS Livorno Calcio
+  Empoli                   1-1  Trapani Calcio
+[Dom. 8.3.]
+  SS Juve Stabia           3-1  Spezia
+  Virtus Entella           3-0  Ascoli
+  Benevento                4-0  Pescara
+[Lun. 9.3.]
+  AC Chievo Verona         2-0  Cosenza Calcio
+
+
+25^ Giornata
+[Mer. 17.6.]
+  Ascoli                   1-3  Cremonese
+
+
+29^ Giornata
+[Ven. 19.6.]
+  Spezia                   1-0  Empoli
+[Sab. 20.6.]
+  Trapani Calcio           0-0  Frosinone
+  AS Livorno Calcio        0-2  Cittadella
+  FC Crotone               1-1  AC Chievo Verona
+  Pescara                  3-1  SS Juve Stabia
+  Pordenone Calcio         0-0  Venezia
+  Cosenza Calcio           2-1  Virtus Entella
+  Salernitana              1-1  AC Pisa
+[Dom. 21.6.]
+  Cremonese                0-1  Benevento
+  Ascoli                   0-1  AC Perugia
+
+
+30^ Giornata
+[Ven. 26.6.]
+  Frosinone                0-2  Cittadella
+  Venezia                  2-1  Ascoli
+  Empoli                   0-0  Benevento
+  Trapani Calcio           3-0  Pordenone Calcio
+  Cremonese                0-2  Cosenza Calcio
+  AC Perugia               0-0  FC Crotone
+  SS Juve Stabia           2-3  AS Livorno Calcio
+  AC Pisa                  2-1  Pescara
+  AC Chievo Verona         1-3  Spezia
+  Virtus Entella           1-0  Salernitana
+
+
+31^ Giornata
+[Lun. 29.6.]
+  Salernitana              3-3  Cremonese
+  Ascoli                   1-1  FC Crotone
+  Pescara                  1-1  Empoli
+  Pordenone Calcio         2-0  Virtus Entella
+  Benevento                1-0  SS Juve Stabia
+  Cittadella               2-0  AC Perugia
+  Spezia                   1-2  AC Pisa
+  Cosenza Calcio           2-2  Trapani Calcio
+  AS Livorno Calcio        0-2  Venezia
+  AC Chievo Verona         2-0  Frosinone
+
+
+32^ Giornata
+[Ven. 3.7.]
+  AC Pisa                  2-0  Cittadella
+  Cosenza Calcio           0-1  Ascoli
+  FC Crotone               3-0  Benevento
+  Frosinone                2-1  Spezia
+  Venezia                  0-2  Empoli
+  Salernitana              2-1  SS Juve Stabia
+  Trapani Calcio           2-1  AS Livorno Calcio
+  Cremonese                1-0  Pescara
+  AC Perugia               1-2  Pordenone Calcio
+  Virtus Entella           1-1  AC Chievo Verona
+
+
+33^ Giornata
+[Ven. 10.7.]
+  SS Juve Stabia           -  Virtus Entella
+  Spezia                   -  Cosenza Calcio
+  AS Livorno Calcio        -  Cremonese
+  Cittadella               -  FC Crotone
+  Empoli                   -  Frosinone
+  Pescara                  -  AC Perugia
+  Pordenone Calcio         -  AC Pisa
+  Ascoli                   -  Salernitana
+  AC Chievo Verona         -  Trapani Calcio
+  Benevento                -  Venezia
+
+
+34^ Giornata
+[Lun. 13.7.]
+  Cosenza Calcio           -  AC Perugia
+  Trapani Calcio           -  Benevento
+  Cremonese                -  AC Chievo Verona
+  Salernitana              -  Cittadella
+  AS Livorno Calcio        -  Spezia
+  Frosinone                -  SS Juve Stabia
+  Venezia                  -  Pescara
+  Virtus Entella           -  AC Pisa
+  FC Crotone               -  Pordenone Calcio
+  Ascoli                   -  Empoli
+
+
+35^ Giornata
+[Ven. 17.7.]
+  Pescara                  -  Frosinone
+  Cittadella               -  Ascoli
+  SS Juve Stabia           -  AC Chievo Verona
+  Pordenone Calcio         -  Cosenza Calcio
+  AC Perugia               -  Cremonese
+  Benevento                -  AS Livorno Calcio
+  FC Crotone               -  Salernitana
+  AC Pisa                  -  Trapani Calcio
+  Spezia                   -  Venezia
+  Empoli                   -  Virtus Entella
+
+
+36^ Giornata
+[Ven. 24.7.]
+  AS Livorno Calcio        -  FC Crotone
+  Frosinone                -  Benevento
+  AC Chievo Verona         -  Cittadella
+  Salernitana              -  Empoli
+  Cremonese                -  Spezia
+  Virtus Entella           -  AC Perugia
+  Trapani Calcio           -  Pescara
+  Cosenza Calcio           -  AC Pisa
+  Ascoli                   -  Pordenone Calcio
+  Venezia                  -  SS Juve Stabia
+
+
+37^ Giornata
+[Lun. 27.7.]
+  Spezia                   -  Virtus Entella
+  Benevento                -  AC Chievo Verona
+  Empoli                   -  Cosenza Calcio
+  SS Juve Stabia           -  Cremonese
+  FC Crotone               -  Frosinone
+  Pescara                  -  AS Livorno Calcio
+  Pordenone Calcio         -  Salernitana
+  AC Perugia               -  Trapani Calcio
+  Cittadella               -  Venezia
+  AC Pisa                  -  Ascoli
+
+
+38^ Giornata
+[Ven. 31.7.]
+  Ascoli                   -  Benevento
+  Virtus Entella           -  Cittadella
+  Trapani Calcio           -  FC Crotone
+  AS Livorno Calcio        -  Empoli
+  Cosenza Calcio           -  SS Juve Stabia
+  Venezia                  -  AC Perugia
+  AC Chievo Verona         -  Pescara
+  Frosinone                -  AC Pisa
+  Cremonese                -  Pordenone Calcio
+  Salernitana              -  Spezia
