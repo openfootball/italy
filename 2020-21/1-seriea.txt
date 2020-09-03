@@ -1,0 +1,533 @@
+= Italian Serie A 2020/21
+
+
+1^ Giornata
+[Dom. 20.9.]
+  Benevento                -  FC Internazionale Milano
+  ACF Fiorentina           -  Torino FC
+  Genoa CFC                -  FC Crotone
+  Juventus                 -  UC Sampdoria
+  SS Lazio                 -  Atalanta BC
+  AC Milan                 -  Bologna FC
+  Parma                    -  SSC Napoli
+  US Sassuolo Calcio       -  Cagliari Calcio
+  Udinese Calcio           -  Spezia
+  Hellas Verona FC         -  AS Roma
+
+
+2^ Giornata
+[Dom. 27.9.]
+  Bologna FC               -  Parma
+  Cagliari Calcio          -  SS Lazio
+  FC Crotone               -  AC Milan
+  FC Internazionale Milano  -  ACF Fiorentina
+  SSC Napoli               -  Genoa CFC
+  AS Roma                  -  Juventus
+  UC Sampdoria             -  Benevento
+  Spezia                   -  US Sassuolo Calcio
+  Torino FC                -  Atalanta BC
+  Hellas Verona FC         -  Udinese Calcio
+
+
+3^ Giornata
+[Dom. 4.10.]
+  Atalanta BC              -  Cagliari Calcio
+  Benevento                -  Bologna FC
+  ACF Fiorentina           -  UC Sampdoria
+  Genoa CFC                -  Torino FC
+  Juventus                 -  SSC Napoli
+  SS Lazio                 -  FC Internazionale Milano
+  AC Milan                 -  Spezia
+  Parma                    -  Hellas Verona FC
+  US Sassuolo Calcio       -  FC Crotone
+  Udinese Calcio           -  AS Roma
+
+
+4^ Giornata
+[Dom. 18.10.]
+  Bologna FC               -  US Sassuolo Calcio
+  FC Crotone               -  Juventus
+  FC Internazionale Milano  -  AC Milan
+  SSC Napoli               -  Atalanta BC
+  AS Roma                  -  Benevento
+  UC Sampdoria             -  SS Lazio
+  Spezia                   -  ACF Fiorentina
+  Torino FC                -  Cagliari Calcio
+  Udinese Calcio           -  Parma
+  Hellas Verona FC         -  Genoa CFC
+
+
+5^ Giornata
+[Dom. 25.10.]
+  Atalanta BC              -  UC Sampdoria
+  Benevento                -  SSC Napoli
+  Cagliari Calcio          -  FC Crotone
+  ACF Fiorentina           -  Udinese Calcio
+  Genoa CFC                -  FC Internazionale Milano
+  Juventus                 -  Hellas Verona FC
+  SS Lazio                 -  Bologna FC
+  AC Milan                 -  AS Roma
+  Parma                    -  Spezia
+  US Sassuolo Calcio       -  Torino FC
+
+
+6^ Giornata
+[Dom. 1.11.]
+  Bologna FC               -  Cagliari Calcio
+  FC Crotone               -  Atalanta BC
+  FC Internazionale Milano  -  Parma
+  SSC Napoli               -  US Sassuolo Calcio
+  AS Roma                  -  ACF Fiorentina
+  Spezia                   -  Juventus
+  Torino FC                -  SS Lazio
+  Udinese Calcio           -  AC Milan
+  Hellas Verona FC         -  Benevento
+  UC Sampdoria             -  Genoa CFC
+
+
+7^ Giornata
+[Dom. 8.11.]
+  Atalanta BC              -  FC Internazionale Milano
+  Benevento                -  Spezia
+  Bologna FC               -  SSC Napoli
+  Cagliari Calcio          -  UC Sampdoria
+  Genoa CFC                -  AS Roma
+  SS Lazio                 -  Juventus
+  AC Milan                 -  Hellas Verona FC
+  Parma                    -  ACF Fiorentina
+  US Sassuolo Calcio       -  Udinese Calcio
+  Torino FC                -  FC Crotone
+
+
+8^ Giornata
+[Dom. 22.11.]
+  FC Crotone               -  SS Lazio
+  ACF Fiorentina           -  Benevento
+  FC Internazionale Milano  -  Torino FC
+  Juventus                 -  Cagliari Calcio
+  SSC Napoli               -  AC Milan
+  AS Roma                  -  Parma
+  UC Sampdoria             -  Bologna FC
+  Spezia                   -  Atalanta BC
+  Udinese Calcio           -  Genoa CFC
+  Hellas Verona FC         -  US Sassuolo Calcio
+
+
+9^ Giornata
+[Dom. 29.11.]
+  Atalanta BC              -  Hellas Verona FC
+  Benevento                -  Juventus
+  Bologna FC               -  FC Crotone
+  Cagliari Calcio          -  Spezia
+  Genoa CFC                -  Parma
+  SS Lazio                 -  Udinese Calcio
+  AC Milan                 -  ACF Fiorentina
+  SSC Napoli               -  AS Roma
+  US Sassuolo Calcio       -  FC Internazionale Milano
+  Torino FC                -  UC Sampdoria
+
+
+10^ Giornata
+[Dom. 6.12.]
+  FC Crotone               -  SSC Napoli
+  ACF Fiorentina           -  Genoa CFC
+  FC Internazionale Milano  -  Bologna FC
+  Juventus                 -  Torino FC
+  Parma                    -  Benevento
+  AS Roma                  -  US Sassuolo Calcio
+  UC Sampdoria             -  AC Milan
+  Spezia                   -  SS Lazio
+  Udinese Calcio           -  Atalanta BC
+  Hellas Verona FC         -  Cagliari Calcio
+
+
+11^ Giornata
+[Dom. 13.12.]
+  Atalanta BC              -  ACF Fiorentina
+  Bologna FC               -  AS Roma
+  Cagliari Calcio          -  FC Internazionale Milano
+  FC Crotone               -  Spezia
+  Genoa CFC                -  Juventus
+  SS Lazio                 -  Hellas Verona FC
+  AC Milan                 -  Parma
+  SSC Napoli               -  UC Sampdoria
+  US Sassuolo Calcio       -  Benevento
+  Torino FC                -  Udinese Calcio
+
+
+12^ Giornata
+[Mer. 16.12.]
+  Benevento                -  SS Lazio
+  ACF Fiorentina           -  US Sassuolo Calcio
+  Genoa CFC                -  AC Milan
+  FC Internazionale Milano  -  SSC Napoli
+  Juventus                 -  Atalanta BC
+  Parma                    -  Cagliari Calcio
+  AS Roma                  -  Torino FC
+  Spezia                   -  Bologna FC
+  Udinese Calcio           -  FC Crotone
+  Hellas Verona FC         -  UC Sampdoria
+
+
+13^ Giornata
+[Dom. 20.12.]
+  Atalanta BC              -  AS Roma
+  Benevento                -  Genoa CFC
+  Cagliari Calcio          -  Udinese Calcio
+  ACF Fiorentina           -  Hellas Verona FC
+  FC Internazionale Milano  -  Spezia
+  SS Lazio                 -  SSC Napoli
+  Parma                    -  Juventus
+  UC Sampdoria             -  FC Crotone
+  US Sassuolo Calcio       -  AC Milan
+  Torino FC                -  Bologna FC
+
+
+14^ Giornata
+[Mer. 23.12.]
+  Bologna FC               -  Atalanta BC
+  FC Crotone               -  Parma
+  Juventus                 -  ACF Fiorentina
+  AC Milan                 -  SS Lazio
+  SSC Napoli               -  Torino FC
+  AS Roma                  -  Cagliari Calcio
+  UC Sampdoria             -  US Sassuolo Calcio
+  Spezia                   -  Genoa CFC
+  Udinese Calcio           -  Benevento
+  Hellas Verona FC         -  FC Internazionale Milano
+
+
+15^ Giornata
+[Dom. 3.1.]
+  Atalanta BC              -  US Sassuolo Calcio
+  Benevento                -  AC Milan
+  Cagliari Calcio          -  SSC Napoli
+  ACF Fiorentina           -  Bologna FC
+  Genoa CFC                -  SS Lazio
+  FC Internazionale Milano  -  FC Crotone
+  Juventus                 -  Udinese Calcio
+  Parma                    -  Torino FC
+  AS Roma                  -  UC Sampdoria
+  Spezia                   -  Hellas Verona FC
+
+
+16^ Giornata
+[Mer. 6.1.]
+  Atalanta BC              -  Parma
+  Bologna FC               -  Udinese Calcio
+  Cagliari Calcio          -  Benevento
+  FC Crotone               -  AS Roma
+  SS Lazio                 -  ACF Fiorentina
+  AC Milan                 -  Juventus
+  SSC Napoli               -  Spezia
+  UC Sampdoria             -  FC Internazionale Milano
+  US Sassuolo Calcio       -  Genoa CFC
+  Torino FC                -  Hellas Verona FC
+
+
+17^ Giornata
+[Dom. 10.1.]
+  Benevento                -  Atalanta BC
+  ACF Fiorentina           -  Cagliari Calcio
+  Genoa CFC                -  Bologna FC
+  Juventus                 -  US Sassuolo Calcio
+  AC Milan                 -  Torino FC
+  Parma                    -  SS Lazio
+  AS Roma                  -  FC Internazionale Milano
+  Spezia                   -  UC Sampdoria
+  Udinese Calcio           -  SSC Napoli
+  Hellas Verona FC         -  FC Crotone
+
+
+18^ Giornata
+[Dom. 17.1.]
+  Atalanta BC              -  Genoa CFC
+  Bologna FC               -  Hellas Verona FC
+  Cagliari Calcio          -  AC Milan
+  FC Crotone               -  Benevento
+  FC Internazionale Milano  -  Juventus
+  SS Lazio                 -  AS Roma
+  SSC Napoli               -  ACF Fiorentina
+  UC Sampdoria             -  Udinese Calcio
+  US Sassuolo Calcio       -  Parma
+  Torino FC                -  Spezia
+
+
+19^ Giornata
+[Dom. 24.1.]
+  Benevento                -  Torino FC
+  ACF Fiorentina           -  FC Crotone
+  Genoa CFC                -  Cagliari Calcio
+  Juventus                 -  Bologna FC
+  SS Lazio                 -  US Sassuolo Calcio
+  AC Milan                 -  Atalanta BC
+  Parma                    -  UC Sampdoria
+  AS Roma                  -  Spezia
+  Udinese Calcio           -  FC Internazionale Milano
+  Hellas Verona FC         -  SSC Napoli
+
+
+20^ Giornata
+[Dom. 31.1.]
+  FC Internazionale Milano  -  Benevento
+  Torino FC                -  ACF Fiorentina
+  FC Crotone               -  Genoa CFC
+  UC Sampdoria             -  Juventus
+  Atalanta BC              -  SS Lazio
+  Bologna FC               -  AC Milan
+  SSC Napoli               -  Parma
+  Cagliari Calcio          -  US Sassuolo Calcio
+  Spezia                   -  Udinese Calcio
+  AS Roma                  -  Hellas Verona FC
+
+
+21^ Giornata
+[Dom. 7.2.]
+  Parma                    -  Bologna FC
+  SS Lazio                 -  Cagliari Calcio
+  AC Milan                 -  FC Crotone
+  ACF Fiorentina           -  FC Internazionale Milano
+  Genoa CFC                -  SSC Napoli
+  Juventus                 -  AS Roma
+  Benevento                -  UC Sampdoria
+  US Sassuolo Calcio       -  Spezia
+  Atalanta BC              -  Torino FC
+  Udinese Calcio           -  Hellas Verona FC
+
+
+22^ Giornata
+[Dom. 14.2.]
+  Cagliari Calcio          -  Atalanta BC
+  Bologna FC               -  Benevento
+  UC Sampdoria             -  ACF Fiorentina
+  Torino FC                -  Genoa CFC
+  SSC Napoli               -  Juventus
+  FC Internazionale Milano  -  SS Lazio
+  Spezia                   -  AC Milan
+  Hellas Verona FC         -  Parma
+  FC Crotone               -  US Sassuolo Calcio
+  AS Roma                  -  Udinese Calcio
+
+
+23^ Giornata
+[Dom. 21.2.]
+  US Sassuolo Calcio       -  Bologna FC
+  Juventus                 -  FC Crotone
+  AC Milan                 -  FC Internazionale Milano
+  Atalanta BC              -  SSC Napoli
+  Benevento                -  AS Roma
+  SS Lazio                 -  UC Sampdoria
+  ACF Fiorentina           -  Spezia
+  Cagliari Calcio          -  Torino FC
+  Parma                    -  Udinese Calcio
+  Genoa CFC                -  Hellas Verona FC
+
+
+24^ Giornata
+[Dom. 28.2.]
+  UC Sampdoria             -  Atalanta BC
+  SSC Napoli               -  Benevento
+  FC Crotone               -  Cagliari Calcio
+  Udinese Calcio           -  ACF Fiorentina
+  FC Internazionale Milano  -  Genoa CFC
+  Hellas Verona FC         -  Juventus
+  Bologna FC               -  SS Lazio
+  AS Roma                  -  AC Milan
+  Spezia                   -  Parma
+  Torino FC                -  US Sassuolo Calcio
+
+
+25^ Giornata
+[Mer. 3.3.]
+  Cagliari Calcio          -  Bologna FC
+  Atalanta BC              -  FC Crotone
+  Parma                    -  FC Internazionale Milano
+  US Sassuolo Calcio       -  SSC Napoli
+  ACF Fiorentina           -  AS Roma
+  Juventus                 -  Spezia
+  SS Lazio                 -  Torino FC
+  AC Milan                 -  Udinese Calcio
+  Benevento                -  Hellas Verona FC
+  Genoa CFC                -  UC Sampdoria
+
+
+26^ Giornata
+[Dom. 7.3.]
+  FC Internazionale Milano  -  Atalanta BC
+  Spezia                   -  Benevento
+  SSC Napoli               -  Bologna FC
+  UC Sampdoria             -  Cagliari Calcio
+  AS Roma                  -  Genoa CFC
+  Juventus                 -  SS Lazio
+  Hellas Verona FC         -  AC Milan
+  ACF Fiorentina           -  Parma
+  Udinese Calcio           -  US Sassuolo Calcio
+  FC Crotone               -  Torino FC
+
+
+27^ Giornata
+[Dom. 14.3.]
+  SS Lazio                 -  FC Crotone
+  Benevento                -  ACF Fiorentina
+  Torino FC                -  FC Internazionale Milano
+  Cagliari Calcio          -  Juventus
+  AC Milan                 -  SSC Napoli
+  Parma                    -  AS Roma
+  Bologna FC               -  UC Sampdoria
+  Atalanta BC              -  Spezia
+  Genoa CFC                -  Udinese Calcio
+  US Sassuolo Calcio       -  Hellas Verona FC
+
+
+28^ Giornata
+[Dom. 21.3.]
+  Hellas Verona FC         -  Atalanta BC
+  Juventus                 -  Benevento
+  FC Crotone               -  Bologna FC
+  Spezia                   -  Cagliari Calcio
+  Parma                    -  Genoa CFC
+  Udinese Calcio           -  SS Lazio
+  ACF Fiorentina           -  AC Milan
+  AS Roma                  -  SSC Napoli
+  FC Internazionale Milano  -  US Sassuolo Calcio
+  UC Sampdoria             -  Torino FC
+
+
+29^ Giornata
+[Sab. 3.4.]
+  SSC Napoli               -  FC Crotone
+  Genoa CFC                -  ACF Fiorentina
+  Bologna FC               -  FC Internazionale Milano
+  Torino FC                -  Juventus
+  Benevento                -  Parma
+  US Sassuolo Calcio       -  AS Roma
+  AC Milan                 -  UC Sampdoria
+  SS Lazio                 -  Spezia
+  Atalanta BC              -  Udinese Calcio
+  Cagliari Calcio          -  Hellas Verona FC
+
+
+30^ Giornata
+[Dom. 11.4.]
+  ACF Fiorentina           -  Atalanta BC
+  AS Roma                  -  Bologna FC
+  FC Internazionale Milano  -  Cagliari Calcio
+  Spezia                   -  FC Crotone
+  Juventus                 -  Genoa CFC
+  Hellas Verona FC         -  SS Lazio
+  Parma                    -  AC Milan
+  UC Sampdoria             -  SSC Napoli
+  Benevento                -  US Sassuolo Calcio
+  Udinese Calcio           -  Torino FC
+
+
+31^ Giornata
+[Dom. 18.4.]
+  SS Lazio                 -  Benevento
+  US Sassuolo Calcio       -  ACF Fiorentina
+  AC Milan                 -  Genoa CFC
+  SSC Napoli               -  FC Internazionale Milano
+  Atalanta BC              -  Juventus
+  Cagliari Calcio          -  Parma
+  Torino FC                -  AS Roma
+  Bologna FC               -  Spezia
+  FC Crotone               -  Udinese Calcio
+  UC Sampdoria             -  Hellas Verona FC
+
+
+32^ Giornata
+[Mer. 21.4.]
+  AS Roma                  -  Atalanta BC
+  Genoa CFC                -  Benevento
+  Udinese Calcio           -  Cagliari Calcio
+  Hellas Verona FC         -  ACF Fiorentina
+  Spezia                   -  FC Internazionale Milano
+  SSC Napoli               -  SS Lazio
+  Juventus                 -  Parma
+  FC Crotone               -  UC Sampdoria
+  AC Milan                 -  US Sassuolo Calcio
+  Bologna FC               -  Torino FC
+
+
+33^ Giornata
+[Dom. 25.4.]
+  Atalanta BC              -  Bologna FC
+  Parma                    -  FC Crotone
+  ACF Fiorentina           -  Juventus
+  SS Lazio                 -  AC Milan
+  Torino FC                -  SSC Napoli
+  Cagliari Calcio          -  AS Roma
+  US Sassuolo Calcio       -  UC Sampdoria
+  Genoa CFC                -  Spezia
+  Benevento                -  Udinese Calcio
+  FC Internazionale Milano  -  Hellas Verona FC
+
+
+34^ Giornata
+[Dom. 2.5.]
+  US Sassuolo Calcio       -  Atalanta BC
+  AC Milan                 -  Benevento
+  SSC Napoli               -  Cagliari Calcio
+  Bologna FC               -  ACF Fiorentina
+  SS Lazio                 -  Genoa CFC
+  FC Crotone               -  FC Internazionale Milano
+  Udinese Calcio           -  Juventus
+  Torino FC                -  Parma
+  UC Sampdoria             -  AS Roma
+  Hellas Verona FC         -  Spezia
+
+
+35^ Giornata
+[Dom. 9.5.]
+  Parma                    -  Atalanta BC
+  Udinese Calcio           -  Bologna FC
+  Benevento                -  Cagliari Calcio
+  AS Roma                  -  FC Crotone
+  ACF Fiorentina           -  SS Lazio
+  Juventus                 -  AC Milan
+  Spezia                   -  SSC Napoli
+  FC Internazionale Milano  -  UC Sampdoria
+  Genoa CFC                -  US Sassuolo Calcio
+  Hellas Verona FC         -  Torino FC
+
+
+36^ Giornata
+[Mer. 12.5.]
+  Atalanta BC              -  Benevento
+  Cagliari Calcio          -  ACF Fiorentina
+  Bologna FC               -  Genoa CFC
+  US Sassuolo Calcio       -  Juventus
+  Torino FC                -  AC Milan
+  SS Lazio                 -  Parma
+  FC Internazionale Milano  -  AS Roma
+  UC Sampdoria             -  Spezia
+  SSC Napoli               -  Udinese Calcio
+  FC Crotone               -  Hellas Verona FC
+
+
+37^ Giornata
+[Dom. 16.5.]
+  Genoa CFC                -  Atalanta BC
+  Hellas Verona FC         -  Bologna FC
+  AC Milan                 -  Cagliari Calcio
+  Benevento                -  FC Crotone
+  Juventus                 -  FC Internazionale Milano
+  AS Roma                  -  SS Lazio
+  ACF Fiorentina           -  SSC Napoli
+  Udinese Calcio           -  UC Sampdoria
+  Parma                    -  US Sassuolo Calcio
+  Spezia                   -  Torino FC
+
+
+38^ Giornata
+[Dom. 23.5.]
+  Torino FC                -  Benevento
+  FC Crotone               -  ACF Fiorentina
+  Cagliari Calcio          -  Genoa CFC
+  Bologna FC               -  Juventus
+  US Sassuolo Calcio       -  SS Lazio
+  Atalanta BC              -  AC Milan
+  UC Sampdoria             -  Parma
+  Spezia                   -  AS Roma
+  FC Internazionale Milano  -  Udinese Calcio
+  SSC Napoli               -  Hellas Verona FC
