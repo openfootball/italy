@@ -2,98 +2,110 @@
 
 
 1^ Giornata
+[Sab. 19.9.]
+  18.00  ACF Fiorentina           1-0 (0-0)  Torino FC
+  20.45  Hellas Verona            3-0  AS Roma                  [awarded]
 [Dom. 20.9.]
-  Benevento                -  FC Internazionale Milano
-  ACF Fiorentina           -  Torino FC
-  Genoa CFC                -  FC Crotone
-  Juventus                 -  UC Sampdoria
-  SS Lazio                 -  Atalanta BC
-  AC Milan                 -  Bologna FC
-  Parma                    -  SSC Napoli
-  US Sassuolo Calcio       -  Cagliari Calcio
-  Udinese Calcio           -  Spezia
-  Hellas Verona FC         -  AS Roma
+  12.30  Parma                    0-2 (0-0)  SSC Napoli
+  15.00  Genoa CFC                4-1 (3-1)  FC Crotone
+  18.00  US Sassuolo Calcio       1-1 (0-0)  Cagliari Calcio
+  20.45  Juventus                 3-0 (1-0)  UC Sampdoria
+[Lun. 21.9.]
+  20.45  AC Milan                 2-0 (1-0)  Bologna FC
 
 
 2^ Giornata
+[Sab. 26.9.]
+  15.00  Torino FC                -  Atalanta Bergamo
+  18.00  UC Sampdoria             -  Benevento
+         Cagliari Calcio          -  SS Lazio
+  20.45  FC Internazionale Milano  -  ACF Fiorentina
 [Dom. 27.9.]
-  Bologna FC               -  Parma
-  Cagliari Calcio          -  SS Lazio
-  FC Crotone               -  AC Milan
-  FC Internazionale Milano  -  ACF Fiorentina
-  SSC Napoli               -  Genoa CFC
-  AS Roma                  -  Juventus
-  UC Sampdoria             -  Benevento
-  Spezia                   -  US Sassuolo Calcio
-  Torino FC                -  Atalanta BC
-  Hellas Verona FC         -  Udinese Calcio
+  12.30  Spezia                   -  US Sassuolo Calcio
+  15.00  Hellas Verona            -  Udinese Calcio
+         SSC Napoli               -  Genoa CFC
+  18.00  FC Crotone               -  AC Milan
+  20.45  AS Roma                  -  Juventus
+[Lun. 28.9.]
+  20.45  Bologna FC               -  Parma
+
+
+1^ Giornata
+[Mer. 30.9.]
+  18.00  Udinese Calcio           -  Spezia
+         Benevento                -  FC Internazionale Milano
+  20.45  SS Lazio                 -  Atalanta Bergamo
 
 
 3^ Giornata
+[Ven. 2.10.]
+  20.45  ACF Fiorentina           -  UC Sampdoria
+[Sab. 3.10.]
+  15.00  US Sassuolo Calcio       -  FC Crotone
+  18.00  Genoa CFC                -  Torino FC
+  20.45  Udinese Calcio           -  AS Roma
 [Dom. 4.10.]
-  Atalanta BC              -  Cagliari Calcio
-  Benevento                -  Bologna FC
-  ACF Fiorentina           -  UC Sampdoria
-  Genoa CFC                -  Torino FC
-  Juventus                 -  SSC Napoli
-  SS Lazio                 -  FC Internazionale Milano
-  AC Milan                 -  Spezia
-  Parma                    -  Hellas Verona FC
-  US Sassuolo Calcio       -  FC Crotone
-  Udinese Calcio           -  AS Roma
+  12.30  Atalanta Bergamo         -  Cagliari Calcio
+  15.00  Parma                    -  Hellas Verona
+         SS Lazio                 -  FC Internazionale Milano
+         Benevento                -  Bologna FC
+  18.00  AC Milan                 -  Spezia
+  20.45  Juventus                 -  SSC Napoli
 
 
 4^ Giornata
+[Sab. 17.10.]
+  15.00  SSC Napoli               -  Atalanta Bergamo
+  18.00  FC Internazionale Milano  -  AC Milan
+         UC Sampdoria             -  SS Lazio
+  20.45  FC Crotone               -  Juventus
 [Dom. 18.10.]
-  Bologna FC               -  US Sassuolo Calcio
-  FC Crotone               -  Juventus
-  FC Internazionale Milano  -  AC Milan
-  SSC Napoli               -  Atalanta BC
-  AS Roma                  -  Benevento
-  UC Sampdoria             -  SS Lazio
-  Spezia                   -  ACF Fiorentina
-  Torino FC                -  Cagliari Calcio
-  Udinese Calcio           -  Parma
-  Hellas Verona FC         -  Genoa CFC
+  12.30  Bologna FC               -  US Sassuolo Calcio
+  15.00  Spezia                   -  ACF Fiorentina
+         Torino FC                -  Cagliari Calcio
+  18.00  Udinese Calcio           -  Parma
+  20.45  AS Roma                  -  Benevento
+[Lun. 19.10.]
+  20.45  Hellas Verona            -  Genoa CFC
 
 
 5^ Giornata
 [Dom. 25.10.]
-  Atalanta BC              -  UC Sampdoria
+  Atalanta Bergamo         -  UC Sampdoria
   Benevento                -  SSC Napoli
   Cagliari Calcio          -  FC Crotone
   ACF Fiorentina           -  Udinese Calcio
   Genoa CFC                -  FC Internazionale Milano
-  Juventus                 -  Hellas Verona FC
+  Juventus                 -  Hellas Verona
   SS Lazio                 -  Bologna FC
-  AC Milan                 -  AS Roma
   Parma                    -  Spezia
   US Sassuolo Calcio       -  Torino FC
+  20.45  AC Milan                 -  AS Roma
 
 
 6^ Giornata
 [Dom. 1.11.]
   Bologna FC               -  Cagliari Calcio
-  FC Crotone               -  Atalanta BC
+  FC Crotone               -  Atalanta Bergamo
   FC Internazionale Milano  -  Parma
   SSC Napoli               -  US Sassuolo Calcio
   AS Roma                  -  ACF Fiorentina
   Spezia                   -  Juventus
   Torino FC                -  SS Lazio
   Udinese Calcio           -  AC Milan
-  Hellas Verona FC         -  Benevento
+  Hellas Verona            -  Benevento
   UC Sampdoria             -  Genoa CFC
 
 
 7^ Giornata
 [Dom. 8.11.]
-  Atalanta BC              -  FC Internazionale Milano
+  Atalanta Bergamo         -  FC Internazionale Milano
   Benevento                -  Spezia
   Bologna FC               -  SSC Napoli
   Cagliari Calcio          -  UC Sampdoria
   Genoa CFC                -  AS Roma
   SS Lazio                 -  Juventus
-  AC Milan                 -  Hellas Verona FC
+  AC Milan                 -  Hellas Verona
   Parma                    -  ACF Fiorentina
   US Sassuolo Calcio       -  Udinese Calcio
   Torino FC                -  FC Crotone
@@ -108,14 +120,14 @@
   SSC Napoli               -  AC Milan
   AS Roma                  -  Parma
   UC Sampdoria             -  Bologna FC
-  Spezia                   -  Atalanta BC
+  Spezia                   -  Atalanta Bergamo
   Udinese Calcio           -  Genoa CFC
-  Hellas Verona FC         -  US Sassuolo Calcio
+  Hellas Verona            -  US Sassuolo Calcio
 
 
 9^ Giornata
 [Dom. 29.11.]
-  Atalanta BC              -  Hellas Verona FC
+  Atalanta Bergamo         -  Hellas Verona
   Benevento                -  Juventus
   Bologna FC               -  FC Crotone
   Cagliari Calcio          -  Spezia
@@ -137,18 +149,18 @@
   AS Roma                  -  US Sassuolo Calcio
   UC Sampdoria             -  AC Milan
   Spezia                   -  SS Lazio
-  Udinese Calcio           -  Atalanta BC
-  Hellas Verona FC         -  Cagliari Calcio
+  Udinese Calcio           -  Atalanta Bergamo
+  Hellas Verona            -  Cagliari Calcio
 
 
 11^ Giornata
 [Dom. 13.12.]
-  Atalanta BC              -  ACF Fiorentina
+  Atalanta Bergamo         -  ACF Fiorentina
   Bologna FC               -  AS Roma
   Cagliari Calcio          -  FC Internazionale Milano
   FC Crotone               -  Spezia
   Genoa CFC                -  Juventus
-  SS Lazio                 -  Hellas Verona FC
+  SS Lazio                 -  Hellas Verona
   AC Milan                 -  Parma
   SSC Napoli               -  UC Sampdoria
   US Sassuolo Calcio       -  Benevento
@@ -161,20 +173,20 @@
   ACF Fiorentina           -  US Sassuolo Calcio
   Genoa CFC                -  AC Milan
   FC Internazionale Milano  -  SSC Napoli
-  Juventus                 -  Atalanta BC
+  Juventus                 -  Atalanta Bergamo
   Parma                    -  Cagliari Calcio
   AS Roma                  -  Torino FC
   Spezia                   -  Bologna FC
   Udinese Calcio           -  FC Crotone
-  Hellas Verona FC         -  UC Sampdoria
+  Hellas Verona            -  UC Sampdoria
 
 
 13^ Giornata
 [Dom. 20.12.]
-  Atalanta BC              -  AS Roma
+  Atalanta Bergamo         -  AS Roma
   Benevento                -  Genoa CFC
   Cagliari Calcio          -  Udinese Calcio
-  ACF Fiorentina           -  Hellas Verona FC
+  ACF Fiorentina           -  Hellas Verona
   FC Internazionale Milano  -  Spezia
   SS Lazio                 -  SSC Napoli
   Parma                    -  Juventus
@@ -185,7 +197,7 @@
 
 14^ Giornata
 [Mer. 23.12.]
-  Bologna FC               -  Atalanta BC
+  Bologna FC               -  Atalanta Bergamo
   FC Crotone               -  Parma
   Juventus                 -  ACF Fiorentina
   AC Milan                 -  SS Lazio
@@ -194,12 +206,12 @@
   UC Sampdoria             -  US Sassuolo Calcio
   Spezia                   -  Genoa CFC
   Udinese Calcio           -  Benevento
-  Hellas Verona FC         -  FC Internazionale Milano
+  Hellas Verona            -  FC Internazionale Milano
 
 
 15^ Giornata
 [Dom. 3.1.]
-  Atalanta BC              -  US Sassuolo Calcio
+  Atalanta Bergamo         -  US Sassuolo Calcio
   Benevento                -  AC Milan
   Cagliari Calcio          -  SSC Napoli
   ACF Fiorentina           -  Bologna FC
@@ -208,12 +220,12 @@
   Juventus                 -  Udinese Calcio
   Parma                    -  Torino FC
   AS Roma                  -  UC Sampdoria
-  Spezia                   -  Hellas Verona FC
+  Spezia                   -  Hellas Verona
 
 
 16^ Giornata
 [Mer. 6.1.]
-  Atalanta BC              -  Parma
+  Atalanta Bergamo         -  Parma
   Bologna FC               -  Udinese Calcio
   Cagliari Calcio          -  Benevento
   FC Crotone               -  AS Roma
@@ -222,12 +234,12 @@
   SSC Napoli               -  Spezia
   UC Sampdoria             -  FC Internazionale Milano
   US Sassuolo Calcio       -  Genoa CFC
-  Torino FC                -  Hellas Verona FC
+  Torino FC                -  Hellas Verona
 
 
 17^ Giornata
 [Dom. 10.1.]
-  Benevento                -  Atalanta BC
+  Benevento                -  Atalanta Bergamo
   ACF Fiorentina           -  Cagliari Calcio
   Genoa CFC                -  Bologna FC
   Juventus                 -  US Sassuolo Calcio
@@ -236,13 +248,13 @@
   AS Roma                  -  FC Internazionale Milano
   Spezia                   -  UC Sampdoria
   Udinese Calcio           -  SSC Napoli
-  Hellas Verona FC         -  FC Crotone
+  Hellas Verona            -  FC Crotone
 
 
 18^ Giornata
 [Dom. 17.1.]
-  Atalanta BC              -  Genoa CFC
-  Bologna FC               -  Hellas Verona FC
+  Atalanta Bergamo         -  Genoa CFC
+  Bologna FC               -  Hellas Verona
   Cagliari Calcio          -  AC Milan
   FC Crotone               -  Benevento
   FC Internazionale Milano  -  Juventus
@@ -260,11 +272,11 @@
   Genoa CFC                -  Cagliari Calcio
   Juventus                 -  Bologna FC
   SS Lazio                 -  US Sassuolo Calcio
-  AC Milan                 -  Atalanta BC
+  AC Milan                 -  Atalanta Bergamo
   Parma                    -  UC Sampdoria
   AS Roma                  -  Spezia
   Udinese Calcio           -  FC Internazionale Milano
-  Hellas Verona FC         -  SSC Napoli
+  Hellas Verona            -  SSC Napoli
 
 
 20^ Giornata
@@ -273,12 +285,12 @@
   Torino FC                -  ACF Fiorentina
   FC Crotone               -  Genoa CFC
   UC Sampdoria             -  Juventus
-  Atalanta BC              -  SS Lazio
+  Atalanta Bergamo         -  SS Lazio
   Bologna FC               -  AC Milan
   SSC Napoli               -  Parma
   Cagliari Calcio          -  US Sassuolo Calcio
   Spezia                   -  Udinese Calcio
-  AS Roma                  -  Hellas Verona FC
+  AS Roma                  -  Hellas Verona
 
 
 21^ Giornata
@@ -291,20 +303,20 @@
   Juventus                 -  AS Roma
   Benevento                -  UC Sampdoria
   US Sassuolo Calcio       -  Spezia
-  Atalanta BC              -  Torino FC
-  Udinese Calcio           -  Hellas Verona FC
+  Atalanta Bergamo         -  Torino FC
+  Udinese Calcio           -  Hellas Verona
 
 
 22^ Giornata
 [Dom. 14.2.]
-  Cagliari Calcio          -  Atalanta BC
+  Cagliari Calcio          -  Atalanta Bergamo
   Bologna FC               -  Benevento
   UC Sampdoria             -  ACF Fiorentina
   Torino FC                -  Genoa CFC
   SSC Napoli               -  Juventus
   FC Internazionale Milano  -  SS Lazio
   Spezia                   -  AC Milan
-  Hellas Verona FC         -  Parma
+  Hellas Verona            -  Parma
   FC Crotone               -  US Sassuolo Calcio
   AS Roma                  -  Udinese Calcio
 
@@ -314,23 +326,23 @@
   US Sassuolo Calcio       -  Bologna FC
   Juventus                 -  FC Crotone
   AC Milan                 -  FC Internazionale Milano
-  Atalanta BC              -  SSC Napoli
+  Atalanta Bergamo         -  SSC Napoli
   Benevento                -  AS Roma
   SS Lazio                 -  UC Sampdoria
   ACF Fiorentina           -  Spezia
   Cagliari Calcio          -  Torino FC
   Parma                    -  Udinese Calcio
-  Genoa CFC                -  Hellas Verona FC
+  Genoa CFC                -  Hellas Verona
 
 
 24^ Giornata
 [Dom. 28.2.]
-  UC Sampdoria             -  Atalanta BC
+  UC Sampdoria             -  Atalanta Bergamo
   SSC Napoli               -  Benevento
   FC Crotone               -  Cagliari Calcio
   Udinese Calcio           -  ACF Fiorentina
   FC Internazionale Milano  -  Genoa CFC
-  Hellas Verona FC         -  Juventus
+  Hellas Verona            -  Juventus
   Bologna FC               -  SS Lazio
   AS Roma                  -  AC Milan
   Spezia                   -  Parma
@@ -340,26 +352,26 @@
 25^ Giornata
 [Mer. 3.3.]
   Cagliari Calcio          -  Bologna FC
-  Atalanta BC              -  FC Crotone
+  Atalanta Bergamo         -  FC Crotone
   Parma                    -  FC Internazionale Milano
   US Sassuolo Calcio       -  SSC Napoli
   ACF Fiorentina           -  AS Roma
   Juventus                 -  Spezia
   SS Lazio                 -  Torino FC
   AC Milan                 -  Udinese Calcio
-  Benevento                -  Hellas Verona FC
+  Benevento                -  Hellas Verona
   Genoa CFC                -  UC Sampdoria
 
 
 26^ Giornata
 [Dom. 7.3.]
-  FC Internazionale Milano  -  Atalanta BC
+  FC Internazionale Milano  -  Atalanta Bergamo
   Spezia                   -  Benevento
   SSC Napoli               -  Bologna FC
   UC Sampdoria             -  Cagliari Calcio
   AS Roma                  -  Genoa CFC
   Juventus                 -  SS Lazio
-  Hellas Verona FC         -  AC Milan
+  Hellas Verona            -  AC Milan
   ACF Fiorentina           -  Parma
   Udinese Calcio           -  US Sassuolo Calcio
   FC Crotone               -  Torino FC
@@ -374,14 +386,14 @@
   AC Milan                 -  SSC Napoli
   Parma                    -  AS Roma
   Bologna FC               -  UC Sampdoria
-  Atalanta BC              -  Spezia
+  Atalanta Bergamo         -  Spezia
   Genoa CFC                -  Udinese Calcio
-  US Sassuolo Calcio       -  Hellas Verona FC
+  US Sassuolo Calcio       -  Hellas Verona
 
 
 28^ Giornata
 [Dom. 21.3.]
-  Hellas Verona FC         -  Atalanta BC
+  Hellas Verona            -  Atalanta Bergamo
   Juventus                 -  Benevento
   FC Crotone               -  Bologna FC
   Spezia                   -  Cagliari Calcio
@@ -403,18 +415,18 @@
   US Sassuolo Calcio       -  AS Roma
   AC Milan                 -  UC Sampdoria
   SS Lazio                 -  Spezia
-  Atalanta BC              -  Udinese Calcio
-  Cagliari Calcio          -  Hellas Verona FC
+  Atalanta Bergamo         -  Udinese Calcio
+  Cagliari Calcio          -  Hellas Verona
 
 
 30^ Giornata
 [Dom. 11.4.]
-  ACF Fiorentina           -  Atalanta BC
+  ACF Fiorentina           -  Atalanta Bergamo
   AS Roma                  -  Bologna FC
   FC Internazionale Milano  -  Cagliari Calcio
   Spezia                   -  FC Crotone
   Juventus                 -  Genoa CFC
-  Hellas Verona FC         -  SS Lazio
+  Hellas Verona            -  SS Lazio
   Parma                    -  AC Milan
   UC Sampdoria             -  SSC Napoli
   Benevento                -  US Sassuolo Calcio
@@ -427,20 +439,20 @@
   US Sassuolo Calcio       -  ACF Fiorentina
   AC Milan                 -  Genoa CFC
   SSC Napoli               -  FC Internazionale Milano
-  Atalanta BC              -  Juventus
+  Atalanta Bergamo         -  Juventus
   Cagliari Calcio          -  Parma
   Torino FC                -  AS Roma
   Bologna FC               -  Spezia
   FC Crotone               -  Udinese Calcio
-  UC Sampdoria             -  Hellas Verona FC
+  UC Sampdoria             -  Hellas Verona
 
 
 32^ Giornata
 [Mer. 21.4.]
-  AS Roma                  -  Atalanta BC
+  AS Roma                  -  Atalanta Bergamo
   Genoa CFC                -  Benevento
   Udinese Calcio           -  Cagliari Calcio
-  Hellas Verona FC         -  ACF Fiorentina
+  Hellas Verona            -  ACF Fiorentina
   Spezia                   -  FC Internazionale Milano
   SSC Napoli               -  SS Lazio
   Juventus                 -  Parma
@@ -451,7 +463,7 @@
 
 33^ Giornata
 [Dom. 25.4.]
-  Atalanta BC              -  Bologna FC
+  Atalanta Bergamo         -  Bologna FC
   Parma                    -  FC Crotone
   ACF Fiorentina           -  Juventus
   SS Lazio                 -  AC Milan
@@ -460,12 +472,12 @@
   US Sassuolo Calcio       -  UC Sampdoria
   Genoa CFC                -  Spezia
   Benevento                -  Udinese Calcio
-  FC Internazionale Milano  -  Hellas Verona FC
+  FC Internazionale Milano  -  Hellas Verona
 
 
 34^ Giornata
 [Dom. 2.5.]
-  US Sassuolo Calcio       -  Atalanta BC
+  US Sassuolo Calcio       -  Atalanta Bergamo
   AC Milan                 -  Benevento
   SSC Napoli               -  Cagliari Calcio
   Bologna FC               -  ACF Fiorentina
@@ -474,12 +486,12 @@
   Udinese Calcio           -  Juventus
   Torino FC                -  Parma
   UC Sampdoria             -  AS Roma
-  Hellas Verona FC         -  Spezia
+  Hellas Verona            -  Spezia
 
 
 35^ Giornata
 [Dom. 9.5.]
-  Parma                    -  Atalanta BC
+  Parma                    -  Atalanta Bergamo
   Udinese Calcio           -  Bologna FC
   Benevento                -  Cagliari Calcio
   AS Roma                  -  FC Crotone
@@ -488,12 +500,12 @@
   Spezia                   -  SSC Napoli
   FC Internazionale Milano  -  UC Sampdoria
   Genoa CFC                -  US Sassuolo Calcio
-  Hellas Verona FC         -  Torino FC
+  Hellas Verona            -  Torino FC
 
 
 36^ Giornata
 [Mer. 12.5.]
-  Atalanta BC              -  Benevento
+  Atalanta Bergamo         -  Benevento
   Cagliari Calcio          -  ACF Fiorentina
   Bologna FC               -  Genoa CFC
   US Sassuolo Calcio       -  Juventus
@@ -502,13 +514,13 @@
   FC Internazionale Milano  -  AS Roma
   UC Sampdoria             -  Spezia
   SSC Napoli               -  Udinese Calcio
-  FC Crotone               -  Hellas Verona FC
+  FC Crotone               -  Hellas Verona
 
 
 37^ Giornata
 [Dom. 16.5.]
-  Genoa CFC                -  Atalanta BC
-  Hellas Verona FC         -  Bologna FC
+  Genoa CFC                -  Atalanta Bergamo
+  Hellas Verona            -  Bologna FC
   AC Milan                 -  Cagliari Calcio
   Benevento                -  FC Crotone
   Juventus                 -  FC Internazionale Milano
@@ -526,8 +538,8 @@
   Cagliari Calcio          -  Genoa CFC
   Bologna FC               -  Juventus
   US Sassuolo Calcio       -  SS Lazio
-  Atalanta BC              -  AC Milan
+  Atalanta Bergamo         -  AC Milan
   UC Sampdoria             -  Parma
   Spezia                   -  AS Roma
   FC Internazionale Milano  -  Udinese Calcio
-  SSC Napoli               -  Hellas Verona FC
+  SSC Napoli               -  Hellas Verona
