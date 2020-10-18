@@ -43,26 +43,25 @@
 [Sab. 3.10.]
   15.00  US Sassuolo Calcio       4-1 (1-0)  FC Crotone
   20.45  Udinese Calcio           0-1 (0-0)  AS Roma
-  Genoa CFC                -  Torino FC
 [Dom. 4.10.]
+  Juventus                 3-0  SSC Napoli               [awarded]
   12.30  Atalanta Bergamo         5-2 (4-1)  Cagliari Calcio
   15.00  Benevento                1-0 (0-0)  Bologna FC
-  Juventus                 -  SSC Napoli               [cancelled]
-  15.00  SS Lazio                 1-1 (0-1)  FC Internazionale Milano
+         SS Lazio                 1-1 (0-1)  FC Internazionale Milano
          Parma                    1-0 (1-0)  Hellas Verona
   18.00  AC Milan                 3-0 (0-0)  Spezia
 
 
 4^ Giornata
 [Sab. 17.10.]
-  15.00  SSC Napoli               -  Atalanta Bergamo
-  18.00  FC Internazionale Milano  -  AC Milan
-         UC Sampdoria             -  SS Lazio
-  20.45  FC Crotone               -  Juventus
+  15.00  SSC Napoli               4-1 (4-0)  Atalanta Bergamo
+  18.00  UC Sampdoria             3-0 (2-0)  SS Lazio
+         FC Internazionale Milano  1-2 (1-2)  AC Milan
+  20.45  FC Crotone               1-1 (1-1)  Juventus
 [Dom. 18.10.]
-  12.30  Bologna FC               -  US Sassuolo Calcio
-  15.00  Spezia                   -  ACF Fiorentina
-         Torino FC                -  Cagliari Calcio
+  12.30  Bologna FC               3-4 (2-1)  US Sassuolo Calcio
+  15.00  Torino FC                2-3 (1-2)  Cagliari Calcio
+         Spezia                   2-2 (1-2)  ACF Fiorentina
   18.00  Udinese Calcio           -  Parma
   20.45  AS Roma                  -  Benevento
 [Lun. 19.10.]
@@ -70,143 +69,165 @@
 
 
 5^ Giornata
+[Ven. 23.10.]
+  20.45  US Sassuolo Calcio       -  Torino FC
+[Sab. 24.10.]
+  15.00  Atalanta Bergamo         -  UC Sampdoria
+  18.00  Genoa CFC                -  FC Internazionale Milano
+  20.45  SS Lazio                 -  Bologna FC
 [Dom. 25.10.]
-  Atalanta Bergamo         -  UC Sampdoria
-  Benevento                -  SSC Napoli
-  Cagliari Calcio          -  FC Crotone
-  ACF Fiorentina           -  Udinese Calcio
-  Genoa CFC                -  FC Internazionale Milano
-  Juventus                 -  Hellas Verona
-  SS Lazio                 -  Bologna FC
-  Parma                    -  Spezia
-  US Sassuolo Calcio       -  Torino FC
-  20.45  AC Milan                 -  AS Roma
+  12.30  Cagliari Calcio          -  FC Crotone
+  15.00  Parma                    -  Spezia
+         Benevento                -  SSC Napoli
+  18.00  ACF Fiorentina           -  Udinese Calcio
+  20.45  Juventus                 -  Hellas Verona
+         AC Milan                 -  AS Roma
 
 
 6^ Giornata
+[Sab. 31.10.]
+  15.00  FC Crotone               -  Atalanta Bergamo
+  18.00  FC Internazionale Milano  -  Parma
+  20.45  Bologna FC               -  Cagliari Calcio
 [Dom. 1.11.]
-  Bologna FC               -  Cagliari Calcio
-  FC Crotone               -  Atalanta Bergamo
-  FC Internazionale Milano  -  Parma
-  SSC Napoli               -  US Sassuolo Calcio
-  AS Roma                  -  ACF Fiorentina
-  Spezia                   -  Juventus
-  Torino FC                -  SS Lazio
-  Udinese Calcio           -  AC Milan
-  Hellas Verona            -  Benevento
-  UC Sampdoria             -  Genoa CFC
+  12.30  Udinese Calcio           -  AC Milan
+  15.00  Spezia                   -  Juventus
+         Torino FC                -  SS Lazio
+  18.00  AS Roma                  -  ACF Fiorentina
+         SSC Napoli               -  US Sassuolo Calcio
+  20.45  UC Sampdoria             -  Genoa CFC
+[Lun. 2.11.]
+  20.45  Hellas Verona            -  Benevento
+
+
+3^ Giornata
+[Mer. 4.11.]
+  17.00  Genoa CFC                -  Torino FC
 
 
 7^ Giornata
+[Ven. 6.11.]
+  20.45  US Sassuolo Calcio       -  Udinese Calcio
+[Sab. 7.11.]
+  15.00  Cagliari Calcio          -  UC Sampdoria
+  18.00  Benevento                -  Spezia
+  20.45  Parma                    -  ACF Fiorentina
 [Dom. 8.11.]
-  Atalanta Bergamo         -  FC Internazionale Milano
-  Benevento                -  Spezia
-  Bologna FC               -  SSC Napoli
-  Cagliari Calcio          -  UC Sampdoria
-  Genoa CFC                -  AS Roma
-  SS Lazio                 -  Juventus
-  AC Milan                 -  Hellas Verona
-  Parma                    -  ACF Fiorentina
-  US Sassuolo Calcio       -  Udinese Calcio
-  Torino FC                -  FC Crotone
+  12.30  SS Lazio                 -  Juventus
+  15.00  Atalanta Bergamo         -  FC Internazionale Milano
+         Genoa CFC                -  AS Roma
+         Torino FC                -  FC Crotone
+  18.00  Bologna FC               -  SSC Napoli
+  20.45  AC Milan                 -  Hellas Verona
 
 
 8^ Giornata
+[Sab. 21.11.]
+  15.00  FC Crotone               -  SS Lazio
+  18.00  Spezia                   -  Atalanta Bergamo
+  20.45  Juventus                 -  Cagliari Calcio
 [Dom. 22.11.]
-  FC Crotone               -  SS Lazio
-  ACF Fiorentina           -  Benevento
-  FC Internazionale Milano  -  Torino FC
-  Juventus                 -  Cagliari Calcio
-  SSC Napoli               -  AC Milan
-  AS Roma                  -  Parma
-  UC Sampdoria             -  Bologna FC
-  Spezia                   -  Atalanta Bergamo
-  Udinese Calcio           -  Genoa CFC
-  Hellas Verona            -  US Sassuolo Calcio
+  12.30  ACF Fiorentina           -  Benevento
+  15.00  FC Internazionale Milano  -  Torino FC
+         UC Sampdoria             -  Bologna FC
+         Hellas Verona            -  US Sassuolo Calcio
+  16.00  AS Roma                  -  Parma
+  18.00  Udinese Calcio           -  Genoa CFC
+  20.45  SSC Napoli               -  AC Milan
 
 
 9^ Giornata
+[Sab. 28.11.]
+  15.00  US Sassuolo Calcio       -  FC Internazionale Milano
+  18.00  Benevento                -  Juventus
+  20.45  Atalanta Bergamo         -  Hellas Verona
 [Dom. 29.11.]
-  Atalanta Bergamo         -  Hellas Verona
-  Benevento                -  Juventus
-  Bologna FC               -  FC Crotone
-  Cagliari Calcio          -  Spezia
-  Genoa CFC                -  Parma
-  SS Lazio                 -  Udinese Calcio
-  AC Milan                 -  ACF Fiorentina
-  SSC Napoli               -  AS Roma
-  US Sassuolo Calcio       -  FC Internazionale Milano
-  Torino FC                -  UC Sampdoria
+  12.30  SS Lazio                 -  Udinese Calcio
+  15.00  Bologna FC               -  FC Crotone
+         AC Milan                 -  ACF Fiorentina
+  18.00  Cagliari Calcio          -  Spezia
+  20.45  SSC Napoli               -  AS Roma
+[Lun. 30.11.]
+  18.30  Torino FC                -  UC Sampdoria
+  20.45  Genoa CFC                -  Parma
 
 
 10^ Giornata
+[Sab. 5.12.]
+  15.00  Spezia                   -  SS Lazio
+  18.00  Juventus                 -  Torino FC
+  20.45  FC Internazionale Milano  -  Bologna FC
 [Dom. 6.12.]
-  FC Crotone               -  SSC Napoli
-  ACF Fiorentina           -  Genoa CFC
-  FC Internazionale Milano  -  Bologna FC
-  Juventus                 -  Torino FC
-  Parma                    -  Benevento
-  AS Roma                  -  US Sassuolo Calcio
-  UC Sampdoria             -  AC Milan
-  Spezia                   -  SS Lazio
-  Udinese Calcio           -  Atalanta Bergamo
-  Hellas Verona            -  Cagliari Calcio
+  12.30  Hellas Verona            -  Cagliari Calcio
+  15.00  Udinese Calcio           -  Atalanta Bergamo
+         AS Roma                  -  US Sassuolo Calcio
+         Parma                    -  Benevento
+  18.00  FC Crotone               -  SSC Napoli
+  20.45  UC Sampdoria             -  AC Milan
+[Lun. 7.12.]
+  20.45  ACF Fiorentina           -  Genoa CFC
 
 
 11^ Giornata
+[Ven. 11.12.]
+  20.45  US Sassuolo Calcio       -  Benevento
+[Sab. 12.12.]
+  15.00  FC Crotone               -  Spezia
+  18.00  Torino FC                -  Udinese Calcio
+  20.45  SS Lazio                 -  Hellas Verona
 [Dom. 13.12.]
-  Atalanta Bergamo         -  ACF Fiorentina
-  Bologna FC               -  AS Roma
-  Cagliari Calcio          -  FC Internazionale Milano
-  FC Crotone               -  Spezia
-  Genoa CFC                -  Juventus
-  SS Lazio                 -  Hellas Verona
-  AC Milan                 -  Parma
-  SSC Napoli               -  UC Sampdoria
-  US Sassuolo Calcio       -  Benevento
-  Torino FC                -  Udinese Calcio
+  12.30  Cagliari Calcio          -  FC Internazionale Milano
+  15.00  SSC Napoli               -  UC Sampdoria
+         Bologna FC               -  AS Roma
+         Atalanta Bergamo         -  ACF Fiorentina
+  18.00  Genoa CFC                -  Juventus
+  20.45  AC Milan                 -  Parma
 
 
 12^ Giornata
+[Mar. 15.12.]
+  18.30  Udinese Calcio           -  FC Crotone
+  20.45  Benevento                -  SS Lazio
 [Mer. 16.12.]
-  Benevento                -  SS Lazio
-  ACF Fiorentina           -  US Sassuolo Calcio
-  Genoa CFC                -  AC Milan
-  FC Internazionale Milano  -  SSC Napoli
-  Juventus                 -  Atalanta Bergamo
-  Parma                    -  Cagliari Calcio
-  AS Roma                  -  Torino FC
-  Spezia                   -  Bologna FC
-  Udinese Calcio           -  FC Crotone
-  Hellas Verona            -  UC Sampdoria
+  18.30  Juventus                 -  Atalanta Bergamo
+  20.45  FC Internazionale Milano  -  SSC Napoli
+         Hellas Verona            -  UC Sampdoria
+         ACF Fiorentina           -  US Sassuolo Calcio
+         Parma                    -  Cagliari Calcio
+         Genoa CFC                -  AC Milan
+         Spezia                   -  Bologna FC
+[Gio. 17.12.]
+  20.45  AS Roma                  -  Torino FC
 
 
 13^ Giornata
+[Sab. 19.12.]
+  15.00  ACF Fiorentina           -  Hellas Verona
+  18.00  UC Sampdoria             -  FC Crotone
+  20.45  Parma                    -  Juventus
 [Dom. 20.12.]
-  Atalanta Bergamo         -  AS Roma
-  Benevento                -  Genoa CFC
-  Cagliari Calcio          -  Udinese Calcio
-  ACF Fiorentina           -  Hellas Verona
-  FC Internazionale Milano  -  Spezia
-  SS Lazio                 -  SSC Napoli
-  Parma                    -  Juventus
-  UC Sampdoria             -  FC Crotone
-  US Sassuolo Calcio       -  AC Milan
-  Torino FC                -  Bologna FC
+  12.30  Torino FC                -  Bologna FC
+  15.00  US Sassuolo Calcio       -  AC Milan
+         Cagliari Calcio          -  Udinese Calcio
+         Benevento                -  Genoa CFC
+         FC Internazionale Milano  -  Spezia
+  20.00  Atalanta Bergamo         -  AS Roma
+  20.45  SS Lazio                 -  SSC Napoli
 
 
 14^ Giornata
+[Mar. 22.12.]
+  18.30  FC Crotone               -  Parma
+  20.45  Juventus                 -  ACF Fiorentina
 [Mer. 23.12.]
-  Bologna FC               -  Atalanta Bergamo
-  FC Crotone               -  Parma
-  Juventus                 -  ACF Fiorentina
-  AC Milan                 -  SS Lazio
-  SSC Napoli               -  Torino FC
-  AS Roma                  -  Cagliari Calcio
-  UC Sampdoria             -  US Sassuolo Calcio
-  Spezia                   -  Genoa CFC
-  Udinese Calcio           -  Benevento
-  Hellas Verona            -  FC Internazionale Milano
+  18.30  Hellas Verona            -  FC Internazionale Milano
+  20.45  SSC Napoli               -  Torino FC
+         AC Milan                 -  SS Lazio
+         Bologna FC               -  Atalanta Bergamo
+         Udinese Calcio           -  Benevento
+         UC Sampdoria             -  US Sassuolo Calcio
+         Spezia                   -  Genoa CFC
+         AS Roma                  -  Cagliari Calcio
 
 
 15^ Giornata
