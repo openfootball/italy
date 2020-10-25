@@ -62,26 +62,27 @@
   12.30  Bologna FC               3-4 (2-1)  US Sassuolo Calcio
   15.00  Torino FC                2-3 (1-2)  Cagliari Calcio
          Spezia                   2-2 (1-2)  ACF Fiorentina
-  18.00  Udinese Calcio           -  Parma
-  20.45  AS Roma                  -  Benevento
+  18.00  Udinese Calcio           3-2 (1-1)  Parma
+  20.45  AS Roma                  5-2 (2-1)  Benevento
 [Lun. 19.10.]
-  20.45  Hellas Verona            -  Genoa CFC
+  20.45  Hellas Verona            0-0  Genoa CFC
 
 
 5^ Giornata
 [Ven. 23.10.]
-  20.45  US Sassuolo Calcio       -  Torino FC
+  20.45  US Sassuolo Calcio       3-3 (0-1)  Torino FC
 [Sab. 24.10.]
-  15.00  Atalanta Bergamo         -  UC Sampdoria
-  18.00  Genoa CFC                -  FC Internazionale Milano
-  20.45  SS Lazio                 -  Bologna FC
+  15.00  Atalanta Bergamo         1-3 (0-1)  UC Sampdoria
+  18.00  Genoa CFC                0-2 (0-0)  FC Internazionale Milano
+  20.45  SS Lazio                 2-1 (0-0)  Bologna FC
 [Dom. 25.10.]
-  12.30  Cagliari Calcio          -  FC Crotone
-  15.00  Parma                    -  Spezia
-         Benevento                -  SSC Napoli
-  18.00  ACF Fiorentina           -  Udinese Calcio
+  12.30  Cagliari Calcio          4-2 (3-2)  FC Crotone
+  15.00  Parma                    2-2 (1-2)  Spezia
+         Benevento                1-2 (1-0)  SSC Napoli
+  18.00  ACF Fiorentina           3-2 (2-1)  Udinese Calcio
   20.45  Juventus                 -  Hellas Verona
-         AC Milan                 -  AS Roma
+[Lun. 26.10.]
+  20.45  AC Milan                 -  AS Roma
 
 
 6^ Giornata
@@ -232,16 +233,16 @@
 
 15^ Giornata
 [Dom. 3.1.]
-  Atalanta Bergamo         -  US Sassuolo Calcio
-  Benevento                -  AC Milan
-  Cagliari Calcio          -  SSC Napoli
-  ACF Fiorentina           -  Bologna FC
-  Genoa CFC                -  SS Lazio
-  FC Internazionale Milano  -  FC Crotone
-  Juventus                 -  Udinese Calcio
-  Parma                    -  Torino FC
-  AS Roma                  -  UC Sampdoria
-  Spezia                   -  Hellas Verona
+  12.30  FC Internazionale Milano  -  FC Crotone
+  15.00  Atalanta Bergamo         -  US Sassuolo Calcio
+         Cagliari Calcio          -  SSC Napoli
+         ACF Fiorentina           -  Bologna FC
+         Spezia                   -  Hellas Verona
+         Parma                    -  Torino FC
+         AS Roma                  -  UC Sampdoria
+         Genoa CFC                -  SS Lazio
+  18.00  Benevento                -  AC Milan
+  20.45  Juventus                 -  Udinese Calcio
 
 
 16^ Giornata

@@ -49,38 +49,43 @@
 
 4^ Giornata
 [Mar. 20.10.]
-  21.00  AC Chievo Verona         -  Brescia Calcio
-         Cittadella               -  Pordenone Calcio
-         Ascoli                   -  AC Reggiana
-         AC Pisa                  -  SS Monza
-         Empoli                   -  SPAL Ferrara
-         Venezia                  -  Pescara
-         Frosinone                -  Virtus Entella
-         LR Vicenza Virtus        -  Salernitana
-         Reggina 1914             -  Cosenza Calcio
+  21.00  AC Chievo Verona         1-0 (1-0)  Brescia Calcio
+         Cittadella               2-0 (1-0)  Pordenone Calcio
+         Ascoli                   2-1 (2-0)  AC Reggiana
+         AC Pisa                  1-1 (0-0)  SS Monza
+         Empoli                   2-1 (0-1)  SPAL Ferrara
+         Venezia                  4-0 (1-0)  Pescara
+         Frosinone                0-0  Virtus Entella
+         LR Vicenza Virtus        1-1 (1-1)  Salernitana
+         Reggina 1914             0-0  Cosenza Calcio
 [Mer. 21.10.]
-  19.00  US Lecce                 -  US Cremonese
+  19.00  US Lecce                 2-2 (0-2)  US Cremonese
 
 
 5^ Giornata
 [Ven. 23.10.]
-  21.00  Empoli                   -  AC Pisa
+  21.00  Empoli                   3-1 (1-1)  AC Pisa
 [Sab. 24.10.]
-  14.00  SPAL Ferrara             -  LR Vicenza Virtus
-         AC Reggiana              -  Cittadella
-         Pordenone Calcio         -  Reggina 1914
-         SS Monza                 -  AC Chievo Verona
-         Virtus Entella           -  Venezia
-         Salernitana              -  Ascoli
-  16.00  Pescara                  -  Frosinone
+  14.00  SPAL Ferrara             3-2 (1-1)  LR Vicenza Virtus
+  AC Reggiana              -  Cittadella
+  14.00  Pordenone Calcio         2-2 (0-1)  Reggina 1914
+         SS Monza                 1-2 (1-0)  AC Chievo Verona
+         Salernitana              1-0 (0-0)  Ascoli
+  16.00  Pescara                  0-2 (0-1)  Frosinone
 [Dom. 25.10.]
-  15.00  Cosenza Calcio           -  US Lecce
+  16.00  Cosenza Calcio           1-1 (0-1)  US Lecce
   21.00  US Cremonese             -  Brescia Calcio
 
 
 6^ Giornata
 [Sab. 31.10.]
+  15.00  LR Vicenza Virtus        -  AC Pisa
+         AC Chievo Verona         -  Cosenza Calcio
+         Cittadella               -  SS Monza
   16.00  Salernitana              -  AC Reggiana
+         Venezia                  -  Empoli
+         Brescia Calcio           -  Virtus Entella
+         Ascoli                   -  Pordenone Calcio
 [Dom. 1.11.]
   15.00  Reggina 1914             -  SPAL Ferrara
   21.00  Frosinone                -  US Cremonese
@@ -92,11 +97,11 @@
 [Ven. 6.11.]
   21.00  SPAL Ferrara             -  Salernitana
 [Sab. 7.11.]
-  14.00  SS Monza                 -  Frosinone
-         Pordenone Calcio         -  AC Chievo Verona
-         US Cremonese             -  LR Vicenza Virtus
-         AC Pisa                  -  Ascoli
+  14.00  AC Pisa                  -  Ascoli
          Cosenza Calcio           -  Brescia Calcio
+         Pordenone Calcio         -  AC Chievo Verona
+         SS Monza                 -  Frosinone
+         US Cremonese             -  LR Vicenza Virtus
   16.00  Empoli                   -  Reggina 1914
 [Dom. 8.11.]
   15.00  Pescara                  -  Cittadella
@@ -104,17 +109,22 @@
   21.00  Virtus Entella           -  US Lecce
 
 
+5^ Giornata
+[Sab. 14.11.]
+  15.00  Virtus Entella           -  Venezia
+
+
 8^ Giornata
 [Sab. 21.11.]
-  21.00  Ascoli                   -  Virtus Entella
-         Salernitana              -  US Cremonese
-         LR Vicenza Virtus        -  AC Chievo Verona
-         Pordenone Calcio         -  SS Monza
-         US Lecce                 -  AC Reggiana
-         SPAL Ferrara             -  Pescara
+  21.00  Brescia Calcio           -  Venezia
+         Ascoli                   -  Virtus Entella
          Cittadella               -  Empoli
          Frosinone                -  Cosenza Calcio
-         Brescia Calcio           -  Venezia
+         LR Vicenza Virtus        -  AC Chievo Verona
+         Pordenone Calcio         -  SS Monza
+         Salernitana              -  US Cremonese
+         SPAL Ferrara             -  Pescara
+         US Lecce                 -  AC Reggiana
          Reggina 1914             -  AC Pisa
 
 
@@ -125,15 +135,15 @@
 
 10^ Giornata
 [Sab. 5.12.]
-  21.00  SPAL Ferrara             -  AC Pisa
-         LR Vicenza Virtus        -  Cosenza Calcio
-         Frosinone                -  AC Chievo Verona
+  21.00  Reggina 1914             -  Brescia Calcio
+         US Lecce                 -  Venezia
          US Cremonese             -  Virtus Entella
+         SPAL Ferrara             -  AC Pisa
+         Salernitana              -  Cittadella
          AC Reggiana              -  SS Monza
          Pordenone Calcio         -  Empoli
-         Salernitana              -  Cittadella
-         US Lecce                 -  Venezia
-         Reggina 1914             -  Brescia Calcio
+         LR Vicenza Virtus        -  Cosenza Calcio
+         Frosinone                -  AC Chievo Verona
          Ascoli                   -  Pescara
 
 
@@ -144,142 +154,142 @@
 
 12^ Giornata
 [Mar. 15.12.]
-  21.00  AC Reggiana              -  Frosinone
-         Salernitana              -  US Lecce
+  21.00  Salernitana              -  US Lecce
          SS Monza                 -  Virtus Entella
-         Empoli                   -  US Cremonese
+         SPAL Ferrara             -  AC Chievo Verona
          Ascoli                   -  Cosenza Calcio
+         AC Reggiana              -  Frosinone
+         Pordenone Calcio         -  Brescia Calcio
+         Empoli                   -  US Cremonese
          Cittadella               -  LR Vicenza Virtus
          AC Pisa                  -  Pescara
          Reggina 1914             -  Venezia
-         SPAL Ferrara             -  AC Chievo Verona
-         Pordenone Calcio         -  Brescia Calcio
 
 
 13^ Giornata
 [Sab. 19.12.]
-  21.00  LR Vicenza Virtus        -  Ascoli
-         Brescia Calcio           -  AC Reggiana
-         US Cremonese             -  Cosenza Calcio
+  21.00  Virtus Entella           -  Pordenone Calcio
          US Lecce                 -  AC Pisa
-         Virtus Entella           -  Pordenone Calcio
+         US Cremonese             -  Cosenza Calcio
+         Reggina 1914             -  Cittadella
+         AC Chievo Verona         -  Empoli
          Frosinone                -  Salernitana
          Venezia                  -  SPAL Ferrara
          Pescara                  -  SS Monza
-         AC Chievo Verona         -  Empoli
-         Reggina 1914             -  Cittadella
+         Brescia Calcio           -  AC Reggiana
+         LR Vicenza Virtus        -  Ascoli
 
 
 14^ Giornata
 [Mar. 22.12.]
-  21.00  Cosenza Calcio           -  Venezia
+  21.00  AC Pisa                  -  AC Chievo Verona
+         Cosenza Calcio           -  Venezia
          Pescara                  -  Brescia Calcio
          Empoli                   -  AC Reggiana
-         LR Vicenza Virtus        -  Reggina 1914
-         Pordenone Calcio         -  US Cremonese
+         Cittadella               -  Frosinone
          SPAL Ferrara             -  US Lecce
          SS Monza                 -  Ascoli
          Salernitana              -  Virtus Entella
-         Cittadella               -  Frosinone
-         AC Pisa                  -  AC Chievo Verona
+         Pordenone Calcio         -  US Cremonese
+         LR Vicenza Virtus        -  Reggina 1914
 
 
 15^ Giornata
 [Dom. 27.12.]
-  21.00  Frosinone                -  Pordenone Calcio
+  21.00  AC Reggiana              -  Reggina 1914
+         Virtus Entella           -  Pescara
+         US Lecce                 -  LR Vicenza Virtus
+         US Cremonese             -  SS Monza
+         Brescia Calcio           -  Empoli
          Venezia                  -  Salernitana
          Cosenza Calcio           -  AC Pisa
          AC Chievo Verona         -  Cittadella
-         AC Reggiana              -  Reggina 1914
          Ascoli                   -  SPAL Ferrara
-         US Cremonese             -  SS Monza
-         US Lecce                 -  LR Vicenza Virtus
-         Virtus Entella           -  Pescara
-         Brescia Calcio           -  Empoli
+         Frosinone                -  Pordenone Calcio
 
 
 16^ Giornata
 [Mer. 30.12.]
-  21.00  LR Vicenza Virtus        -  Virtus Entella
+  21.00  AC Pisa                  -  Frosinone
          SS Monza                 -  Salernitana
          SPAL Ferrara             -  Brescia Calcio
          Reggina 1914             -  US Cremonese
-         AC Pisa                  -  Frosinone
-         Cittadella               -  US Lecce
+         Pordenone Calcio         -  AC Reggiana
+         LR Vicenza Virtus        -  Virtus Entella
          Empoli                   -  Ascoli
          Pescara                  -  Cosenza Calcio
          AC Chievo Verona         -  Venezia
-         Pordenone Calcio         -  AC Reggiana
+         Cittadella               -  US Lecce
 
 
 17^ Giornata
 [Dom. 3.1.]
-  21.00  Brescia Calcio           -  LR Vicenza Virtus
-         Cosenza Calcio           -  Empoli
-         Venezia                  -  AC Pisa
+  21.00  Cosenza Calcio           -  Empoli
          Frosinone                -  SPAL Ferrara
          AC Reggiana              -  Pescara
          US Cremonese             -  AC Chievo Verona
+         Brescia Calcio           -  LR Vicenza Virtus
          US Lecce                 -  SS Monza
          Salernitana              -  Pordenone Calcio
          Virtus Entella           -  Cittadella
          Ascoli                   -  Reggina 1914
+         Venezia                  -  AC Pisa
 
 
 18^ Giornata
 [Sab. 16.1.]
-  21.00  Pordenone Calcio         -  Venezia
+  21.00  AC Chievo Verona         -  Virtus Entella
+         SS Monza                 -  Cosenza Calcio
+         SPAL Ferrara             -  AC Reggiana
+         Reggina 1914             -  US Lecce
+         Cittadella               -  Ascoli
+         Pordenone Calcio         -  Venezia
+         LR Vicenza Virtus        -  Frosinone
          Empoli                   -  Salernitana
          Pescara                  -  US Cremonese
-         AC Chievo Verona         -  Virtus Entella
-         LR Vicenza Virtus        -  Frosinone
          AC Pisa                  -  Brescia Calcio
-         Reggina 1914             -  US Lecce
-         SPAL Ferrara             -  AC Reggiana
-         SS Monza                 -  Cosenza Calcio
-         Cittadella               -  Ascoli
 
 
 19^ Giornata
 [Sab. 23.1.]
-  21.00  Ascoli                   -  AC Chievo Verona
+  21.00  Brescia Calcio           -  SS Monza
          Virtus Entella           -  AC Pisa
          Salernitana              -  Pescara
          US Lecce                 -  Empoli
          US Cremonese             -  SPAL Ferrara
-         Brescia Calcio           -  SS Monza
+         AC Reggiana              -  LR Vicenza Virtus
          Frosinone                -  Reggina 1914
          Venezia                  -  Cittadella
          Cosenza Calcio           -  Pordenone Calcio
-         AC Reggiana              -  LR Vicenza Virtus
+         Ascoli                   -  AC Chievo Verona
 
 
 20^ Giornata
 [Sab. 30.1.]
-  21.00  Cittadella               -  US Cremonese
-         Ascoli                   -  Brescia Calcio
-         AC Chievo Verona         -  Pescara
-         Empoli                   -  Frosinone
-         LR Vicenza Virtus        -  Venezia
-         Pordenone Calcio         -  US Lecce
-         Reggina 1914             -  Salernitana
+  21.00  Virtus Entella           -  Cosenza Calcio
          SPAL Ferrara             -  SS Monza
-         Virtus Entella           -  Cosenza Calcio
+         Reggina 1914             -  Salernitana
+         Pordenone Calcio         -  US Lecce
+         LR Vicenza Virtus        -  Venezia
+         Empoli                   -  Frosinone
+         AC Chievo Verona         -  Pescara
+         Ascoli                   -  Brescia Calcio
+         Cittadella               -  US Cremonese
          AC Pisa                  -  AC Reggiana
 
 
 21^ Giornata
 [Sab. 6.2.]
-  21.00  Brescia Calcio           -  Cittadella
-         Pescara                  -  Reggina 1914
+  21.00  Cosenza Calcio           -  SPAL Ferrara
+         Brescia Calcio           -  Cittadella
          Frosinone                -  Venezia
          Pordenone Calcio         -  LR Vicenza Virtus
          AC Reggiana              -  Virtus Entella
          SS Monza                 -  Empoli
          US Cremonese             -  AC Pisa
          US Lecce                 -  Ascoli
+         Pescara                  -  Reggina 1914
          Salernitana              -  AC Chievo Verona
-         Cosenza Calcio           -  SPAL Ferrara
 
 
 22^ Giornata
@@ -288,259 +298,249 @@
          Ascoli                   -  Frosinone
          AC Chievo Verona         -  AC Reggiana
          Empoli                   -  Pescara
-         AC Pisa                  -  Salernitana
+         Venezia                  -  US Cremonese
          LR Vicenza Virtus        -  SS Monza
          Reggina 1914             -  Virtus Entella
          SPAL Ferrara             -  Pordenone Calcio
          US Lecce                 -  Brescia Calcio
-         Venezia                  -  US Cremonese
+         AC Pisa                  -  Salernitana
 
 
 23^ Giornata
 [Sab. 13.2.]
-  21.00  Salernitana              -  LR Vicenza Virtus
-         AC Reggiana              -  Ascoli
+  21.00  Pescara                  -  Venezia
          Pordenone Calcio         -  Cittadella
-         Pescara                  -  Venezia
+         AC Reggiana              -  Ascoli
+         SPAL Ferrara             -  Empoli
+         Brescia Calcio           -  AC Chievo Verona
+         US Cremonese             -  US Lecce
+         Salernitana              -  LR Vicenza Virtus
+         Virtus Entella           -  Frosinone
          Cosenza Calcio           -  Reggina 1914
          SS Monza                 -  AC Pisa
-         US Cremonese             -  US Lecce
-         SPAL Ferrara             -  Empoli
-         Virtus Entella           -  Frosinone
-         Brescia Calcio           -  AC Chievo Verona
 
 
 24^ Giornata
 [Sab. 20.2.]
   21.00  Cittadella               -  AC Reggiana
-         Ascoli                   -  Salernitana
-         Brescia Calcio           -  US Cremonese
-         AC Chievo Verona         -  SS Monza
-         Frosinone                -  Pescara
          AC Pisa                  -  Empoli
+         AC Chievo Verona         -  SS Monza
+         Venezia                  -  Virtus Entella
+         Brescia Calcio           -  US Cremonese
          LR Vicenza Virtus        -  SPAL Ferrara
          Reggina 1914             -  Pordenone Calcio
          US Lecce                 -  Cosenza Calcio
-         Venezia                  -  Virtus Entella
+         Ascoli                   -  Salernitana
+         Frosinone                -  Pescara
 
 
 25^ Giornata
 [Sab. 27.2.]
-  21.00  Cosenza Calcio           -  AC Chievo Verona
+  21.00  AC Pisa                  -  LR Vicenza Virtus
          Pescara                  -  US Lecce
-         Empoli                   -  Venezia
-         Pordenone Calcio         -  Ascoli
-         AC Reggiana              -  Salernitana
          Virtus Entella           -  Brescia Calcio
-         SPAL Ferrara             -  Reggina 1914
-         SS Monza                 -  Cittadella
          US Cremonese             -  Frosinone
-         AC Pisa                  -  LR Vicenza Virtus
+         SS Monza                 -  Cittadella
+         SPAL Ferrara             -  Reggina 1914
+         AC Reggiana              -  Salernitana
+         Pordenone Calcio         -  Ascoli
+         Empoli                   -  Venezia
+         Cosenza Calcio           -  AC Chievo Verona
 
 
 26^ Giornata
 [Mar. 2.3.]
-  21.00  Cittadella               -  Pescara
-         Ascoli                   -  AC Pisa
-         Brescia Calcio           -  Cosenza Calcio
-         AC Chievo Verona         -  Pordenone Calcio
+  21.00  Brescia Calcio           -  Cosenza Calcio
          Venezia                  -  AC Reggiana
          Frosinone                -  SS Monza
          LR Vicenza Virtus        -  US Cremonese
-         Reggina 1914             -  Empoli
+         AC Chievo Verona         -  Pordenone Calcio
          US Lecce                 -  Virtus Entella
          Salernitana              -  SPAL Ferrara
+         Cittadella               -  Pescara
+         Ascoli                   -  AC Pisa
+         Reggina 1914             -  Empoli
 
 
 27^ Giornata
 [Sab. 6.3.]
   21.00  AC Pisa                  -  Reggina 1914
-         AC Chievo Verona         -  LR Vicenza Virtus
-         Cosenza Calcio           -  Frosinone
-         Pescara                  -  SPAL Ferrara
-         Empoli                   -  Cittadella
-         AC Reggiana              -  US Lecce
-         SS Monza                 -  Pordenone Calcio
-         US Cremonese             -  Salernitana
          Virtus Entella           -  Ascoli
+         US Cremonese             -  Salernitana
+         SS Monza                 -  Pordenone Calcio
+         AC Reggiana              -  US Lecce
          Venezia                  -  Brescia Calcio
+         Empoli                   -  Cittadella
+         Pescara                  -  SPAL Ferrara
+         Cosenza Calcio           -  Frosinone
+         AC Chievo Verona         -  LR Vicenza Virtus
 
 
 28^ Giornata
 [Sab. 13.3.]
-  21.00  US Lecce                 -  AC Chievo Verona
-         Pordenone Calcio         -  Pescara
-         Reggina 1914             -  SS Monza
-         Cittadella               -  AC Pisa
-         Ascoli                   -  Venezia
+  21.00  Cittadella               -  AC Pisa
          Frosinone                -  Brescia Calcio
          LR Vicenza Virtus        -  Empoli
-         Salernitana              -  Cosenza Calcio
-         US Cremonese             -  AC Reggiana
+         Pordenone Calcio         -  Pescara
+         Ascoli                   -  Venezia
          SPAL Ferrara             -  Virtus Entella
+         US Cremonese             -  AC Reggiana
+         US Lecce                 -  AC Chievo Verona
+         Salernitana              -  Cosenza Calcio
+         Reggina 1914             -  SS Monza
 
 
 29^ Giornata
 [Mar. 16.3.]
-  21.00  Empoli                   -  Pordenone Calcio
-         Pescara                  -  Ascoli
+  21.00  Cittadella               -  Salernitana
          AC Pisa                  -  SPAL Ferrara
-         Cittadella               -  Salernitana
-         Cosenza Calcio           -  LR Vicenza Virtus
          AC Chievo Verona         -  Frosinone
-         Venezia                  -  US Lecce
-         SS Monza                 -  AC Reggiana
          Virtus Entella           -  US Cremonese
          Brescia Calcio           -  Reggina 1914
+         Venezia                  -  US Lecce
+         Empoli                   -  Pordenone Calcio
+         Pescara                  -  Ascoli
+         Cosenza Calcio           -  LR Vicenza Virtus
+         SS Monza                 -  AC Reggiana
 
 
 30^ Giornata
 [Sab. 20.3.]
-  21.00  Empoli                   -  Virtus Entella
-         Frosinone                -  US Lecce
-         LR Vicenza Virtus        -  Pescara
-         Pordenone Calcio         -  AC Pisa
-         Ascoli                   -  US Cremonese
-         SPAL Ferrara             -  Cittadella
-         SS Monza                 -  Venezia
+  21.00  Ascoli                   -  US Cremonese
          Salernitana              -  Brescia Calcio
-         AC Reggiana              -  Cosenza Calcio
+         SS Monza                 -  Venezia
+         SPAL Ferrara             -  Cittadella
          Reggina 1914             -  AC Chievo Verona
+         Frosinone                -  US Lecce
+         Pordenone Calcio         -  AC Pisa
+         LR Vicenza Virtus        -  Pescara
+         Empoli                   -  Virtus Entella
+         AC Reggiana              -  Cosenza Calcio
 
 
 31^ Giornata
 [Gio. 1.4.]
   21.00  Brescia Calcio           -  Pordenone Calcio
-         Cosenza Calcio           -  Ascoli
+         AC Chievo Verona         -  SPAL Ferrara
          Pescara                  -  AC Pisa
          Venezia                  -  Reggina 1914
+         Cosenza Calcio           -  Ascoli
          LR Vicenza Virtus        -  Cittadella
          US Cremonese             -  Empoli
          US Lecce                 -  Salernitana
          Virtus Entella           -  SS Monza
-         AC Chievo Verona         -  SPAL Ferrara
          Frosinone                -  AC Reggiana
 
 
 32^ Giornata
 [Lun. 5.4.]
-  21.00  AC Pisa                  -  US Lecce
-         Cittadella               -  Reggina 1914
-         SS Monza                 -  Pescara
-         Cosenza Calcio           -  US Cremonese
-         Empoli                   -  AC Chievo Verona
-         Pordenone Calcio         -  Virtus Entella
-         AC Reggiana              -  Brescia Calcio
+  21.00  Ascoli                   -  LR Vicenza Virtus
          SPAL Ferrara             -  Venezia
          Salernitana              -  Frosinone
-         Ascoli                   -  LR Vicenza Virtus
+         SS Monza                 -  Pescara
+         AC Reggiana              -  Brescia Calcio
+         Pordenone Calcio         -  Virtus Entella
+         Empoli                   -  AC Chievo Verona
+         Cosenza Calcio           -  US Cremonese
+         Cittadella               -  Reggina 1914
+         AC Pisa                  -  US Lecce
 
 
 33^ Giornata
 [Sab. 10.4.]
-  21.00  Ascoli                   -  SS Monza
+  21.00  Reggina 1914             -  LR Vicenza Virtus
          Brescia Calcio           -  Pescara
-         AC Chievo Verona         -  AC Pisa
-         Venezia                  -  Cosenza Calcio
-         Frosinone                -  Cittadella
-         Reggina 1914             -  LR Vicenza Virtus
          Virtus Entella           -  Salernitana
          US Lecce                 -  SPAL Ferrara
-         US Cremonese             -  Pordenone Calcio
+         Venezia                  -  Cosenza Calcio
+         Ascoli                   -  SS Monza
          AC Reggiana              -  Empoli
+         Frosinone                -  Cittadella
+         AC Chievo Verona         -  AC Pisa
+         US Cremonese             -  Pordenone Calcio
 
 
 34^ Giornata
 [Sab. 17.4.]
-  21.00  SS Monza                 -  US Cremonese
-         AC Pisa                  -  Cosenza Calcio
-         Cittadella               -  AC Chievo Verona
-         Pescara                  -  Virtus Entella
-         Salernitana              -  Venezia
+  21.00  Empoli                   -  Brescia Calcio
          LR Vicenza Virtus        -  US Lecce
          Pordenone Calcio         -  Frosinone
          Reggina 1914             -  AC Reggiana
+         AC Pisa                  -  Cosenza Calcio
+         Pescara                  -  Virtus Entella
+         SS Monza                 -  US Cremonese
+         Salernitana              -  Venezia
+         Cittadella               -  AC Chievo Verona
          SPAL Ferrara             -  Ascoli
-         Empoli                   -  Brescia Calcio
 
 
 35^ Giornata
 [Mar. 20.4.]
-  21.00  AC Reggiana              -  Pordenone Calcio
-         Ascoli                   -  Empoli
-         Brescia Calcio           -  SPAL Ferrara
+  21.00  Frosinone                -  AC Pisa
          Cosenza Calcio           -  Pescara
+         Ascoli                   -  Empoli
+         AC Reggiana              -  Pordenone Calcio
          US Cremonese             -  Reggina 1914
-         Frosinone                -  AC Pisa
-         Virtus Entella           -  LR Vicenza Virtus
-         Salernitana              -  SS Monza
          US Lecce                 -  Cittadella
+         Salernitana              -  SS Monza
+         Virtus Entella           -  LR Vicenza Virtus
          Venezia                  -  AC Chievo Verona
+         Brescia Calcio           -  SPAL Ferrara
 
 
 36^ Giornata
 [Sab. 24.4.]
-  21.00  Reggina 1914             -  Ascoli
-         LR Vicenza Virtus        -  Brescia Calcio
-         Pescara                  -  AC Reggiana
-         AC Chievo Verona         -  US Cremonese
+  21.00  Pescara                  -  AC Reggiana
          Cittadella               -  Virtus Entella
          AC Pisa                  -  Venezia
+         Empoli                   -  Cosenza Calcio
+         AC Chievo Verona         -  US Cremonese
          Pordenone Calcio         -  Salernitana
+         Reggina 1914             -  Ascoli
          SPAL Ferrara             -  Frosinone
          SS Monza                 -  US Lecce
-         Empoli                   -  Cosenza Calcio
+         LR Vicenza Virtus        -  Brescia Calcio
 
 
 37^ Giornata
 [Sab. 1.5.]
-  21.00  US Cremonese             -  Pescara
-         Ascoli                   -  Cittadella
-         Cosenza Calcio           -  SS Monza
-         Salernitana              -  Empoli
-         US Lecce                 -  Reggina 1914
+  21.00  Venezia                  -  Pordenone Calcio
          Brescia Calcio           -  AC Pisa
-         AC Reggiana              -  SPAL Ferrara
+         Ascoli                   -  Cittadella
          Frosinone                -  LR Vicenza Virtus
-         Venezia                  -  Pordenone Calcio
+         AC Reggiana              -  SPAL Ferrara
+         US Cremonese             -  Pescara
+         US Lecce                 -  Reggina 1914
+         Salernitana              -  Empoli
          Virtus Entella           -  AC Chievo Verona
+         Cosenza Calcio           -  SS Monza
 
 
 38^ Giornata
 [Ven. 7.5.]
-  21.00  AC Chievo Verona         -  Ascoli
+  21.00  Cittadella               -  Venezia
          AC Pisa                  -  Virtus Entella
+         AC Chievo Verona         -  Ascoli
          Pescara                  -  Salernitana
          Empoli                   -  US Lecce
          LR Vicenza Virtus        -  AC Reggiana
          Pordenone Calcio         -  Cosenza Calcio
          Reggina 1914             -  Frosinone
-         SS Monza                 -  Brescia Calcio
-         Cittadella               -  Venezia
          SPAL Ferrara             -  US Cremonese
-
-
-6^ Giornata
-[Dom. 31.10.]
-  14.00  Cittadella               -  SS Monza
-  16.00  LR Vicenza Virtus        -  AC Pisa
-         Ascoli                   -  Pordenone Calcio
-         AC Chievo Verona         -  Cosenza Calcio
-         Venezia                  -  Empoli
-         Brescia Calcio           -  Virtus Entella
+         SS Monza                 -  Brescia Calcio
 
 
 9^ Giornata
 [Dom. 28.11.]
-  21.00  Brescia Calcio           -  Frosinone
-         Venezia                  -  Ascoli
+  21.00  AC Pisa                  -  Cittadella
+         Brescia Calcio           -  Frosinone
          AC Chievo Verona         -  US Lecce
          Cosenza Calcio           -  Salernitana
          Pescara                  -  Pordenone Calcio
          Empoli                   -  LR Vicenza Virtus
-         SS Monza                 -  Reggina 1914
+         Venezia                  -  Ascoli
          AC Reggiana              -  US Cremonese
-         AC Pisa                  -  Cittadella
+         SS Monza                 -  Reggina 1914
 
 
 11^ Giornata
