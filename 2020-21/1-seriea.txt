@@ -80,9 +80,9 @@
   15.00  Parma                    2-2 (1-2)  Spezia
          Benevento                1-2 (1-0)  SSC Napoli
   18.00  ACF Fiorentina           3-2 (2-1)  Udinese Calcio
-  20.45  Juventus                 -  Hellas Verona
+  20.45  Juventus                 1-1 (0-0)  Hellas Verona
 [Lun. 26.10.]
-  20.45  AC Milan                 -  AS Roma
+  20.45  AC Milan                 3-3 (1-1)  AS Roma
 
 
 6^ Giornata
@@ -247,30 +247,31 @@
 
 16^ Giornata
 [Mer. 6.1.]
-  Atalanta Bergamo         -  Parma
-  Bologna FC               -  Udinese Calcio
-  Cagliari Calcio          -  Benevento
-  FC Crotone               -  AS Roma
-  SS Lazio                 -  ACF Fiorentina
-  AC Milan                 -  Juventus
-  SSC Napoli               -  Spezia
-  UC Sampdoria             -  FC Internazionale Milano
-  US Sassuolo Calcio       -  Genoa CFC
-  Torino FC                -  Hellas Verona
+  12.30  Cagliari Calcio          -  Benevento
+  15.00  Atalanta Bergamo         -  Parma
+         Bologna FC               -  Udinese Calcio
+         FC Crotone               -  AS Roma
+         Torino FC                -  Hellas Verona
+         UC Sampdoria             -  FC Internazionale Milano
+         US Sassuolo Calcio       -  Genoa CFC
+         SS Lazio                 -  ACF Fiorentina
+  18.00  SSC Napoli               -  Spezia
+  20.45  AC Milan                 -  Juventus
 
 
 17^ Giornata
+[Sab. 9.1.]
+  20.45  AS Roma                  -  FC Internazionale Milano
 [Dom. 10.1.]
-  Benevento                -  Atalanta Bergamo
+  Juventus                 -  US Sassuolo Calcio
   ACF Fiorentina           -  Cagliari Calcio
   Genoa CFC                -  Bologna FC
-  Juventus                 -  US Sassuolo Calcio
+  Hellas Verona            -  FC Crotone
   AC Milan                 -  Torino FC
   Parma                    -  SS Lazio
-  AS Roma                  -  FC Internazionale Milano
   Spezia                   -  UC Sampdoria
   Udinese Calcio           -  SSC Napoli
-  Hellas Verona            -  FC Crotone
+  Benevento                -  Atalanta Bergamo
 
 
 18^ Giornata
