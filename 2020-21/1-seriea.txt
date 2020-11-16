@@ -130,9 +130,9 @@
 [Dom. 22.11.]
   12.30  ACF Fiorentina           -  Benevento
   15.00  FC Internazionale Milano  -  Torino FC
+         AS Roma                  -  Parma
          UC Sampdoria             -  Bologna FC
          Hellas Verona            -  US Sassuolo Calcio
-  16.00  AS Roma                  -  Parma
   18.00  Udinese Calcio           -  Genoa CFC
   20.45  SSC Napoli               -  AC Milan
 
@@ -212,7 +212,7 @@
          Cagliari Calcio          -  Udinese Calcio
          Benevento                -  Genoa CFC
          FC Internazionale Milano  -  Spezia
-  20.00  Atalanta Bergamo         -  AS Roma
+  18.00  Atalanta Bergamo         -  AS Roma
   20.45  SS Lazio                 -  SSC Napoli
 
 
