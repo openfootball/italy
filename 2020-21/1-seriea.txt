@@ -17,8 +17,8 @@
 2^ Giornata
 [Sab. 26.9.]
   15.00  Torino FC                2-4 (2-3)  Atalanta Bergamo
-  18.00  Cagliari Calcio          0-2 (0-1)  SS Lazio
-         UC Sampdoria             2-3 (2-1)  Benevento
+  18.00  UC Sampdoria             2-3 (2-1)  Benevento
+         Cagliari Calcio          0-2 (0-1)  SS Lazio
   20.45  FC Internazionale Milano  4-3 (1-1)  ACF Fiorentina
 [Dom. 27.9.]
   12.30  Spezia                   1-4 (1-1)  US Sassuolo Calcio
@@ -32,8 +32,8 @@
 
 1^ Giornata
 [Mer. 30.9.]
-  18.00  Benevento                2-5 (1-4)  FC Internazionale Milano
-         Udinese Calcio           0-2 (0-1)  Spezia
+  18.00  Udinese Calcio           0-2 (0-1)  Spezia
+         Benevento                2-5 (1-4)  FC Internazionale Milano
   20.45  SS Lazio                 1-4 (0-3)  Atalanta Bergamo
 
 
@@ -55,13 +55,13 @@
 4^ Giornata
 [Sab. 17.10.]
   15.00  SSC Napoli               4-1 (4-0)  Atalanta Bergamo
-  18.00  FC Internazionale Milano  1-2 (1-2)  AC Milan
-         UC Sampdoria             3-0 (2-0)  SS Lazio
+  18.00  UC Sampdoria             3-0 (2-0)  SS Lazio
+         FC Internazionale Milano  1-2 (1-2)  AC Milan
   20.45  FC Crotone               1-1 (1-1)  Juventus
 [Dom. 18.10.]
   12.30  Bologna FC               3-4 (2-1)  US Sassuolo Calcio
-  15.00  Spezia                   2-2 (1-2)  ACF Fiorentina
-         Torino FC                2-3 (1-2)  Cagliari Calcio
+  15.00  Torino FC                2-3 (1-2)  Cagliari Calcio
+         Spezia                   2-2 (1-2)  ACF Fiorentina
   18.00  Udinese Calcio           3-2 (1-1)  Parma
   20.45  AS Roma                  5-2 (2-1)  Benevento
 [Lun. 19.10.]
@@ -77,8 +77,8 @@
   20.45  SS Lazio                 2-1 (0-0)  Bologna FC
 [Dom. 25.10.]
   12.30  Cagliari Calcio          4-2 (3-2)  FC Crotone
-  15.00  Benevento                1-2 (1-0)  SSC Napoli
-         Parma                    2-2 (1-2)  Spezia
+  15.00  Parma                    2-2 (1-2)  Spezia
+         Benevento                1-2 (1-0)  SSC Napoli
   18.00  ACF Fiorentina           3-2 (2-1)  Udinese Calcio
   20.45  Juventus                 1-1 (0-0)  Hellas Verona
 [Lun. 26.10.]
@@ -94,8 +94,8 @@
   12.30  Udinese Calcio           1-2 (0-1)  AC Milan
   15.00  Spezia                   1-4 (1-1)  Juventus
          Torino FC                3-4 (2-1)  SS Lazio
-  18.00  SSC Napoli               0-2 (0-0)  US Sassuolo Calcio
-         AS Roma                  2-0 (1-0)  ACF Fiorentina
+  18.00  AS Roma                  2-0 (1-0)  ACF Fiorentina
+         SSC Napoli               0-2 (0-0)  US Sassuolo Calcio
   20.45  UC Sampdoria             1-1 (1-1)  Genoa CFC
 [Lun. 2.11.]
   20.45  Hellas Verona            3-1 (1-0)  Benevento
@@ -124,24 +124,24 @@
 
 8^ Giornata
 [Sab. 21.11.]
-  15.00  FC Crotone               -  SS Lazio
-  18.00  Spezia                   -  Atalanta Bergamo
-  20.45  Juventus                 -  Cagliari Calcio
+  15.00  FC Crotone               0-2 (0-1)  SS Lazio
+  18.00  Spezia                   0-0  Atalanta Bergamo
+  20.45  Juventus                 2-0 (2-0)  Cagliari Calcio
 [Dom. 22.11.]
-  12.30  ACF Fiorentina           -  Benevento
-  15.00  FC Internazionale Milano  -  Torino FC
-         AS Roma                  -  Parma
-         UC Sampdoria             -  Bologna FC
-         Hellas Verona            -  US Sassuolo Calcio
-  18.00  Udinese Calcio           -  Genoa CFC
-  20.45  SSC Napoli               -  AC Milan
+  12.30  ACF Fiorentina           0-1 (0-0)  Benevento
+  15.00  FC Internazionale Milano  4-2 (0-1)  Torino FC
+         AS Roma                  3-0 (3-0)  Parma
+         UC Sampdoria             1-2 (1-1)  Bologna FC
+         Hellas Verona            0-2 (0-1)  US Sassuolo Calcio
+  18.00  Udinese Calcio           1-0 (1-0)  Genoa CFC
+  20.45  SSC Napoli               1-3 (0-1)  AC Milan
 
 
 9^ Giornata
 [Sab. 28.11.]
-  15.00  US Sassuolo Calcio       -  FC Internazionale Milano
-  18.00  Benevento                -  Juventus
-  20.45  Atalanta Bergamo         -  Hellas Verona
+  15.00  US Sassuolo Calcio       0-3 (0-2)  FC Internazionale Milano
+  18.00  Benevento                1-1 (1-1)  Juventus
+  20.45  Atalanta Bergamo         0-2 (0-0)  Hellas Verona
 [Dom. 29.11.]
   12.30  SS Lazio                 -  Udinese Calcio
   15.00  Bologna FC               -  FC Crotone
@@ -160,9 +160,9 @@
   20.45  FC Internazionale Milano  -  Bologna FC
 [Dom. 6.12.]
   12.30  Hellas Verona            -  Cagliari Calcio
-  15.00  Parma                    -  Benevento
+  15.00  Udinese Calcio           -  Atalanta Bergamo
          AS Roma                  -  US Sassuolo Calcio
-         Udinese Calcio           -  Atalanta Bergamo
+         Parma                    -  Benevento
   18.00  FC Crotone               -  SSC Napoli
   20.45  UC Sampdoria             -  AC Milan
 [Lun. 7.12.]
@@ -178,9 +178,9 @@
   20.45  SS Lazio                 -  Hellas Verona
 [Dom. 13.12.]
   12.30  Cagliari Calcio          -  FC Internazionale Milano
-  15.00  Atalanta Bergamo         -  ACF Fiorentina
+  15.00  SSC Napoli               -  UC Sampdoria
          Bologna FC               -  AS Roma
-         SSC Napoli               -  UC Sampdoria
+         Atalanta Bergamo         -  ACF Fiorentina
   18.00  Genoa CFC                -  Juventus
   20.45  AC Milan                 -  Parma
 
@@ -191,12 +191,12 @@
   20.45  Benevento                -  SS Lazio
 [Mer. 16.12.]
   18.30  Juventus                 -  Atalanta Bergamo
-  20.45  ACF Fiorentina           -  US Sassuolo Calcio
-         Genoa CFC                -  AC Milan
-         FC Internazionale Milano  -  SSC Napoli
-         Parma                    -  Cagliari Calcio
-         Spezia                   -  Bologna FC
+  20.45  FC Internazionale Milano  -  SSC Napoli
          Hellas Verona            -  UC Sampdoria
+         ACF Fiorentina           -  US Sassuolo Calcio
+         Parma                    -  Cagliari Calcio
+         Genoa CFC                -  AC Milan
+         Spezia                   -  Bologna FC
 [Gio. 17.12.]
   20.45  AS Roma                  -  Torino FC
 
@@ -208,10 +208,10 @@
   20.45  Parma                    -  Juventus
 [Dom. 20.12.]
   12.30  Torino FC                -  Bologna FC
-  15.00  Benevento                -  Genoa CFC
+  15.00  US Sassuolo Calcio       -  AC Milan
          Cagliari Calcio          -  Udinese Calcio
+         Benevento                -  Genoa CFC
          FC Internazionale Milano  -  Spezia
-         US Sassuolo Calcio       -  AC Milan
   18.00  Atalanta Bergamo         -  AS Roma
   20.45  SS Lazio                 -  SSC Napoli
 
@@ -222,13 +222,13 @@
   20.45  Juventus                 -  ACF Fiorentina
 [Mer. 23.12.]
   18.30  Hellas Verona            -  FC Internazionale Milano
-  20.45  Bologna FC               -  Atalanta Bergamo
+  20.45  SSC Napoli               -  Torino FC
          AC Milan                 -  SS Lazio
-         SSC Napoli               -  Torino FC
-         AS Roma                  -  Cagliari Calcio
+         Bologna FC               -  Atalanta Bergamo
+         Udinese Calcio           -  Benevento
          UC Sampdoria             -  US Sassuolo Calcio
          Spezia                   -  Genoa CFC
-         Udinese Calcio           -  Benevento
+         AS Roma                  -  Cagliari Calcio
 
 
 15^ Giornata
@@ -237,10 +237,10 @@
   15.00  Atalanta Bergamo         -  US Sassuolo Calcio
          Cagliari Calcio          -  SSC Napoli
          ACF Fiorentina           -  Bologna FC
-         Genoa CFC                -  SS Lazio
+         Spezia                   -  Hellas Verona
          Parma                    -  Torino FC
          AS Roma                  -  UC Sampdoria
-         Spezia                   -  Hellas Verona
+         Genoa CFC                -  SS Lazio
   18.00  Benevento                -  AC Milan
   20.45  Juventus                 -  Udinese Calcio
 
@@ -251,10 +251,10 @@
   15.00  Atalanta Bergamo         -  Parma
          Bologna FC               -  Udinese Calcio
          FC Crotone               -  AS Roma
-         SS Lazio                 -  ACF Fiorentina
+         Torino FC                -  Hellas Verona
          UC Sampdoria             -  FC Internazionale Milano
          US Sassuolo Calcio       -  Genoa CFC
-         Torino FC                -  Hellas Verona
+         SS Lazio                 -  ACF Fiorentina
   18.00  SSC Napoli               -  Spezia
   20.45  AC Milan                 -  Juventus
 
@@ -263,15 +263,15 @@
 [Sab. 9.1.]
   20.45  AS Roma                  -  FC Internazionale Milano
 [Dom. 10.1.]
-  Benevento                -  Atalanta Bergamo
+  Juventus                 -  US Sassuolo Calcio
   ACF Fiorentina           -  Cagliari Calcio
   Genoa CFC                -  Bologna FC
-  Juventus                 -  US Sassuolo Calcio
+  Hellas Verona            -  FC Crotone
   AC Milan                 -  Torino FC
   Parma                    -  SS Lazio
   Spezia                   -  UC Sampdoria
   Udinese Calcio           -  SSC Napoli
-  Hellas Verona            -  FC Crotone
+  Benevento                -  Atalanta Bergamo
 
 
 18^ Giornata
