@@ -32,3 +32,6 @@ hellasverona, Hellas Verona,             HEL
 cesena,       AC Cesena
 spal,         SPAL 2013 Ferrara
 benevento,    Benevento Calcio
+spezia,       Spezia Calcio              SPE
+venezia,      Venezia Football Club      VEN
+salernitana,  US Salernitana             SAL
