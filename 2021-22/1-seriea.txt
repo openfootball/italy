@@ -35,14 +35,506 @@
 
 3^ Giornata
 [Dom. 12.9.]
-  Atalanta Bergamo         -  ACF Fiorentina
-  Bologna FC               -  Hellas Verona
-  Cagliari Calcio          -  Genoa CFC
-  Empoli FC                -  Venezia Football Club
-  AC Milan                 -  SS Lazio
-  SSC Napoli               -  Juventus Torino
-  AS Roma                  -  US Sassuolo Calcio
-  UC Sampdoria             -  FC Internazionale Milano
-  Spezia Calcio            -  Udinese Calcio
-  Torino FC                -  US Salernitana
-  
+  Atalanta Bergamo            -  ACF Fiorentina
+  Bologna FC                  -  Hellas Verona
+  Cagliari Calcio             -  Genoa CFC
+  Empoli FC                   -  Venezia Football Club
+  AC Milan                    -  SS Lazio
+  SSC Napoli                  -  Juventus Torino
+  AS Roma                     -  US Sassuolo Calcio
+  UC Sampdoria                -  FC Internazionale Milano
+  Spezia Calcio               -  Udinese Calcio
+  Torino FC                   -  US Salernitana
+
+
+4^ Giornata
+[Dom. 17.9.]
+  US Sassuolo Calcio          -  Torino FC
+[Dom. 18.9.]
+  Genoa CFC                   -  ACF Fiorentina
+  FC Internazionale Milano    -  Bologna FC  
+  US Salernitana              -  Atalanta Bergamo
+[Dom. 19.9.]
+  Empoli FC                   -  UC Sampdoria
+  Venezia Football Club       -  Spezia Calcio
+  Hellas Verona               -  AS Roma 
+  Juventus Torino             -  AC Milan
+  SS Lazio                    -  Cagliari Calcio
+[Dom. 20.9.]
+  SSC Napoli                  -  Udinese Calcio
+
+
+5^ Giornata
+[Dom. 21.9.]
+  Bologna FC                  -  Genoa CFC 
+  ACF Fiorentina              -  FC Internazionale Milano
+  Atalanta Bergamo            -  US Sassuolo Calcio 
+[Dom. 22.9.]
+  Spezia Calcio               -  Juventus Torino 
+  US Salernitana              -  Hellas Verona
+  AC Milan                    -  Venezia Football Club
+  Cagliari Calcio             -  Empoli FC
+[Dom. 23.9.]
+  UC Sampdoria                -  SSC Napoli 
+  AS Roma                     -  Udinese Calcio 
+  Torino FC                   -  SS Lazio
+
+6^ Giornata
+[Dom 26.9.]
+  Empoli FC                   -  Bologna FC
+  Genoa CFC                   -  Hellas Verona
+  FC Internazionale Milano    -  Atalanta Bergamo
+  Juventus Torino             -  UC Sampdoria
+  SS Lazio                    -  AS Roma
+  SSC Napoli                  -  Cagliari Calcio
+  US Sassuolo Calcio          -  US Salernitana
+  Spezia Calcio               -  AC Milan
+  Udinese Calcio              -  ACF Fiorentina
+  Venezia Football Club       -  Torino FC
+
+
+7^ Giornata
+[Dom  3.10.]
+  Atalanta Bergamo            -  AC Milan
+  Bologna FC                  -  SS Lazio
+  Cagliari Calcio             -  Venezia Football Club
+  ACF Fiorentina              -  SSC Napoli
+  Hellas Verona               -  Spezia Calcio
+  AS Roma                     -  Empoli FC
+  US Salernitana              -  Genoa CFC
+  UC Sampdoria                -  Udinese Calcio
+  US Sassuolo Calcio          -  FC Internazionale Milano
+  Torino FC                   -  Juventus Torino
+
+
+8^ Giornata
+[Dom  17.10.]
+  Cagliari Calcio             -  UC Sampdoria
+  Empoli FC                   -  Atalanta Bergamo
+  Genoa CFC                   -  US Sassuolo Calcio
+  Juventus Torino             -  AS Roma
+  SS Lazio                    -  FC Internazionale Milano
+  AC Milan                    -  Hellas Verona
+  SSC Napoli                  -  Torino FC
+  Spezia Calcio               -  US Salernitana
+  Udinese Calcio              -  Bologna FC
+  Venezia Football Club       -  ACF Fiorentina
+
+
+9^ Giornata
+[Dom  24.10.]
+  Atalanta Bergamo            -  Udinese Calcio
+  Bologna FC                  -  AC Milan
+  ACF Fiorentina              -  Cagliari Calcio
+  FC Internazionale Milano    -  Juventus Torino
+  AS Roma                     -  SSC Napoli
+  US Salernitana              -  Empoli FC
+  UC Sampdoria                -  Spezia Calcio
+  US Sassuolo Calcio          -  Venezia Football Club
+  Torino FC                   -  Genoa CFC
+  Hellas Verona               -  SS Lazio
+
+
+10^ Giornata
+[Dom  27.10.]
+  Cagliari Calcio             -  AS Roma
+  Empoli FC                   -  FC Internazionale Milano
+  Juventus Torino             -  US Sassuolo Calcio
+  SS Lazio                    -  ACF Fiorentina
+  AC Milan                    -  Torino FC
+  SSC Napoli                  -  Bologna FC
+  UC Sampdoria                -  Atalanta Bergamo
+  Spezia Calcio               -  Genoa CFC
+  Udinese Calcio              -  Hellas Verona
+  Venezia Football Club       -  US Salernitana
+
+
+11^ Giornata
+[Dom  31.10.]
+  Atalanta Bergamo            -  SS Lazio
+  Bologna FC                  -  Cagliari Calcio
+  ACF Fiorentina              -  Spezia Calcio
+  Genoa CFC                   -  Venezia Football Club
+  FC Internazionale Milano    -  Udinese Calcio
+  AS Roma                     -  AC Milan
+  US Salernitana              -  SSC Napoli
+  US Sassuolo Calcio          -  Empoli FC
+  Torino FC                   -  UC Sampdoria
+  Hellas Verona               -  Juventus Torino
+
+
+12^ Giornata
+[Dom  7.11.]
+  Cagliari Calcio             -  Atalanta Bergamo
+  Empoli FC                   -  Genoa CFC
+  Juventus Torino             -  ACF Fiorentina
+  SS Lazio                    -  US Salernitana
+  AC Milan                    -  FC Internazionale Milano
+  SSC Napoli                  -  Hellas Verona
+  UC Sampdoria                -  Bologna FC
+  Spezia Calcio               -  Torino FC
+  Udinese Calcio              -  US Sassuolo Calcio
+  Venezia Football Club       -  AS Roma
+
+
+13^ Giornata
+[Dom  21.11.]
+  Atalanta Bergamo            -  Spezia Calcio
+  Bologna FC                  -  Venezia Football Club
+  ACF Fiorentina              -  AC Milan
+  Genoa CFC                   -  AS Roma
+  FC Internazionale Milano    -  SSC Napoli
+  SS Lazio                    -  Juventus Torino
+  US Salernitana              -  UC Sampdoria
+  US Sassuolo Calcio          -  Cagliari Calcio
+  Torino FC                   -  Udinese Calcio
+  Hellas Verona               -  Empoli FC
+
+
+14^ Giornata
+[Dom 28.11.]
+  Cagliari Calcio             -  US Salernitana
+  Empoli FC                   -  ACF Fiorentina
+  Juventus Torino             -  Atalanta Bergamo
+  AC Milan                    -  US Sassuolo Calcio
+  SSC Napoli                  -  SS Lazio
+  AS Roma                     -  Torino FC
+  UC Sampdoria                -  Hellas Verona
+  Spezia Calcio               -  Bologna FC
+  Udinese Calcio              -  Genoa CFC
+  Venezia Football Club       -  FC Internazionale Milano
+
+
+15^ Giornata
+[Dom  1.12.]
+  Atalanta Bergamo            -  Venezia Football Club
+  Bologna FC                  -  AS Roma
+  ACF Fiorentina              -  UC Sampdoria
+  Genoa CFC                   -  AC Milan
+  FC Internazionale Milano    -  Spezia Calcio
+  SS Lazio                    -  Udinese Calcio
+  US Salernitana              -  Juventus Torino
+  US Sassuolo Calcio          -  SSC Napoli
+  Torino FC                   -  Empoli FC
+  Hellas Verona               -  Cagliari Calcio
+
+
+16^ Giornata
+[Dom  5.12.]
+  Bologna FC                  -  ACF Fiorentina
+  Cagliari Calcio             -  ACF Fiorentina
+  Empoli FC                   -  Udinese Calcio
+  Juventus Torino             -  Genoa CFC
+  AC Milan                    -  US Salernitana
+  SSC Napoli                  -  Atalanta Bergamo
+  AS Roma                     -  FC Internazionale Milano
+  UC Sampdoria                -  SS Lazio
+  Spezia Calcio               -  US Sassuolo Calcio
+  Venezia Football Club       -  Hellas Verona
+
+
+17^ Giornata
+[Dom  12.12.]
+  ACF Fiorentina              -  US Salernitana
+  Genoa CFC                   -  UC Sampdoria
+  FC Internazionale Milano    -  Cagliari Calcio
+  SSC Napoli                  -  Empoli FC
+  AS Roma                     -  Spezia Calcio
+  US Sassuolo Calcio          -  SS Lazio
+  Torino FC                   -  Bologna FC
+  Udinese Calcio              -  AC Milan
+  Venezia Football Club       -  Juventus Torino
+  Hellas Verona               -  Atalanta Bergamo
+
+
+18^ Giornata
+[Dom  19.12.]
+  Atalanta Bergamo            -  AS Roma
+  Bologna FC                  -  Juventus Torino
+  Cagliari Calcio             -  Udinese Calcio
+  ACF Fiorentina              -  US Sassuolo Calcio
+  SS Lazio                    -  Genoa CFC
+  AC Milan                    -  SSC Napoli
+  US Salernitana              -  FC Internazionale Milano
+  UC Sampdoria                -  Venezia Football Club
+  Spezia Calcio               -  Empoli FC
+  Torino FC                   -  Hellas Verona
+
+
+19^ Giornata
+[Dom  22.12.]
+  Empoli FC                   -  AC Milan
+  Genoa CFC                   -  Atalanta Bergamo
+  Hellas Verona               -  Atalanta Bergamo
+  FC Internazionale Milano    -  Torino FC
+  Juventus Torino             -  Cagliari Calcio
+  SSC Napoli                  -  Spezia Calcio
+  AS Roma                     -  UC Sampdoria
+  US Sassuolo Calcio          -  Bologna FC
+  Udinese Calcio              -  US Salernitana
+  Venezia Football Club       -  SS Lazio
+
+
+20^ Giornata
+[Dom  6.1.]
+  Atalanta Bergamo            -  Torino FC
+  Bologna FC                  -  FC Internazionale Milano
+  ACF Fiorentina              -  Udinese Calcio
+  Juventus Torino             -  SSC Napoli
+  SS Lazio                    -  Empoli FC
+  AC Milan                    -  AS Roma
+  US Salernitana              -  Venezia Football Club
+  UC Sampdoria                -  Cagliari Calcio
+  US Sassuolo Calcio          -  Genoa CFC
+  Spezia Calcio               -  Hellas Verona
+
+
+21^ Giornata
+[Dom  9.1.]
+  Cagliari Calcio             -  Bologna FC
+  Empoli FC                   -  US Sassuolo Calcio
+  Genoa CFC                   -  Spezia Calcio
+  Hellas Verona               -  US Salernitana
+  FC Internazionale Milano    -  SS Lazio
+  SSC Napoli                  -  UC Sampdoria
+  AS Roma                     -  Juventus Torino
+  Torino FC                   -  ACF Fiorentina
+  Udinese Calcio              -  Atalanta Bergamo
+  Venezia Football Club       -  AC Milan
+
+
+22^ Giornata
+[Dom  16.1.]
+  Atalanta Bergamo            -  FC Internazionale Milano
+  Bologna FC                  -  SSC Napoli
+  ACF Fiorentina              -  Genoa CFC
+  Juventus Torino             -  Udinese Calcio
+  AC Milan                    -  Spezia Calcio
+  AS Roma                     -  Cagliari Calcio
+  US Salernitana              -  SS Lazio
+  UC Sampdoria                -  Torino FC
+  US Sassuolo Calcio          -  Hellas Verona
+  Venezia Football Club       -  Empoli FC
+
+
+23^ Giornata
+[Dom  23.1.]
+  Cagliari Calcio             -  ACF Fiorentina
+  Empoli FC                   -  AS Roma
+  Genoa CFC                   -  Udinese Calcio
+  Hellas Verona               -  Bologna FC
+  FC Internazionale Milano    -  Venezia Football Club
+  SS Lazio                    -  Atalanta Bergamo
+  AC Milan                    -  Juventus Torino
+  SSC Napoli                  -  US Salernitana
+  Spezia Calcio               -  UC Sampdoria
+  Torino FC                   -  US Sassuolo Calcio
+
+
+24^ Giornata
+[Dom  6.2.]
+  Atalanta Bergamo            -  Cagliari Calcio
+  Bologna FC                  -  Empoli FC
+  ACF Fiorentina              -  SS Lazio
+  FC Internazionale Milano    -  AC Milan
+  Juventus Torino             -  Hellas Verona
+  AS Roma                     -  Genoa CFC
+  US Salernitana              -  Spezia Calcio
+  UC Sampdoria                -  US Sassuolo Calcio
+  Udinese Calcio              -  Torino FC
+  Venezia Football Club       -  SSC Napoli
+
+
+25^ Giornata
+[Dom  13.2.]
+  Atalanta Bergamo            -  Juventus Torino
+  Empoli FC                   -  Cagliari Calcio
+  Genoa CFC                   -  US Salernitana
+  Hellas Verona               -  Udinese Calcio
+  SS Lazio                    -  Bologna FC
+  AC Milan                    -  UC Sampdoria
+  SSC Napoli                  -  FC Internazionale Milano
+  US Sassuolo Calcio          -  AS Roma
+  Spezia Calcio               -  ACF Fiorentina
+  Torino FC                   -  Venezia Football Club
+
+
+26^ Giornata
+[Dom  20.2.]
+  Bologna FC                  -  Spezia Calcio
+  Cagliari Calcio             -  SSC Napoli
+  ACF Fiorentina              -  Atalanta Bergamo
+  FC Internazionale Milano    -  US Sassuolo Calcio
+  Juventus Torino             -  Torino FC
+  AS Roma                     -  Hellas Verona
+  US Salernitana              -  AC Milan
+  UC Sampdoria                -  Empoli FC
+  Udinese Calcio              -  SS Lazio
+  Venezia Football Club       -  Genoa CFC
+
+
+27^ Giornata
+[Dom  27.2.]
+  Atalanta Bergamo            -  UC Sampdoria
+  Empoli FC                   -  Juventus Torino
+  Genoa CFC                   -  FC Internazionale Milano
+  Hellas Verona               -  Venezia Football Club
+  SS Lazio                    -  SSC Napoli
+  AC Milan                    -  Udinese Calcio
+  US Salernitana              -  Bologna FC
+  US Sassuolo Calcio          -  ACF Fiorentina
+  Spezia Calcio               -  AS Roma
+  Torino FC                   -  Cagliari Calcio
+
+
+28^ Giornata
+[Dom  6.3.]
+  Bologna FC                  -  Torino FC
+  Cagliari Calcio             -  SS Lazio
+  ACF Fiorentina              -  Hellas Verona
+  Genoa CFC                   -  Empoli FC
+  FC Internazionale Milano    -  US Salernitana
+  Juventus Torino             -  Spezia Calcio
+  SSC Napoli                  -  AC Milan
+  AS Roma                     -  Atalanta Bergamo
+  Udinese Calcio              -  UC Sampdoria
+  Venezia Football Club       -  US Sassuolo Calcio
+
+
+29^ Giornata
+[Dom  13.3.]
+  Atalanta Bergamo            -  Genoa CFC
+  ACF Fiorentina              -  Bologna FC
+  Hellas Verona               -  SSC Napoli
+  SS Lazio                    -  Venezia Football Club
+  AC Milan                    -  Empoli FC
+  US Salernitana              -  US Sassuolo Calcio
+  UC Sampdoria                -  Juventus Torino
+  Spezia Calcio               -  Cagliari Calcio
+  Torino FC                   -  FC Internazionale Milano
+  Udinese Calcio              -  AS Roma
+
+
+30^ Giornata
+[Dom  20.3.]
+  Bologna FC                  -  Atalanta Bergamo
+  Cagliari Calcio             -  AC Milan
+  Empoli FC                   -  Hellas Verona
+  Genoa CFC                   -  Torino FC
+  FC Internazionale Milano    -  ACF Fiorentina
+  Juventus Torino             -  US Salernitana
+  SSC Napoli                  -  Udinese Calcio
+  AS Roma                     -  SS Lazio
+  US Sassuolo Calcio          -  Spezia Calcio
+  Venezia Football Club       -  UC Sampdoria
+
+
+31^ Giornata
+[Dom  3.4.]
+  UC Sampdoria                -  AS Roma
+  SS Lazio                    -  US Sassuolo Calcio
+  Atalanta Bergamo            -  SSC Napoli
+  Hellas Verona               -  Genoa CFC
+  Juventus Torino             -  FC Internazionale Milano
+  US Salernitana              -  Torino FC
+  Udinese Calcio              -  Cagliari Calcio 
+  AC Milan                    -  Bologna FC 
+  ACF Fiorentina              -  Empoli FC
+  Spezia Calcio               -  Venezia Football Club
+
+32^ Giornata
+[Dom  10.4.]
+  Bologna FC                  -  UC Sampdoria
+  Cagliari Calcio             -  Juventus Torino
+  Empoli FC                   -  Spezia Calcio
+  Genoa CFC                   -  SS Lazio
+  FC Internazionale Milano    -  Hellas Verona
+  SSC Napoli                  -  ACF Fiorentina
+  AS Roma                     -  US Salernitana
+  US Sassuolo Calcio          -  Atalanta Bergamo
+  Torino FC                   -  AC Milan
+  Venezia Football Club       -  Udinese Calcio
+
+
+33^ Giornata
+[Dom  17.4.]
+  Atalanta Bergamo            -  Hellas Verona
+  Cagliari Calcio             -  US Sassuolo Calcio
+  ACF Fiorentina              -  Venezia Football Club
+  Juventus Torino             -  Bologna FC
+  SS Lazio                    -  Torino FC
+  AC Milan                    -  Genoa CFC
+  SSC Napoli                  -  AS Roma
+  UC Sampdoria                -  US Salernitana
+  Spezia Calcio               -  FC Internazionale Milano
+  Udinese Calcio              -  Empoli FC
+
+
+34^ Giornata
+[Dom  24.4.]
+  Bologna FC                  -  Udinese Calcio
+  Empoli FC                   -  SSC Napoli
+  Genoa CFC                   -  Cagliari Calcio
+  Hellas Verona               -  UC Sampdoria
+  FC Internazionale Milano    -  AS Roma
+  SS Lazio                    -  AC Milan
+  US Salernitana              -  ACF Fiorentina
+  US Sassuolo Calcio          -  Juventus Torino
+  Torino FC                   -  Spezia Calcio
+  Venezia Football Club       -  Atalanta Bergamo
+
+
+35^ Giornata
+[Dom  1.5.]
+  Atalanta Bergamo            -  US Salernitana
+  Cagliari Calcio             -  Hellas Verona
+  Empoli FC                   -  Torino FC
+  Juventus Torino             -  Venezia Football Club
+  AC Milan                    -  ACF Fiorentina
+  SSC Napoli                  -  US Sassuolo Calcio
+  AS Roma                     -  Bologna FC
+  UC Sampdoria                -  Genoa CFC
+  Spezia Calcio               -  SS Lazio
+  Udinese Calcio              -  FC Internazionale Milano
+
+
+36^ Giornata
+[Dom  8.5.]
+  ACF Fiorentina              -  AS Roma
+  Genoa CFC                   -  Juventus Torino
+  Hellas Verona               -  AC Milan
+  FC Internazionale Milano    -  Empoli FC
+  SS Lazio                    -  UC Sampdoria
+  US Salernitana              -  Cagliari Calcio
+  US Sassuolo Calcio          -  Udinese Calcio
+  Spezia Calcio               -  Atalanta Bergamo
+  Torino FC                   -  SSC Napoli
+  Venezia Football Club       -  Bologna FC
+
+
+37^ Giornata
+[Dom  15.5.]
+  Bologna FC                  -  US Sassuolo Calcio
+  Cagliari Calcio             -  FC Internazionale Milano
+  Empoli FC                   -  US Salernitana
+  Hellas Verona               -  Torino FC
+  Juventus Torino             -  SS Lazio
+  AC Milan                    -  Atalanta Bergamo
+  SSC Napoli                  -  Genoa CFC
+  AS Roma                     -  Venezia Football Club
+  UC Sampdoria                -  ACF Fiorentina
+  Udinese Calcio              -  Spezia Calcio
+
+
+38^ Giornata
+[Dom  22.5.]
+  Atalanta Bergamo            -  Empoli FC
+  ACF Fiorentina              -  Juventus Torino
+  Genoa CFC                   -  Bologna FC
+  FC Internazionale Milano    -  UC Sampdoria
+  SS Lazio                    -  Hellas Verona
+  US Salernitana              -  Udinese Calcio
+  US Sassuolo Calcio          -  AC Milan
+  Spezia Calcio               -  SSC Napoli
+  Torino FC                   -  AS Roma
+  Venezia Football Club       -  Cagliari Calcio
