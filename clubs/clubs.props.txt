@@ -35,3 +35,6 @@ benevento,    Benevento Calcio
 spezia,       Spezia Calcio              SPE
 venezia,      Venezia Football Club      VEN
 salernitana,  US Salernitana             SAL
+monza,		  AC Monza					 MNZ
+cremonese,	  UC Cremonese				 CRE
+lecce,		  US Lecce					 LEC
