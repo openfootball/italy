@@ -1,0 +1,619 @@
+= Italian Serie A 2022/23
+
+
+1^ Giornata
+[Sab. 13.8.]
+  18.30  AC Milan                 4-2 (2-2)  Udinese Calcio
+         UC Sampdoria             0-2 (0-1)  Atalanta Bergamo
+  20.45  AC Monza                 1-2 (0-1)  Torino FC
+         US Lecce                 1-2 (0-1)  FC Internazionale Milano
+[Dom. 14.8.]
+  18.30  ACF Fiorentina           3-2 (2-1)  US Cremonese
+         SS Lazio                 2-1 (0-1)  Bologna FC
+  20.45  Spezia                   1-0 (1-0)  Empoli
+         Salernitana              0-1 (0-1)  AS Roma
+[Lun. 15.8.]
+  18.30  Hellas Verona            2-5 (1-2)  SSC Napoli
+  20.45  Juventus                 3-0 (2-0)  US Sassuolo Calcio
+
+
+2^ Giornata
+[Sab. 20.8.]
+  18.30  Udinese Calcio           0-0  Salernitana
+         Torino FC                0-0  SS Lazio
+  20.45  FC Internazionale Milano  3-0 (1-0)  Spezia
+         US Sassuolo Calcio       1-0 (1-0)  US Lecce
+[Dom. 21.8.]
+  18.30  Empoli                   0-0  ACF Fiorentina
+         SSC Napoli               4-0 (2-0)  AC Monza
+  20.45  Bologna FC               1-1 (1-1)  Hellas Verona
+         Atalanta Bergamo         1-1 (1-0)  AC Milan
+[Lun. 22.8.]
+  18.30  AS Roma                  1-0 (0-0)  US Cremonese
+  20.45  UC Sampdoria             0-0  Juventus
+
+
+3^ Giornata
+[Ven. 26.8.]
+  18.30  AC Monza                 1-2 (1-1)  Udinese Calcio
+  20.45  SS Lazio                 3-1 (1-0)  FC Internazionale Milano
+[Sab. 27.8.]
+  18.30  Juventus                 1-1 (1-0)  AS Roma
+         US Cremonese             1-2 (0-1)  Torino FC
+  20.45  AC Milan                 2-0 (1-0)  Bologna FC
+         Spezia                   2-2 (2-1)  US Sassuolo Calcio
+[Dom. 28.8.]
+  18.30  Hellas Verona            0-1 (0-0)  Atalanta Bergamo
+         Salernitana              4-0 (2-0)  UC Sampdoria
+  20.45  US Lecce                 1-1 (1-1)  Empoli
+         ACF Fiorentina           0-0  SSC Napoli
+
+
+4^ Giornata
+[Mar. 30.8.]
+  18.30  US Sassuolo Calcio       0-0  AC Milan
+  20.45  FC Internazionale Milano  3-1 (2-0)  US Cremonese
+         AS Roma                  3-0 (2-0)  AC Monza
+[Mer. 31.8.]
+  18.30  Udinese Calcio           1-0 (1-0)  ACF Fiorentina
+         UC Sampdoria             1-1 (0-1)  SS Lazio
+         Empoli                   1-1 (1-0)  Hellas Verona
+  20.45  Juventus                 2-0 (1-0)  Spezia
+         SSC Napoli               1-1 (1-1)  US Lecce
+[Gio. 1.9.]
+  20.45  Atalanta Bergamo         3-1 (1-0)  Torino FC
+         Bologna FC               1-1 (0-0)  Salernitana
+
+
+5^ Giornata
+[Sab. 3.9.]
+  15.00  ACF Fiorentina           1-1 (1-1)  Juventus
+  18.00  AC Milan                 3-2 (1-1)  FC Internazionale Milano
+  20.45  SS Lazio                 1-2 (1-1)  SSC Napoli
+[Dom. 4.9.]
+  12.30  US Cremonese             0-0  US Sassuolo Calcio
+  15.00  Spezia                   2-2 (1-1)  Bologna FC
+  18.00  Hellas Verona            2-1 (2-1)  UC Sampdoria
+  20.45  Udinese Calcio           4-0 (1-0)  AS Roma
+[Lun. 5.9.]
+  18.30  Salernitana              2-2 (1-1)  Empoli
+         AC Monza                 0-2 (0-0)  Atalanta Bergamo
+  20.45  Torino FC                1-0 (1-0)  US Lecce
+
+
+6^ Giornata
+[Sab. 10.9.]
+  15.00  SSC Napoli               1-0 (0-0)  Spezia
+  18.00  FC Internazionale Milano  1-0 (0-0)  Torino FC
+  20.45  UC Sampdoria             1-2 (0-1)  AC Milan
+[Dom. 11.9.]
+  12.30  Atalanta Bergamo         1-1 (0-0)  US Cremonese
+  15.00  US Sassuolo Calcio       1-3 (1-0)  Udinese Calcio
+         US Lecce                 1-1 (0-1)  AC Monza
+         Bologna FC               2-1 (0-0)  ACF Fiorentina
+  18.00  SS Lazio                 2-0 (0-0)  Hellas Verona
+  20.45  Juventus                 2-2 (0-2)  Salernitana
+[Lun. 12.9.]
+  20.45  Empoli                   1-2 (1-1)  AS Roma
+
+
+7^ Giornata
+[Ven. 16.9.]
+  20.45  Salernitana              1-2 (0-1)  US Lecce
+[Sab. 17.9.]
+  15.00  Bologna FC               0-1 (0-0)  Empoli
+  18.00  Spezia                   2-1 (1-1)  UC Sampdoria
+  20.45  Torino FC                0-1 (0-0)  US Sassuolo Calcio
+[Dom. 18.9.]
+  12.30  Udinese Calcio           3-1 (1-1)  FC Internazionale Milano
+  15.00  AC Monza                 1-0 (0-0)  Juventus
+         ACF Fiorentina           2-0 (1-0)  Hellas Verona
+         US Cremonese             0-4 (0-3)  SS Lazio
+  18.00  AS Roma                  0-1 (0-1)  Atalanta Bergamo
+  20.45  AC Milan                 1-2 (0-0)  SSC Napoli
+
+
+8^ Giornata
+[Sab. 1.10.]
+  15.00  SSC Napoli               3-1 (3-1)  Torino FC
+  18.00  FC Internazionale Milano  1-2 (1-1)  AS Roma
+  20.45  Empoli                   1-3 (0-0)  AC Milan
+[Dom. 2.10.]
+  12.30  SS Lazio                 4-0 (2-0)  Spezia
+  15.00  UC Sampdoria             0-3 (0-1)  AC Monza
+         US Lecce                 1-1 (1-1)  US Cremonese
+         US Sassuolo Calcio       5-0 (2-0)  Salernitana
+  18.00  Atalanta Bergamo         1-0 (0-0)  ACF Fiorentina
+  20.45  Juventus                 3-0 (1-0)  Bologna FC
+[Lun. 3.10.]
+  20.45  Hellas Verona            1-2 (1-0)  Udinese Calcio
+
+
+9^ Giornata
+[Sab. 8.10.]
+  15.00  US Sassuolo Calcio       1-2 (0-1)  FC Internazionale Milano
+  18.00  AC Milan                 2-0 (1-0)  Juventus
+  20.45  Bologna FC               1-1 (1-0)  UC Sampdoria
+[Dom. 9.10.]
+  12.30  Torino FC                1-1 (0-0)  Empoli
+  15.00  Salernitana              2-1 (1-0)  Hellas Verona
+         AC Monza                 2-0 (1-0)  Spezia
+         Udinese Calcio           2-2 (0-1)  Atalanta Bergamo
+  18.00  US Cremonese             1-4 (0-1)  SSC Napoli
+  20.45  AS Roma                  2-1 (1-1)  US Lecce
+[Lun. 10.10.]
+  20.45  ACF Fiorentina           0-4 (0-2)  SS Lazio
+
+
+10^ Giornata
+[Sab. 15.10.]
+  15.00  Empoli                   1-0 (1-0)  AC Monza
+  18.00  Torino FC                0-1 (0-0)  Juventus
+  20.45  Atalanta Bergamo         2-1 (1-1)  US Sassuolo Calcio
+[Dom. 16.10.]
+  12.30  FC Internazionale Milano  2-0 (1-0)  Salernitana
+  15.00  SS Lazio                 0-0  Udinese Calcio
+         Spezia                   2-2 (2-1)  US Cremonese
+  18.00  SSC Napoli               3-2 (1-1)  Bologna FC
+  20.45  Hellas Verona            1-2 (1-1)  AC Milan
+[Lun. 17.10.]
+  18.30  UC Sampdoria             0-1 (0-1)  AS Roma
+  20.45  US Lecce                 1-1 (1-0)  ACF Fiorentina
+
+
+11^ Giornata
+[Ven. 21.10.]
+  20.45  Juventus                 4-0 (1-0)  Empoli
+[Sab. 22.10.]
+  15.00  Salernitana              1-0 (0-0)  Spezia
+  18.00  AC Milan                 4-1 (2-0)  AC Monza
+  20.45  ACF Fiorentina           3-4 (1-2)  FC Internazionale Milano
+[Dom. 23.10.]
+  12.30  Udinese Calcio           1-2 (1-1)  Torino FC
+  15.00  Bologna FC               2-0 (2-0)  US Lecce
+  18.00  Atalanta Bergamo         0-2 (0-1)  SS Lazio
+  20.45  AS Roma                  0-1 (0-0)  SSC Napoli
+[Lun. 24.10.]
+  18.30  US Cremonese             0-1 (0-0)  UC Sampdoria
+  20.45  US Sassuolo Calcio       2-1 (1-1)  Hellas Verona
+
+
+12^ Giornata
+[Sab. 29.10.]
+  15.00  SSC Napoli               4-0 (3-0)  US Sassuolo Calcio
+  18.00  US Lecce                 0-1 (0-0)  Juventus
+  20.45  FC Internazionale Milano  3-0 (2-0)  UC Sampdoria
+[Dom. 30.10.]
+  12.30  Empoli                   0-2 (0-1)  Atalanta Bergamo
+  15.00  US Cremonese             0-0  Udinese Calcio
+         Spezia                   1-2 (1-1)  ACF Fiorentina
+  18.00  SS Lazio                 1-3 (1-0)  Salernitana
+  20.45  Torino FC                2-1 (2-0)  AC Milan
+[Lun. 31.10.]
+  18.30  Hellas Verona            1-3 (1-1)  AS Roma
+  20.45  AC Monza                 1-2 (0-0)  Bologna FC
+
+
+13^ Giornata
+[Ven. 4.11.]
+  20.45  Udinese Calcio           1-1 (0-1)  US Lecce
+[Sab. 5.11.]
+  15.00  Empoli                   1-0 (0-0)  US Sassuolo Calcio
+         Salernitana              2-2 (2-1)  US Cremonese
+  18.00  Atalanta Bergamo         1-2 (1-2)  SSC Napoli
+  20.45  AC Milan                 2-1 (1-0)  Spezia
+[Dom. 6.11.]
+  12.30  Bologna FC               2-1 (0-1)  Torino FC
+  15.00  AC Monza                 2-0 (0-0)  Hellas Verona
+         UC Sampdoria             0-2 (0-1)  ACF Fiorentina
+  18.00  AS Roma                  0-1 (0-1)  SS Lazio
+  20.45  Juventus                 2-0 (0-0)  FC Internazionale Milano
+
+
+14^ Giornata
+[Mar. 8.11.]
+  18.30  Spezia                   1-1 (1-1)  Udinese Calcio
+         SSC Napoli               2-0 (0-0)  Empoli
+  20.45  US Cremonese             0-0  AC Milan
+[Mer. 9.11.]
+  18.30  US Lecce                 2-1 (2-1)  Atalanta Bergamo
+         US Sassuolo Calcio       1-1 (0-0)  AS Roma
+  20.45  Torino FC                2-0 (1-0)  UC Sampdoria
+         FC Internazionale Milano  6-1 (3-1)  Bologna FC
+         ACF Fiorentina           2-1 (1-0)  Salernitana
+[Gio. 10.11.]
+  18.30  Hellas Verona            0-1 (0-0)  Juventus
+  20.45  SS Lazio                 1-0 (0-0)  AC Monza
+
+
+15^ Giornata
+[Ven. 11.11.]
+  20.45  Empoli                   2-0 (0-0)  US Cremonese
+[Sab. 12.11.]
+  15.00  SSC Napoli               3-2 (2-0)  Udinese Calcio
+  18.00  UC Sampdoria             0-2 (0-1)  US Lecce
+  20.45  Bologna FC               3-0 (1-0)  US Sassuolo Calcio
+[Dom. 13.11.]
+  12.30  Atalanta Bergamo         2-3 (1-1)  FC Internazionale Milano
+  15.00  AC Monza                 3-0 (2-0)  Salernitana
+         Hellas Verona            1-2 (1-0)  Spezia
+         AS Roma                  1-1 (0-0)  Torino FC
+  18.00  AC Milan                 2-1 (1-1)  ACF Fiorentina
+  20.45  Juventus                 3-0 (1-0)  SS Lazio
+
+
+16^ Giornata
+[Mer. 4.1.]
+  12.30  Salernitana              1-2 (0-2)  AC Milan
+         US Sassuolo Calcio       1-2 (0-2)  UC Sampdoria
+  14.30  Spezia                   2-2 (2-0)  Atalanta Bergamo
+         Torino FC                1-1 (0-1)  Hellas Verona
+  16.30  AS Roma                  1-0 (1-0)  Bologna FC
+  16.35  US Lecce                 2-1 (0-1)  SS Lazio
+  18.30  US Cremonese             0-1 (0-0)  Juventus
+         ACF Fiorentina           1-1 (1-0)  AC Monza
+  20.45  FC Internazionale Milano  1-0 (0-0)  SSC Napoli
+         Udinese Calcio           1-1 (0-1)  Empoli
+
+
+17^ Giornata
+[Sab. 7.1.]
+  15.00  ACF Fiorentina           2-1 (0-0)  US Sassuolo Calcio
+  18.00  Juventus                 1-0 (0-0)  Udinese Calcio
+  20.45  AC Monza                 2-2 (1-2)  FC Internazionale Milano
+[Dom. 8.1.]
+  12.30  Salernitana              1-1 (0-1)  Torino FC
+  15.00  SS Lazio                 2-2 (1-0)  Empoli
+         Spezia                   0-0  US Lecce
+  18.00  UC Sampdoria             0-2 (0-1)  SSC Napoli
+  20.45  AC Milan                 2-2 (1-0)  AS Roma
+[Lun. 9.1.]
+  18.30  Hellas Verona            2-0 (2-0)  US Cremonese
+  20.45  Bologna FC               1-2 (1-0)  Atalanta Bergamo
+
+
+18^ Giornata
+[Ven. 13.1.]
+  20.45  SSC Napoli               5-1 (2-1)  Juventus
+[Sab. 14.1.]
+  15.00  US Cremonese             2-3 (0-2)  AC Monza
+  18.00  US Lecce                 2-2 (2-0)  AC Milan
+  20.45  FC Internazionale Milano  1-0 (1-0)  Hellas Verona
+[Dom. 15.1.]
+  12.30  US Sassuolo Calcio       0-2 (0-1)  SS Lazio
+  15.00  Torino FC                0-1 (0-1)  Spezia
+         Udinese Calcio           1-2 (1-0)  Bologna FC
+  18.00  Atalanta Bergamo         8-2 (5-1)  Salernitana
+  20.45  AS Roma                  2-0 (1-0)  ACF Fiorentina
+[Lun. 16.1.]
+  20.45  Empoli                   1-0 (0-0)  UC Sampdoria
+
+
+19^ Giornata
+[Sab. 21.1.]
+  15.00  Hellas Verona            2-0 (1-0)  US Lecce
+  18.00  Salernitana              0-2 (0-1)  SSC Napoli
+  20.45  ACF Fiorentina           0-1 (0-1)  Torino FC
+[Dom. 22.1.]
+  12.30  UC Sampdoria             0-1 (0-0)  Udinese Calcio
+  15.00  AC Monza                 1-1 (0-1)  US Sassuolo Calcio
+  18.00  Spezia                   0-2 (0-1)  AS Roma
+  20.45  Juventus                 3-3 (2-1)  Atalanta Bergamo
+[Lun. 23.1.]
+  18.30  Bologna FC               1-1 (0-0)  US Cremonese
+  20.45  FC Internazionale Milano  0-1 (0-0)  Empoli
+[Mar. 24.1.]
+  20.45  SS Lazio                 4-0 (2-0)  AC Milan
+
+
+20^ Giornata
+[Ven. 27.1.]
+  18.30  Bologna FC               2-0 (1-0)  Spezia
+  20.45  US Lecce                 1-2 (1-2)  Salernitana
+[Sab. 28.1.]
+  15.00  Empoli                   2-2 (1-0)  Torino FC
+  18.00  US Cremonese             1-2 (1-1)  FC Internazionale Milano
+  20.45  Atalanta Bergamo         2-0 (1-0)  UC Sampdoria
+[Dom. 29.1.]
+  12.30  AC Milan                 2-5 (1-3)  US Sassuolo Calcio
+  15.00  Juventus                 0-2 (0-2)  AC Monza
+  18.00  SS Lazio                 1-1 (1-0)  ACF Fiorentina
+  20.45  SSC Napoli               2-1 (1-0)  AS Roma
+[Lun. 30.1.]
+  20.45  Udinese Calcio           1-1 (1-1)  Hellas Verona
+
+
+21^ Giornata
+[Sab. 4.2.]
+  15.00  US Cremonese             0-2 (0-0)  US Lecce
+  18.00  AS Roma                  2-0 (2-0)  Empoli
+  20.45  US Sassuolo Calcio       1-0 (0-0)  Atalanta Bergamo
+[Dom. 5.2.]
+  12.30  Spezia                   0-3 (0-0)  SSC Napoli
+  15.00  Torino FC                1-0 (0-0)  Udinese Calcio
+  18.00  ACF Fiorentina           1-2 (1-1)  Bologna FC
+  20.45  FC Internazionale Milano  1-0 (1-0)  AC Milan
+[Lun. 6.2.]
+  18.30  Hellas Verona            1-1 (0-1)  SS Lazio
+  20.45  AC Monza                 2-2 (1-1)  UC Sampdoria
+[Mar. 7.2.]
+  20.45  Salernitana              0-3 (0-2)  Juventus
+
+
+22^ Giornata
+[Ven. 10.2.]
+  20.45  AC Milan                 1-0 (0-0)  Torino FC
+[Sab. 11.2.]
+  15.00  Empoli                   2-2 (0-2)  Spezia
+  18.00  US Lecce                 1-1 (1-1)  AS Roma
+  20.45  SS Lazio                 0-2 (0-1)  Atalanta Bergamo
+[Dom. 12.2.]
+  12.30  Udinese Calcio           2-2 (2-2)  US Sassuolo Calcio
+  15.00  Bologna FC               0-1 (0-1)  AC Monza
+  18.00  Juventus                 1-0 (1-0)  ACF Fiorentina
+  20.45  SSC Napoli               3-0 (1-0)  US Cremonese
+[Lun. 13.2.]
+  18.30  Hellas Verona            1-0 (1-0)  Salernitana
+  20.45  UC Sampdoria             0-0  FC Internazionale Milano
+
+
+23^ Giornata
+[Ven. 17.2.]
+  20.45  US Sassuolo Calcio       0-2 (0-2)  SSC Napoli
+[Sab. 18.2.]
+  15.00  UC Sampdoria             1-2 (0-1)  Bologna FC
+  18.00  AC Monza                 0-1 (0-1)  AC Milan
+  20.45  FC Internazionale Milano  3-1 (1-1)  Udinese Calcio
+[Dom. 19.2.]
+  12.30  Atalanta Bergamo         1-2 (0-1)  US Lecce
+  15.00  Salernitana              0-2 (0-0)  SS Lazio
+         ACF Fiorentina           1-1 (0-1)  Empoli
+  18.00  Spezia                   0-2 (0-1)  Juventus
+  20.45  AS Roma                  1-0 (1-0)  Hellas Verona
+[Lun. 20.2.]
+  20.45  Torino FC                2-2 (1-0)  US Cremonese
+
+
+24^ Giornata
+[Sab. 25.2.]
+  18.00  Empoli                   0-2 (0-2)  SSC Napoli
+  20.45  US Lecce                 0-1 (0-0)  US Sassuolo Calcio
+[Dom. 26.2.]
+  12.30  Bologna FC               1-0 (0-0)  FC Internazionale Milano
+  15.00  Salernitana              3-0 (0-0)  AC Monza
+  18.00  Udinese Calcio           2-2 (1-1)  Spezia
+  20.45  AC Milan                 2-0 (1-0)  Atalanta Bergamo
+[Lun. 27.2.]
+  18.30  Hellas Verona            0-3 (0-2)  ACF Fiorentina
+  20.45  SS Lazio                 1-0 (0-0)  UC Sampdoria
+[Mar. 28.2.]
+  18.30  US Cremonese             2-1 (1-0)  AS Roma
+  20.45  Juventus                 4-2 (2-2)  Torino FC
+
+
+25^ Giornata
+[Ven. 3.3.]
+  20.45  SSC Napoli               0-1 (0-0)  SS Lazio
+[Sab. 4.3.]
+  15.00  AC Monza                 2-1 (1-0)  Empoli
+  18.00  Atalanta Bergamo         0-0  Udinese Calcio
+  20.45  ACF Fiorentina           2-1 (0-0)  AC Milan
+[Dom. 5.3.]
+  12.30  Spezia                   0-0  Hellas Verona
+  15.00  UC Sampdoria             0-0  Salernitana
+  18.00  FC Internazionale Milano  2-0 (1-0)  US Lecce
+  20.45  AS Roma                  1-0 (0-0)  Juventus
+[Lun. 6.3.]
+  18.30  US Sassuolo Calcio       3-2 (2-0)  US Cremonese
+  20.45  Torino FC                1-0 (1-0)  Bologna FC
+
+
+26^ Giornata
+[Ven. 10.3.]
+  20.45  Spezia                   2-1 (0-0)  FC Internazionale Milano
+[Sab. 11.3.]
+  15.00  Empoli                   0-1 (0-0)  Udinese Calcio
+  18.00  SSC Napoli               2-0 (0-0)  Atalanta Bergamo
+  20.45  Bologna FC               0-0  SS Lazio
+[Dom. 12.3.]
+  12.30  US Lecce                 0-2 (0-2)  Torino FC
+  15.00  Hellas Verona            1-1 (0-0)  AC Monza
+         US Cremonese             0-2 (0-1)  ACF Fiorentina
+  18.00  AS Roma                  3-4 (1-3)  US Sassuolo Calcio
+  20.45  Juventus                 4-2 (2-2)  UC Sampdoria
+[Lun. 13.3.]
+  20.45  AC Milan                 1-1 (1-0)  Salernitana
+
+
+27^ Giornata
+[Ven. 17.3.]
+  18.30  US Sassuolo Calcio       1-0 (0-0)  Spezia
+  20.45  Atalanta Bergamo         2-1 (0-1)  Empoli
+[Sab. 18.3.]
+  15.00  AC Monza                 1-1 (0-0)  US Cremonese
+  18.00  Salernitana              2-2 (1-1)  Bologna FC
+  20.45  Udinese Calcio           3-1 (2-1)  AC Milan
+[Dom. 19.3.]
+  12.30  UC Sampdoria             3-1 (2-0)  Hellas Verona
+  15.00  ACF Fiorentina           1-0 (1-0)  US Lecce
+         Torino FC                0-4 (0-2)  SSC Napoli
+  18.00  SS Lazio                 1-0 (0-0)  AS Roma
+  20.45  FC Internazionale Milano  0-1 (0-1)  Juventus
+
+
+28^ Giornata
+[Sab. 1.4.]
+  15.00  US Cremonese             1-3 (0-1)  Atalanta Bergamo
+  18.00  FC Internazionale Milano  0-1 (0-0)  ACF Fiorentina
+  20.45  Juventus                 1-0 (0-0)  Hellas Verona
+[Dom. 2.4.]
+  12.30  Bologna FC               3-0 (2-0)  Udinese Calcio
+  15.00  Spezia                   1-1 (0-1)  Salernitana
+         AC Monza                 0-2 (0-1)  SS Lazio
+  18.00  AS Roma                  3-0 (0-0)  UC Sampdoria
+  20.45  SSC Napoli               0-4 (0-2)  AC Milan
+[Lun. 3.4.]
+  19.30  Empoli                   1-0 (0-0)  US Lecce
+  20.45  US Sassuolo Calcio       1-1 (1-0)  Torino FC
+
+
+29^ Giornata
+[Ven. 7.4.]
+  17.00  Salernitana              1-1 (0-1)  FC Internazionale Milano
+  19.00  US Lecce                 1-2 (0-1)  SSC Napoli
+  21.00  AC Milan                 0-0  Empoli
+[Sab. 8.4.]
+  12.30  Udinese Calcio           2-2 (1-0)  AC Monza
+  14.30  ACF Fiorentina           1-1 (1-1)  Spezia
+  16.30  UC Sampdoria             2-3 (1-1)  US Cremonese
+         Atalanta Bergamo         0-2 (0-0)  Bologna FC
+  18.30  Hellas Verona            2-1 (0-1)  US Sassuolo Calcio
+         Torino FC                0-1 (0-1)  AS Roma
+  20.45  SS Lazio                 2-1 (1-1)  Juventus
+
+
+30^ Giornata
+[Ven. 14.4.]
+  18.30  US Cremonese             1-0 (1-0)  Empoli
+  20.45  Spezia                   0-3 (0-1)  SS Lazio
+[Sab. 15.4.]
+  15.00  Bologna FC               1-1 (1-1)  AC Milan
+  18.00  SSC Napoli               0-0  Hellas Verona
+  20.45  FC Internazionale Milano  0-1 (0-0)  AC Monza
+[Dom. 16.4.]
+  12.30  US Lecce                 1-1 (1-0)  UC Sampdoria
+  15.00  Torino FC                1-1 (0-1)  Salernitana
+  18.00  US Sassuolo Calcio       1-0 (0-0)  Juventus
+  20.45  AS Roma                  3-0 (1-0)  Udinese Calcio
+[Lun. 17.4.]
+  20.45  ACF Fiorentina           1-1 (0-1)  Atalanta Bergamo
+
+
+31^ Giornata
+[Ven. 21.4.]
+  20.45  Hellas Verona            2-1 (1-0)  Bologna FC
+[Sab. 22.4.]
+  15.00  Salernitana              3-0 (2-0)  US Sassuolo Calcio
+  18.00  SS Lazio                 0-1 (0-1)  Torino FC
+  20.45  UC Sampdoria             1-1 (1-0)  Spezia
+[Dom. 23.4.]
+  12.30  Empoli                   0-3 (0-0)  FC Internazionale Milano
+  15.00  AC Monza                 3-2 (2-2)  ACF Fiorentina
+         Udinese Calcio           3-0 (3-0)  US Cremonese
+  18.00  AC Milan                 2-0 (1-0)  US Lecce
+  20.45  Juventus                 0-1 (0-0)  SSC Napoli
+[Lun. 24.4.]
+  20.45  Atalanta Bergamo         3-1 (1-0)  AS Roma
+
+
+32^ Giornata
+[Ven. 28.4.]
+  18.30  US Lecce                 1-0 (0-0)  Udinese Calcio
+  20.45  Spezia                   0-2 (0-1)  AC Monza
+[Sab. 29.4.]
+  18.00  AS Roma                  1-1 (0-0)  AC Milan
+  20.45  Torino FC                1-2 (0-1)  Atalanta Bergamo
+[Dom. 30.4.]
+  12.30  FC Internazionale Milano  3-1 (0-1)  SS Lazio
+  15.00  US Sassuolo Calcio       2-1 (0-1)  Empoli
+         SSC Napoli               1-1 (0-0)  Salernitana
+         US Cremonese             1-1 (1-0)  Hellas Verona
+  18.00  ACF Fiorentina           5-0 (1-0)  UC Sampdoria
+  20.45  Bologna FC               1-1 (1-0)  Juventus
+
+
+33^ Giornata
+[Mer. 3.5.]
+  18.00  UC Sampdoria             0-2 (0-1)  Torino FC
+         Salernitana              3-3 (1-1)  ACF Fiorentina
+         Juventus                 2-1 (2-1)  US Lecce
+         Atalanta Bergamo         3-2 (1-1)  Spezia
+  21.00  AC Milan                 1-1 (0-0)  US Cremonese
+         SS Lazio                 2-0 (1-0)  US Sassuolo Calcio
+         Hellas Verona            0-6 (0-3)  FC Internazionale Milano
+         AC Monza                 1-1 (1-1)  AS Roma
+[Gio. 4.5.]
+  20.45  Udinese Calcio           1-1 (1-0)  SSC Napoli
+         Empoli                   3-1 (2-0)  Bologna FC
+
+
+34^ Giornata
+[Sab. 6.5.]
+  15.00  AC Milan                 2-0 (2-0)  SS Lazio
+  18.00  AS Roma                  0-2 (0-1)  FC Internazionale Milano
+  20.45  US Cremonese             2-0 (1-0)  Spezia
+[Dom. 7.5.]
+  12.30  Atalanta Bergamo         0-2 (0-0)  Juventus
+  15.00  Torino FC                1-1 (0-0)  AC Monza
+  18.00  SSC Napoli               1-0 (0-0)  ACF Fiorentina
+  20.45  US Lecce                 0-1 (0-0)  Hellas Verona
+[Lun. 8.5.]
+  18.30  Empoli                   2-1 (1-0)  Salernitana
+         Udinese Calcio           2-0 (2-0)  UC Sampdoria
+  20.45  US Sassuolo Calcio       1-1 (1-1)  Bologna FC
+
+
+35^ Giornata
+[Ven. 12.5.]
+  20.45  SS Lazio                 2-2 (1-1)  US Lecce
+[Sab. 13.5.]
+  15.00  Salernitana              1-0 (0-0)  Atalanta Bergamo
+  18.00  Spezia                   2-0 (0-0)  AC Milan
+  20.45  FC Internazionale Milano  4-2 (1-0)  US Sassuolo Calcio
+[Dom. 14.5.]
+  12.30  Hellas Verona            0-1 (0-1)  Torino FC
+  15.00  AC Monza                 2-0 (1-0)  SSC Napoli
+         ACF Fiorentina           2-0 (1-0)  Udinese Calcio
+  18.00  Bologna FC               0-0  AS Roma
+  20.45  Juventus                 2-0 (0-0)  US Cremonese
+[Lun. 15.5.]
+  20.45  UC Sampdoria             1-1 (1-0)  Empoli
+
+
+36^ Giornata
+[Ven. 19.5.]
+  20.45  US Sassuolo Calcio       1-2 (1-0)  AC Monza
+[Sab. 20.5.]
+  15.00  US Cremonese             1-5 (0-3)  Bologna FC
+  18.00  Atalanta Bergamo         3-1 (1-1)  Hellas Verona
+  20.45  AC Milan                 5-1 (3-1)  UC Sampdoria
+[Dom. 21.5.]
+  12.30  US Lecce                 0-0  Spezia
+  15.00  Torino FC                1-1 (0-0)  ACF Fiorentina
+  18.00  SSC Napoli               3-1 (0-0)  FC Internazionale Milano
+  20.45  Udinese Calcio           0-1 (0-0)  SS Lazio
+[Lun. 22.5.]
+  18.30  AS Roma                  2-2 (0-1)  Salernitana
+  20.45  Empoli                   4-1 (2-0)  Juventus
+
+
+37^ Giornata
+[Ven. 26.5.]
+  20.45  UC Sampdoria             2-2 (1-2)  US Sassuolo Calcio
+[Sab. 27.5.]
+  15.00  Salernitana              3-2 (1-2)  Udinese Calcio
+         Spezia                   0-4 (0-1)  Torino FC
+  18.00  ACF Fiorentina           2-1 (0-1)  AS Roma
+  20.45  FC Internazionale Milano  3-2 (2-1)  Atalanta Bergamo
+[Dom. 28.5.]
+  12.30  Hellas Verona            1-1 (0-0)  Empoli
+  15.00  Bologna FC               2-2 (0-1)  SSC Napoli
+         AC Monza                 0-1 (0-0)  US Lecce
+  18.00  SS Lazio                 3-2 (2-0)  US Cremonese
+  20.45  Juventus                 0-1 (0-1)  AC Milan
+
+
+38^ Giornata
+[Ven. 2.6.]
+  20.30  US Sassuolo Calcio       1-3 (0-0)  ACF Fiorentina
+[Sab. 3.6.]
+  18.30  Torino FC                0-1 (0-1)  FC Internazionale Milano
+  21.00  US Cremonese             2-0 (1-0)  Salernitana
+         Empoli                   0-2 (0-0)  SS Lazio
+[Dom. 4.6.]
+  18.30  SSC Napoli               2-0 (0-0)  UC Sampdoria
+  21.00  Udinese Calcio           0-1 (0-0)  Juventus
+         AS Roma                  2-1 (1-1)  Spezia
+         AC Milan                 3-1 (1-0)  Hellas Verona
+         US Lecce                 2-3 (1-0)  Bologna FC
+         Atalanta Bergamo         5-2 (2-0)  AC Monza
