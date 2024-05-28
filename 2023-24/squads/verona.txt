@@ -1,0 +1,37 @@
+= Hellas Verona Football Club    # Verona
+
+ 1  Lorenzo Montipò (ITA)          GK    # 20 Feb 1996, Novara  -- Benevento
+16  Mattia Chiesa (ITA)            GK    # 16 Jul 2000, Rovereto  -- Ambrosiana
+22  Alessandro Berardi (ITA)       GK    # 16 Jan 1991, Rome  -- Bari
+34  Simone Perilli (ITA)           GK    # 07 Jan 1995, Rome  -- Brescia
+
+18  Fabien Centonze (FRA)          DF    # 16 Jan 1996, Voiron  -- Nantes
+19  Rúben Vinagre (POR)            DF    # 09 Apr 1999, Charneca de Caparica  -- Sporting CP
+23  Giangiacomo Magnani (ITA)      DF    # 04 Oct 1995, Correggio  -- Sassuolo
+27  Paweł Dawidowicz (POL)         DF    # 20 May 1995, Olsztyn  -- Benfica
+32  Juan Cabal (COL)               DF    # 08 Jan 2001, Cali  -- Atlético Nacional
+42  Diego Coppola (ITA)            DF    # 28 Dec 2003, Bussolengo
+75  Nicolò Calabrese (ITA)         DF    # 16 Nov 2004
+82  Christian Corradi (ITA)        DF    # 21 Feb 2005  -- Vicenza
+
+ 6  Reda Belahyane (FRA)           MF    # 01 Jun 2004, Paris  -- Nice
+ 8  Darko Lazović (SRB)            MF    # 15 Sep 1990, Čačak  -- Genoa
+14  Joselito (ESP)                 MF    # 09 Feb 2004, Huelva  -- Coria
+21  Dani Silva (POR)               MF    # 11 Apr 2000, Beja  -- Vitória Guimarães
+25  Suat Serdar (GER)              MF    # 11 Apr 1997, Bingen  -- Hertha Berlin
+28  Nicola Patanè (ITA)            MF    # 25 Mar 2004, Verona
+31  Tomáš Suslov (SVK)             MF    # 07 Jun 2002, Spišská Nová Ves  -- FC Groningen
+33  Ondrej Duda (SVK)              MF    # 15 Dec 1994, Snina  -- Köln
+37  Charlys (BRA)                  MF    # 18 Feb 2004, Maceió  -- Vitória
+38  Jackson Tchatchoua (BEL)       MF    # 23 Jun 2001, Ixelles  -- Charleroi
+90  Michael Folorunsho (ITA)       MF    # 07 Feb 1998, Rome  -- Napoli
+
+ 7  Elayis Tavşan (NED)            FW    # 30 Apr 2001, Rotterdam  -- NEC Nijmegen
+ 9  Thomas Henry (FRA)             FW    # 20 Sep 1994, Argenteuil  -- Venezia
+10  Stefan Mitrović (SRB)          FW    # 15 Aug 2002, Kruševac  -- Crvena Zvezda
+11  Karol Świderski (POL)          FW    # 23 Jan 1997, Rawicz  -- Charlotte FC
+13  Juan Manuel Cruz (ARG)         FW    # 19 Jul 1999, Capital Federal  -- Banfield
+17  Tijjani Noslin (NED)           FW    # 07 Jul 1999, Amsterdam  -- Fortuna Sittard
+72  Junior Ajayi (CIV)             FW    # 11 Oct 2004, Abidjan  -- Sassuolo
+80  Alphadjo Cissè (ITA)           FW    # 22 Oct 2006, Treviso  -- Giorgione
+99  Federico Bonazzoli (ITA)       FW    # 21 May 1997, Manerbio  -- Salernitana

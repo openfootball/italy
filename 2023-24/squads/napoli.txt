@@ -1,0 +1,34 @@
+= Società Sportiva Calcio Napoli    # Napoli
+
+ 1  Alex Meret (ITA)               GK    # 22 Mar 1997, Udine  -- Udinese
+14  Nikita Contini (ITA)           GK    # 21 May 1996, Cherkasy
+16  Hubert Idasiak (POL)           GK    # 03 Feb 2002, Sławno  -- Pogoń Szczecin
+95  Pierluigi Gollini (ITA)        GK    # 18 Mar 1995, Bologna  -- Atalanta
+
+ 3  Natan (BRA)                    DF    # 06 Feb 2001, Itapecerica da Serra  -- Red Bull Bragantino
+ 5  Juan Jesus (BRA)               DF    # 10 Jun 1991, Belo Horizonte  -- Roma
+ 6  Mário Rui (POR)                DF    # 27 May 1991, Sines  -- Roma
+13  Amir Rrahmani (KVX)            DF    # 24 Feb 1994, Prishtina  -- Verona
+17  Mathías Olivera (URU)          DF    # 31 Oct 1997, Montevideo  -- Getafe
+22  Giovanni Di Lorenzo (ITA)      DF    # 04 Aug 1993, Castelnuovo di Garfagnana  -- Empoli
+30  Pasquale Mazzocchi (ITA)       DF    # 27 Jul 1995, Naples  -- Salernitana
+50  Luigi D'Avino (ITA)            DF    # 08 Dec 2005, Naples
+55  Leo Østigård (NOR)             DF    # 28 Nov 1999, Molde  -- Brighton & HA
+
+ 4  Diego Demme (GER)              MF    # 21 Nov 1991, Herford  -- RB Leipzig
+ 8  Hamed Junior Traoré (CIV)      MF    # 16 Feb 2000, Abidjan  -- Bournemouth
+20  Piotr Zieliński (POL)          MF    # 20 May 1994, Ząbkowice Śląskie  -- Udinese
+24  Jens Cajuste (SWE)             MF    # 10 Aug 1999, Gothenburg  -- Reims
+29  Jesper Lindstrøm (DEN)         MF    # 29 Feb 2000, Taastrup  -- Eintracht Frankfurt
+32  Leander Dendoncker (BEL)       MF    # 15 Apr 1995, Passendale  -- Aston Villa
+38  Lorenzo Russo (ITA)            MF    # 19 Apr 2005, Naples
+60  Francesco Gioielli (ITA)       MF    # 26 Feb 2004, Quarto
+68  Stanislav Lobotka (SVK)        MF    # 25 Nov 1994, Trenčín  -- Celta Vigo
+77  Khvicha Kvaratskhelia (GEO)    MF    # 12 Feb 2001, Tbilisi  -- Dinamo Butami
+99  André-Frank Zambo Anguissa (CMR)   MF    # 16 Nov 1995, Yaoundé  -- Fulham
+
+ 9  Victor Osimhen (NGA)           FW    # 29 Dec 1998, Lagos  -- Lille
+18  Giovanni Simeone (ARG)         FW    # 05 Jul 1995, Buenos Aires  -- Verona
+21  Matteo Politano (ITA)          FW    # 03 Aug 1993, Rome  -- Internazionale
+26  Cyril Ngonge (BEL)             FW    # 26 May 2000, Uccle  -- Verona
+81  Giacomo Raspadori (ITA)        FW    # 18 Feb 2000, Bentivoglio  -- Sassuolo

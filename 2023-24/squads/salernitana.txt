@@ -1,0 +1,41 @@
+= Unione Sportiva Salernitana 1919    # Salernitana
+
+ 1  Vincenzo Fiorillo (ITA)        GK    # 13 Jan 1990, Genoa  -- Pescara
+13  Guillermo Ochoa (MEX)          GK    # 13 Jul 1985, Guadalajara  -- América
+56  Benoît Costil (FRA)            GK    # 03 Jul 1987, Caen  -- Lille
+62  Pasquale Allocca (ITA)         GK    # 09 May 2005, Salerno
+
+ 3  Domagoj Bradarić (CRO)         DF    # 10 Dec 1999, Split  -- Lille
+ 4  Triantafyllos Pasalidis (GRE)   DF    # 19 Jul 1996, Eleftherio-Kordelio  -- OFI
+ 5  Jérôme Boateng (GER)           DF    # 03 Sep 1988, Berlin  -- Lyon
+17  Federico Fazio (ARG)           DF    # 17 Mar 1987, Capital Federal  -- Roma
+23  Norbert Gyömbér (SVK)          DF    # 03 Jul 1992, Revúca  -- Perugia
+24  Marco Pellegrino (ARG)         DF    # 18 Jul 2002, Capital Federal  -- Milan
+27  Niccolò Pierozzi (ITA)         DF    # 12 Sep 2001, Florence  -- Fiorentina
+40  Emanuele Elia (ITA)            DF    # 19 Dec 2004, Crotone  -- Cosenza
+41  Tommaso Ferrari (ITA)          DF    # 30 Apr 2005, Rome  -- Ostiamare
+42  Niccolò Guccione (ITA)         DF    # 04 Mar 2006  -- Viterbese
+44  Konstantinos Manolas (GRE)     DF    # 14 Jun 1991, Naxos  -- Sharjah FC
+59  Alessandro Zanoli (ITA)        DF    # 03 Oct 2000, Carpi  -- Napoli
+98  Lorenzo Pirola (ITA)           DF    # 20 Feb 2002, Carate Brianza  -- Internazionale
+
+ 6  Junior Sambia (FRA)            MF    # 07 Sep 1996, Lyon  -- Montpellier
+ 7  Agustín Martegani (ARG)        MF    # 20 Mar 2000, Rojas  -- San Lorenzo
+11  Iron Gomis (FRA)               MF    # 08 Nov 1999, Marseille  -- Kasımpaşa
+18  Lassana Coulibaly (MLI)        MF    # 10 Apr 1996, Bamako  -- Angers
+20  Grigoris Kastanos (CYP)        MF    # 30 Jan 1998, Nicosia  -- Juventus
+25  Giulio Maggiore (ITA)          MF    # 12 Mar 1998, Genoa  -- Spezia
+26  Toma Bašić (CRO)               MF    # 25 Nov 1996, Zagreb  -- Lazio
+36  Andres Sfait (ROU)             MF    # 09 Dec 2004, Cluj-Napoca  -- Grödig
+51  Ciro Borrelli (ITA)            MF    # 09 Jan 2006, Naples  -- Napoli
+99  Mateusz Łęgowski (POL)         MF    # 29 Jan 2003, Brodnica  -- Pogoń Szczecin
+
+ 9  Simy Nwankwo (NGA)             FW    # 07 May 1992, Lagos  -- Crotone
+10  Boulaye Dia (SEN)              FW    # 16 Nov 1996, Oyonnax  -- Villarreal
+14  Shon Weissman (ISR)            FW    # 14 Feb 1996, Haifa  -- Granada
+22  Chukwubuikem Ikwuemesi (NGA)   FW    # 05 Aug 2001, Lagos  -- Celje
+33  Loum Tchaouna (FRA)            FW    # 08 Sep 2003, N'Djamena  -- Rennes
+43  Gerardo Fusco (ITA)            FW    # 18 May 2005, Salerno  -- Benevento
+55  Emanuel Vignato (BRA)          FW    # 24 Aug 2000, Negrar  -- Pisa
+70  Luca Boncori (ITA)             FW    # 21 Feb 2006  -- Nuova Tor Tre Teste
+87  Antonio Candreva (ITA)         FW    # 28 Feb 1987, Rome  -- Sampdoria

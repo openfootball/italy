@@ -1,0 +1,37 @@
+= Atalanta Bergamasca Calcio    # Atalanta
+
+ 1  Juan Musso (ARG)               GK    # 06 May 1994, San Nicolás  -- Udinese
+29  Marco Carnesecchi (ITA)        GK    # 01 Jul 2000, Rimini  -- Cesena
+31  Francesco Rossi (ITA)          GK    # 27 Apr 1991, Merate
+40  Paolo Vismara (ITA)            GK    # 28 Mar 2003
+
+ 2  Rafael Tolói (ITA)             DF    # 10 Oct 1990, Gloria d'Oeste  -- São Paulo
+ 3  Emil Holm (SWE)                DF    # 13 May 2000, Gothenburg  -- Spezia
+ 4  Isak Hien (SWE)                DF    # 13 Jan 1999, Stockholm  -- Verona
+ 6  José Luis Palomino (ARG)       DF    # 05 Jan 1990, San Miguel de Tucumán  -- Ludogorets Razgrad
+19  Berat Djimsiti (ALB)           DF    # 19 Feb 1993, Zürich  -- Zürich
+20  Mitchel Bakker (NED)           DF    # 20 Jun 2000, Purmerend  -- Bayer Leverkusen
+22  Matteo Ruggeri (ITA)           DF    # 11 Jul 2002, San Giovanni Bianco
+23  Sead Kolašinac (BIH)           DF    # 20 Jun 1993, Karlsruhe  -- Marseille
+33  Hans Hateboer (NED)            DF    # 09 Jan 1994, Beerta  -- FC Groningen
+42  Giorgio Scalvini (ITA)         DF    # 11 Dec 2003, Chiari
+43  Giovanni Bonfanti (ITA)        DF    # 17 Jan 2003, Milan
+45  Marco Palestra (ITA)           DF    # 03 Mar 2005, Buccinasco
+53  Pietro Comi (ITA)              DF    # 11 Jun 2005, Treviglio
+77  Davide Zappacosta (ITA)        DF    # 11 Jun 1992, Sora  -- Chelsea
+
+ 7  Teun Koopmeiners (NED)         MF    # 28 Feb 1998, Amsterdam  -- AZ Alkmaar
+ 8  Mario Pašalić (CRO)            MF    # 09 Feb 1995, Mainz  -- Chelsea
+13  Éderson (BRA)                  MF    # 07 Jul 1999, Campo Grande  -- Salernitana
+15  Marten de Roon (NED)           MF    # 29 Mar 1991, Zwijndrecht  -- Middlesbrough
+25  Michel Ndary Adopo (FRA)       MF    # 19 Jul 2000, Villeneuve-Saint-Georges  -- Torino
+44  Leonardo Mendicino (ITA)       MF    # 25 Jun 2006, Carate Brianza
+59  Aleksey Miranchuk (RUS)        MF    # 17 Oct 1995, Slavyansk-na-Kubani  -- Lokomotiv Moscow
+
+10  El Bilal Touré (MLI)           FW    # 03 Oct 2001, Adjamé  -- Almería
+11  Ademola Lookman (NGA)          FW    # 20 Oct 1997, Wandsworth  -- RB Leipzig
+17  Charles De Ketelaere (BEL)     FW    # 10 Mar 2001, Bruges  -- Milan
+30  Alessandro Cortinovis (ITA)    FW    # 25 Jan 2001, Bergamo
+54  Siren Diao (ESP)               FW    # 21 Oct 2005, Figueres  -- Verona
+90  Gianluca Scamacca (ITA)        FW    # 01 Jan 1999, Rome  -- West Ham U
+99  Moustapha Cissé (GUI)          FW    # 14 Sep 2003, Conakry  -- Rinascita Refugees

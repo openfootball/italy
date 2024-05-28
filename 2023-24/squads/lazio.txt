@@ -1,0 +1,37 @@
+= Società Sportiva Lazio    # Lazio
+
+33  Luigi Sepe (ITA)               GK    # 08 May 1991, Torre del Greco  -- Salernitana
+35  Christos Mandas (GRE)          GK    # 17 Sep 2001, Piraeus  -- OFI
+53  Federico Magro (ITA)           GK    # 10 Jan 2005, Rome  -- Urbetevere
+59  Davide Renzetti (ITA)          GK    # 09 Jun 2006, Rome
+94  Ivan Provedel (ITA)            GK    # 17 Mar 1994, Pordenone  -- Spezia
+
+ 3  Luca Pellegrini (ITA)          DF    # 07 Mar 1999, Rome  -- Juventus
+ 4  Patric (ESP)                   DF    # 17 Apr 1993, Mula  -- Barcelona B
+13  Alessio Romagnoli (ITA)        DF    # 12 Jan 1995, Anzio  -- Milan
+15  Nicolò Casale (ITA)            DF    # 14 Feb 1998, Negrar  -- Verona
+23  Elseid Hysaj (ALB)             DF    # 02 Feb 1994, Shkodër  -- Napoli
+34  Mario Gila (ESP)               DF    # 29 Aug 2000, Barcelona  -- Real Madrid B
+46  Fabio Ruggeri (ITA)            DF    # 13 Dec 2004, Rome  -- Savio
+77  Adam Marušić (SRB)             DF    # 17 Oct 1992, Belgrade  -- Oostende
+
+ 5  Matías Vecino (URU)            MF    # 24 Aug 1991, Canelones  -- Internazionale
+ 6  Daichi Kamada (JPN)            MF    # 05 Aug 1996, Ehime  -- Eintracht Frankfurt
+ 8  Mattéo Guendouzi (FRA)         MF    # 14 Apr 1999, Poissy  -- Marseille
+10  Luis Alberto (ESP)             MF    # 28 Sep 1992, San José del Valle  -- Liverpool
+18  Gustav Isaksen (DEN)           MF    # 19 Apr 2001, Hjerk  -- FC Midtjylland
+20  Mattia Zaccagni (ITA)          MF    # 16 Jun 1995, Cesena  -- Verona
+28  André Anderson (BRA)           MF    # 23 Sep 1999, Maracaí  -- Santos
+29  Manuel Lazzari (ITA)           MF    # 29 Nov 1993, Valdagno  -- SPAL
+32  Danilo Cataldi (ITA)           MF    # 06 Aug 1994, Rome
+56  Luca Napolitano (ITA)          MF    # 10 Jan 2004, Rome
+65  Nicolò Rovella (ITA)           MF    # 04 Dec 2001, Segrate  -- Juventus
+68  Larsson Coulibaly (CIV)        MF    # 17 Apr 2003, Yopougon
+
+ 7  Felipe Anderson (BRA)          FW    # 15 Apr 1993, Brasília  -- West Ham U
+ 9  Pedro (ESP)                    FW    # 28 Jul 1987, Santa Cruz de Tenerife  -- Roma
+17  Ciro Immobile (ITA)            FW    # 20 Feb 1990, Torre Annunziata  -- Sevilla
+19  Valentín Castellanos (ARG)     FW    # 03 Oct 1998, Mendoza  -- New York C
+22  Diego González (PAR)           FW    # 07 Jan 2003, Alto Paraná  -- Celaya
+70  Saná Fernandes (POR)           FW    # 10 Mar 2006, Bissau  -- Sporting CP
+87  Cristiano Lombardi (ITA)       FW    # 19 Aug 1995, Viterbo

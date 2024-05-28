@@ -1,0 +1,38 @@
+= Genoa Cricket and Football Club    # Genoa
+
+ 1  Josep Martínez (ESP)           GK    # 27 May 1998, Alzira  -- RB Leipzig
+16  Nicola Leali (ITA)             GK    # 17 Feb 1993, Castiglione delle Stiviere  -- Ascoli
+38  Simone Calvani (ITA)           GK    # 16 May 2005, Grottaferrata  -- Urbetevere
+39  Daniele Sommariva (ITA)        GK    # 18 Jul 1997, Genoa  -- Pescara
+99  Franz Stolz (AUT)              GK    # 14 Feb 2001, Bruck an der Mur  -- SKN St. Pölten
+
+ 3  Aarón (ESP)                    DF    # 22 Apr 1997, Montmeló  -- Mainz
+ 4  Koni De Winter (BEL)           DF    # 12 Jun 2002, Antwerp  -- Juventus
+13  Mattia Bani (ITA)              DF    # 10 Dec 1993, Borgo San Lorenzo  -- Bologna
+14  Alessandro Vogliacco (ITA)     DF    # 14 Sep 1998, Acquaviva delle Fonti  -- Pordenone
+20  Stefano Sabelli (ITA)          DF    # 13 Jan 1993, Rome  -- Empoli
+22  Johan Vásquez (MEX)            DF    # 22 Oct 1998, Navojoa  -- UNAM
+23  Giorgio Cittadini (ITA)        DF    # 18 Apr 2002, Gardone Val Trompia  -- Atalanta
+33  Alan Matturro (URU)            DF    # 11 Oct 2004, Montevideo  -- Defensor Sporting
+53  Tommaso Pittino (ITA)          DF    # 14 Jan 2005  -- Novara
+55  Ridgeciano Haps (NED)          DF    # 12 Jun 1993, Utrecht  -- Venezia
+90  Djed Spence (ENG)              DF    # 09 Aug 2000, London  -- Tottenham H
+
+ 2  Morten Thorsby (NOR)           MF    # 05 May 1996, Oslo  -- Union Berlin
+ 5  Emil Bohinen (NOR)             MF    # 12 Mar 1999, Derby  -- Salernitana
+ 8  Kevin Strootman (NED)          MF    # 13 Feb 1990, Ridderkerk  -- Marseille
+17  Ruslan Malinovskyi (UKR)       MF    # 04 May 1993, Zhytomyr  -- Marseille
+32  Morten Frendrup (DEN)          MF    # 07 Apr 2001, Holbæk  -- Brøndby
+41  Christos Papadopoulos (GRE)    MF    # 01 Nov 2004, Larissa  -- Iraklis Larissa
+43  Riccardo Arboscello (ITA)      MF    # 10 Dec 2005, Savona
+47  Milan Badelj (CRO)             MF    # 25 Feb 1989, Zagreb  -- Lazio
+
+ 9  Vitinha (POR)                  FW    # 15 Mar 2000, Cabeceiras de Basto  -- Marseille
+10  Junior Messias (BRA)           FW    # 13 May 1991, Belo Horizonte  -- Milan
+11  Albert Guðmundsson (ISL)       FW    # 15 Jun 1997, Reykjavík  -- AZ Alkmaar
+18  Caleb Ekuban (GHA)             FW    # 23 Mar 1994, Villafranca  -- Trabzonspor
+19  Mateo Retegui (ITA)            FW    # 29 Apr 1999, San Fernando  -- Tigre
+30  David Ankeye (NGA)             FW    # 22 May 2002, Abuja  -- Sheriff Tiraspol
+42  Yoan Bornosuzov (BUL)          FW    # 09 Jan 2004, Pleven  -- CSKA Sofia
+44  Tommaso Ghirardello (ITA)      FW    # 19 Oct 2005, Rovigo  -- Padova
+48  Marco Romano (ITA)             FW    # 01 Mar 2006, Innsbruck  -- Real Forio

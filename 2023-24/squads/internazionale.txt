@@ -1,0 +1,37 @@
+= Football Club Internazionale Milano    # Internazionale
+
+ 1  Yann Sommer (SUI)              GK    # 17 Dec 1988, Morges  -- Bayern Munich
+12  Raffaele Di Gennaro (ITA)      GK    # 03 Oct 1993, Saronno  -- Gubbio
+40  Alessandro Calligaris (ITA)    GK    # 07 Mar 2005, Udine  -- Donatello
+77  Emil Audero (ITA)              GK    # 18 Jan 1997, Mataram  -- Sampdoria
+
+ 2  Denzel Dumfries (NED)          DF    # 18 Apr 1996, Rotterdam  -- PSV Eindhoven
+ 6  Stefan de Vrij (NED)           DF    # 05 Feb 1992, Ouderkerk aan den IJssel  -- Lazio
+15  Francesco Acerbi (ITA)         DF    # 10 Feb 1988, Vizzolo Predabissi  -- Lazio
+28  Benjamin Pavard (FRA)          DF    # 28 Mar 1996, Maubeuge  -- Bayern Munich
+30  Carlos Augusto (BRA)           DF    # 07 Jan 1999, Campinas  -- Monza
+31  Yann Aurel Bisseck (GER)       DF    # 29 Nov 2000, Cologne  -- Aarhus
+32  Federico Dimarco (ITA)         DF    # 10 Nov 1997, Milan
+36  Matteo Darmian (ITA)           DF    # 02 Dec 1989, Legnano  -- Parma
+43  Matteo Motta (ITA)             DF    # 10 Feb 2005
+44  Giacomo Stabile (ITA)          DF    # 12 Apr 2005, Milan
+95  Alessandro Bastoni (ITA)       DF    # 13 Apr 1999, Casalmaggiore  -- Atalanta
+
+ 5  Stefano Sensi (ITA)            MF    # 05 Aug 1995, Urbino  -- Sassuolo
+ 7  Juan Cuadrado (COL)            MF    # 26 May 1988, Necoclí  -- Juventus
+14  Davy Klaassen (NED)            MF    # 21 Feb 1993, Hilversum  -- Ajax
+16  Davide Frattesi (ITA)          MF    # 22 Sep 1999, Rome  -- Sassuolo
+20  Hakan Çalhanoğlu (TUR)         MF    # 08 Feb 1994, Mannheim  -- Milan
+21  Kristjan Asllani (ALB)         MF    # 09 Mar 2002, Elbasan  -- Empoli
+22  Henrikh Mkhitaryan (ARM)       MF    # 21 Jan 1989, Yerevan  -- Roma
+23  Nicolò Barella (ITA)           MF    # 07 Feb 1997, Cagliari  -- Cagliari
+41  Ebenezer Akinsanmiro (NGA)     MF    # 25 Nov 2004  -- Remo Stars
+47  Issiaka Kamate (FRA)           MF    # 02 Aug 2004, Aulnay-sous-Bois  -- Montfermeil
+50  Aleksandar Stanković (SRB)     MF    # 03 Aug 2005, Milan
+
+ 8  Marko Arnautović (AUT)         FW    # 19 Apr 1989, Vienna  -- Bologna
+ 9  Marcus Thuram (FRA)            FW    # 06 Aug 1997, Parma  -- B Mönchengladbach
+10  Lautaro Martínez (ARG)         FW    # 22 Aug 1997, Bahía Blanca  -- Racing Club
+17  Tajon Buchanan (CAN)           FW    # 08 Feb 1999, Brampton  -- Club Brugge
+49  Amadou Sarr (SEN)              FW    # 28 Jun 2004, Gossas  -- Liventina
+70  Alexis Sánchez (CHI)           FW    # 19 Dec 1988, Tocopilla  -- Marseille

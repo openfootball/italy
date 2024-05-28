@@ -1,0 +1,40 @@
+= Juventus Football Club    # Juventus
+
+ 1  Wojciech Szczęsny (POL)        GK    # 18 Apr 1990, Warsaw  -- Arsenal
+23  Carlo Pinsoglio (ITA)          GK    # 16 Mar 1990, Moncalieri  -- Vicenza
+36  Mattia Perin (ITA)             GK    # 10 Nov 1992, Latina  -- Genoa
+38  Giovanni Daffara (ITA)         GK    # 05 Dec 2004, Biella
+42  Giovanni Garofani (ITA)        GK    # 20 Oct 2002, Rome  -- Tor Tre Teste
+49  Simone Scaglia (ITA)           GK    # 12 Jul 2004, Turin
+
+ 2  Mattia De Sciglio (ITA)        DF    # 20 Oct 1992, Milan  -- Milan
+ 3  Bremer (BRA)                   DF    # 18 Mar 1997, Itapitanga  -- Torino
+ 4  Federico Gatti (ITA)           DF    # 24 Jun 1998, Rivoli  -- Frosinone
+ 6  Danilo (BRA)                   DF    # 15 Jul 1991, Bicas  -- Manchester C
+12  Alex Sandro (BRA)              DF    # 26 Jan 1991, Catanduva  -- FC Porto
+24  Daniele Rugani (ITA)           DF    # 29 Jul 1994, Lucca  -- Empoli
+27  Andrea Cambiaso (ITA)          DF    # 20 Feb 2000, Genoa  -- Genoa
+33  Tiago Djaló (POR)              DF    # 09 Apr 2000, Amadora  -- Lille
+
+ 5  Manuel Locatelli (ITA)         MF    # 08 Jan 1998, Lecco  -- Sassuolo
+10  Paul Pogba (FRA)               MF    # 15 Mar 1993, Lagny-sur-Marne  -- Manchester U
+11  Filip Kostić (SRB)             MF    # 01 Nov 1992, Kragujevac  -- Eintracht Frankfurt
+16  Weston McKennie (USA)          MF    # 28 Aug 1998, Little Elm  -- Schalke
+20  Fabio Miretti (ITA)            MF    # 03 Aug 2003, Pinerolo
+21  Nicolò Fagioli (ITA)           MF    # 12 Feb 2001, Piacenza  -- Cremonese
+25  Adrien Rabiot (FRA)            MF    # 03 Apr 1995, Saint-Maurice  -- Paris St-Germain
+26  Carlos Alcaraz (ARG)           MF    # 30 Nov 2002, La Plata  -- Southampton
+39  Nikola Sekulov (ITA)           MF    # 18 Feb 2002, Piacenza  -- Pro Piacenza
+41  Hans Nicolussi Caviglia (ITA)   MF    # 18 Jun 2000, Aosta
+47  Joseph Nonge (BEL)             MF    # 15 May 2005, Brussels  -- Anderlecht
+50  Luis Hasa (ITA)                MF    # 06 Jan 2004, Sora
+
+ 7  Federico Chiesa (ITA)          FW    # 25 Oct 1997, Genoa  -- Fiorentina
+ 9  Dušan Vlahović (SRB)           FW    # 28 Jan 2000, Belgrade  -- Fiorentina
+14  Arkadiusz Milik (POL)          FW    # 28 Feb 1994, Tychy  -- Marseille
+15  Kenan Yıldız (TUR)             FW    # 04 May 2005, Regensburg  -- Bayern Munich
+17  Samuel Iling-Junior (ENG)      FW    # 04 Oct 2003, Islington  -- Chelsea
+18  Moise Kean (ITA)               FW    # 28 Feb 2000, Vercelli  -- Everton
+22  Timothy Weah (USA)             FW    # 22 Feb 2000, New York  -- Lille
+40  Tommaso Mancini (ITA)          FW    # 23 Jul 2004, Vicenza  -- Vicenza
+45  Leonardo Cerri (ITA)           FW    # 04 Mar 2003, Rome  -- Pescara

@@ -1,0 +1,42 @@
+= Frosinone Calcio    # Frosinone
+
+ 1  Pierluigi Frattali (ITA)       GK    # 01 Dec 1985, Rome  -- Bari
+31  Michele Cerofolini (ITA)       GK    # 04 Jan 1999, Arezzo  -- Fiorentina
+37  Lorenzo Palmisani (ITA)        GK    # 01 Jun 2004, Alatri
+80  Stefano Turati (ITA)           GK    # 05 Sep 2001, Milan  -- Sassuolo
+
+ 3  Riccardo Marchizza (ITA)       DF    # 26 Mar 1998, Rome  -- Sassuolo
+ 5  Caleb Okoli (NGA)              DF    # 13 Jul 2001, Vicenza  -- Atalanta
+ 6  Simone Romagnoli (ITA)         DF    # 09 Feb 1990, Cremona  -- Lecce
+13  Matjaž Kamenšek-Pahič (SVN)    DF    # 04 Jul 2004, Maribor  -- Krško
+17  Giorgi Kvernadze (GEO)         DF    # 07 Feb 2003, Samtredia  -- Kolkheti-1913 Poti
+19  Nadir Zortea (ITA)             DF    # 19 Jun 1999, Feltre  -- Atalanta
+20  Pol Lirola (ESP)               DF    # 13 Aug 1997, Mollet del Vallès  -- Marseille
+22  Anthony Oyono (GAB)            DF    # 12 Apr 2001, Lille  -- Boulogne
+23  Sergio Kalaj (ALB)             DF    # 28 Jan 2000, Marino  -- Carrarese
+28  Daniel Macej (CZE)             DF    # 29 Apr 2004  -- Baník Ostrava
+30  Ilario Monterisi (ITA)         DF    # 19 Dec 2001, Trani  -- Lecce
+32  Emanuele Valeri (ITA)          DF    # 07 Dec 1998, Rome  -- Cremonese
+33  Kevin Bonifazi (ITA)           DF    # 19 May 1996, Rieti  -- Bologna
+35  Lazar Žaknić (SRB)             DF    # 16 Mar 2004, Belgrade  -- Sassuolo
+47  Mateus Lusuardi (BRA)          DF    # 08 Jan 2004  -- Criciúma
+
+ 4  Marco Brescianini (ITA)        MF    # 20 Jan 2000, Calcinate  -- Milan
+12  Reinier (BRA)                  MF    # 19 Jan 2002, Brasília  -- Real Madrid
+14  Francesco Gelli (ITA)          MF    # 15 Oct 1996, Livorno  -- AlbinoLeffe
+15  İsak Vural (TUR)               MF    # 28 May 2006, Stockholm  -- Hammarby IF
+16  Luca Garritano (ITA)           MF    # 11 Feb 1994, Cosenza  -- Chievo Verona
+21  Abdou Harroui (NED)            MF    # 13 Jan 1998, Leiden  -- Sassuolo
+27  Arijon Ibrahimović (GER)       MF    # 11 Dec 2005, Nuremberg  -- Bayern Munich
+36  Luca Mazzitelli (ITA)          MF    # 15 Nov 1995, Rome  -- Monza
+45  Enzo Barrenechea (ARG)         MF    # 25 May 2001, Villa María  -- Juventus
+
+ 7  Jaime Báez (URU)               FW    # 24 Apr 1995, Montevideo  -- Cremonese
+ 8  Demba Seck (SEN)               FW    # 10 Feb 2001, Guediawaye  -- Torino
+ 9  Kaio Jorge (BRA)               FW    # 24 Jan 2002, Olinda  -- Juventus
+10  Giuseppe Caso (ITA)            FW    # 09 Dec 1998, Torre Annunziata  -- Genoa
+11  Marvin Çuni (ALB)              FW    # 10 Jul 2001, Freising  -- Bayern Munich II
+18  Matías Soulé (ARG)             FW    # 15 Apr 2003, Mar del Plata  -- Juventus
+26  Soufiane Bidaoui (MAR)         FW    # 20 Apr 1990, Etterbeek  -- Ascoli
+29  Farès Ghedjemis (FRA)          FW    # 06 Sep 2002, Montreuil  -- Rouen
+70  Walid Cheddira (MAR)           FW    # 22 Jan 1998, Loreto  -- Napoli

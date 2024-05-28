@@ -1,0 +1,35 @@
+= Bologna Football Club    # Bologna
+
+23  Nicola Bagnolini (ITA)         GK    # 14 Mar 2004, Cesena  -- Cesena
+28  Łukasz Skorupski (POL)         GK    # 05 May 1991, Zabrze  -- Roma
+34  Federico Ravaglia (ITA)        GK    # 11 Nov 1999, Bologna
+50  Tito Gasperini (ITA)           GK    # 09 Mar 2006, Bologna
+
+ 3  Stefan Posch (AUT)             DF    # 14 May 1997, Judenburg  -- 1899 Hoffenheim
+ 4  Mihajlo Ilić (SRB)             DF    # 04 Jul 2003, Jagodina  -- Partizan Belgrade
+ 5  Adama Soumaoro (CIV)           DF    # 18 Jun 1992, Fontenay-aux-Roses  -- Lille
+15  Victor Kristiansen (DEN)       DF    # 16 Dec 2002, Copenhagen  -- Leicester C
+16  Tommaso Corazza (ITA)          DF    # 29 Jun 2004, Bologna
+22  Charalampos Lykogiannis (GRE)   DF    # 22 Oct 1993, Piraeus  -- Cagliari
+26  Jhon Lucumí (COL)              DF    # 26 Jun 1998, Cali  -- KRC Genk
+29  Lorenzo De Silvestri (ITA)     DF    # 23 May 1988, Rome  -- Torino
+31  Sam Beukema (NED)              DF    # 17 Nov 1998, Deventer  -- AZ Alkmaar
+33  Riccardo Calafiori (ITA)       DF    # 19 May 2002, Rome  -- Basel
+66  Wisdom Amey (ITA)              DF    # 11 Aug 2005, Bassano del Grappa
+
+ 6  Nikola Moro (CRO)              MF    # 12 Mar 1998, Solin  -- Dynamo Moscow
+ 8  Remo Freuler (SUI)             MF    # 15 Apr 1992, Ennenda  -- Nottingham F
+17  Oussama El Azzouzi (MAR)       MF    # 29 May 2001, Veenendaal  -- Union St-Gilloise
+19  Lewis Ferguson (SCO)           MF    # 24 Aug 1999, Hamilton  -- Aberdeen
+20  Michel Aebischer (SUI)         MF    # 06 Jan 1997, Fribourg  -- Young Boys
+56  Alexis Saelemaekers (BEL)      MF    # 27 Jun 1999, Berchem-Sainte-Agathe  -- Milan
+80  Giovanni Fabbian (ITA)         MF    # 14 Jan 2003, Camposampiero  -- Internazionale
+82  Kacper Urbański (POL)          MF    # 07 Sep 2004, Gdańsk  -- Lechia Gdańsk
+
+ 7  Riccardo Orsolini (ITA)        FW    # 24 Jan 1997, Ascoli Piceno  -- Juventus
+ 9  Joshua Zirkzee (NED)           FW    # 22 May 2001, Schiedam  -- Bayern Munich
+10  Jesper Karlsson (SWE)          FW    # 25 Jul 1998, Falkenberg  -- AZ Alkmaar
+11  Dan Ndoye (SUI)                FW    # 25 Oct 2000, Nyon  -- Basel
+18  Santiago Castro (ARG)          FW    # 18 Sep 2004, San Martín  -- Vélez Sarsfield
+21  Jens Odgaard (DEN)             FW    # 31 Mar 1999, Hillerød  -- AZ Alkmaar
+96  Tommaso Ravaglioli (ITA)       FW    # 20 Feb 2006, Cesena  -- Cesena

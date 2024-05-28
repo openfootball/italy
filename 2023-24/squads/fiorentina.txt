@@ -1,0 +1,37 @@
+= Associazione Calcio Firenze Fiorentina    # Fiorentina
+
+ 1  Pietro Terracciano (ITA)       GK    # 08 Mar 1990, San Felice a Cancello  -- Empoli
+30  Tommaso Martinelli (ITA)       GK    # 06 Jan 2006, Bagno a Ripoli
+40  Tommaso Vannucchi (ITA)        GK    # 05 Mar 2007, Viareggio
+53  Oliver Christensen (DEN)       GK    # 22 Mar 1999, Kerteminde  -- Hertha Berlin
+
+ 2  Dodô (BRA)                     DF    # 17 Nov 1998, Taubaté  -- Shakhtar Donetsk
+ 3  Cristiano Biraghi (ITA)        DF    # 01 Sep 1992, Cernusco sul Naviglio  -- Pescara
+ 4  Nikola Milenković (SRB)        DF    # 12 Oct 1997, Belgrade  -- Partizan Belgrade
+16  Luca Ranieri (ITA)             DF    # 23 Apr 1999, La Spezia
+22  Marco Davide Faraoni (ITA)     DF    # 25 Oct 1991, Bracciano  -- Verona
+28  Lucas Martínez Quarta (ARG)    DF    # 10 May 1996, Mar del Plata  -- River Plate
+33  Michael Kayode (ITA)           DF    # 10 Jul 2004, Borgomanero  -- Gozzano
+37  Pietro Comuzzo (ITA)           DF    # 20 Feb 2005, San Daniele del Friuli  -- Pordenone
+50  Christian Biagetti (ITA)       DF    # 10 Mar 2004, Grosseto
+65  Fabiano Parisi (ITA)           DF    # 09 Nov 2000, Solofra  -- Empoli
+
+ 5  Giacomo Bonaventura (ITA)      MF    # 22 Aug 1989, San Severino Marche  -- Milan
+ 6  Arthur (BRA)                   MF    # 12 Aug 1996, Goiânia  -- Juventus
+ 8  Maxime López (FRA)             MF    # 04 Dec 1997, Marseille  -- Sassuolo
+17  Gaetano Castrovilli (ITA)      MF    # 17 Feb 1997, Canosa di Puglia  -- Bari
+19  Gino Infantino (ARG)           MF    # 19 May 2003, Rosario  -- Rosario Central
+32  Alfred Duncan (GHA)            MF    # 10 Mar 1993, Accra  -- Sassuolo
+38  Rolando Mandragora (ITA)       MF    # 29 Jun 1997, Naples  -- Juventus
+54  Niccolò Fortini (ITA)          MF    # 13 Feb 2006, Camaiore
+72  Antonín Barák (CZE)            MF    # 03 Dec 1994, Příbram  -- Verona
+
+ 7  Riccardo Sottil (ITA)          FW    # 03 Jun 1999, Turin  -- Torino
+ 9  Lucas Beltrán (ARG)            FW    # 29 Mar 2001, Córdoba  -- River Plate
+10  Nicolás González (ARG)         FW    # 06 Apr 1998, Belén de Escobar  -- Stuttgart
+11  Jonathan Ikoné (FRA)           FW    # 02 May 1998, Bondy  -- Lille
+18  M'Bala Nzola (FRA)             FW    # 18 Aug 1996, Troyes  -- Spezia
+20  Andrea Belotti (ITA)           FW    # 20 Dec 1993, Calcinate  -- Roma
+51  Maat Daniel Caprini (ITA)      FW    # 11 Feb 2006, Milan  -- Virtus Entella
+52  Fallou Sene (SEN)              FW    # 21 Aug 2004, Khombole  -- Bari
+99  Cristian Kouamé (CIV)          FW    # 06 Dec 1997, Bingerville  -- Genoa

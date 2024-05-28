@@ -1,0 +1,39 @@
+= Official Name: Associazione Calcio Monza    # Monza
+
+16  Michele Di Gregorio (ITA)      GK    # 27 Jul 1997, Milan  -- Internazionale
+23  Alessandro Sorrentino (ITA)    GK    # 03 Apr 2002, Guardiagrele  -- Pescara
+62  Andrea Mazza (ITA)             GK    # 19 Mar 2004, Milan
+66  Stefano Gori (ITA)             GK    # 09 Mar 1996, Brescia  -- Juventus
+
+ 2  Giulio Donati (ITA)            DF    # 05 Feb 1990, Pietrasanta  -- Lecce
+ 4  Armando Izzo (ITA)             DF    # 02 Mar 1992, Naples  -- Torino
+ 5  Luca Caldirola (ITA)           DF    # 01 Feb 1991, Desio  -- Benevento
+13  Pedro Pereira (POR)            DF    # 22 Jan 1998, Lisbon  -- Benfica
+18  Davide Bettella (ITA)          DF    # 07 Apr 2000, Padua  -- Atalanta
+19  Samuele Birindelli (ITA)       DF    # 19 Jul 1999, Pisa  -- Pisa
+22  Pablo Marí (ESP)               DF    # 31 Aug 1993, Valencia  -- Arsenal
+33  Danilo D'Ambrosio (ITA)        DF    # 09 Sep 1988, Naples  -- Internazionale
+44  Andrea Carboni (ITA)           DF    # 04 Feb 2001, Sorgono  -- Cagliari
+77  Georgios Kyriakopoulos (GRE)   DF    # 05 Feb 1996, Patras  -- Sassuolo
+
+ 6  Roberto Gagliardini (ITA)      MF    # 07 Apr 1994, Bergamo  -- Internazionale
+ 7  José Machín Dicombo (EQG)      MF    # 14 Aug 1996, Bata  -- Parma
+ 8  Jean-Daniel Akpa Akpro (CIV)   MF    # 11 Oct 1992, Toulouse  -- Lazio
+20  Alessio Zerbin (ITA)           MF    # 03 Mar 1999, Novara  -- Napoli
+28  Andrea Colpani (ITA)           MF    # 11 May 1999, Brescia  -- Atalanta
+32  Matteo Pessina (ITA)           MF    # 21 Apr 1997, Monza  -- Atalanta
+38  Warren Bondo (FRA)             MF    # 15 Sep 2003, Evry  -- Nancy
+60  Leonardo Colombo (ITA)         MF    # 04 Jun 2005
+63  Alessandro Berretta (ITA)      MF   
+79  Matija Popović (SRB)           MF    # 08 Jan 2006, Altötting  -- Partizan Belgrade
+
+ 9  Lorenzo Colombo (ITA)          FW    # 08 Mar 2002, Vimercate  -- Milan
+10  Gianluca Caprari (ITA)         FW    # 30 Jul 1993, Rome  -- Verona
+11  Milan Djurić (BIH)             FW    # 22 May 1990, Tuzla  -- Verona
+17  Alejandro Gómez (ARG)          FW    # 15 Feb 1988, Capital Federal  -- Sevilla
+21  Valentin Carboni (ARG)         FW    # 05 Mar 2005, Buenos Aires  -- Internazionale
+27  Daniel Maldini (ITA)           FW    # 11 Oct 2001, Milan  -- Milan
+47  Dany Mota (POR)                FW    # 02 May 1998, Niederkorn  -- Juventus
+61  Andrea Ferraris (ITA)          FW    # 22 Feb 2003, Turin  -- Juventus
+80  Samuele Vignato (ITA)          FW    # 24 Feb 2004, Fumane  -- Chievo Verona
+84  Patrick Ciurria (ITA)          FW    # 09 Feb 1995, Sassuolo  -- Pordenone

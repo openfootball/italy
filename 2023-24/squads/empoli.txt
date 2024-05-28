@@ -1,0 +1,38 @@
+= Empoli Football Club    # Empoli
+
+ 1  Samuele Perisan (ITA)          GK    # 21 Aug 1997, San Vito al Tagliamento  -- Pordenone
+12  Jacopo Seghetti (ITA)          GK    # 17 Feb 2005, San Miniato
+25  Elia Caprile (ITA)             GK    # 25 Aug 2001, Verona  -- Napoli
+40  Filippo Vertua (ITA)           GK    # 05 Nov 2006
+99  Etrit Berisha (ALB)            GK    # 10 Mar 1989, Priština  -- Torino
+
+ 2  Saba Goglichidze (GEO)         DF    # 25 Jun 2004, Kutaisi  -- Torpedo Kutaisi
+ 3  Giuseppe Pezzella (ITA)        DF    # 29 Nov 1997, Naples  -- Parma
+ 4  Sebastian Walukiewicz (POL)    DF    # 05 Apr 2000, Gorzów Wielkopolski  -- Cagliari
+13  Liberato Cacace (NZL)          DF    # 27 Sep 2000, Wellington  -- Sint-Truiden
+19  Bartosz Bereszyński (POL)      DF    # 12 Jul 1992, Poznań  -- Sampdoria
+24  Tyronne Ebuehi (NGA)           DF    # 16 Dec 1995, Haarlem  -- Benfica
+30  Simone Bastoni (ITA)           DF    # 05 Nov 1996, La Spezia  -- Spezia
+33  Sebastiano Luperto (ITA)       DF    # 06 Sep 1996, Lecce  -- Napoli
+34  Ardian Ismajli (ALB)           DF    # 30 Sep 1996, Majac  -- Spezia
+38  Gabriele Indragoli (ITA)       DF    # 20 Feb 2004, Camaiore
+
+ 5  Alberto Grassi (ITA)           MF    # 07 Mar 1995, Brescia  -- Parma
+ 8  Viktor Kovalenko (UKR)         MF    # 14 Feb 1996, Kherson  -- Atalanta
+16  Luca Belardinelli (ITA)        MF    # 14 Mar 2001, Senigallia
+18  Răzvan Marin (ROU)             MF    # 23 May 1996, Bucharest  -- Cagliari
+21  Jacopo Fazzini (ITA)           MF    # 16 Mar 2003, Massa  -- Capezzano Pianore
+27  Szymon Żurkowski (POL)         MF    # 25 Sep 1997, Tychy  -- Spezia
+29  Youssef Maleh (ITA)            MF    # 22 Aug 1998, Castel San Pietro Terme  -- Lecce
+39  Andrea Sodero (ITA)            MF    # 07 Aug 2004, Arezzo
+
+ 7  Stiven Shpendi (ALB)           FW    # 19 May 2003, Ancona  -- Cesena
+ 9  Francesco Caputo (ITA)         FW    # 06 Aug 1987, Altamura  -- Sampdoria
+10  Mbaye Niang (SEN)              FW    # 19 Dec 1994, Meulan-en-Yvelines  -- Adana Demirspor
+11  Emmanuel Gyasi (GHA)           FW    # 11 Jan 1994, Palermo  -- Spezia
+17  Alberto Cerri (ITA)            FW    # 16 Apr 1996, Parma  -- Como
+20  Matteo Cancellieri (ITA)       FW    # 12 Feb 2002, Rome  -- Verona
+23  Mattia Destro (ITA)            FW    # 20 Mar 1991, Ascoli Piceno  -- Genoa
+28  Nicolò Cambiaghi (ITA)         FW    # 28 Dec 2000, Monza  -- Atalanta
+31  Giacomo Corona (ITA)           FW    # 24 Feb 2004, Palermo  -- Palermo
+87  Herculano Nabian (POR)         FW    # 25 Jan 2004, Bissau  -- Vitória Guimarães
