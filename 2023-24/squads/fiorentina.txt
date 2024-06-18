@@ -1,37 +1,37 @@
-= Associazione Calcio Firenze Fiorentina    # Fiorentina
+=  ACF Fiorentina - Italian Serie A 2023/24
 
- 1  Pietro Terracciano (ITA)       GK    # 08 Mar 1990, San Felice a Cancello  -- Empoli
-30  Tommaso Martinelli (ITA)       GK    # 06 Jan 2006, Bagno a Ripoli
-40  Tommaso Vannucchi (ITA)        GK    # 05 Mar 2007, Viareggio
-53  Oliver Christensen (DEN)       GK    # 22 Mar 1999, Kerteminde  -- Hertha Berlin
+  1,  Pietro Terracciano,                GK,   b. 1990,   Empoli
+ 30,  Tommaso Martinelli,                GK,   b. 2006,
+ 40,  Tommaso Vannucchi,                 GK,   b. 2007,
+ 53,  Oliver Christensen (DEN),          GK,   b. 1999,   Hertha Berlin
 
- 2  Dodô (BRA)                     DF    # 17 Nov 1998, Taubaté  -- Shakhtar Donetsk
- 3  Cristiano Biraghi (ITA)        DF    # 01 Sep 1992, Cernusco sul Naviglio  -- Pescara
- 4  Nikola Milenković (SRB)        DF    # 12 Oct 1997, Belgrade  -- Partizan Belgrade
-16  Luca Ranieri (ITA)             DF    # 23 Apr 1999, La Spezia
-22  Marco Davide Faraoni (ITA)     DF    # 25 Oct 1991, Bracciano  -- Verona
-28  Lucas Martínez Quarta (ARG)    DF    # 10 May 1996, Mar del Plata  -- River Plate
-33  Michael Kayode (ITA)           DF    # 10 Jul 2004, Borgomanero  -- Gozzano
-37  Pietro Comuzzo (ITA)           DF    # 20 Feb 2005, San Daniele del Friuli  -- Pordenone
-50  Christian Biagetti (ITA)       DF    # 10 Mar 2004, Grosseto
-65  Fabiano Parisi (ITA)           DF    # 09 Nov 2000, Solofra  -- Empoli
+  2,  Dodô (BRA),                        DF,   b. 1998,   Shakhtar Donetsk
+  3,  Cristiano Biraghi,                 DF,   b. 1992,   Pescara
+  4,  Nikola Milenković (SRB),           DF,   b. 1997,   Partizan Belgrade
+ 16,  Luca Ranieri,                      DF,   b. 1999,
+ 22,  Marco Davide Faraoni,              DF,   b. 1991,   Verona
+ 28,  Lucas Martínez Quarta (ARG),       DF,   b. 1996,   River Plate
+ 33,  Michael Kayode,                    DF,   b. 2004,   Gozzano
+ 37,  Pietro Comuzzo,                    DF,   b. 2005,   Pordenone
+ 50,  Christian Biagetti,                DF,   b. 2004,
+ 65,  Fabiano Parisi,                    DF,   b. 2000,   Empoli
 
- 5  Giacomo Bonaventura (ITA)      MF    # 22 Aug 1989, San Severino Marche  -- Milan
- 6  Arthur (BRA)                   MF    # 12 Aug 1996, Goiânia  -- Juventus
- 8  Maxime López (FRA)             MF    # 04 Dec 1997, Marseille  -- Sassuolo
-17  Gaetano Castrovilli (ITA)      MF    # 17 Feb 1997, Canosa di Puglia  -- Bari
-19  Gino Infantino (ARG)           MF    # 19 May 2003, Rosario  -- Rosario Central
-32  Alfred Duncan (GHA)            MF    # 10 Mar 1993, Accra  -- Sassuolo
-38  Rolando Mandragora (ITA)       MF    # 29 Jun 1997, Naples  -- Juventus
-54  Niccolò Fortini (ITA)          MF    # 13 Feb 2006, Camaiore
-72  Antonín Barák (CZE)            MF    # 03 Dec 1994, Příbram  -- Verona
+  5,  Giacomo Bonaventura,               MF,   b. 1989,   Milan
+  6,  Arthur (BRA),                      MF,   b. 1996,   Juventus
+  8,  Maxime López (FRA),                MF,   b. 1997,   Sassuolo
+ 17,  Gaetano Castrovilli,               MF,   b. 1997,   Bari
+ 19,  Gino Infantino (ARG),              MF,   b. 2003,   Rosario Central
+ 32,  Alfred Duncan (GHA),               MF,   b. 1993,   Sassuolo
+ 38,  Rolando Mandragora,                MF,   b. 1997,   Juventus
+ 54,  Niccolò Fortini,                   MF,   b. 2006,
+ 72,  Antonín Barák (CZE),               MF,   b. 1994,   Verona
 
- 7  Riccardo Sottil (ITA)          FW    # 03 Jun 1999, Turin  -- Torino
- 9  Lucas Beltrán (ARG)            FW    # 29 Mar 2001, Córdoba  -- River Plate
-10  Nicolás González (ARG)         FW    # 06 Apr 1998, Belén de Escobar  -- Stuttgart
-11  Jonathan Ikoné (FRA)           FW    # 02 May 1998, Bondy  -- Lille
-18  M'Bala Nzola (FRA)             FW    # 18 Aug 1996, Troyes  -- Spezia
-20  Andrea Belotti (ITA)           FW    # 20 Dec 1993, Calcinate  -- Roma
-51  Maat Daniel Caprini (ITA)      FW    # 11 Feb 2006, Milan  -- Virtus Entella
-52  Fallou Sene (SEN)              FW    # 21 Aug 2004, Khombole  -- Bari
-99  Cristian Kouamé (CIV)          FW    # 06 Dec 1997, Bingerville  -- Genoa
+  7,  Riccardo Sottil,                   FW,   b. 1999,   Torino
+  9,  Lucas Beltrán (ARG),               FW,   b. 2001,   River Plate
+ 10,  Nicolás González (ARG),            FW,   b. 1998,   Stuttgart
+ 11,  Jonathan Ikoné (FRA),              FW,   b. 1998,   Lille
+ 18,  M'Bala Nzola (FRA),                FW,   b. 1996,   Spezia
+ 20,  Andrea Belotti,                    FW,   b. 1993,   Roma
+ 51,  Maat Daniel Caprini,               FW,   b. 2006,   Virtus Entella
+ 52,  Fallou Sene (SEN),                 FW,   b. 2004,   Bari
+ 99,  Cristian Kouamé (CIV),             FW,   b. 1997,   Genoa

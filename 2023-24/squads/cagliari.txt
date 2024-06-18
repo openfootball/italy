@@ -1,35 +1,35 @@
-= Cagliari Calcio    # Cagliari
+=  Cagliari Calcio - Italian Serie A 2023/24
 
- 1  Boris Radunović (SRB)          GK    # 26 May 1996, Belgrade  -- Atalanta
-18  Simone Aresti (ITA)            GK    # 15 Mar 1986, Carbonia  -- Olbia
-22  Simone Scuffet (ITA)           GK    # 31 May 1996, Udine  -- CFR Cluj
-31  Velizar-Iliya Iliev (BUL)      GK    # 20 Jul 2005, Sofia  -- Levski Sofia
+  1,  Boris Radunović (SRB),             GK,   b. 1996,   Atalanta
+ 18,  Simone Aresti,                     GK,   b. 1986,   Olbia
+ 22,  Simone Scuffet,                    GK,   b. 1996,   CFR Cluj
+ 31,  Velizar-Iliya Iliev (BUL),         GK,   b. 2005,   Levski Sofia
 
- 4  Alberto Dossena (ITA)          DF    # 13 Oct 1998, Brescia  -- Avellino
-17  Pantelis Hatzidiakos (GRE)     DF    # 18 Jan 1997, Rhodes  -- AZ Alkmaar
-23  Mateusz Wieteska (POL)         DF    # 11 Feb 1997, Warsaw  -- Clermont
-26  Yerry Mina (COL)               DF    # 23 Sep 1994, Guachené  -- Fiorentina
-27  Tommaso Augello (ITA)          DF    # 30 Aug 1994, Milan  -- Sampdoria
-28  Gabriele Zappa (ITA)           DF    # 22 Dec 1999, Monza  -- Pescara
-33  Adam Obert (SVK)               DF    # 23 Aug 2002, Bratislava  -- Sampdoria
+  4,  Alberto Dossena,                   DF,   b. 1998,   Avellino
+ 17,  Pantelis Hatzidiakos (GRE),        DF,   b. 1997,   AZ Alkmaar
+ 23,  Mateusz Wieteska (POL),            DF,   b. 1997,   Clermont
+ 26,  Yerry Mina (COL),                  DF,   b. 1994,   Fiorentina
+ 27,  Tommaso Augello,                   DF,   b. 1994,   Sampdoria
+ 28,  Gabriele Zappa,                    DF,   b. 1999,   Pescara
+ 33,  Adam Obert (SVK),                  DF,   b. 2002,   Sampdoria
 
- 5  Marco Mancosu (ITA)            MF    # 22 Aug 1988, Cagliari  -- SPAL
- 8  Nahitan Nández (URU)           MF    # 28 Dec 1995, Punta del Este  -- Boca Juniors
-10  Nicolas Viola (ITA)            MF    # 12 Oct 1989, Oppido Mamertina  -- Bologna
-14  Alessandro Deiola (ITA)        MF    # 01 Aug 1995, San Gavino Monreale
-16  Matteo Prati (ITA)             MF    # 28 Dec 2003, Ravenna  -- SPAL
-21  Jakub Jankto (CZE)             MF    # 19 Jan 1996, Prague  -- Getafe
-25  Ibrahim Sulemana (GHA)         MF    # 22 May 2003, Sunyani  -- Verona
-29  Antoine Makoumbou (CGO)        MF    # 18 Jul 1998, Paris  -- Maribor
-37  Paulo Azzi (BRA)               MF    # 15 Jul 1994, Bragança Paulista  -- Modena
-99  Alessandro Di Pardo (ITA)      MF    # 18 Jul 1999, Rimini  -- Juventus
+  5,  Marco Mancosu,                     MF,   b. 1988,   SPAL
+  8,  Nahitan Nández (URU),              MF,   b. 1995,   Boca Juniors
+ 10,  Nicolas Viola,                     MF,   b. 1989,   Bologna
+ 14,  Alessandro Deiola,                 MF,   b. 1995,
+ 16,  Matteo Prati,                      MF,   b. 2003,   SPAL
+ 21,  Jakub Jankto (CZE),                MF,   b. 1996,   Getafe
+ 25,  Ibrahim Sulemana (GHA),            MF,   b. 2003,   Verona
+ 29,  Antoine Makoumbou (CGO),           MF,   b. 1998,   Maribor
+ 37,  Paulo Azzi (BRA),                  MF,   b. 1994,   Modena
+ 99,  Alessandro Di Pardo,               MF,   b. 1999,   Juventus
 
- 9  Gianluca Lapadula (PER)        FW    # 07 Feb 1990, Turin  -- Benevento
-19  Gaetano Oristanio (ITA)        FW    # 28 Sep 2002, Vallo della Lucania  -- Internazionale
-30  Leonardo Pavoletti (ITA)       FW    # 26 Nov 1988, Livorno  -- Napoli
-32  Andrea Petagna (ITA)           FW    # 30 Jun 1995, Trieste  -- Monza
-34  Kingstone Mutandwa (ZAM)       FW    # 05 Jan 2003, Chibombo  -- Atletico Lusaka
-35  Alessandro Vinciguerra (ITA)   FW    # 18 Aug 2005, Naples
-61  Eldor Shomurodov (UZB)         FW    # 29 Jun 1995, Jarkurgan  -- Roma
-70  Gianluca Gaetano (ITA)         FW    # 05 May 2000, Cimitile  -- Napoli
-77  Zito Luvumbo (ANG)             FW    # 09 Mar 2002, Luanda  -- 1º de Agosto
+  9,  Gianluca Lapadula (PER),           FW,   b. 1990,   Benevento
+ 19,  Gaetano Oristanio,                 FW,   b. 2002,   Internazionale
+ 30,  Leonardo Pavoletti,                FW,   b. 1988,   Napoli
+ 32,  Andrea Petagna,                    FW,   b. 1995,   Monza
+ 34,  Kingstone Mutandwa (ZAM),          FW,   b. 2003,   Atletico Lusaka
+ 35,  Alessandro Vinciguerra,            FW,   b. 2005,
+ 61,  Eldor Shomurodov (UZB),            FW,   b. 1995,   Roma
+ 70,  Gianluca Gaetano,                  FW,   b. 2000,   Napoli
+ 77,  Zito Luvumbo (ANG),                FW,   b. 2002,   1º de Agosto

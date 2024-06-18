@@ -1,40 +1,40 @@
-= Udinese Calcio    # Udinese
+=  Udinese Calcio - Italian Serie A 2023/24
 
- 1  Marco Silvestri (ITA)          GK    # 02 Mar 1991, Castelnovo ne' Monti  -- Verona
-40  Maduka Okoye (NGA)             GK    # 28 Aug 1999, Düsseldorf  -- Watford
-70  Federico Mosca (ITA)           GK    # 08 Aug 2005, San Daniele del Friuli
-72  Joel Malusà (ITA)              GK    # 28 Mar 2007
-93  Daniele Padelli (ITA)          GK    # 25 Oct 1985, Lecco  -- Internazionale
+  1,  Marco Silvestri,                   GK,   b. 1991,   Verona
+ 40,  Maduka Okoye (NGA),                GK,   b. 1999,   Watford
+ 70,  Federico Mosca,                    GK,   b. 2005,
+ 72,  Joel Malusà,                       GK,   b. 2007,
+ 93,  Daniele Padelli,                   GK,   b. 1985,   Internazionale
 
- 2  Festy Ebosele (IRL)            DF    # 02 Aug 2002, Wexford  -- Derby Co
-12  Hassane Kamara (CIV)           DF    # 19 Sep 1994, Saint-Denis  -- Watford
-13  João Ferreira (POR)            DF    # 22 Mar 2001, Póvoa de Varzim  -- Watford
-14  James Abankwah (IRL)           DF    # 16 Jan 2004, Dublin  -- St Patrick's Ath
-16  Antonio Tikvić (CRO)           DF    # 21 Apr 2004, Hamburg  -- Bayern Munich II
-18  Nehuén Pérez (ARG)             DF    # 24 Jun 2000, Hurlingham  -- Atlético Madrid
-19  Kingsley Ehizibue (NED)        DF    # 25 May 1995, Munich  -- Köln
-23  Enzo Ebosse (CMR)              DF    # 11 Mar 1999, Amiens  -- Angers
-27  Christian Kabasele (BEL)       DF    # 24 Feb 1991, Lubumbashi  -- Watford
-30  Lautaro Gianetti (ARG)         DF    # 13 Nov 1993, San Nicolás  -- Vélez Sarsfield
-31  Thomas Thiesson Kristensen (DEN)   DF    # 17 Jan 2002, Galten  -- Aarhus
-33  Jordan Zemura (ZIM)            DF    # 14 Nov 1999, Lambeth  -- Bournemouth
-73  Matteo Palma (GER)             DF    # 13 Mar 2008, Berlin  -- Hertha Berlin
-83  Samuel John Nwachukwu (ITA)    DF    # 04 Nov 2005
+  2,  Festy Ebosele (IRL),               DF,   b. 2002,   Derby Co
+ 12,  Hassane Kamara (CIV),              DF,   b. 1994,   Watford
+ 13,  João Ferreira (POR),               DF,   b. 2001,   Watford
+ 14,  James Abankwah (IRL),              DF,   b. 2004,   St Patrick's Ath
+ 16,  Antonio Tikvić (CRO),              DF,   b. 2004,   Bayern Munich II
+ 18,  Nehuén Pérez (ARG),                DF,   b. 2000,   Atlético Madrid
+ 19,  Kingsley Ehizibue (NED),           DF,   b. 1995,   Köln
+ 23,  Enzo Ebosse (CMR),                 DF,   b. 1999,   Angers
+ 27,  Christian Kabasele (BEL),          DF,   b. 1991,   Watford
+ 30,  Lautaro Gianetti (ARG),            DF,   b. 1993,   Vélez Sarsfield
+ 31,  Thomas Thiesson Kristensen (DEN),  DF,   b. 2002,   Aarhus
+ 33,  Jordan Zemura (ZIM),               DF,   b. 1999,   Bournemouth
+ 73,  Matteo Palma (GER),                DF,   b. 2008,   Hertha Berlin
+ 83,  Samuel John Nwachukwu,             DF,   b. 2005,
 
- 4  Sandi Lovrič (AUT)             MF    # 28 Mar 1998, Lienz  -- Lugano
- 6  Oier Zarraga (ESP)             MF    # 04 Jan 1999, Getxo  -- Athletic Bilbao
-11  Walace (BRA)                   MF    # 04 Apr 1995, Salvador  -- Hannover 96
-24  Lazar Samardžić (SRB)          MF    # 24 Feb 2002, Berlin  -- RB Leipzig
-29  Jaka Bijol (SVN)               MF    # 05 Feb 1999, Vuzenica  -- CSKA Moscow
-32  Martín Payero (ARG)            MF    # 11 Sep 1998, Pascanas  -- Middlesbrough
-37  Roberto Pereyra (ARG)          MF    # 07 Jan 1991, San Miguel de Tucumán  -- Watford
-71  Bor Žunec (SVN)               MF    # 01 Mar 2004  -- ND Gorica
-79  David Pejičić (SVN)            MF    # 14 Jun 2007
+  4,  Sandi Lovrič (AUT),                MF,   b. 1998,   Lugano
+  6,  Oier Zarraga (ESP),                MF,   b. 1999,   Athletic Bilbao
+ 11,  Walace (BRA),                      MF,   b. 1995,   Hannover 96
+ 24,  Lazar Samardžić (SRB),             MF,   b. 2002,   RB Leipzig
+ 29,  Jaka Bijol (SVN),                  MF,   b. 1999,   CSKA Moscow
+ 32,  Martín Payero (ARG),               MF,   b. 1998,   Middlesbrough
+ 37,  Roberto Pereyra (ARG),             MF,   b. 1991,   Watford
+ 71,  Bor Žunec (SVN),                  MF,   b. 2004,   ND Gorica
+ 79,  David Pejičić (SVN),               MF,   b. 2007,
 
- 7  Isaac Success (NGA)            FW    # 07 Jan 1996, Benin City  -- Watford
- 9  Keinan Davis (ENG)             FW    # 01 Jun 1998, Stevenage  -- Aston Villa
-10  Gerard Deulofeu (ESP)          FW    # 13 Mar 1994, Riudarenes  -- Watford
-17  Lorenzo Lucca (ITA)            FW    # 10 Sep 2000, Moncalieri  -- Pisa
-22  Brenner (BRA)                  FW    # 16 Jan 2000, Cuiabá  -- FC Cincinnati
-26  Florian Thauvin (FRA)          FW    # 26 Jan 1993, Orléans  -- UANL Tigres
-77  Raymond Asante (GHA)           FW    # 27 May 2004  -- Young Apostles
+  7,  Isaac Success (NGA),               FW,   b. 1996,   Watford
+  9,  Keinan Davis (ENG),                FW,   b. 1998,   Aston Villa
+ 10,  Gerard Deulofeu (ESP),             FW,   b. 1994,   Watford
+ 17,  Lorenzo Lucca,                     FW,   b. 2000,   Pisa
+ 22,  Brenner (BRA),                     FW,   b. 2000,   FC Cincinnati
+ 26,  Florian Thauvin (FRA),             FW,   b. 1993,   UANL Tigres
+ 77,  Raymond Asante (GHA),              FW,   b. 2004,   Young Apostles

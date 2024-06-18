@@ -1,38 +1,38 @@
-= Unione Sportiva Sassuolo Calcio    # Sassuolo
+=  US Sassuolo Calcio - Italian Serie A 2023/24
 
-25  Gianluca Pegolo (ITA)          GK    # 25 Mar 1981, Bassano del Grappa  -- Siena
-28  Alessio Cragno (ITA)           GK    # 28 Jun 1994, Fiesole  -- Monza
-33  Daniel Theiner (ITA)           GK    # 25 Feb 2004, Merano  -- Südtirol
-34  Alessandro Scacchetti (ITA)    GK    # 22 Feb 2005
-47  Andrea Consigli (ITA)          GK    # 27 Jan 1987, Milan  -- Atalanta
+ 25,  Gianluca Pegolo,                   GK,   b. 1981,   Siena
+ 28,  Alessio Cragno,                    GK,   b. 1994,   Monza
+ 33,  Daniel Theiner,                    GK,   b. 2004,   Südtirol
+ 34,  Alessandro Scacchetti,             GK,   b. 2005,
+ 47,  Andrea Consigli,                   GK,   b. 1987,   Atalanta
 
- 2  Filippo Missori (ITA)          DF    # 24 Mar 2004, Rome  -- Roma
- 3  Marcus Holmgren Pedersen (NOR)   DF    # 16 Jul 2000, Hammerfest  -- Feyenoord
- 5  Martin Erlić (CRO)             DF    # 24 Jan 1998, Zadar  -- Spezia
-13  Gian Marco Ferrari (ITA)       DF    # 15 May 1992, Parma  -- Crotone
-19  Marash Kumbulla (ALB)          DF    # 08 Feb 2000, Peschiera del Garda  -- Roma
-21  Mattia Viti (ITA)              DF    # 24 Jan 2002, Borgo San Lorenzo  -- Nice
-22  Jeremy Toljan (GER)            DF    # 08 Aug 1994, Stuttgart  -- Borussia Dortmund
-43  Josh Doig (SCO)                DF    # 18 May 2002, Edinburgh  -- Verona
-44  Ruan Tressoldi (BRA)           DF    # 07 Jun 1999, Tramandaí  -- Grêmio
+  2,  Filippo Missori,                   DF,   b. 2004,   Roma
+  3,  Marcus Holmgren Pedersen (NOR),    DF,   b. 2000,   Feyenoord
+  5,  Martin Erlić (CRO),                DF,   b. 1998,   Spezia
+ 13,  Gian Marco Ferrari,                DF,   b. 1992,   Crotone
+ 19,  Marash Kumbulla (ALB),             DF,   b. 2000,   Roma
+ 21,  Mattia Viti,                       DF,   b. 2002,   Nice
+ 22,  Jeremy Toljan (GER),               DF,   b. 1994,   Borussia Dortmund
+ 43,  Josh Doig (SCO),                   DF,   b. 2002,   Verona
+ 44,  Ruan Tressoldi (BRA),              DF,   b. 1999,   Grêmio
 
- 6  Uroš Račić (SRB)               MF    # 17 Mar 1998, Kraljevo  -- Valencia
- 7  Matheus Henrique (BRA)         MF    # 19 Dec 1997, São Paulo  -- Grêmio
-11  Nedim Bajrami (SUI)            MF    # 28 Feb 1999, Zürich  -- Empoli
-14  Pedro Obiang (EQG)             MF    # 27 Mar 1992, Alcalà de Henares  -- West Ham U
-20  Samu Castillejo (ESP)          MF    # 18 Jan 1995, Barcelona  -- Valencia
-24  Daniel Boloca (ITA)            MF    # 22 Dec 1998, Chieri  -- Frosinone
-32  Kevin Leone (ITA)              MF    # 28 Mar 2005, Catania  -- Sampdoria
-35  Luca Lipani (ITA)              MF    # 18 May 2005, Genoa  -- Genoa
-36  Justin Kumi (ITA)              MF    # 16 Jul 2004, Castelfranco Veneto  -- Giorgione
-42  Kristian Thorstvedt (NOR)      MF    # 13 Mar 1999, Stavanger  -- KRC Genk
+  6,  Uroš Račić (SRB),                  MF,   b. 1998,   Valencia
+  7,  Matheus Henrique (BRA),            MF,   b. 1997,   Grêmio
+ 11,  Nedim Bajrami (SUI),               MF,   b. 1999,   Empoli
+ 14,  Pedro Obiang (EQG),                MF,   b. 1992,   West Ham U
+ 20,  Samu Castillejo (ESP),             MF,   b. 1995,   Valencia
+ 24,  Daniel Boloca,                     MF,   b. 1998,   Frosinone
+ 32,  Kevin Leone,                       MF,   b. 2005,   Sampdoria
+ 35,  Luca Lipani,                       MF,   b. 2005,   Genoa
+ 36,  Justin Kumi,                       MF,   b. 2004,   Giorgione
+ 42,  Kristian Thorstvedt (NOR),         MF,   b. 1999,   KRC Genk
 
-    Briajan Gjyla (ITA)            FW    # 26 Jul 2007, Iseo  -- Feralpisalò
- 8  Samuele Mulattieri (ITA)       FW    # 07 Oct 2000, La Spezia  -- Internazionale
- 9  Andrea Pinamonti (ITA)         FW    # 19 May 1999, Cles  -- Internazionale
-10  Domenico Berardi (ITA)         FW    # 01 Aug 1994, Cariati Marina  -- Juventus
-15  Emil Konradsen Ceide (NOR)     FW    # 03 Sep 2001, Finnsnes  -- Rosenborg
-23  Cristian Volpato (AUS)         FW    # 15 Nov 2003, Camperdown  -- Roma
-31  Flavio Russo (ITA)             FW    # 31 Aug 2004, Catania  -- Catania
-45  Armand Laurienté (FRA)         FW    # 04 Dec 1998, Gonesse  -- Lorient
-92  Grégoire Defrel (FRA)          FW    # 17 Jun 1991, Meudon  -- Roma
+   ,  Briajan Gjyla,                     FW,   b. 2007,   Feralpisalò
+  8,  Samuele Mulattieri,                FW,   b. 2000,   Internazionale
+  9,  Andrea Pinamonti,                  FW,   b. 1999,   Internazionale
+ 10,  Domenico Berardi,                  FW,   b. 1994,   Juventus
+ 15,  Emil Konradsen Ceide (NOR),        FW,   b. 2001,   Rosenborg
+ 23,  Cristian Volpato (AUS),            FW,   b. 2003,   Roma
+ 31,  Flavio Russo,                      FW,   b. 2004,   Catania
+ 45,  Armand Laurienté (FRA),            FW,   b. 1998,   Lorient
+ 92,  Grégoire Defrel (FRA),             FW,   b. 1991,   Roma

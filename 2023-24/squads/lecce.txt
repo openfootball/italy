@@ -1,35 +1,35 @@
-= Unione Sportiva Lecce    # Lecce
+=  US Lecce - Italian Serie A 2023/24
 
-21  Federico Brancolini (ITA)      GK    # 14 Jul 2001, Modena  -- Fiorentina
-30  Wladimiro Falcone (ITA)        GK    # 12 Apr 1995, Rome  -- Sampdoria
-40  Jasper Samooja (FIN)           GK    # 21 Jul 2003, Helsinki  -- FC Honka
-98  Alexandru Borbei (ROU)         GK    # 27 Jun 2003, Petrila  -- Politehnica Timișoara
+ 21,  Federico Brancolini,               GK,   b. 2001,   Fiorentina
+ 30,  Wladimiro Falcone,                 GK,   b. 1995,   Sampdoria
+ 40,  Jasper Samooja (FIN),              GK,   b. 2003,   FC Honka
+ 98,  Alexandru Borbei (ROU),            GK,   b. 2003,   Politehnica Timișoara
 
- 5  Marin Pongračić (CRO)          DF    # 11 Sep 1997, Landshut  -- Wolfsburg
- 6  Federico Baschirotto (ITA)     DF    # 20 Sep 1996, Isola della Scala  -- Ascoli
-12  Lorenzo Venuti (ITA)           DF    # 12 Apr 1995, Montevarchi  -- Fiorentina
-13  Patrick Dorgu (DEN)            DF    # 26 Oct 2004, Copenhagen  -- FC Nordsjælland
-17  Valentin Gendrey (FRA)         DF    # 21 Jun 2000, La Garenne-Colombes  -- Amiens
-23  Sebastian Esposito (AUS)       DF    # 21 Apr 2005, Melbourne  -- Melbourne C
-25  Antonino Gallo (ITA)           DF    # 05 Jan 2000, Palermo  -- Palermo
-55  Kastriot Dërmaku (ALB)         DF    # 15 Jan 1992, Scandiano  -- Parma
-59  Ahmed Touba (ALG)              DF    # 13 Mar 1998, Roubaix  -- İstanbul Başakşehir
+  5,  Marin Pongračić (CRO),             DF,   b. 1997,   Wolfsburg
+  6,  Federico Baschirotto,              DF,   b. 1996,   Ascoli
+ 12,  Lorenzo Venuti,                    DF,   b. 1995,   Fiorentina
+ 13,  Patrick Dorgu (DEN),               DF,   b. 2004,   FC Nordsjælland
+ 17,  Valentin Gendrey (FRA),            DF,   b. 2000,   Amiens
+ 23,  Sebastian Esposito (AUS),          DF,   b. 2005,   Melbourne C
+ 25,  Antonino Gallo,                    DF,   b. 2000,   Palermo
+ 55,  Kastriot Dërmaku (ALB),            DF,   b. 1992,   Parma
+ 59,  Ahmed Touba (ALG),                 DF,   b. 1998,   İstanbul Başakşehir
 
-    Enes Yılmaz (TUR)              MF    # 08 Jan 2005  -- Bayer Leverkusen
- 7  Pontus Almqvist (SWE)          MF    # 10 Jul 1999, Nyköping  -- FC Rostov
- 8  Hamza Rafia (TUN)              MF    # 02 Apr 1999, Kalaat es Senam  -- Pescara
-16  Joan González (ESP)            MF    # 01 Feb 2002, Barcelona  -- Barcelona
-18  Medon Berisha (KVX)            MF    # 21 Oct 2003, Münsingen  -- Young Boys
-20  Ylber Ramadani (ALB)           MF    # 12 Apr 1996, Ferizaj  -- Aberdeen
-29  Alexis Blin (FRA)              MF    # 16 Sep 1996, Le Mans  -- Amiens
-50  Santiago Pierotti (ARG)        MF    # 03 Apr 2001, Pilar  -- Colón (Santa Fe)
-77  Mohamed Kaba (FRA)             MF    # 27 Oct 2001, Orléans  -- Valenciennes
-83  Daniel Samek (CZE)             MF    # 19 Feb 2004, Hradec Králové  -- Slavia Prague
+   ,  Enes Yılmaz (TUR),                 MF,   b. 2005,   Bayer Leverkusen
+  7,  Pontus Almqvist (SWE),             MF,   b. 1999,   FC Rostov
+  8,  Hamza Rafia (TUN),                 MF,   b. 1999,   Pescara
+ 16,  Joan González (ESP),               MF,   b. 2002,   Barcelona
+ 18,  Medon Berisha (KVX),               MF,   b. 2003,   Young Boys
+ 20,  Ylber Ramadani (ALB),              MF,   b. 1996,   Aberdeen
+ 29,  Alexis Blin (FRA),                 MF,   b. 1996,   Amiens
+ 50,  Santiago Pierotti (ARG),           MF,   b. 2001,   Colón (Santa Fe)
+ 77,  Mohamed Kaba (FRA),                MF,   b. 2001,   Valenciennes
+ 83,  Daniel Samek (CZE),                MF,   b. 2004,   Slavia Prague
 
- 9  Nikola Krstović (MNE)          FW    # 05 Apr 2000, Golubovci  -- DAC Dunajská Streda
-10  Rémi Oudin (FRA)               FW    # 18 Nov 1996, Châlons-en-Champagne  -- Bordeaux
-11  Nicola Sansone (ITA)           FW    # 10 Sep 1991, Munich  -- Bologna
-22  Lameck Banda (ZAM)             FW    # 29 Jan 2001, Lusaka  -- Maccabi Petah Tikva
-24  Jeppe Corfitzen (DEN)          FW    # 29 Dec 2004  -- Lyngby
-45  Rares Burnete (ROU)            FW    # 31 Jan 2004, Sighișoara  -- Colțea Brașov
-91  Roberto Piccoli (ITA)          FW    # 27 Jan 2001, Bergamo  -- Atalanta
+  9,  Nikola Krstović (MNE),             FW,   b. 2000,   DAC Dunajská Streda
+ 10,  Rémi Oudin (FRA),                  FW,   b. 1996,   Bordeaux
+ 11,  Nicola Sansone,                    FW,   b. 1991,   Bologna
+ 22,  Lameck Banda (ZAM),                FW,   b. 2001,   Maccabi Petah Tikva
+ 24,  Jeppe Corfitzen (DEN),             FW,   b. 2004,   Lyngby
+ 45,  Rares Burnete (ROU),               FW,   b. 2004,   Colțea Brașov
+ 91,  Roberto Piccoli,                   FW,   b. 2001,   Atalanta

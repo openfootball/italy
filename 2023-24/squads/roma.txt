@@ -1,41 +1,41 @@
-= Associazione Sportiva Roma    # Roma
+=  AS Roma - Italian Serie A 2023/24
 
- 1  Rui Patrício (POR)             GK    # 15 Feb 1988, Marrazes  -- Wolverhampton W
-63  Pietro Boer (ITA)              GK    # 12 May 2002, Mestre  -- Venezia
-73  Renato Marin (BRA)             GK    # 10 Jul 2006, São Paulo  -- São Paulo
-99  Mile Svilar (BEL)              GK    # 27 Aug 1999, Antwerp  -- Benfica
+  1,  Rui Patrício (POR),                GK,   b. 1988,   Wolverhampton W
+ 63,  Pietro Boer,                       GK,   b. 2002,   Venezia
+ 73,  Renato Marin (BRA),                GK,   b. 2006,   São Paulo
+ 99,  Mile Svilar (BEL),                 GK,   b. 1999,   Benfica
 
- 2  Rick Karsdorp (NED)            DF    # 11 Feb 1995, Schoonhoven  -- Feyenoord
- 3  Dean Huijsen (NED)             DF    # 14 Apr 2005, Amsterdam  -- Juventus
- 5  Evan Ndicka (CIV)              DF    # 20 Aug 1999, Paris  -- Eintracht Frankfurt
- 6  Chris Smalling (ENG)           DF    # 22 Nov 1989, Greenwich  -- Manchester U
-14  Diego Llorente (ESP)           DF    # 16 Aug 1993, Madrid  -- Leeds U
-19  Zeki Çelik (TUR)               DF    # 17 Feb 1997, Bursa  -- Lille
-23  Gianluca Mancini (ITA)         DF    # 17 Apr 1996, Pontedera  -- Atalanta
-37  Leonardo Spinazzola (ITA)      DF    # 25 Mar 1993, Foligno  -- Juventus
-43  Rasmus Kristensen (DEN)        DF    # 11 Jul 1997, Brande  -- Leeds U
-59  Nicola Zalewski (POL)          DF    # 23 Jan 2002, Tivoli
-69  Angeliño (ESP)                 DF    # 04 Jan 1997, Coristanco  -- RB Leipzig
-72  Lovro Golič (SVN)              DF    # 05 Mar 2006, Celje  -- Domžale
-74  Jan Oliveras (ESP)             DF    # 07 Jul 2004, Manresa  -- Barcelona
+  2,  Rick Karsdorp (NED),               DF,   b. 1995,   Feyenoord
+  3,  Dean Huijsen (NED),                DF,   b. 2005,   Juventus
+  5,  Evan Ndicka (CIV),                 DF,   b. 1999,   Eintracht Frankfurt
+  6,  Chris Smalling (ENG),              DF,   b. 1989,   Manchester U
+ 14,  Diego Llorente (ESP),              DF,   b. 1993,   Leeds U
+ 19,  Zeki Çelik (TUR),                  DF,   b. 1997,   Lille
+ 23,  Gianluca Mancini,                  DF,   b. 1996,   Atalanta
+ 37,  Leonardo Spinazzola,               DF,   b. 1993,   Juventus
+ 43,  Rasmus Kristensen (DEN),           DF,   b. 1997,   Leeds U
+ 59,  Nicola Zalewski (POL),             DF,   b. 2002,
+ 69,  Angeliño (ESP),                    DF,   b. 1997,   RB Leipzig
+ 72,  Lovro Golič (SVN),                 DF,   b. 2006,   Domžale
+ 74,  Jan Oliveras (ESP),                DF,   b. 2004,   Barcelona
 
- 4  Bryan Cristante (ITA)          MF    # 03 Mar 1995, San Vito al Tagliamento  -- Atalanta
- 7  Lorenzo Pellegrini (ITA)       MF    # 19 Jun 1996, Rome  -- Sassuolo
-16  Leandro Paredes (ARG)          MF    # 29 Jun 1994, San Justo  -- Paris St-Germain
-20  Renato Sanches (POR)           MF    # 18 Aug 1997, Lisbon  -- Paris St-Germain
-22  Houssem Aouar (ALG)            MF    # 30 Jun 1998, Lyon  -- Lyon
-52  Edoardo Bove (ITA)             MF    # 16 May 2002, Rome
-60  Riccardo Pagano (ITA)          MF    # 28 Nov 2004, Tivoli
-61  Niccolò Pisilli (ITA)          MF    # 23 Sep 2004, Rome
-66  Mattia Mannini (ITA)           MF    # 08 Jul 2006, Sarzana  -- Spezia
-68  Francesco D'Alessio (ITA)      MF    # 21 Feb 2004, Rome
+  4,  Bryan Cristante,                   MF,   b. 1995,   Atalanta
+  7,  Lorenzo Pellegrini,                MF,   b. 1996,   Sassuolo
+ 16,  Leandro Paredes (ARG),             MF,   b. 1994,   Paris St-Germain
+ 20,  Renato Sanches (POR),              MF,   b. 1997,   Paris St-Germain
+ 22,  Houssem Aouar (ALG),               MF,   b. 1998,   Lyon
+ 52,  Edoardo Bove,                      MF,   b. 2002,
+ 60,  Riccardo Pagano,                   MF,   b. 2004,
+ 61,  Niccolò Pisilli,                   MF,   b. 2004,
+ 66,  Mattia Mannini,                    MF,   b. 2006,   Spezia
+ 68,  Francesco D'Alessio,               MF,   b. 2004,
 
- 9  Tammy Abraham (ENG)            FW    # 02 Oct 1997, Camberwell  -- Chelsea
-17  Sardar Azmoun (IRN)            FW    # 01 Jan 1995, Gonbad  -- Bayer Leverkusen
-21  Paulo Dybala (ARG)             FW    # 15 Nov 1993, Laguna Larga  -- Juventus
-35  Tommaso Baldanzi (ITA)         FW    # 23 Mar 2003, Poggibonsi  -- Empoli
-62  Filippo Alessio (ITA)          FW    # 24 Dec 2004, Montebelluna  -- Vicenza
-64  Luigi Cherubini (ITA)          FW    # 15 Jan 2004, Tivoli  -- Lazio
-67  João Costa (POR)               FW    # 28 Mar 2005, Umuarama  -- Corinthians
-90  Romelu Lukaku (BEL)            FW    # 13 May 1993, Antwerp  -- Chelsea
-92  Stephan El Shaarawy (ITA)      FW    # 27 Oct 1992, Savona  -- Shanghai Shenhua
+  9,  Tammy Abraham (ENG),               FW,   b. 1997,   Chelsea
+ 17,  Sardar Azmoun (IRN),               FW,   b. 1995,   Bayer Leverkusen
+ 21,  Paulo Dybala (ARG),                FW,   b. 1993,   Juventus
+ 35,  Tommaso Baldanzi,                  FW,   b. 2003,   Empoli
+ 62,  Filippo Alessio,                   FW,   b. 2004,   Vicenza
+ 64,  Luigi Cherubini,                   FW,   b. 2004,   Lazio
+ 67,  João Costa (POR),                  FW,   b. 2005,   Corinthians
+ 90,  Romelu Lukaku (BEL),               FW,   b. 1993,   Chelsea
+ 92,  Stephan El Shaarawy,               FW,   b. 1992,   Shanghai Shenhua

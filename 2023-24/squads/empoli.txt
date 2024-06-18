@@ -1,38 +1,38 @@
-= Empoli Football Club    # Empoli
+=  Empoli FC - Italian Serie A 2023/24
 
- 1  Samuele Perisan (ITA)          GK    # 21 Aug 1997, San Vito al Tagliamento  -- Pordenone
-12  Jacopo Seghetti (ITA)          GK    # 17 Feb 2005, San Miniato
-25  Elia Caprile (ITA)             GK    # 25 Aug 2001, Verona  -- Napoli
-40  Filippo Vertua (ITA)           GK    # 05 Nov 2006
-99  Etrit Berisha (ALB)            GK    # 10 Mar 1989, Priština  -- Torino
+  1,  Samuele Perisan,                   GK,   b. 1997,   Pordenone
+ 12,  Jacopo Seghetti,                   GK,   b. 2005,
+ 25,  Elia Caprile,                      GK,   b. 2001,   Napoli
+ 40,  Filippo Vertua,                    GK,   b. 2006,
+ 99,  Etrit Berisha (ALB),               GK,   b. 1989,   Torino
 
- 2  Saba Goglichidze (GEO)         DF    # 25 Jun 2004, Kutaisi  -- Torpedo Kutaisi
- 3  Giuseppe Pezzella (ITA)        DF    # 29 Nov 1997, Naples  -- Parma
- 4  Sebastian Walukiewicz (POL)    DF    # 05 Apr 2000, Gorzów Wielkopolski  -- Cagliari
-13  Liberato Cacace (NZL)          DF    # 27 Sep 2000, Wellington  -- Sint-Truiden
-19  Bartosz Bereszyński (POL)      DF    # 12 Jul 1992, Poznań  -- Sampdoria
-24  Tyronne Ebuehi (NGA)           DF    # 16 Dec 1995, Haarlem  -- Benfica
-30  Simone Bastoni (ITA)           DF    # 05 Nov 1996, La Spezia  -- Spezia
-33  Sebastiano Luperto (ITA)       DF    # 06 Sep 1996, Lecce  -- Napoli
-34  Ardian Ismajli (ALB)           DF    # 30 Sep 1996, Majac  -- Spezia
-38  Gabriele Indragoli (ITA)       DF    # 20 Feb 2004, Camaiore
+  2,  Saba Goglichidze (GEO),            DF,   b. 2004,   Torpedo Kutaisi
+  3,  Giuseppe Pezzella,                 DF,   b. 1997,   Parma
+  4,  Sebastian Walukiewicz (POL),       DF,   b. 2000,   Cagliari
+ 13,  Liberato Cacace (NZL),             DF,   b. 2000,   Sint-Truiden
+ 19,  Bartosz Bereszyński (POL),         DF,   b. 1992,   Sampdoria
+ 24,  Tyronne Ebuehi (NGA),              DF,   b. 1995,   Benfica
+ 30,  Simone Bastoni,                    DF,   b. 1996,   Spezia
+ 33,  Sebastiano Luperto,                DF,   b. 1996,   Napoli
+ 34,  Ardian Ismajli (ALB),              DF,   b. 1996,   Spezia
+ 38,  Gabriele Indragoli,                DF,   b. 2004,
 
- 5  Alberto Grassi (ITA)           MF    # 07 Mar 1995, Brescia  -- Parma
- 8  Viktor Kovalenko (UKR)         MF    # 14 Feb 1996, Kherson  -- Atalanta
-16  Luca Belardinelli (ITA)        MF    # 14 Mar 2001, Senigallia
-18  Răzvan Marin (ROU)             MF    # 23 May 1996, Bucharest  -- Cagliari
-21  Jacopo Fazzini (ITA)           MF    # 16 Mar 2003, Massa  -- Capezzano Pianore
-27  Szymon Żurkowski (POL)         MF    # 25 Sep 1997, Tychy  -- Spezia
-29  Youssef Maleh (ITA)            MF    # 22 Aug 1998, Castel San Pietro Terme  -- Lecce
-39  Andrea Sodero (ITA)            MF    # 07 Aug 2004, Arezzo
+  5,  Alberto Grassi,                    MF,   b. 1995,   Parma
+  8,  Viktor Kovalenko (UKR),            MF,   b. 1996,   Atalanta
+ 16,  Luca Belardinelli,                 MF,   b. 2001,
+ 18,  Răzvan Marin (ROU),                MF,   b. 1996,   Cagliari
+ 21,  Jacopo Fazzini,                    MF,   b. 2003,   Capezzano Pianore
+ 27,  Szymon Żurkowski (POL),            MF,   b. 1997,   Spezia
+ 29,  Youssef Maleh,                     MF,   b. 1998,   Lecce
+ 39,  Andrea Sodero,                     MF,   b. 2004,
 
- 7  Stiven Shpendi (ALB)           FW    # 19 May 2003, Ancona  -- Cesena
- 9  Francesco Caputo (ITA)         FW    # 06 Aug 1987, Altamura  -- Sampdoria
-10  Mbaye Niang (SEN)              FW    # 19 Dec 1994, Meulan-en-Yvelines  -- Adana Demirspor
-11  Emmanuel Gyasi (GHA)           FW    # 11 Jan 1994, Palermo  -- Spezia
-17  Alberto Cerri (ITA)            FW    # 16 Apr 1996, Parma  -- Como
-20  Matteo Cancellieri (ITA)       FW    # 12 Feb 2002, Rome  -- Verona
-23  Mattia Destro (ITA)            FW    # 20 Mar 1991, Ascoli Piceno  -- Genoa
-28  Nicolò Cambiaghi (ITA)         FW    # 28 Dec 2000, Monza  -- Atalanta
-31  Giacomo Corona (ITA)           FW    # 24 Feb 2004, Palermo  -- Palermo
-87  Herculano Nabian (POR)         FW    # 25 Jan 2004, Bissau  -- Vitória Guimarães
+  7,  Stiven Shpendi (ALB),              FW,   b. 2003,   Cesena
+  9,  Francesco Caputo,                  FW,   b. 1987,   Sampdoria
+ 10,  Mbaye Niang (SEN),                 FW,   b. 1994,   Adana Demirspor
+ 11,  Emmanuel Gyasi (GHA),              FW,   b. 1994,   Spezia
+ 17,  Alberto Cerri,                     FW,   b. 1996,   Como
+ 20,  Matteo Cancellieri,                FW,   b. 2002,   Verona
+ 23,  Mattia Destro,                     FW,   b. 1991,   Genoa
+ 28,  Nicolò Cambiaghi,                  FW,   b. 2000,   Atalanta
+ 31,  Giacomo Corona,                    FW,   b. 2004,   Palermo
+ 87,  Herculano Nabian (POR),            FW,   b. 2004,   Vitória Guimarães

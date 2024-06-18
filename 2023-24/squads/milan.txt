@@ -1,42 +1,42 @@
-= Associazione Calcio Milan    # Milan
+=  AC Milan - Italian Serie A 2023/24
 
-16  Mike Maignan (FRA)             GK    # 03 Jul 1995, Cayenne  -- Lille
-57  Marco Sportiello (ITA)         GK    # 10 May 1992, Desio  -- Atalanta
-69  Lapo Nava (ITA)                GK    # 22 Jan 2004, Milan
-78  Andrea Bartoccioni (ITA)       GK    # 14 Mar 2004, Milan
-83  Antonio Mirante (ITA)          GK    # 08 Jul 1983, Castellammare di Stabia  -- Roma
-92  Noah Raveyre (FRA)             GK    # 22 Jun 2005, Le Puy-en-Velay  -- St-Étienne
-96  Lorenzo Torriani (ITA)         GK    # 31 Jan 2005, Vimodrone
+ 16,  Mike Maignan (FRA),                GK,   b. 1995,   Lille
+ 57,  Marco Sportiello,                  GK,   b. 1992,   Atalanta
+ 69,  Lapo Nava,                         GK,   b. 2004,
+ 78,  Andrea Bartoccioni,                GK,   b. 2004,
+ 83,  Antonio Mirante,                   GK,   b. 1983,   Roma
+ 92,  Noah Raveyre (FRA),                GK,   b. 2005,   St-Étienne
+ 96,  Lorenzo Torriani,                  GK,   b. 2005,
 
- 2  Davide Calabria (ITA)          DF    # 06 Dec 1996, Brescia
-19  Théo Hernández (FRA)           DF    # 06 Oct 1997, Marseille  -- Real Madrid
-20  Pierre Kalulu (FRA)            DF    # 05 Jul 2000, Saint-Priest  -- Lyon
-23  Fikayo Tomori (ENG)            DF    # 19 Dec 1997, Calgary  -- Chelsea
-24  Simon Kjær (DEN)               DF    # 26 Mar 1989, Horsens  -- Sevilla
-28  Malick Thiaw (GER)             DF    # 08 Aug 2001, Düsseldorf  -- Schalke
-30  Mattia Caldara (ITA)           DF    # 05 May 1994, Scanzorosciate  -- Juventus
-38  Filippo Terracciano (ITA)      DF    # 08 Feb 2003, Verona  -- Verona
-42  Alessandro Florenzi (ITA)      DF    # 11 Mar 1991, Rome  -- Roma
-46  Matteo Gabbia (ITA)            DF    # 21 Oct 1999, Busto Arsizio
-74  Álex Jiménez (ESP)             DF    # 08 May 2005, Leganés  -- Real Madrid B
-82  Jan-Carlo Simić (SRB)          DF    # 02 May 2005, Nürtingen  -- Stuttgart
-95  Davide Bartesaghi (ITA)        DF    # 29 Dec 2005, Erba
+  2,  Davide Calabria,                   DF,   b. 1996,
+ 19,  Théo Hernández (FRA),              DF,   b. 1997,   Real Madrid
+ 20,  Pierre Kalulu (FRA),               DF,   b. 2000,   Lyon
+ 23,  Fikayo Tomori (ENG),               DF,   b. 1997,   Chelsea
+ 24,  Simon Kjær (DEN),                  DF,   b. 1989,   Sevilla
+ 28,  Malick Thiaw (GER),                DF,   b. 2001,   Schalke
+ 30,  Mattia Caldara,                    DF,   b. 1994,   Juventus
+ 38,  Filippo Terracciano,               DF,   b. 2003,   Verona
+ 42,  Alessandro Florenzi,               DF,   b. 1991,   Roma
+ 46,  Matteo Gabbia,                     DF,   b. 1999,
+ 74,  Álex Jiménez (ESP),                DF,   b. 2005,   Real Madrid B
+ 82,  Jan-Carlo Simić (SRB),             DF,   b. 2005,   Stuttgart
+ 95,  Davide Bartesaghi,                 DF,   b. 2005,
 
- 4  Ismaël Bennacer (ALG)          MF    # 01 Dec 1997, Arles  -- Empoli
- 7  Yacine Adli (FRA)              MF    # 29 Jul 2000, Vitry-sur-Seine  -- Bordeaux
- 8  Ruben Loftus-Cheek (ENG)       MF    # 23 Jan 1996, Lewisham  -- Chelsea
-14  Tijjani Reijnders (NED)        MF    # 29 Jul 1998, Zwolle  -- AZ Alkmaar
-32  Tommaso Pobega (ITA)           MF    # 15 Jul 1999, Trieste
-75  Hugo Cuenca (PAR)              MF    # 08 Jan 2005, Coronel Oviedo  -- Deportivo Capiatá
-80  Yunus Musah (USA)              MF    # 29 Nov 2002, New York  -- Valencia
-81  Victor Eletu (NGA)             MF    # 01 Apr 2005, Lagos  -- Cedratese
-85  Kevin Zeroli (ITA)             MF    # 11 Jan 2005, Busto Arsizio
+  4,  Ismaël Bennacer (ALG),             MF,   b. 1997,   Empoli
+  7,  Yacine Adli (FRA),                 MF,   b. 2000,   Bordeaux
+  8,  Ruben Loftus-Cheek (ENG),          MF,   b. 1996,   Chelsea
+ 14,  Tijjani Reijnders (NED),           MF,   b. 1998,   AZ Alkmaar
+ 32,  Tommaso Pobega,                    MF,   b. 1999,
+ 75,  Hugo Cuenca (PAR),                 MF,   b. 2005,   Deportivo Capiatá
+ 80,  Yunus Musah (USA),                 MF,   b. 2002,   Valencia
+ 81,  Victor Eletu (NGA),                MF,   b. 2005,   Cedratese
+ 85,  Kevin Zeroli,                      MF,   b. 2005,
 
- 9  Olivier Giroud (FRA)           FW    # 30 Sep 1986, Chambéry  -- Chelsea
-10  Rafael Leão (POR)              FW    # 10 Jun 1999, Almada  -- Lille
-11  Christian Pulisic (USA)        FW    # 18 Sep 1998, Easton  -- Chelsea
-15  Luka Jović (SRB)               FW    # 23 Dec 1997, Bijeljina  -- Fiorentina
-17  Noah Okafor (SUI)              FW    # 24 May 2000, Binningen  -- Red Bull Salzburg
-21  Samuel Chukwueze (NGA)         FW    # 22 May 1999, Ugba  -- Villarreal
-73  Francesco Camarda (ITA)        FW    # 10 Mar 2008, Milan
-97  Diego Sia (ITA)                FW    # 10 Mar 2006, Milan
+  9,  Olivier Giroud (FRA),              FW,   b. 1986,   Chelsea
+ 10,  Rafael Leão (POR),                 FW,   b. 1999,   Lille
+ 11,  Christian Pulisic (USA),           FW,   b. 1998,   Chelsea
+ 15,  Luka Jović (SRB),                  FW,   b. 1997,   Fiorentina
+ 17,  Noah Okafor (SUI),                 FW,   b. 2000,   Red Bull Salzburg
+ 21,  Samuel Chukwueze (NGA),            FW,   b. 1999,   Villarreal
+ 73,  Francesco Camarda,                 FW,   b. 2008,
+ 97,  Diego Sia,                         FW,   b. 2006,

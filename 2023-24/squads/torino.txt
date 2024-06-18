@@ -1,40 +1,40 @@
-= Torino Football Club    # Torino
+=  Torino FC - Italian Serie A 2023/24
 
- 1  Luca Gemello (ITA)             GK    # 03 Jul 2000, Savigliano  -- Fossano
-22  Matteo Brezzo (ITA)            GK    # 13 Jun 2005
-32  Vanja Milinković-Savić (SRB)   GK    # 20 Feb 1997, Ourense  -- Lechia Gdańsk
-65  Pietro Passador (ITA)          GK    # 26 Feb 2003, Pordenone  -- Pordenone
-71  Mihai Popa (ROU)               GK    # 12 Oct 2000, Constanța  -- FC Voluntari
+  1,  Luca Gemello,                      GK,   b. 2000,   Fossano
+ 22,  Matteo Brezzo,                     GK,   b. 2005,
+ 32,  Vanja Milinković-Savić (SRB),      GK,   b. 1997,   Lechia Gdańsk
+ 65,  Pietro Passador,                   GK,   b. 2003,   Pordenone
+ 71,  Mihai Popa (ROU),                  GK,   b. 2000,   FC Voluntari
 
- 3  Perr Schuurs (NED)             DF    # 26 Nov 1999, Nieuwstadt  -- Ajax
- 4  Alessandro Buongiorno (ITA)    DF    # 06 Jun 1999, Turin
- 5  Adam Masina (MAR)              DF    # 02 Jan 1994, Khouribga  -- Udinese
- 6  Matteo Lovato (ITA)            DF    # 14 Feb 2000, Monselice  -- Salernitana
-13  Ricardo Rodríguez (SUI)        DF    # 25 Aug 1992, Zürich  -- Milan
-15  Saba Sazonov (RUS)             DF    # 01 Feb 2002, St. Petersburg  -- Dynamo Moscow
-19  Raoul Bellanova (ITA)          DF    # 16 May 2000, Rho  -- Cagliari
-25  Alessandro Dellavalle (ITA)    DF    # 11 May 2004, Turin  -- Chisola
-26  Koffi Djidji (CIV)             DF    # 30 Nov 1992, Bagnolet  -- Nantes
-27  Mërgim Vojvoda (KVX)           DF    # 01 Feb 1995, Hof  -- Standard Liège
-47  Vimoj Muntu Wa Mungu (FRA)     DF    # 15 Oct 2004, Fontainebleau  -- Paris St-Germain
-56  Fabio Desole (ITA)             DF    # 20 Jan 2006, Chieri
-80  Côme Bianay Balcot (FRA)      DF    # 13 May 2005, Saint-Mandé  -- Monza
-84  Jacopo Antolini (ITA)          DF    # 10 Jan 2004, Caldiero  -- Chievo Verona
+  3,  Perr Schuurs (NED),                DF,   b. 1999,   Ajax
+  4,  Alessandro Buongiorno,             DF,   b. 1999,
+  5,  Adam Masina (MAR),                 DF,   b. 1994,   Udinese
+  6,  Matteo Lovato,                     DF,   b. 2000,   Salernitana
+ 13,  Ricardo Rodríguez (SUI),           DF,   b. 1992,   Milan
+ 15,  Saba Sazonov (RUS),                DF,   b. 2002,   Dynamo Moscow
+ 19,  Raoul Bellanova,                   DF,   b. 2000,   Cagliari
+ 25,  Alessandro Dellavalle,             DF,   b. 2004,   Chisola
+ 26,  Koffi Djidji (CIV),                DF,   b. 1992,   Nantes
+ 27,  Mërgim Vojvoda (KVX),              DF,   b. 1995,   Standard Liège
+ 47,  Vimoj Muntu Wa Mungu (FRA),        DF,   b. 2004,   Paris St-Germain
+ 56,  Fabio Desole,                      DF,   b. 2006,
+ 80,  Côme Bianay Balcot (FRA),         DF,   b. 2005,   Monza
+ 84,  Jacopo Antolini,                   DF,   b. 2004,   Chievo Verona
 
- 8  Ivan Ilić (SRB)                MF    # 17 Mar 2001, Niš  -- Verona
-16  Nikola Vlašić (CRO)            MF    # 04 Oct 1997, Split  -- West Ham U
-20  Valentino Lazaro (AUT)         MF    # 24 Mar 1996, Graz  -- Internazionale
-28  Samuele Ricci (ITA)            MF    # 21 Aug 2001, Pontedera  -- Empoli
-30  Jonathan Silva (BRA)           MF    # 24 Apr 2004, Taboão da Serra  -- Capivariano
-61  Adrien Tameze (FRA)            MF    # 04 Nov 1994, Lille  -- Verona
-66  Gvidas Gineitis (LTU)          MF    # 15 Apr 2004, Mažeikiai  -- SPAL
-77  Karol Linetty (POL)            MF    # 02 Feb 1995, Żnin  -- Sampdoria
-81  Aaron Ciammaglichella (ITA)    MF    # 26 Jan 2005, Turin
+  8,  Ivan Ilić (SRB),                   MF,   b. 2001,   Verona
+ 16,  Nikola Vlašić (CRO),               MF,   b. 1997,   West Ham U
+ 20,  Valentino Lazaro (AUT),            MF,   b. 1996,   Internazionale
+ 28,  Samuele Ricci,                     MF,   b. 2001,   Empoli
+ 30,  Jonathan Silva (BRA),              MF,   b. 2004,   Capivariano
+ 61,  Adrien Tameze (FRA),               MF,   b. 1994,   Verona
+ 66,  Gvidas Gineitis (LTU),             MF,   b. 2004,   SPAL
+ 77,  Karol Linetty (POL),               MF,   b. 1995,   Sampdoria
+ 81,  Aaron Ciammaglichella,             MF,   b. 2005,
 
- 9  Antonio Sanabria (PAR)         FW    # 04 Mar 1996, San Lorenzo  -- Betis
-11  Pietro Pellegri (ITA)          FW    # 17 Mar 2001, Genoa  -- Monaco
-17  Uroš Kabić (SRB)               FW    # 01 Jan 2004, Novi Sad  -- Crvena Zvezda
-21  David Okereke (NGA)            FW    # 29 Aug 1997, Lagos  -- Cremonese
-29  Alieu Eybi Njie (SWE)          FW    # 14 May 2005, Stora Tuna  -- Forssa BK
-79  Zanos Savva (CYP)              FW    # 26 Nov 2005, Nicosia  -- Olympiakos Nicosia
-91  Duván Zapata (COL)             FW    # 01 Apr 1991, Cali  -- Atalanta
+  9,  Antonio Sanabria (PAR),            FW,   b. 1996,   Betis
+ 11,  Pietro Pellegri,                   FW,   b. 2001,   Monaco
+ 17,  Uroš Kabić (SRB),                  FW,   b. 2004,   Crvena Zvezda
+ 21,  David Okereke (NGA),               FW,   b. 1997,   Cremonese
+ 29,  Alieu Eybi Njie (SWE),             FW,   b. 2005,   Forssa BK
+ 79,  Zanos Savva (CYP),                 FW,   b. 2005,   Olympiakos Nicosia
+ 91,  Duván Zapata (COL),                FW,   b. 1991,   Atalanta
