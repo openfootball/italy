@@ -1,144 +1,144 @@
 = Italian Serie A 2021/22
 
 
-1^ Giornata
-[Sab. 21.8.]
+Matchday 1
+[Sat Aug/21]
   18.30  Hellas Verona            2-3 (0-1)  US Sassuolo Calcio
          FC Internazionale Milano  4-0 (2-0)  Genoa CFC
-  20.45  Empoli                   1-3 (1-3)  SS Lazio
+  20.45  Empoli FC                1-3 (1-3)  SS Lazio
          Torino FC                1-2 (0-1)  Atalanta Bergamo
-[Dom. 22.8.]
+[Sun Aug/22]
   18.30  Udinese Calcio           2-2 (0-2)  Juventus
          Bologna FC               3-2 (0-0)  Salernitana
-  20.45  SSC Napoli               2-0 (0-0)  Venezia
+  20.45  SSC Napoli               2-0 (0-0)  Venezia FC
          AS Roma                  3-1 (1-0)  ACF Fiorentina
-[Lun. 23.8.]
-  18.30  Cagliari Calcio          2-2 (0-1)  Spezia
+[Mon Aug/23]
+  18.30  Cagliari Calcio          2-2 (0-1)  Spezia Calcio
   20.45  UC Sampdoria             0-1 (0-1)  AC Milan
 
 
-2^ Giornata
-[Ven. 27.8.]
-  18.30  Udinese Calcio           3-0 (1-0)  Venezia
+Matchday 2
+[Fri Aug/27]
+  18.30  Udinese Calcio           3-0 (1-0)  Venezia FC
   20.45  Hellas Verona            1-3 (1-0)  FC Internazionale Milano
-[Sab. 28.8.]
+[Sat Aug/28]
   18.30  Atalanta Bergamo         0-0  Bologna FC
-         SS Lazio                 6-1 (3-1)  Spezia
+         SS Lazio                 6-1 (3-1)  Spezia Calcio
   20.45  ACF Fiorentina           2-1 (1-0)  Torino FC
-         Juventus                 0-1 (0-1)  Empoli
-[Dom. 29.8.]
+         Juventus                 0-1 (0-1)  Empoli FC
+[Sun Aug/29]
   18.30  US Sassuolo Calcio       0-0  UC Sampdoria
          Genoa CFC                1-2 (0-1)  SSC Napoli
   20.45  AC Milan                 4-1 (4-1)  Cagliari Calcio
          Salernitana              0-4 (0-0)  AS Roma
 
 
-3^ Giornata
-[Sab. 11.9.]
-  15.00  Empoli                   1-2 (0-1)  Venezia
+Matchday 3
+[Sat Sep/11]
+  15.00  Empoli FC                1-2 (0-1)  Venezia FC
   18.00  SSC Napoli               2-1 (0-1)  Juventus
   20.45  Atalanta Bergamo         1-2 (0-1)  ACF Fiorentina
-[Dom. 12.9.]
+[Sun Sep/12]
   12.30  UC Sampdoria             2-2 (1-2)  FC Internazionale Milano
-  15.00  Spezia                   0-1 (0-0)  Udinese Calcio
+  15.00  Spezia Calcio            0-1 (0-0)  Udinese Calcio
          Cagliari Calcio          2-3 (1-0)  Genoa CFC
          Torino FC                4-0 (1-0)  Salernitana
   18.00  AC Milan                 2-0 (1-0)  SS Lazio
   20.45  AS Roma                  2-1 (1-0)  US Sassuolo Calcio
-[Lun. 13.9.]
+[Mon Sep/13]
   20.45  Bologna FC               1-0 (0-0)  Hellas Verona
 
 
-4^ Giornata
-[Ven. 17.9.]
+Matchday 4
+[Fri Sep/17]
   20.45  US Sassuolo Calcio       0-1 (0-0)  Torino FC
-[Sab. 18.9.]
+[Sat Sep/18]
   15.00  Genoa CFC                1-2 (0-0)  ACF Fiorentina
   18.00  FC Internazionale Milano  6-1 (3-0)  Bologna FC
   20.45  Salernitana              0-1 (0-0)  Atalanta Bergamo
-[Dom. 19.9.]
-  12.30  Empoli                   0-3 (0-1)  UC Sampdoria
-  15.00  Venezia                  1-2 (0-1)  Spezia
+[Sun Sep/19]
+  12.30  Empoli FC                0-3 (0-1)  UC Sampdoria
+  15.00  Venezia FC               1-2 (0-1)  Spezia Calcio
   18.00  Hellas Verona            3-2 (0-1)  AS Roma
          SS Lazio                 2-2 (1-0)  Cagliari Calcio
   20.45  Juventus                 1-1 (1-0)  AC Milan
-[Lun. 20.9.]
+[Mon Sep/20]
   20.45  Udinese Calcio           0-4 (0-2)  SSC Napoli
 
 
-5^ Giornata
-[Mar. 21.9.]
+Matchday 5
+[Tue Sep/21]
   18.30  Bologna FC               2-2 (0-0)  Genoa CFC
   20.45  ACF Fiorentina           1-3 (1-0)  FC Internazionale Milano
          Atalanta Bergamo         2-1 (2-1)  US Sassuolo Calcio
-[Mer. 22.9.]
+[Wed Sep/22]
   18.30  Salernitana              2-2 (1-2)  Hellas Verona
-         Spezia                   2-3 (1-1)  Juventus
-  20.45  Cagliari Calcio          0-2 (0-1)  Empoli
-         AC Milan                 2-0 (0-0)  Venezia
-[Gio. 23.9.]
+         Spezia Calcio            2-3 (1-1)  Juventus
+  20.45  Cagliari Calcio          0-2 (0-1)  Empoli FC
+         AC Milan                 2-0 (0-0)  Venezia FC
+[Thu Sep/23]
   18.30  Torino FC                1-1 (0-0)  SS Lazio
          UC Sampdoria             0-4 (0-2)  SSC Napoli
   20.45  AS Roma                  1-0 (1-0)  Udinese Calcio
 
 
-6^ Giornata
-[Sab. 25.9.]
-  15.00  Spezia                   1-2 (0-0)  AC Milan
+Matchday 6
+[Sat Sep/25]
+  15.00  Spezia Calcio            1-2 (0-0)  AC Milan
   18.00  FC Internazionale Milano  2-2 (1-2)  Atalanta Bergamo
   20.45  Genoa CFC                3-3 (0-1)  Hellas Verona
-[Dom. 26.9.]
+[Sun Sep/26]
   12.30  Juventus                 3-2 (2-1)  UC Sampdoria
-  15.00  Empoli                   4-2 (2-1)  Bologna FC
+  15.00  Empoli FC                4-2 (2-1)  Bologna FC
          Udinese Calcio           0-1 (0-1)  ACF Fiorentina
          US Sassuolo Calcio       1-0 (0-0)  Salernitana
   18.00  SS Lazio                 3-2 (2-1)  AS Roma
   20.45  SSC Napoli               2-0 (1-0)  Cagliari Calcio
-[Lun. 27.9.]
-  20.45  Venezia                  1-1 (0-0)  Torino FC
+[Mon Sep/27]
+  20.45  Venezia FC               1-1 (0-0)  Torino FC
 
 
-7^ Giornata
-[Ven. 1.10.]
-  20.45  Cagliari Calcio          1-1 (1-0)  Venezia
-[Sab. 2.10.]
+Matchday 7
+[Fri Oct/1]
+  20.45  Cagliari Calcio          1-1 (1-0)  Venezia FC
+[Sat Oct/2]
   15.05  Salernitana              1-0 (0-0)  Genoa CFC
   18.00  Torino FC                0-1 (0-0)  Juventus
   20.45  US Sassuolo Calcio       1-2 (1-0)  FC Internazionale Milano
-[Dom. 3.10.]
+[Sun Oct/3]
   12.30  Bologna FC               3-0 (2-0)  SS Lazio
   15.00  UC Sampdoria             3-3 (1-2)  Udinese Calcio
-         Hellas Verona            4-0 (3-0)  Spezia
-  18.00  AS Roma                  2-0 (1-0)  Empoli
+         Hellas Verona            4-0 (3-0)  Spezia Calcio
+  18.00  AS Roma                  2-0 (1-0)  Empoli FC
   18.05  ACF Fiorentina           1-2 (1-1)  SSC Napoli
   20.45  Atalanta Bergamo         2-3 (0-2)  AC Milan
 
 
-8^ Giornata
-[Sab. 16.10.]
-  15.00  Spezia                   2-1 (0-1)  Salernitana
+Matchday 8
+[Sat Oct/16]
+  15.00  Spezia Calcio            2-1 (0-1)  Salernitana
   18.00  SS Lazio                 3-1 (0-1)  FC Internazionale Milano
   20.50  AC Milan                 3-2 (0-2)  Hellas Verona
-[Dom. 17.10.]
+[Sun Oct/17]
   12.30  Cagliari Calcio          3-1 (1-0)  UC Sampdoria
   15.00  Genoa CFC                2-2 (1-2)  US Sassuolo Calcio
-         Empoli                   1-4 (1-2)  Atalanta Bergamo
+         Empoli FC                1-4 (1-2)  Atalanta Bergamo
          Udinese Calcio           1-1 (0-0)  Bologna FC
   18.05  SSC Napoli               1-0 (0-0)  Torino FC
   20.45  Juventus                 1-0 (1-0)  AS Roma
-[Lun. 18.10.]
-  20.45  Venezia                  1-0 (1-0)  ACF Fiorentina
+[Mon Oct/18]
+  20.45  Venezia FC               1-0 (1-0)  ACF Fiorentina
 
 
-9^ Giornata
-[Ven. 22.10.]
+Matchday 9
+[Fri Oct/22]
   18.35  Torino FC                3-2 (2-0)  Genoa CFC
-  20.45  UC Sampdoria             2-1 (2-0)  Spezia
-[Sab. 23.10.]
-  15.00  Salernitana              2-4 (0-4)  Empoli
-  18.00  US Sassuolo Calcio       3-1 (1-1)  Venezia
+  20.45  UC Sampdoria             2-1 (2-0)  Spezia Calcio
+[Sat Oct/23]
+  15.00  Salernitana              2-4 (0-4)  Empoli FC
+  18.00  US Sassuolo Calcio       3-1 (1-1)  Venezia FC
   20.45  Bologna FC               2-4 (0-2)  AC Milan
-[Dom. 24.10.]
+[Sun Oct/24]
   12.30  Atalanta Bergamo         1-1 (0-0)  Udinese Calcio
   15.00  ACF Fiorentina           3-0 (2-0)  Cagliari Calcio
          Hellas Verona            4-1 (2-0)  SS Lazio
@@ -146,47 +146,47 @@
   20.50  FC Internazionale Milano  1-1 (1-0)  Juventus
 
 
-10^ Giornata
-[Mar. 26.10.]
-  18.30  Venezia                  1-2 (1-0)  Salernitana
-         Spezia                   1-1 (0-0)  Genoa CFC
+Matchday 10
+[Tue Oct/26]
+  18.30  Venezia FC               1-2 (1-0)  Salernitana
+         Spezia Calcio            1-1 (0-0)  Genoa CFC
   20.45  AC Milan                 1-0 (1-0)  Torino FC
-[Mer. 27.10.]
+[Wed Oct/27]
   18.30  Juventus                 1-2 (0-1)  US Sassuolo Calcio
          Udinese Calcio           1-1 (1-0)  Hellas Verona
   18.35  UC Sampdoria             1-3 (1-2)  Atalanta Bergamo
-  20.45  Empoli                   0-2 (0-1)  FC Internazionale Milano
+  20.45  Empoli FC                0-2 (0-1)  FC Internazionale Milano
          Cagliari Calcio          1-2 (0-0)  AS Roma
          SS Lazio                 1-0 (0-0)  ACF Fiorentina
-[Gio. 28.10.]
+[Thu Oct/28]
   20.45  SSC Napoli               3-0 (2-0)  Bologna FC
 
 
-11^ Giornata
-[Sab. 30.10.]
+Matchday 11
+[Sat Oct/30]
   15.00  Atalanta Bergamo         2-2 (1-1)  SS Lazio
   18.00  Hellas Verona            2-1 (2-0)  Juventus
   20.50  Torino FC                3-0 (1-0)  UC Sampdoria
-[Dom. 31.10.]
+[Sun Oct/31]
   12.30  FC Internazionale Milano  2-0 (0-0)  Udinese Calcio
-  15.00  Genoa CFC                0-0  Venezia
-         US Sassuolo Calcio       1-2 (1-0)  Empoli
-  15.05  ACF Fiorentina           3-0 (1-0)  Spezia
+  15.00  Genoa CFC                0-0  Venezia FC
+         US Sassuolo Calcio       1-2 (1-0)  Empoli FC
+  15.05  ACF Fiorentina           3-0 (1-0)  Spezia Calcio
   18.05  Salernitana              0-1 (0-0)  SSC Napoli
   20.45  AS Roma                  1-2 (0-1)  AC Milan
-[Lun. 1.11.]
+[Mon Nov/1]
   20.45  Bologna FC               2-0 (0-0)  Cagliari Calcio
 
 
-12^ Giornata
-[Ven. 5.11.]
-  20.45  Empoli                   2-2 (0-1)  Genoa CFC
-[Sab. 6.11.]
-  15.00  Spezia                   1-0 (0-0)  Torino FC
+Matchday 12
+[Fri Nov/5]
+  20.45  Empoli FC                2-2 (0-1)  Genoa CFC
+[Sat Nov/6]
+  15.00  Spezia Calcio            1-0 (0-0)  Torino FC
   18.00  Juventus                 1-0 (0-0)  ACF Fiorentina
   20.45  Cagliari Calcio          1-2 (1-2)  Atalanta Bergamo
-[Dom. 7.11.]
-  12.30  Venezia                  3-2 (1-2)  AS Roma
+[Sun Nov/7]
+  12.30  Venezia FC               3-2 (1-2)  AS Roma
   15.00  UC Sampdoria             1-2 (0-0)  Bologna FC
          Udinese Calcio           3-2 (2-2)  US Sassuolo Calcio
   18.00  SS Lazio                 3-0 (2-0)  Salernitana
@@ -194,430 +194,430 @@
   20.45  AC Milan                 1-1 (1-1)  FC Internazionale Milano
 
 
-13^ Giornata
-[Sab. 20.11.]
-  15.00  Atalanta Bergamo         5-2 (3-1)  Spezia
+Matchday 13
+[Sat Nov/20]
+  15.00  Atalanta Bergamo         5-2 (3-1)  Spezia Calcio
   18.00  SS Lazio                 0-2 (0-1)  Juventus
   20.45  ACF Fiorentina           4-3 (2-0)  AC Milan
-[Dom. 21.11.]
+[Sun Nov/21]
   12.30  US Sassuolo Calcio       2-2 (1-1)  Cagliari Calcio
   15.00  Salernitana              0-2 (0-2)  UC Sampdoria
-         Bologna FC               0-1 (0-0)  Venezia
+         Bologna FC               0-1 (0-0)  Venezia FC
   18.00  FC Internazionale Milano  3-2 (2-1)  SSC Napoli
   20.45  Genoa CFC                0-2 (0-0)  AS Roma
-[Lun. 22.11.]
-  18.30  Hellas Verona            2-1 (0-0)  Empoli
+[Mon Nov/22]
+  18.30  Hellas Verona            2-1 (0-0)  Empoli FC
   20.45  Torino FC                2-1 (1-0)  Udinese Calcio
 
 
-14^ Giornata
-[Ven. 26.11.]
+Matchday 14
+[Fri Nov/26]
   20.45  Cagliari Calcio          1-1 (0-0)  Salernitana
-[Sab. 27.11.]
+[Sat Nov/27]
   15.00  UC Sampdoria             3-1 (0-1)  Hellas Verona
-         Empoli                   2-1 (0-0)  ACF Fiorentina
+         Empoli FC                2-1 (0-0)  ACF Fiorentina
   18.00  Juventus                 0-1 (0-1)  Atalanta Bergamo
-  20.45  Venezia                  0-2 (0-1)  FC Internazionale Milano
-[Dom. 28.11.]
+  20.45  Venezia FC               0-2 (0-1)  FC Internazionale Milano
+[Sun Nov/28]
   12.30  Udinese Calcio           0-0  Genoa CFC
   15.00  AC Milan                 1-3 (1-2)  US Sassuolo Calcio
-  15.05  Spezia                   0-1 (0-0)  Bologna FC
+  15.05  Spezia Calcio            0-1 (0-0)  Bologna FC
   18.00  AS Roma                  1-0 (1-0)  Torino FC
   20.50  SSC Napoli               4-0 (3-0)  SS Lazio
 
 
-15^ Giornata
-[Mar. 30.11.]
-  18.30  Atalanta Bergamo         4-0 (2-0)  Venezia
+Matchday 15
+[Tue Nov/30]
+  18.30  Atalanta Bergamo         4-0 (2-0)  Venezia FC
   18.35  ACF Fiorentina           3-1 (3-1)  UC Sampdoria
   20.45  Salernitana              0-2 (0-1)  Juventus
   20.50  Hellas Verona            0-0  Cagliari Calcio
-[Mer. 1.12.]
+[Wed Dec/1]
   18.30  Bologna FC               1-0 (1-0)  AS Roma
-         FC Internazionale Milano  2-0 (1-0)  Spezia
+         FC Internazionale Milano  2-0 (1-0)  Spezia Calcio
   20.45  Genoa CFC                0-3 (0-2)  AC Milan
          US Sassuolo Calcio       2-2 (0-0)  SSC Napoli
-[Gio. 2.12.]
-  18.30  Torino FC                2-2 (2-1)  Empoli
+[Thu Dec/2]
+  18.30  Torino FC                2-2 (2-1)  Empoli FC
   20.45  SS Lazio                 4-4 (1-3)  Udinese Calcio
 
 
-16^ Giornata
-[Sab. 4.12.]
+Matchday 16
+[Sat Dec/4]
   15.00  AC Milan                 2-0 (2-0)  Salernitana
   18.00  AS Roma                  0-3 (0-3)  FC Internazionale Milano
   20.45  SSC Napoli               2-3 (1-1)  Atalanta Bergamo
-[Dom. 5.12.]
+[Sun Dec/5]
   12.30  Bologna FC               2-3 (1-1)  ACF Fiorentina
-  15.00  Venezia                  3-4 (3-0)  Hellas Verona
-         Spezia                   2-2 (1-0)  US Sassuolo Calcio
+  15.00  Venezia FC               3-4 (3-0)  Hellas Verona
+         Spezia Calcio            2-2 (1-0)  US Sassuolo Calcio
   18.00  UC Sampdoria             1-3 (0-3)  SS Lazio
   20.45  Juventus                 2-0 (1-0)  Genoa CFC
-[Lun. 6.12.]
-  18.30  Empoli                   3-1 (0-1)  Udinese Calcio
+[Mon Dec/6]
+  18.30  Empoli FC                3-1 (0-1)  Udinese Calcio
   20.45  Cagliari Calcio          1-1 (0-1)  Torino FC
 
 
-17^ Giornata
-[Ven. 10.12.]
+Matchday 17
+[Fri Dec/10]
   20.45  Genoa CFC                1-3 (0-1)  UC Sampdoria
-[Sab. 11.12.]
+[Sat Dec/11]
   15.00  ACF Fiorentina           4-0 (1-0)  Salernitana
-  18.00  Venezia                  1-1 (0-1)  Juventus
+  18.00  Venezia FC               1-1 (0-1)  Juventus
   20.45  Udinese Calcio           1-1 (1-0)  AC Milan
-[Dom. 12.12.]
+[Sun Dec/12]
   12.30  Torino FC                2-1 (1-0)  Bologna FC
   15.00  Hellas Verona            1-2 (1-1)  Atalanta Bergamo
   18.00  US Sassuolo Calcio       2-1 (0-1)  SS Lazio
-         SSC Napoli               0-1 (0-0)  Empoli
+         SSC Napoli               0-1 (0-0)  Empoli FC
   20.45  FC Internazionale Milano  4-0 (1-0)  Cagliari Calcio
-[Lun. 13.12.]
-  20.45  AS Roma                  2-0 (1-0)  Spezia
+[Mon Dec/13]
+  20.45  AS Roma                  2-0 (1-0)  Spezia Calcio
 
 
-18^ Giornata
-[Ven. 17.12.]
+Matchday 18
+[Fri Dec/17]
   18.30  SS Lazio                 3-1 (1-0)  Genoa CFC
   20.45  Salernitana              0-5 (0-2)  FC Internazionale Milano
-[Sab. 18.12.]
+[Sat Dec/18]
   15.00  Atalanta Bergamo         1-4 (1-2)  AS Roma
   18.00  Bologna FC               0-2 (0-1)  Juventus
   20.45  Cagliari Calcio          0-4 (0-2)  Udinese Calcio
-[Dom. 19.12.]
+[Sun Dec/19]
   12.30  ACF Fiorentina           2-2 (0-2)  US Sassuolo Calcio
-  15.00  Spezia                   1-1 (0-0)  Empoli
-  18.00  UC Sampdoria             1-1 (1-0)  Venezia
+  15.00  Spezia Calcio            1-1 (0-0)  Empoli FC
+  18.00  UC Sampdoria             1-1 (1-0)  Venezia FC
          Torino FC                1-0 (1-0)  Hellas Verona
   20.45  AC Milan                 0-1 (0-1)  SSC Napoli
 
 
-19^ Giornata
-[Mar. 21.12.]
+Matchday 19
+[Tue Dec/21]
   20.45  Genoa CFC                0-0  Atalanta Bergamo
          Juventus                 2-0 (1-0)  Cagliari Calcio
-[Mer. 22.12.]
+[Wed Dec/22]
   16.30  US Sassuolo Calcio       0-3 (0-2)  Bologna FC
-         Venezia                  1-3 (1-1)  SS Lazio
+         Venezia FC               1-3 (1-1)  SS Lazio
   18.30  AS Roma                  1-1 (0-0)  UC Sampdoria
          FC Internazionale Milano  1-0 (1-0)  Torino FC
          Hellas Verona            1-1 (1-0)  ACF Fiorentina
-  20.45  Empoli                   2-4 (1-2)  AC Milan
-         SSC Napoli               0-1 (0-1)  Spezia
+  20.45  Empoli FC                2-4 (1-2)  AC Milan
+         SSC Napoli               0-1 (0-1)  Spezia Calcio
 
 
-20^ Giornata
-[Gio. 6.1.]
+Matchday 20
+[Thu Jan/6]
   12.30  UC Sampdoria             1-2 (1-0)  Cagliari Calcio
-  14.30  Spezia                   1-2 (0-0)  Hellas Verona
-         SS Lazio                 3-3 (1-2)  Empoli
+  14.30  Spezia Calcio            1-2 (0-0)  Hellas Verona
+         SS Lazio                 3-3 (1-2)  Empoli FC
   16.30  US Sassuolo Calcio       1-1 (0-1)  Genoa CFC
   18.30  AC Milan                 3-1 (2-1)  AS Roma
   20.45  Juventus                 1-1 (0-1)  SSC Napoli
 
 
-21^ Giornata
-[Dom. 9.1.]
-  12.30  Venezia                  0-3 (0-1)  AC Milan
-  14.30  Empoli                   1-5 (1-2)  US Sassuolo Calcio
+Matchday 21
+[Sun Jan/9]
+  12.30  Venezia FC               0-3 (0-1)  AC Milan
+  14.30  Empoli FC                1-5 (1-2)  US Sassuolo Calcio
   16.30  Udinese Calcio           2-6 (0-3)  Atalanta Bergamo
          SSC Napoli               1-0 (1-0)  UC Sampdoria
-  18.30  Genoa CFC                0-1 (0-1)  Spezia
+  18.30  Genoa CFC                0-1 (0-1)  Spezia Calcio
          AS Roma                  3-4 (1-1)  Juventus
   20.45  Hellas Verona            1-2 (0-1)  Salernitana
          FC Internazionale Milano  2-1 (1-1)  SS Lazio
-[Lun. 10.1.]
+[Mon Jan/10]
   17.00  Torino FC                4-0 (3-0)  ACF Fiorentina
-[Mar. 11.1.]
+[Tue Jan/11]
   20.45  Cagliari Calcio          2-1 (0-0)  Bologna FC
 
 
-22^ Giornata
-[Sab. 15.1.]
+Matchday 22
+[Sat Jan/15]
   15.00  UC Sampdoria             1-2 (1-1)  Torino FC
   18.00  Salernitana              0-3 (0-2)  SS Lazio
   20.45  Juventus                 2-0 (1-0)  Udinese Calcio
-[Dom. 16.1.]
+[Sun Jan/16]
   12.30  US Sassuolo Calcio       2-4 (0-2)  Hellas Verona
-  15.00  Venezia                  1-1 (0-1)  Empoli
+  15.00  Venezia FC               1-1 (0-1)  Empoli FC
   18.00  AS Roma                  1-0 (1-0)  Cagliari Calcio
   20.45  Atalanta Bergamo         0-0  FC Internazionale Milano
-[Lun. 17.1.]
+[Mon Jan/17]
   18.30  Bologna FC               0-2 (0-1)  SSC Napoli
-         AC Milan                 1-2 (1-0)  Spezia
+         AC Milan                 1-2 (1-0)  Spezia Calcio
   20.50  ACF Fiorentina           6-0 (3-0)  Genoa CFC
 
 
-23^ Giornata
-[Ven. 21.1.]
+Matchday 23
+[Fri Jan/21]
   20.45  Hellas Verona            2-1 (1-1)  Bologna FC
-[Sab. 22.1.]
+[Sat Jan/22]
   15.00  Genoa CFC                0-0  Udinese Calcio
-  18.05  FC Internazionale Milano  2-1 (1-1)  Venezia
+  18.05  FC Internazionale Milano  2-1 (1-1)  Venezia FC
   20.45  SS Lazio                 0-0  Atalanta Bergamo
-[Dom. 23.1.]
+[Sun Jan/23]
   12.30  Cagliari Calcio          1-1 (0-0)  ACF Fiorentina
   15.00  Torino FC                1-1 (1-0)  US Sassuolo Calcio
-         Spezia                   1-0 (0-0)  UC Sampdoria
+         Spezia Calcio            1-0 (0-0)  UC Sampdoria
          SSC Napoli               4-1 (2-1)  Salernitana
-  18.00  Empoli                   2-4 (0-4)  AS Roma
+  18.00  Empoli FC                2-4 (0-4)  AS Roma
   20.45  AC Milan                 0-0  Juventus
 
 
-24^ Giornata
-[Sab. 5.2.]
+Matchday 24
+[Sat Feb/5]
   15.00  AS Roma                  0-0  Genoa CFC
   18.00  FC Internazionale Milano  1-2 (1-0)  AC Milan
   20.50  ACF Fiorentina           0-3 (0-0)  SS Lazio
-[Dom. 6.2.]
+[Sun Feb/6]
   12.30  Atalanta Bergamo         1-2 (0-0)  Cagliari Calcio
   15.00  UC Sampdoria             4-0 (2-0)  US Sassuolo Calcio
-         Bologna FC               0-0  Empoli
-         Venezia                  0-2 (0-0)  SSC Napoli
+         Bologna FC               0-0  Empoli FC
+         Venezia FC               0-2 (0-0)  SSC Napoli
   18.00  Udinese Calcio           2-0 (0-0)  Torino FC
   20.45  Juventus                 2-0 (1-0)  Hellas Verona
-[Lun. 7.2.]
-  20.45  Salernitana              2-2 (2-2)  Spezia
+[Mon Feb/7]
+  20.45  Salernitana              2-2 (2-2)  Spezia Calcio
 
 
-25^ Giornata
-[Sab. 12.2.]
+Matchday 25
+[Sat Feb/12]
   15.00  SS Lazio                 3-0 (1-0)  Bologna FC
   18.00  SSC Napoli               1-1 (1-0)  FC Internazionale Milano
-  20.45  Torino FC                1-2 (1-1)  Venezia
-[Dom. 13.2.]
+  20.45  Torino FC                1-2 (1-1)  Venezia FC
+[Sun Feb/13]
   12.30  AC Milan                 1-0 (1-0)  UC Sampdoria
   15.00  Hellas Verona            4-0 (2-0)  Udinese Calcio
          Genoa CFC                1-1 (1-1)  Salernitana
-         Empoli                   1-1 (1-0)  Cagliari Calcio
+         Empoli FC                1-1 (1-0)  Cagliari Calcio
   18.00  US Sassuolo Calcio       2-2 (0-1)  AS Roma
   20.45  Atalanta Bergamo         1-1 (0-0)  Juventus
-[Lun. 14.2.]
-  20.45  Spezia                   1-2 (0-1)  ACF Fiorentina
+[Mon Feb/14]
+  20.45  Spezia Calcio            1-2 (0-1)  ACF Fiorentina
 
 
-26^ Giornata
-[Ven. 18.2.]
+Matchday 26
+[Fri Feb/18]
   20.45  Juventus                 1-1 (1-0)  Torino FC
-[Sab. 19.2.]
-  15.00  UC Sampdoria             2-0 (2-0)  Empoli
+[Sat Feb/19]
+  15.00  UC Sampdoria             2-0 (2-0)  Empoli FC
   18.00  AS Roma                  2-2 (0-2)  Hellas Verona
   20.45  Salernitana              2-2 (1-1)  AC Milan
-[Dom. 20.2.]
+[Sun Feb/20]
   12.30  ACF Fiorentina           1-0 (0-0)  Atalanta Bergamo
-  15.00  Venezia                  1-1 (1-1)  Genoa CFC
+  15.00  Venezia FC               1-1 (1-1)  Genoa CFC
   18.00  FC Internazionale Milano  0-2 (0-2)  US Sassuolo Calcio
   20.45  Udinese Calcio           1-1 (1-1)  SS Lazio
-[Lun. 21.2.]
+[Mon Feb/21]
   19.00  Cagliari Calcio          1-1 (0-0)  SSC Napoli
-  21.00  Bologna FC               2-1 (1-1)  Spezia
+  21.00  Bologna FC               2-1 (1-1)  Spezia Calcio
 
 
-27^ Giornata
-[Ven. 25.2.]
+Matchday 27
+[Fri Feb/25]
   18.50  AC Milan                 1-1 (1-0)  Udinese Calcio
   21.05  Genoa CFC                0-0  FC Internazionale Milano
-[Sab. 26.2.]
+[Sat Feb/26]
   15.05  Salernitana              1-1 (0-1)  Bologna FC
-  18.05  Empoli                   2-3 (1-2)  Juventus
+  18.05  Empoli FC                2-3 (1-2)  Juventus
   20.50  US Sassuolo Calcio       2-1 (1-0)  ACF Fiorentina
-[Dom. 27.2.]
+[Sun Feb/27]
   12.35  Torino FC                1-2 (0-1)  Cagliari Calcio
-  15.05  Hellas Verona            3-1 (0-0)  Venezia
-  18.05  Spezia                   0-1 (0-0)  AS Roma
+  15.05  Hellas Verona            3-1 (0-0)  Venezia FC
+  18.05  Spezia Calcio            0-1 (0-0)  AS Roma
   20.50  SS Lazio                 1-2 (0-0)  SSC Napoli
-[Lun. 28.2.]
+[Mon Feb/28]
   20.50  Atalanta Bergamo         4-0 (2-0)  UC Sampdoria
 
 
-28^ Giornata
-[Ven. 4.3.]
+Matchday 28
+[Fri Mar/4]
   20.45  FC Internazionale Milano  5-0 (2-0)  Salernitana
-[Sab. 5.3.]
+[Sat Mar/5]
   15.00  Udinese Calcio           2-1 (2-1)  UC Sampdoria
   18.00  AS Roma                  1-0 (1-0)  Atalanta Bergamo
   20.45  Cagliari Calcio          0-3 (0-2)  SS Lazio
-[Dom. 6.3.]
-  12.30  Genoa CFC                0-0  Empoli
-  15.00  Venezia                  1-4 (1-3)  US Sassuolo Calcio
+[Sun Mar/6]
+  12.30  Genoa CFC                0-0  Empoli FC
+  15.00  Venezia FC               1-4 (1-3)  US Sassuolo Calcio
   15.05  Bologna FC               0-0  Torino FC
          ACF Fiorentina           1-1 (1-1)  Hellas Verona
-  18.00  Juventus                 1-0 (1-0)  Spezia
+  18.00  Juventus                 1-0 (1-0)  Spezia Calcio
   20.45  SSC Napoli               0-1 (0-0)  AC Milan
 
 
-29^ Giornata
-[Sab. 12.3.]
-  15.00  Spezia                   2-0 (0-0)  Cagliari Calcio
+Matchday 29
+[Sat Mar/12]
+  15.00  Spezia Calcio            2-0 (0-0)  Cagliari Calcio
          Salernitana              2-2 (1-2)  US Sassuolo Calcio
   18.00  UC Sampdoria             1-3 (0-2)  Juventus
-  20.45  AC Milan                 1-0 (1-0)  Empoli
-[Dom. 13.3.]
+  20.45  AC Milan                 1-0 (1-0)  Empoli FC
+[Sun Mar/13]
   12.30  ACF Fiorentina           1-0 (0-0)  Bologna FC
   15.00  Hellas Verona            1-2 (0-1)  SSC Napoli
   18.00  Udinese Calcio           1-1 (1-0)  AS Roma
          Atalanta Bergamo         0-0  Genoa CFC
   20.45  Torino FC                1-1 (1-0)  FC Internazionale Milano
-[Lun. 14.3.]
-  20.45  SS Lazio                 1-0 (0-0)  Venezia
+[Mon Mar/14]
+  20.45  SS Lazio                 1-0 (0-0)  Venezia FC
 
 
-30^ Giornata
-[Ven. 18.3.]
-  18.45  US Sassuolo Calcio       4-1 (1-1)  Spezia
+Matchday 30
+[Fri Mar/18]
+  18.45  US Sassuolo Calcio       4-1 (1-1)  Spezia Calcio
   21.00  Genoa CFC                1-0 (1-0)  Torino FC
-[Sab. 19.3.]
+[Sat Mar/19]
   15.00  SSC Napoli               2-1 (0-1)  Udinese Calcio
   18.00  FC Internazionale Milano  1-1 (0-0)  ACF Fiorentina
   20.45  Cagliari Calcio          0-1 (0-0)  AC Milan
-[Dom. 20.3.]
-  12.30  Venezia                  0-2 (0-2)  UC Sampdoria
+[Sun Mar/20]
+  12.30  Venezia FC               0-2 (0-2)  UC Sampdoria
   15.00  Juventus                 2-0 (2-0)  Salernitana
-         Empoli                   1-1 (1-0)  Hellas Verona
+         Empoli FC                1-1 (1-0)  Hellas Verona
   18.00  AS Roma                  3-0 (3-0)  SS Lazio
   20.45  Bologna FC               0-1 (0-0)  Atalanta Bergamo
 
 
-31^ Giornata
-[Sab. 2.4.]
-  15.00  Spezia                   1-0 (0-0)  Venezia
+Matchday 31
+[Sat Apr/2]
+  15.00  Spezia Calcio            1-0 (0-0)  Venezia FC
   18.00  SS Lazio                 2-1 (1-0)  US Sassuolo Calcio
   20.45  Salernitana              0-1 (0-1)  Torino FC
-[Dom. 3.4.]
-  12.30  ACF Fiorentina           1-0 (0-0)  Empoli
+[Sun Apr/3]
+  12.30  ACF Fiorentina           1-0 (0-0)  Empoli FC
   15.00  Atalanta Bergamo         1-3 (0-2)  SSC Napoli
          Udinese Calcio           5-1 (2-1)  Cagliari Calcio
   18.00  UC Sampdoria             0-1 (0-1)  AS Roma
   20.50  Juventus                 0-1 (0-1)  FC Internazionale Milano
-[Lun. 4.4.]
+[Mon Apr/4]
   18.30  Hellas Verona            1-0 (1-0)  Genoa CFC
   20.45  AC Milan                 0-0  Bologna FC
 
 
-32^ Giornata
-[Sab. 9.4.]
-  15.00  Empoli                   0-0  Spezia
+Matchday 32
+[Sat Apr/9]
+  15.00  Empoli FC                0-0  Spezia Calcio
   18.00  FC Internazionale Milano  2-0 (2-0)  Hellas Verona
   20.45  Cagliari Calcio          1-2 (1-1)  Juventus
-[Dom. 10.4.]
+[Sun Apr/10]
   12.30  Genoa CFC                1-4 (0-2)  SS Lazio
-  15.00  Venezia                  1-2 (0-1)  Udinese Calcio
+  15.00  Venezia FC               1-2 (0-1)  Udinese Calcio
          US Sassuolo Calcio       2-1 (1-0)  Atalanta Bergamo
          SSC Napoli               2-3 (0-1)  ACF Fiorentina
   18.00  AS Roma                  2-1 (0-1)  Salernitana
   20.45  Torino FC                0-0  AC Milan
-[Lun. 11.4.]
+[Mon Apr/11]
   20.45  Bologna FC               2-0 (0-0)  UC Sampdoria
 
 
-33^ Giornata
-[Ven. 15.4.]
-  19.00  Spezia                   1-3 (0-1)  FC Internazionale Milano
+Matchday 33
+[Fri Apr/15]
+  19.00  Spezia Calcio            1-3 (0-1)  FC Internazionale Milano
   21.00  AC Milan                 2-0 (1-0)  Genoa CFC
-[Sab. 16.4.]
+[Sat Apr/16]
   12.30  Cagliari Calcio          1-0 (1-0)  US Sassuolo Calcio
   14.30  UC Sampdoria             1-2 (1-2)  Salernitana
-         Udinese Calcio           4-1 (1-0)  Empoli
-  16.30  ACF Fiorentina           1-0 (1-0)  Venezia
+         Udinese Calcio           4-1 (1-0)  Empoli FC
+  16.30  ACF Fiorentina           1-0 (1-0)  Venezia FC
   18.30  Juventus                 1-1 (0-0)  Bologna FC
   20.45  SS Lazio                 1-1 (0-0)  Torino FC
-[Lun. 18.4.]
+[Mon Apr/18]
   19.00  SSC Napoli               1-1 (1-0)  AS Roma
   21.00  Atalanta Bergamo         1-2 (0-1)  Hellas Verona
 
 
-19^ Giornata
-[Mer. 20.4.]
+Matchday 19
+[Wed Apr/20]
   18.45  Udinese Calcio           0-1 (0-0)  Salernitana
 
 
-34^ Giornata
-[Sab. 23.4.]
-  15.00  Torino FC                2-1 (1-0)  Spezia
-         Venezia                  1-3 (0-1)  Atalanta Bergamo
+Matchday 34
+[Sat Apr/23]
+  15.00  Torino FC                2-1 (1-0)  Spezia Calcio
+         Venezia FC               1-3 (0-1)  Atalanta Bergamo
   18.00  FC Internazionale Milano  3-1 (2-0)  AS Roma
   20.45  Hellas Verona            1-1 (0-1)  UC Sampdoria
-[Dom. 24.4.]
+[Sun Apr/24]
   12.30  Salernitana              2-1 (1-0)  ACF Fiorentina
   15.00  Bologna FC               2-2 (1-1)  Udinese Calcio
-         Empoli                   3-2 (0-1)  SSC Napoli
+         Empoli FC                3-2 (0-1)  SSC Napoli
   18.00  Genoa CFC                1-0 (0-0)  Cagliari Calcio
   20.45  SS Lazio                 1-2 (1-0)  AC Milan
-[Lun. 25.4.]
+[Mon Apr/25]
   20.45  US Sassuolo Calcio       1-2 (1-1)  Juventus
 
 
-20^ Giornata
-[Mer. 27.4.]
+Matchday 20
+[Wed Apr/27]
   18.00  ACF Fiorentina           0-4 (0-2)  Udinese Calcio
   20.15  Atalanta Bergamo         4-4 (2-2)  Torino FC
          Bologna FC               2-1 (1-1)  FC Internazionale Milano
 
 
-35^ Giornata
-[Sab. 30.4.]
+Matchday 35
+[Sat Apr/30]
   15.00  SSC Napoli               6-1 (4-0)  US Sassuolo Calcio
          Cagliari Calcio          1-2 (0-2)  Hellas Verona
   18.00  UC Sampdoria             1-0 (1-0)  Genoa CFC
-  20.45  Spezia                   3-4 (2-1)  SS Lazio
-[Dom. 1.5.]
-  12.30  Juventus                 2-1 (1-0)  Venezia
+  20.45  Spezia Calcio            3-4 (2-1)  SS Lazio
+[Sun May/1]
+  12.30  Juventus                 2-1 (1-0)  Venezia FC
   15.00  AC Milan                 1-0 (0-0)  ACF Fiorentina
-         Empoli                   1-3 (0-0)  Torino FC
+         Empoli FC                1-3 (0-0)  Torino FC
   18.00  Udinese Calcio           1-2 (0-2)  FC Internazionale Milano
   20.45  AS Roma                  0-0  Bologna FC
-[Lun. 2.5.]
+[Mon May/2]
   20.45  Atalanta Bergamo         1-1 (0-1)  Salernitana
 
 
-20^ Giornata
-[Gio. 5.5.]
-  18.00  Salernitana              2-1 (1-0)  Venezia
+Matchday 20
+[Thu May/5]
+  18.00  Salernitana              2-1 (1-0)  Venezia FC
 
 
-36^ Giornata
-[Ven. 6.5.]
-  18.45  FC Internazionale Milano  4-2 (2-2)  Empoli
+Matchday 36
+[Fri May/6]
+  18.45  FC Internazionale Milano  4-2 (2-2)  Empoli FC
   21.00  Genoa CFC                2-1 (0-0)  Juventus
-[Sab. 7.5.]
+[Sat May/7]
   15.00  Torino FC                0-1 (0-0)  SSC Napoli
   18.00  US Sassuolo Calcio       1-1 (1-0)  Udinese Calcio
   20.45  SS Lazio                 2-0 (1-0)  UC Sampdoria
-[Dom. 8.5.]
-  12.30  Spezia                   1-3 (1-1)  Atalanta Bergamo
-  15.00  Venezia                  4-3 (2-1)  Bologna FC
+[Sun May/8]
+  12.30  Spezia Calcio            1-3 (1-1)  Atalanta Bergamo
+  15.00  Venezia FC               4-3 (2-1)  Bologna FC
   18.00  Salernitana              1-1 (0-0)  Cagliari Calcio
   20.45  Hellas Verona            1-3 (1-1)  AC Milan
-[Lun. 9.5.]
+[Mon May/9]
   20.45  ACF Fiorentina           2-0 (2-0)  AS Roma
 
 
-37^ Giornata
-[Sab. 14.5.]
-  15.00  Empoli                   1-1 (1-0)  Salernitana
+Matchday 37
+[Sat May/14]
+  15.00  Empoli FC                1-1 (1-0)  Salernitana
   18.00  Hellas Verona            0-1 (0-1)  Torino FC
-         Udinese Calcio           2-3 (1-2)  Spezia
-  20.45  AS Roma                  1-1 (0-1)  Venezia
-[Dom. 15.5.]
+         Udinese Calcio           2-3 (1-2)  Spezia Calcio
+  20.45  AS Roma                  1-1 (0-1)  Venezia FC
+[Sun May/15]
   12.35  Bologna FC               1-3 (0-1)  US Sassuolo Calcio
   15.05  SSC Napoli               3-0 (1-0)  Genoa CFC
   18.00  AC Milan                 2-0 (0-0)  Atalanta Bergamo
   20.45  Cagliari Calcio          1-3 (0-1)  FC Internazionale Milano
-[Lun. 16.5.]
+[Mon May/16]
   18.30  UC Sampdoria             4-1 (2-0)  ACF Fiorentina
   20.45  Juventus                 2-2 (2-0)  SS Lazio
 
 
-38^ Giornata
-[Ven. 20.5.]
+Matchday 38
+[Fri May/20]
   20.45  Torino FC                0-3 (0-2)  AS Roma
-[Sab. 21.5.]
+[Sat May/21]
   17.15  Genoa CFC                0-1 (0-0)  Bologna FC
   20.45  ACF Fiorentina           2-0 (1-0)  Juventus
          SS Lazio                 3-3 (2-2)  Hellas Verona
-  20.50  Atalanta Bergamo         0-1 (0-0)  Empoli
-[Dom. 22.5.]
-  12.30  Spezia                   0-3 (0-3)  SSC Napoli
+  20.50  Atalanta Bergamo         0-1 (0-0)  Empoli FC
+[Sun May/22]
+  12.30  Spezia Calcio            0-3 (0-3)  SSC Napoli
   18.00  US Sassuolo Calcio       0-3 (0-3)  AC Milan
   18.05  FC Internazionale Milano  3-0 (0-0)  UC Sampdoria
   21.00  Salernitana              0-4 (0-3)  Udinese Calcio
-         Venezia                  0-0  Cagliari Calcio
+         Venezia FC               0-0  Cagliari Calcio

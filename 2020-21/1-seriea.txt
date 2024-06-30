@@ -1,118 +1,118 @@
 = Italian Serie A 2020/21
 
 
-1^ Giornata
-[Sab. 19.9.]
+Matchday 1
+[Sat Sep/19]
   18.00  ACF Fiorentina           1-0 (0-0)  Torino FC
   20.45  Hellas Verona            3-0  AS Roma                  [awarded]
-[Dom. 20.9.]
-  12.30  Parma                    0-2 (0-0)  SSC Napoli
+[Sun Sep/20]
+  12.30  Parma Calcio             0-2 (0-0)  SSC Napoli
   15.00  Genoa CFC                4-1 (3-1)  FC Crotone
   18.00  US Sassuolo Calcio       1-1 (0-1)  Cagliari Calcio
   20.45  Juventus                 3-0 (1-0)  UC Sampdoria
-[Lun. 21.9.]
+[Mon Sep/21]
   20.45  AC Milan                 2-0 (1-0)  Bologna FC
 
 
-2^ Giornata
-[Sab. 26.9.]
+Matchday 2
+[Sat Sep/26]
   15.00  Torino FC                2-4 (2-3)  Atalanta Bergamo
   18.00  Cagliari Calcio          0-2 (0-1)  SS Lazio
-         UC Sampdoria             2-3 (2-1)  Benevento
+         UC Sampdoria             2-3 (2-1)  Benevento Calcio
   20.45  FC Internazionale Milano  4-3 (1-1)  ACF Fiorentina
-[Dom. 27.9.]
-  12.30  Spezia                   1-4 (1-1)  US Sassuolo Calcio
+[Sun Sep/27]
+  12.30  Spezia Calcio            1-4 (1-1)  US Sassuolo Calcio
   15.00  Hellas Verona            1-0 (0-0)  Udinese Calcio
   18.00  FC Crotone               0-2 (0-1)  AC Milan
          SSC Napoli               6-0 (1-0)  Genoa CFC
   20.45  AS Roma                  2-2 (2-1)  Juventus
-[Lun. 28.9.]
-  20.45  Bologna FC               4-1 (2-0)  Parma
+[Mon Sep/28]
+  20.45  Bologna FC               4-1 (2-0)  Parma Calcio
 
 
-1^ Giornata
-[Mer. 30.9.]
-  18.00  Udinese Calcio           0-2 (0-1)  Spezia
-         Benevento                2-5 (1-4)  FC Internazionale Milano
+Matchday 1
+[Wed Sep/30]
+  18.00  Udinese Calcio           0-2 (0-1)  Spezia Calcio
+         Benevento Calcio         2-5 (1-4)  FC Internazionale Milano
   20.45  SS Lazio                 1-4 (0-3)  Atalanta Bergamo
 
 
-3^ Giornata
-[Ven. 2.10.]
+Matchday 3
+[Fri Oct/2]
   20.45  ACF Fiorentina           1-2 (0-1)  UC Sampdoria
-[Sab. 3.10.]
+[Sat Oct/3]
   15.00  US Sassuolo Calcio       4-1 (1-0)  FC Crotone
   20.45  Udinese Calcio           0-1 (0-0)  AS Roma
-[Dom. 4.10.]
+[Sun Oct/4]
   12.30  Atalanta Bergamo         5-2 (4-1)  Cagliari Calcio
-  15.00  Parma                    1-0 (1-0)  Hellas Verona
-         Benevento                1-0 (0-0)  Bologna FC
+  15.00  Parma Calcio             1-0 (1-0)  Hellas Verona
+         Benevento Calcio         1-0 (0-0)  Bologna FC
          SS Lazio                 1-1 (0-1)  FC Internazionale Milano
-  18.00  AC Milan                 3-0 (0-0)  Spezia
+  18.00  AC Milan                 3-0 (0-0)  Spezia Calcio
 
 
-4^ Giornata
-[Sab. 17.10.]
+Matchday 4
+[Sat Oct/17]
   15.00  SSC Napoli               4-1 (4-0)  Atalanta Bergamo
   18.00  FC Internazionale Milano  1-2 (1-2)  AC Milan
          UC Sampdoria             3-0 (2-0)  SS Lazio
   20.45  FC Crotone               1-1 (1-1)  Juventus
-[Dom. 18.10.]
+[Sun Oct/18]
   12.30  Bologna FC               3-4 (2-1)  US Sassuolo Calcio
-  15.00  Spezia                   2-2 (1-2)  ACF Fiorentina
+  15.00  Spezia Calcio            2-2 (1-2)  ACF Fiorentina
          Torino FC                2-3 (1-2)  Cagliari Calcio
-  18.00  Udinese Calcio           3-2 (1-1)  Parma
-  20.45  AS Roma                  5-2 (2-1)  Benevento
-[Lun. 19.10.]
+  18.00  Udinese Calcio           3-2 (1-1)  Parma Calcio
+  20.45  AS Roma                  5-2 (2-1)  Benevento Calcio
+[Mon Oct/19]
   20.45  Hellas Verona            0-0  Genoa CFC
 
 
-5^ Giornata
-[Ven. 23.10.]
+Matchday 5
+[Fri Oct/23]
   20.45  US Sassuolo Calcio       3-3 (0-1)  Torino FC
-[Sab. 24.10.]
+[Sat Oct/24]
   15.00  Atalanta Bergamo         1-3 (0-1)  UC Sampdoria
   18.00  Genoa CFC                0-2 (0-0)  FC Internazionale Milano
   20.45  SS Lazio                 2-1 (0-0)  Bologna FC
-[Dom. 25.10.]
+[Sun Oct/25]
   12.30  Cagliari Calcio          4-2 (3-2)  FC Crotone
-  15.00  Benevento                1-2 (1-0)  SSC Napoli
-         Parma                    2-2 (1-2)  Spezia
+  15.00  Benevento Calcio         1-2 (1-0)  SSC Napoli
+         Parma Calcio             2-2 (1-2)  Spezia Calcio
   18.00  ACF Fiorentina           3-2 (2-1)  Udinese Calcio
   20.45  Juventus                 1-1 (0-0)  Hellas Verona
-[Lun. 26.10.]
+[Mon Oct/26]
   20.45  AC Milan                 3-3 (1-1)  AS Roma
 
 
-6^ Giornata
-[Sab. 31.10.]
+Matchday 6
+[Sat Oct/31]
   15.00  FC Crotone               1-2 (1-2)  Atalanta Bergamo
-  18.00  FC Internazionale Milano  2-2 (0-0)  Parma
+  18.00  FC Internazionale Milano  2-2 (0-0)  Parma Calcio
   20.45  Bologna FC               3-2 (1-1)  Cagliari Calcio
-[Dom. 1.11.]
+[Sun Nov/1]
   12.30  Udinese Calcio           1-2 (0-1)  AC Milan
   15.00  Torino FC                3-4 (2-1)  SS Lazio
-         Spezia                   1-4 (1-1)  Juventus
+         Spezia Calcio            1-4 (1-1)  Juventus
   18.00  AS Roma                  2-0 (1-0)  ACF Fiorentina
          SSC Napoli               0-2 (0-0)  US Sassuolo Calcio
   20.45  UC Sampdoria             1-1 (1-1)  Genoa CFC
-[Lun. 2.11.]
-  20.45  Hellas Verona            3-1 (1-0)  Benevento
+[Mon Nov/2]
+  20.45  Hellas Verona            3-1 (1-0)  Benevento Calcio
 
 
-3^ Giornata
-[Mer. 4.11.]
+Matchday 3
+[Wed Nov/4]
   17.00  Genoa CFC                1-2 (0-2)  Torino FC
 
 
-7^ Giornata
-[Ven. 6.11.]
+Matchday 7
+[Fri Nov/6]
   20.45  US Sassuolo Calcio       0-0  Udinese Calcio
-[Sab. 7.11.]
+[Sat Nov/7]
   15.00  Cagliari Calcio          2-0 (0-0)  UC Sampdoria
-  18.00  Benevento                0-3 (0-1)  Spezia
-  20.45  Parma                    0-0  ACF Fiorentina
-[Dom. 8.11.]
+  18.00  Benevento Calcio         0-3 (0-1)  Spezia Calcio
+  20.45  Parma Calcio             0-0  ACF Fiorentina
+[Sun Nov/8]
   12.30  SS Lazio                 1-1 (0-1)  Juventus
   15.00  Atalanta Bergamo         1-1 (0-0)  FC Internazionale Milano
          Torino FC                0-0  FC Crotone
@@ -121,14 +121,14 @@
   20.45  AC Milan                 2-2 (1-2)  Hellas Verona
 
 
-8^ Giornata
-[Sab. 21.11.]
+Matchday 8
+[Sat Nov/21]
   15.00  FC Crotone               0-2 (0-1)  SS Lazio
-  18.00  Spezia                   0-0  Atalanta Bergamo
+  18.00  Spezia Calcio            0-0  Atalanta Bergamo
   20.45  Juventus                 2-0 (2-0)  Cagliari Calcio
-[Dom. 22.11.]
-  12.30  ACF Fiorentina           0-1 (0-0)  Benevento
-  15.00  AS Roma                  3-0 (3-0)  Parma
+[Sun Nov/22]
+  12.30  ACF Fiorentina           0-1 (0-0)  Benevento Calcio
+  15.00  AS Roma                  3-0 (3-0)  Parma Calcio
          UC Sampdoria             1-2 (1-1)  Bologna FC
          Hellas Verona            0-2 (0-1)  US Sassuolo Calcio
          FC Internazionale Milano  4-2 (0-1)  Torino FC
@@ -136,493 +136,493 @@
   20.45  SSC Napoli               1-3 (0-1)  AC Milan
 
 
-9^ Giornata
-[Sab. 28.11.]
+Matchday 9
+[Sat Nov/28]
   15.00  US Sassuolo Calcio       0-3 (0-2)  FC Internazionale Milano
-  18.00  Benevento                1-1 (1-1)  Juventus
+  18.00  Benevento Calcio         1-1 (1-1)  Juventus
   20.45  Atalanta Bergamo         0-2 (0-0)  Hellas Verona
-[Dom. 29.11.]
+[Sun Nov/29]
   12.30  SS Lazio                 1-3 (0-2)  Udinese Calcio
   15.00  AC Milan                 2-0 (2-0)  ACF Fiorentina
          Bologna FC               1-0 (1-0)  FC Crotone
-  18.00  Cagliari Calcio          2-2 (0-1)  Spezia
+  18.00  Cagliari Calcio          2-2 (0-1)  Spezia Calcio
   20.45  SSC Napoli               4-0 (1-0)  AS Roma
-[Lun. 30.11.]
+[Mon Nov/30]
   18.30  Torino FC                2-2 (1-0)  UC Sampdoria
-  20.45  Genoa CFC                1-2 (0-1)  Parma
+  20.45  Genoa CFC                1-2 (0-1)  Parma Calcio
 
 
-10^ Giornata
-[Sab. 5.12.]
-  15.00  Spezia                   1-2 (0-2)  SS Lazio
+Matchday 10
+[Sat Dec/5]
+  15.00  Spezia Calcio            1-2 (0-2)  SS Lazio
   18.00  Juventus                 2-1 (0-1)  Torino FC
   20.45  FC Internazionale Milano  3-1 (2-0)  Bologna FC
-[Dom. 6.12.]
+[Sun Dec/6]
   12.30  Hellas Verona            1-1 (1-0)  Cagliari Calcio
-  15.00  Parma                    0-0  Benevento
+  15.00  Parma Calcio             0-0  Benevento Calcio
          AS Roma                  0-0  US Sassuolo Calcio
   18.00  FC Crotone               0-4 (0-1)  SSC Napoli
   20.45  UC Sampdoria             1-2 (0-1)  AC Milan
-[Lun. 7.12.]
+[Mon Dec/7]
   20.45  ACF Fiorentina           1-1 (0-0)  Genoa CFC
 
 
-11^ Giornata
-[Ven. 11.12.]
-  20.45  US Sassuolo Calcio       1-0 (1-0)  Benevento
-[Sab. 12.12.]
-  15.00  FC Crotone               4-1 (1-1)  Spezia
+Matchday 11
+[Fri Dec/11]
+  20.45  US Sassuolo Calcio       1-0 (1-0)  Benevento Calcio
+[Sat Dec/12]
+  15.00  FC Crotone               4-1 (1-1)  Spezia Calcio
   18.00  Torino FC                2-3 (0-1)  Udinese Calcio
   20.45  SS Lazio                 1-2 (0-1)  Hellas Verona
-[Dom. 13.12.]
+[Sun Dec/13]
   12.45  Cagliari Calcio          1-3 (1-0)  FC Internazionale Milano
   15.00  Atalanta Bergamo         3-0 (1-0)  ACF Fiorentina
          Bologna FC               1-5 (1-5)  AS Roma
          SSC Napoli               2-1 (0-1)  UC Sampdoria
   18.00  Genoa CFC                1-3 (0-0)  Juventus
-  20.45  AC Milan                 2-2 (0-1)  Parma
+  20.45  AC Milan                 2-2 (0-1)  Parma Calcio
 
 
-12^ Giornata
-[Mar. 15.12.]
+Matchday 12
+[Tue Dec/15]
   18.30  Udinese Calcio           0-0  FC Crotone
-  20.45  Benevento                1-1 (1-1)  SS Lazio
-[Mer. 16.12.]
+  20.45  Benevento Calcio         1-1 (1-1)  SS Lazio
+[Wed Dec/16]
   18.30  Juventus                 1-1 (1-0)  Atalanta Bergamo
   20.45  FC Internazionale Milano  1-0 (0-0)  SSC Napoli
          ACF Fiorentina           1-1 (1-1)  US Sassuolo Calcio
-         Parma                    0-0  Cagliari Calcio
+         Parma Calcio             0-0  Cagliari Calcio
          Genoa CFC                2-2 (0-0)  AC Milan
-         Spezia                   2-2 (1-0)  Bologna FC
+         Spezia Calcio            2-2 (1-0)  Bologna FC
          Hellas Verona            1-2 (0-1)  UC Sampdoria
-[Gio. 17.12.]
+[Thu Dec/17]
   20.45  AS Roma                  3-1 (2-0)  Torino FC
 
 
-13^ Giornata
-[Sab. 19.12.]
+Matchday 13
+[Sat Dec/19]
   15.00  ACF Fiorentina           1-1 (1-1)  Hellas Verona
   18.00  UC Sampdoria             3-1 (2-1)  FC Crotone
-  20.45  Parma                    0-4 (0-2)  Juventus
-[Dom. 20.12.]
+  20.45  Parma Calcio             0-4 (0-2)  Juventus
+[Sun Dec/20]
   12.30  Torino FC                1-1 (0-0)  Bologna FC
-  15.00  FC Internazionale Milano  2-1 (0-0)  Spezia
+  15.00  FC Internazionale Milano  2-1 (0-0)  Spezia Calcio
          Cagliari Calcio          1-1 (1-0)  Udinese Calcio
          US Sassuolo Calcio       1-2 (0-2)  AC Milan
-         Benevento                2-0 (0-0)  Genoa CFC
+         Benevento Calcio         2-0 (0-0)  Genoa CFC
   18.00  Atalanta Bergamo         4-1 (0-1)  AS Roma
   20.45  SS Lazio                 2-0 (1-0)  SSC Napoli
 
 
-14^ Giornata
-[Mar. 22.12.]
-  18.30  FC Crotone               2-1 (2-0)  Parma
+Matchday 14
+[Tue Dec/22]
+  18.30  FC Crotone               2-1 (2-0)  Parma Calcio
   20.45  Juventus                 0-3 (0-1)  ACF Fiorentina
-[Mer. 23.12.]
+[Wed Dec/23]
   18.30  Hellas Verona            1-2 (0-0)  FC Internazionale Milano
   20.45  SSC Napoli               1-1 (0-0)  Torino FC
          AS Roma                  3-2 (1-0)  Cagliari Calcio
          AC Milan                 3-2 (2-1)  SS Lazio
-         Udinese Calcio           0-2 (0-1)  Benevento
+         Udinese Calcio           0-2 (0-1)  Benevento Calcio
          UC Sampdoria             2-3 (0-1)  US Sassuolo Calcio
          Bologna FC               2-2 (0-2)  Atalanta Bergamo
-         Spezia                   1-2 (1-1)  Genoa CFC
+         Spezia Calcio            1-2 (1-1)  Genoa CFC
 
 
-15^ Giornata
-[Dom. 3.1.]
+Matchday 15
+[Sun Jan/3]
   12.30  FC Internazionale Milano  6-2 (2-2)  FC Crotone
   15.00  ACF Fiorentina           0-0  Bologna FC
          AS Roma                  1-0 (0-0)  UC Sampdoria
-         Parma                    0-3 (0-1)  Torino FC
+         Parma Calcio             0-3 (0-1)  Torino FC
          Atalanta Bergamo         5-1 (2-0)  US Sassuolo Calcio
          Cagliari Calcio          1-4 (0-1)  SSC Napoli
          Genoa CFC                1-1 (0-1)  SS Lazio
-         Spezia                   0-1 (0-0)  Hellas Verona
-  18.00  Benevento                0-2 (0-1)  AC Milan
+         Spezia Calcio            0-1 (0-0)  Hellas Verona
+  18.00  Benevento Calcio         0-2 (0-1)  AC Milan
   20.45  Juventus                 4-1 (1-0)  Udinese Calcio
 
 
-16^ Giornata
-[Mer. 6.1.]
-  12.30  Cagliari Calcio          1-2 (1-2)  Benevento
+Matchday 16
+[Wed Jan/6]
+  12.30  Cagliari Calcio          1-2 (1-2)  Benevento Calcio
   15.00  SS Lazio                 2-1 (1-0)  ACF Fiorentina
          UC Sampdoria             2-1 (2-0)  FC Internazionale Milano
          Torino FC                1-1 (0-0)  Hellas Verona
          Bologna FC               2-2 (2-1)  Udinese Calcio
          US Sassuolo Calcio       2-1 (0-0)  Genoa CFC
          FC Crotone               1-3 (0-3)  AS Roma
-  15.05  Atalanta Bergamo         3-0 (1-0)  Parma
-  18.00  SSC Napoli               1-2 (0-0)  Spezia
+  15.05  Atalanta Bergamo         3-0 (1-0)  Parma Calcio
+  18.00  SSC Napoli               1-2 (0-0)  Spezia Calcio
   20.45  AC Milan                 1-3 (1-1)  Juventus
 
 
-17^ Giornata
-[Sab. 9.1.]
-  15.00  Benevento                1-4 (0-1)  Atalanta Bergamo
+Matchday 17
+[Sat Jan/9]
+  15.00  Benevento Calcio         1-4 (0-1)  Atalanta Bergamo
   18.00  Genoa CFC                2-0 (1-0)  Bologna FC
   20.45  AC Milan                 2-0 (2-0)  Torino FC
-[Dom. 10.1.]
+[Sun Jan/10]
   12.30  AS Roma                  2-2 (1-0)  FC Internazionale Milano
-  15.00  Parma                    0-2 (0-0)  SS Lazio
+  15.00  Parma Calcio             0-2 (0-0)  SS Lazio
          Udinese Calcio           1-2 (1-1)  SSC Napoli
          Hellas Verona            2-1 (2-0)  FC Crotone
   18.05  ACF Fiorentina           1-0 (0-0)  Cagliari Calcio
   20.45  Juventus                 3-1 (0-0)  US Sassuolo Calcio
-[Lun. 11.1.]
-  20.45  Spezia                   2-1 (1-1)  UC Sampdoria
+[Mon Jan/11]
+  20.45  Spezia Calcio            2-1 (1-1)  UC Sampdoria
 
 
-18^ Giornata
-[Ven. 15.1.]
+Matchday 18
+[Fri Jan/15]
   20.45  SS Lazio                 3-0 (2-0)  AS Roma
-[Sab. 16.1.]
+[Sat Jan/16]
   15.00  Bologna FC               1-0 (1-0)  Hellas Verona
-  18.00  Torino FC                0-0  Spezia
+  18.00  Torino FC                0-0  Spezia Calcio
   20.45  UC Sampdoria             2-1 (0-0)  Udinese Calcio
-[Dom. 17.1.]
+[Sun Jan/17]
   12.30  SSC Napoli               6-0 (4-0)  ACF Fiorentina
-  15.00  US Sassuolo Calcio       1-1 (0-1)  Parma
-         FC Crotone               4-1 (2-0)  Benevento
+  15.00  US Sassuolo Calcio       1-1 (0-1)  Parma Calcio
+         FC Crotone               4-1 (2-0)  Benevento Calcio
   18.00  Atalanta Bergamo         0-0  Genoa CFC
   20.45  FC Internazionale Milano  2-0 (1-0)  Juventus
-[Lun. 18.1.]
+[Mon Jan/18]
   20.45  Cagliari Calcio          0-2 (0-1)  AC Milan
 
 
-10^ Giornata
-[Mer. 20.1.]
+Matchday 10
+[Wed Jan/20]
   15.00  Udinese Calcio           1-1 (1-1)  Atalanta Bergamo
 
 
-19^ Giornata
-[Ven. 22.1.]
-  20.45  Benevento                2-2 (1-0)  Torino FC
-[Sab. 23.1.]
-  15.00  AS Roma                  4-3 (1-1)  Spezia
+Matchday 19
+[Fri Jan/22]
+  20.45  Benevento Calcio         2-2 (1-0)  Torino FC
+[Sat Jan/23]
+  15.00  AS Roma                  4-3 (1-1)  Spezia Calcio
   18.00  Udinese Calcio           0-0  FC Internazionale Milano
          AC Milan                 0-3 (0-1)  Atalanta Bergamo
   20.50  ACF Fiorentina           2-1 (2-0)  FC Crotone
-[Dom. 24.1.]
+[Sun Jan/24]
   12.30  Juventus                 2-0 (1-0)  Bologna FC
   15.00  Genoa CFC                1-0 (1-0)  Cagliari Calcio
          Hellas Verona            3-1 (1-1)  SSC Napoli
   18.00  SS Lazio                 2-1 (1-1)  US Sassuolo Calcio
-  20.45  Parma                    0-2 (0-2)  UC Sampdoria
+  20.45  Parma Calcio             0-2 (0-2)  UC Sampdoria
 
 
-20^ Giornata
-[Ven. 29.1.]
+Matchday 20
+[Fri Jan/29]
   20.50  Torino FC                1-1 (0-0)  ACF Fiorentina
-[Sab. 30.1.]
+[Sat Jan/30]
   15.00  Bologna FC               1-2 (0-1)  AC Milan
   18.00  UC Sampdoria             0-2 (0-1)  Juventus
-  20.45  FC Internazionale Milano  4-0 (1-0)  Benevento
-[Dom. 31.1.]
-  12.30  Spezia                   0-1 (0-0)  Udinese Calcio
+  20.45  FC Internazionale Milano  4-0 (1-0)  Benevento Calcio
+[Sun Jan/31]
+  12.30  Spezia Calcio            0-1 (0-0)  Udinese Calcio
   15.00  Atalanta Bergamo         1-3 (0-1)  SS Lazio
          Cagliari Calcio          1-1 (0-0)  US Sassuolo Calcio
          FC Crotone               0-3 (0-2)  Genoa CFC
-  18.00  SSC Napoli               2-0 (1-0)  Parma
+  18.00  SSC Napoli               2-0 (1-0)  Parma Calcio
   20.45  AS Roma                  3-1 (3-0)  Hellas Verona
 
 
-21^ Giornata
-[Ven. 5.2.]
+Matchday 21
+[Fri Feb/5]
   20.45  ACF Fiorentina           0-2 (0-1)  FC Internazionale Milano
-[Sab. 6.2.]
-  15.00  US Sassuolo Calcio       1-2 (1-1)  Spezia
+[Sat Feb/6]
+  15.00  US Sassuolo Calcio       1-2 (1-1)  Spezia Calcio
          Atalanta Bergamo         3-3 (3-2)  Torino FC
   18.00  Juventus                 2-0 (1-0)  AS Roma
   20.45  Genoa CFC                2-1 (2-0)  SSC Napoli
-[Dom. 7.2.]
-  12.30  Benevento                1-1 (0-0)  UC Sampdoria
+[Sun Feb/7]
+  12.30  Benevento Calcio         1-1 (0-0)  UC Sampdoria
   15.00  Udinese Calcio           2-0 (0-0)  Hellas Verona
          AC Milan                 4-0 (1-0)  FC Crotone
-  18.00  Parma                    0-3 (0-2)  Bologna FC
+  18.00  Parma Calcio             0-3 (0-2)  Bologna FC
   20.45  SS Lazio                 1-0 (0-0)  Cagliari Calcio
 
 
-22^ Giornata
-[Ven. 12.2.]
-  20.50  Bologna FC               1-1 (1-0)  Benevento
-[Sab. 13.2.]
+Matchday 22
+[Fri Feb/12]
+  20.50  Bologna FC               1-1 (1-0)  Benevento Calcio
+[Sat Feb/13]
   15.00  Torino FC                0-0  Genoa CFC
   18.00  SSC Napoli               1-0 (1-0)  Juventus
-  20.45  Spezia                   2-0 (0-0)  AC Milan
-[Dom. 14.2.]
+  20.45  Spezia Calcio            2-0 (0-0)  AC Milan
+[Sun Feb/14]
   12.30  AS Roma                  3-0 (2-0)  Udinese Calcio
   15.00  UC Sampdoria             2-1 (1-1)  ACF Fiorentina
          Cagliari Calcio          0-1 (0-0)  Atalanta Bergamo
   18.00  FC Crotone               1-2 (1-1)  US Sassuolo Calcio
   20.45  FC Internazionale Milano  3-1 (2-0)  SS Lazio
-[Lun. 15.2.]
-  20.50  Hellas Verona            2-1 (1-1)  Parma
+[Mon Feb/15]
+  20.50  Hellas Verona            2-1 (1-1)  Parma Calcio
 
 
-23^ Giornata
-[Ven. 19.2.]
-  18.30  ACF Fiorentina           3-0 (0-0)  Spezia
+Matchday 23
+[Fri Feb/19]
+  18.30  ACF Fiorentina           3-0 (0-0)  Spezia Calcio
   20.45  Cagliari Calcio          0-1 (0-0)  Torino FC
-[Sab. 20.2.]
+[Sat Feb/20]
   15.00  SS Lazio                 1-0 (1-0)  UC Sampdoria
   18.00  Genoa CFC                2-2 (0-1)  Hellas Verona
   20.45  US Sassuolo Calcio       1-1 (0-1)  Bologna FC
-[Dom. 21.2.]
-  12.30  Parma                    2-2 (2-0)  Udinese Calcio
+[Sun Feb/21]
+  12.30  Parma Calcio             2-2 (2-0)  Udinese Calcio
   15.00  AC Milan                 0-3 (0-1)  FC Internazionale Milano
   18.00  Atalanta Bergamo         4-2 (0-0)  SSC Napoli
-  20.50  Benevento                0-0  AS Roma
-[Lun. 22.2.]
+  20.50  Benevento Calcio         0-0  AS Roma
+[Mon Feb/22]
   20.45  Juventus                 3-0 (2-0)  FC Crotone
 
 
-24^ Giornata
-[Sab. 27.2.]
-  15.00  Spezia                   2-2 (0-2)  Parma
+Matchday 24
+[Sat Feb/27]
+  15.00  Spezia Calcio            2-2 (0-2)  Parma Calcio
   18.00  Bologna FC               2-0 (1-0)  SS Lazio
   20.45  Hellas Verona            1-1 (0-0)  Juventus
-[Dom. 28.2.]
+[Sun Feb/28]
   12.30  UC Sampdoria             0-2 (0-1)  Atalanta Bergamo
   15.00  FC Internazionale Milano  3-0 (1-0)  Genoa CFC
          Udinese Calcio           1-0 (0-0)  ACF Fiorentina
          FC Crotone               0-2 (0-0)  Cagliari Calcio
-  18.00  SSC Napoli               2-0 (1-0)  Benevento
+  18.00  SSC Napoli               2-0 (1-0)  Benevento Calcio
   20.45  AS Roma                  1-2 (0-1)  AC Milan
 
 
-25^ Giornata
-[Mar. 2.3.]
-  20.45  Juventus                 3-0 (0-0)  Spezia
-[Mer. 3.3.]
+Matchday 25
+[Tue Mar/2]
+  20.45  Juventus                 3-0 (0-0)  Spezia Calcio
+[Wed Mar/3]
   18.30  US Sassuolo Calcio       3-3 (2-1)  SSC Napoli
   20.45  ACF Fiorentina           1-2 (0-0)  AS Roma
          AC Milan                 1-1 (0-0)  Udinese Calcio
          Atalanta Bergamo         5-1 (1-1)  FC Crotone
          Cagliari Calcio          1-0 (1-0)  Bologna FC
          Genoa CFC                1-1 (0-0)  UC Sampdoria
-         Benevento                0-3 (0-2)  Hellas Verona
-[Gio. 4.3.]
-  20.45  Parma                    1-2 (0-0)  FC Internazionale Milano
+         Benevento Calcio         0-3 (0-2)  Hellas Verona
+[Thu Mar/4]
+  20.45  Parma Calcio             1-2 (0-0)  FC Internazionale Milano
 
 
-26^ Giornata
-[Sab. 6.3.]
-  15.00  Spezia                   1-1 (0-1)  Benevento
+Matchday 26
+[Sat Mar/6]
+  15.00  Spezia Calcio            1-1 (0-1)  Benevento Calcio
   18.00  Udinese Calcio           2-0 (1-0)  US Sassuolo Calcio
   20.45  Juventus                 3-1 (1-1)  SS Lazio
-[Dom. 7.3.]
+[Sun Mar/7]
   12.30  AS Roma                  1-0 (1-0)  Genoa CFC
   15.00  Hellas Verona            0-2 (0-1)  AC Milan
          FC Crotone               4-2 (1-1)  Torino FC
-         ACF Fiorentina           3-3 (2-1)  Parma
+         ACF Fiorentina           3-3 (2-1)  Parma Calcio
   18.00  UC Sampdoria             2-2 (0-1)  Cagliari Calcio
   20.50  SSC Napoli               3-1 (1-0)  Bologna FC
-[Lun. 8.3.]
+[Mon Mar/8]
   20.45  FC Internazionale Milano  1-0 (0-0)  Atalanta Bergamo
 
 
-27^ Giornata
-[Ven. 12.3.]
+Matchday 27
+[Fri Mar/12]
   15.00  SS Lazio                 3-2 (2-1)  FC Crotone
-  20.45  Atalanta Bergamo         3-1 (0-0)  Spezia
-[Sab. 13.3.]
+  20.45  Atalanta Bergamo         3-1 (0-0)  Spezia Calcio
+[Sat Mar/13]
   15.00  US Sassuolo Calcio       3-2 (1-1)  Hellas Verona
-  18.00  Benevento                1-4 (0-3)  ACF Fiorentina
+  18.00  Benevento Calcio         1-4 (0-3)  ACF Fiorentina
   20.45  Genoa CFC                1-1 (1-1)  Udinese Calcio
-[Dom. 14.3.]
+[Sun Mar/14]
   12.30  Bologna FC               3-1 (2-1)  UC Sampdoria
   15.00  Torino FC                1-2 (0-0)  FC Internazionale Milano
-         Parma                    2-0 (1-0)  AS Roma
+         Parma Calcio             2-0 (1-0)  AS Roma
   18.00  Cagliari Calcio          1-3 (0-3)  Juventus
   20.45  AC Milan                 0-1 (0-0)  SSC Napoli
 
 
-24^ Giornata
-[Mer. 17.3.]
+Matchday 24
+[Wed Mar/17]
   15.05  Torino FC                3-2 (0-2)  US Sassuolo Calcio
 
 
-28^ Giornata
-[Ven. 19.3.]
-  20.45  Parma                    1-2 (1-0)  Genoa CFC
-[Sab. 20.3.]
+Matchday 28
+[Fri Mar/19]
+  20.45  Parma Calcio             1-2 (1-0)  Genoa CFC
+[Sat Mar/20]
   15.00  FC Crotone               2-3 (2-0)  Bologna FC
-  18.00  Spezia                   2-1 (0-0)  Cagliari Calcio
-[Dom. 21.3.]
+  18.00  Spezia Calcio            2-1 (0-0)  Cagliari Calcio
+[Sun Mar/21]
   12.30  Hellas Verona            0-2 (0-2)  Atalanta Bergamo
-  15.00  Juventus                 0-1 (0-0)  Benevento
+  15.00  Juventus                 0-1 (0-0)  Benevento Calcio
          Udinese Calcio           0-1 (0-1)  SS Lazio
          UC Sampdoria             1-0 (1-0)  Torino FC
   18.00  ACF Fiorentina           2-3 (1-1)  AC Milan
   20.45  AS Roma                  0-2 (0-2)  SSC Napoli
 
 
-29^ Giornata
-[Sab. 3.4.]
+Matchday 29
+[Sat Apr/3]
   12.30  AC Milan                 1-1 (0-0)  UC Sampdoria
   15.00  SSC Napoli               4-3 (3-1)  FC Crotone
-         SS Lazio                 2-1 (0-0)  Spezia
+         SS Lazio                 2-1 (0-0)  Spezia Calcio
          Atalanta Bergamo         3-2 (2-1)  Udinese Calcio
          Cagliari Calcio          0-2 (0-0)  Hellas Verona
          Genoa CFC                1-1 (1-1)  ACF Fiorentina
          US Sassuolo Calcio       2-2 (0-1)  AS Roma
-         Benevento                2-2 (1-0)  Parma
+         Benevento Calcio         2-2 (1-0)  Parma Calcio
   18.00  Torino FC                2-2 (1-1)  Juventus
   20.45  Bologna FC               0-1 (0-1)  FC Internazionale Milano
 
 
-28^ Giornata
-[Mer. 7.4.]
+Matchday 28
+[Wed Apr/7]
   18.45  FC Internazionale Milano  2-1 (1-0)  US Sassuolo Calcio
 
 
-3^ Giornata
-[Mer. 7.4.]
+Matchday 3
+[Wed Apr/7]
   18.45  Juventus                 2-1 (1-0)  SSC Napoli
 
 
-30^ Giornata
-[Sab. 10.4.]
-  15.00  Spezia                   3-2 (0-1)  FC Crotone
-  18.00  Parma                    1-3 (0-2)  AC Milan
+Matchday 30
+[Sat Apr/10]
+  15.00  Spezia Calcio            3-2 (0-1)  FC Crotone
+  18.00  Parma Calcio             1-3 (0-2)  AC Milan
   20.45  Udinese Calcio           0-1 (0-0)  Torino FC
-[Dom. 11.4.]
+[Sun Apr/11]
   12.30  FC Internazionale Milano  1-0 (0-0)  Cagliari Calcio
   15.00  UC Sampdoria             0-2 (0-1)  SSC Napoli
          Juventus                 3-1 (2-0)  Genoa CFC
   15.05  Hellas Verona            0-1 (0-0)  SS Lazio
   18.00  AS Roma                  1-0 (1-0)  Bologna FC
   20.45  ACF Fiorentina           2-3 (0-2)  Atalanta Bergamo
-[Lun. 12.4.]
-  20.45  Benevento                0-1 (0-1)  US Sassuolo Calcio
+[Mon Apr/12]
+  20.45  Benevento Calcio         0-1 (0-1)  US Sassuolo Calcio
 
 
-31^ Giornata
-[Sab. 17.4.]
+Matchday 31
+[Sat Apr/17]
   15.00  FC Crotone               1-2 (0-1)  Udinese Calcio
          UC Sampdoria             3-1 (0-1)  Hellas Verona
   18.00  US Sassuolo Calcio       3-1 (0-1)  ACF Fiorentina
-  20.45  Cagliari Calcio          4-3 (1-2)  Parma
-[Dom. 18.4.]
+  20.45  Cagliari Calcio          4-3 (1-2)  Parma Calcio
+[Sun Apr/18]
   12.30  AC Milan                 2-1 (1-1)  Genoa CFC
   15.00  Atalanta Bergamo         1-0 (0-0)  Juventus
-         Bologna FC               4-1 (2-1)  Spezia
-         SS Lazio                 5-3 (3-1)  Benevento
+         Bologna FC               4-1 (2-1)  Spezia Calcio
+         SS Lazio                 5-3 (3-1)  Benevento Calcio
   18.00  Torino FC                3-1 (0-1)  AS Roma
   20.45  SSC Napoli               1-1 (1-0)  FC Internazionale Milano
 
 
-32^ Giornata
-[Mar. 20.4.]
+Matchday 32
+[Tue Apr/20]
   20.45  Hellas Verona            1-2 (0-1)  ACF Fiorentina
-[Mer. 21.4.]
+[Wed Apr/21]
   18.30  AC Milan                 1-2 (1-0)  US Sassuolo Calcio
-  20.45  Juventus                 3-1 (1-1)  Parma
+  20.45  Juventus                 3-1 (1-1)  Parma Calcio
          Udinese Calcio           0-1 (0-0)  Cagliari Calcio
          Bologna FC               1-1 (1-0)  Torino FC
-         Genoa CFC                2-2 (2-2)  Benevento
-         Spezia                   1-1 (1-1)  FC Internazionale Milano
+         Genoa CFC                2-2 (2-2)  Benevento Calcio
+         Spezia Calcio            1-1 (1-1)  FC Internazionale Milano
          FC Crotone               0-1 (0-0)  UC Sampdoria
-[Gio. 22.4.]
+[Thu Apr/22]
   18.30  AS Roma                  1-1 (0-1)  Atalanta Bergamo
   20.45  SSC Napoli               5-2 (2-0)  SS Lazio
 
 
-33^ Giornata
-[Sab. 24.4.]
-  15.00  Genoa CFC                2-0 (0-0)  Spezia
-  18.00  Parma                    3-4 (1-3)  FC Crotone
+Matchday 33
+[Sat Apr/24]
+  15.00  Genoa CFC                2-0 (0-0)  Spezia Calcio
+  18.00  Parma Calcio             3-4 (1-3)  FC Crotone
   20.45  US Sassuolo Calcio       1-0 (0-0)  UC Sampdoria
-[Dom. 25.4.]
-  12.30  Benevento                2-4 (1-2)  Udinese Calcio
+[Sun Apr/25]
+  12.30  Benevento Calcio         2-4 (1-2)  Udinese Calcio
   15.00  ACF Fiorentina           1-1 (1-0)  Juventus
          FC Internazionale Milano  1-0 (0-0)  Hellas Verona
   18.00  Cagliari Calcio          3-2 (1-1)  AS Roma
   20.45  Atalanta Bergamo         5-0 (2-0)  Bologna FC
-[Lun. 26.4.]
+[Mon Apr/26]
   18.30  Torino FC                0-2 (0-2)  SSC Napoli
   20.45  SS Lazio                 3-0 (1-0)  AC Milan
 
 
-34^ Giornata
-[Sab. 1.5.]
-  15.00  Hellas Verona            1-1 (0-0)  Spezia
+Matchday 34
+[Sat May/1]
+  15.00  Hellas Verona            1-1 (0-0)  Spezia Calcio
   18.00  FC Crotone               0-2 (0-0)  FC Internazionale Milano
-  20.45  AC Milan                 2-0 (1-0)  Benevento
-[Dom. 2.5.]
+  20.45  AC Milan                 2-0 (1-0)  Benevento Calcio
+[Sun May/2]
   12.30  SS Lazio                 4-3 (2-0)  Genoa CFC
   15.00  SSC Napoli               1-1 (1-0)  Cagliari Calcio
          Bologna FC               3-3 (1-1)  ACF Fiorentina
          US Sassuolo Calcio       1-1 (0-1)  Atalanta Bergamo
   18.00  Udinese Calcio           1-2 (1-0)  Juventus
   20.45  UC Sampdoria             2-0 (1-0)  AS Roma
-[Lun. 3.5.]
-  20.45  Torino FC                1-0 (0-0)  Parma
+[Mon May/3]
+  20.45  Torino FC                1-0 (0-0)  Parma Calcio
 
 
-35^ Giornata
-[Sab. 8.5.]
-  15.00  Spezia                   1-4 (0-3)  SSC Napoli
+Matchday 35
+[Sat May/8]
+  15.00  Spezia Calcio            1-4 (0-3)  SSC Napoli
          Udinese Calcio           1-1 (1-0)  Bologna FC
   18.05  FC Internazionale Milano  5-1 (3-1)  UC Sampdoria
   20.45  ACF Fiorentina           2-0 (1-0)  SS Lazio
-[Dom. 9.5.]
+[Sun May/9]
   12.30  Genoa CFC                1-2 (0-1)  US Sassuolo Calcio
   15.00  Hellas Verona            1-1 (0-0)  Torino FC
-         Benevento                1-3 (1-1)  Cagliari Calcio
-         Parma                    2-5 (0-1)  Atalanta Bergamo
+         Benevento Calcio         1-3 (1-1)  Cagliari Calcio
+         Parma Calcio             2-5 (0-1)  Atalanta Bergamo
   18.00  AS Roma                  5-0 (0-0)  FC Crotone
   20.45  Juventus                 0-3 (0-1)  AC Milan
 
 
-36^ Giornata
-[Mar. 11.5.]
+Matchday 36
+[Tue May/11]
   20.45  SSC Napoli               5-1 (2-1)  Udinese Calcio
-[Mer. 12.5.]
+[Wed May/12]
   18.30  Cagliari Calcio          0-0  ACF Fiorentina
-  20.45  SS Lazio                 1-0 (0-0)  Parma
-         Atalanta Bergamo         2-0 (1-0)  Benevento
-         UC Sampdoria             2-2 (1-1)  Spezia
+  20.45  SS Lazio                 1-0 (0-0)  Parma Calcio
+         Atalanta Bergamo         2-0 (1-0)  Benevento Calcio
+         UC Sampdoria             2-2 (1-1)  Spezia Calcio
          Torino FC                0-7 (0-2)  AC Milan
          Bologna FC               0-2 (0-1)  Genoa CFC
          US Sassuolo Calcio       1-3 (0-2)  Juventus
   20.50  FC Internazionale Milano  3-1 (2-1)  AS Roma
-[Gio. 13.5.]
+[Thu May/13]
   20.45  FC Crotone               2-1 (1-0)  Hellas Verona
 
 
-37^ Giornata
-[Sab. 15.5.]
-  15.00  Spezia                   4-1 (2-0)  Torino FC
+Matchday 37
+[Sat May/15]
+  15.00  Spezia Calcio            4-1 (2-0)  Torino FC
          Genoa CFC                3-4 (0-3)  Atalanta Bergamo
   18.00  Juventus                 3-2 (2-1)  FC Internazionale Milano
   20.45  AS Roma                  2-0 (1-0)  SS Lazio
-[Dom. 16.5.]
+[Sun May/16]
   12.35  ACF Fiorentina           0-2 (0-0)  SSC Napoli
   15.00  Udinese Calcio           0-1 (0-0)  UC Sampdoria
-         Benevento                1-1 (1-0)  FC Crotone
-  18.00  Parma                    1-3 (1-1)  US Sassuolo Calcio
+         Benevento Calcio         1-1 (1-0)  FC Crotone
+  18.00  Parma Calcio             1-3 (1-1)  US Sassuolo Calcio
   20.45  AC Milan                 0-0  Cagliari Calcio
-[Lun. 17.5.]
+[Mon May/17]
   20.45  Hellas Verona            2-2 (1-1)  Bologna FC
 
 
-25^ Giornata
-[Mar. 18.5.]
+Matchday 25
+[Tue May/18]
   20.30  SS Lazio                 0-0  Torino FC
 
 
-38^ Giornata
-[Sab. 22.5.]
+Matchday 38
+[Sat May/22]
   20.45  Cagliari Calcio          0-1 (0-1)  Genoa CFC
          FC Crotone               0-0  ACF Fiorentina
-         UC Sampdoria             3-0 (2-0)  Parma
-[Dom. 23.5.]
+         UC Sampdoria             3-0 (2-0)  Parma Calcio
+[Sun May/23]
   15.00  FC Internazionale Milano  5-1 (2-0)  Udinese Calcio
   20.45  SSC Napoli               1-1 (0-0)  Hellas Verona
          Atalanta Bergamo         0-2 (0-1)  AC Milan
-         Torino FC                1-1 (1-0)  Benevento
+         Torino FC                1-1 (1-0)  Benevento Calcio
          Bologna FC               1-4 (0-3)  Juventus
-         Spezia                   2-2 (2-0)  AS Roma
+         Spezia Calcio            2-2 (2-0)  AS Roma
          US Sassuolo Calcio       2-0 (1-0)  SS Lazio
