@@ -1,0 +1,602 @@
+= Italian Serie B 2023/24
+
+
+Matchday 1
+[Fri Aug/18]
+  20.30  SSC Bari                 0-0  Palermo FC
+[Sat Aug/19]
+  20.30  US Cremonese             0-0  US Catanzaro
+         Cosenza Calcio           3-0 (1-0)  Ascoli Calcio
+         Ternana Calcio           1-2 (0-1)  Sampdoria
+[Sun Aug/20]
+  18.00  FC Südtirol              3-3 (1-2)  Spezia Calcio
+  20.30  AS Cittadella            1-0 (1-0)  AC Reggiana 1919
+         Venezia FC               3-0 (2-0)  Calcio Como
+         Parma Calcio 1913        2-0 (1-0)  FeralpiSalò
+
+
+Matchday 2
+[Fri Aug/25]
+  20.30  Sampdoria                0-2 (0-1)  AC Pisa
+[Sat Aug/26]
+  18.00  Venezia FC               1-1 (0-1)  Cosenza Calcio
+  20.30  US Cremonese             0-1 (0-1)  SSC Bari
+         Modena FC                1-0 (0-0)  Ascoli Calcio
+         FeralpiSalò              0-2 (0-1)  FC Südtirol
+         Calcio Como              2-2 (1-0)  AC Reggiana 1919
+         Parma Calcio 1913        2-0 (1-0)  AS Cittadella
+[Sun Aug/27]
+  20.30  US Catanzaro             2-1 (1-1)  Ternana Calcio
+
+
+Matchday 3
+[Tue Aug/29]
+  20.30  AC Pisa                  1-2 (0-1)  Parma Calcio 1913
+         AC Reggiana 1919         1-3 (0-1)  Palermo FC
+         Cosenza Calcio           1-2 (1-1)  Modena FC
+         Ascoli Calcio            3-0 (2-0)  FeralpiSalò
+[Wed Aug/30]
+  20.30  SSC Bari                 1-1 (1-0)  AS Cittadella
+         Sampdoria                1-2 (0-0)  Venezia FC
+         US Catanzaro             3-0 (0-0)  Spezia Calcio
+         Ternana Calcio           0-1 (0-0)  US Cremonese
+
+
+Matchday 4
+[Sat Sep/2]
+  18.30  FC Südtirol              3-1 (0-1)  Ascoli Calcio
+         Palermo FC               3-0 (1-0)  FeralpiSalò
+         Parma Calcio 1913        0-0  AC Reggiana 1919
+         Modena FC                2-0 (1-0)  AC Pisa
+[Sun Sep/3]
+  16.15  Brescia Calcio           1-0 (0-0)  Cosenza Calcio
+  18.30  Ternana Calcio           0-0  SSC Bari
+         US Cremonese             1-1 (1-0)  Sampdoria
+         Spezia Calcio            0-1 (0-1)  Calcio Como
+         Calcio Lecco 1912        3-4 (0-1)  US Catanzaro
+  20.45  AS Cittadella            0-0  Venezia FC
+
+
+Matchday 5
+[Fri Sep/15]
+  20.30  Venezia FC               1-0 (0-0)  Spezia Calcio
+[Sat Sep/16]
+  14.00  Ascoli Calcio            0-1 (0-0)  Palermo FC
+         FeralpiSalò              1-1 (1-1)  Modena FC
+         Calcio Lecco 1912        0-2 (0-1)  Brescia Calcio
+         AC Pisa                  1-1 (1-0)  SSC Bari
+         Cosenza Calcio           2-2 (1-0)  FC Südtirol
+  16.15  AC Reggiana 1919         2-2 (2-0)  US Cremonese
+[Sun Sep/17]
+  16.15  Calcio Como              2-1 (0-0)  Ternana Calcio
+         US Catanzaro             0-5 (0-3)  Parma Calcio 1913
+[Mon Sep/18]
+  20.30  Sampdoria                1-2 (1-0)  AS Cittadella
+
+
+Matchday 6
+[Fri Sep/22]
+  20.30  Palermo FC               0-1 (0-0)  Cosenza Calcio
+[Sat Sep/23]
+  14.00  Brescia Calcio           0-0  Venezia FC
+         US Cremonese             2-2 (1-1)  Ascoli Calcio
+         Ternana Calcio           1-1 (1-0)  FC Südtirol
+         Modena FC                0-0  Calcio Lecco 1912
+         FeralpiSalò              0-1 (0-0)  AC Pisa
+  16.15  Spezia Calcio            1-2 (0-0)  AC Reggiana 1919
+[Sun Sep/24]
+  16.15  Parma Calcio 1913        1-1 (0-1)  Sampdoria
+         SSC Bari                 2-2 (1-2)  US Catanzaro
+         AS Cittadella            0-3 (0-2)  Calcio Como
+
+
+Matchday 7
+[Tue Sep/26]
+  18.15  Calcio Lecco 1912        1-2 (0-0)  FeralpiSalò
+         Cosenza Calcio           1-2 (0-0)  US Cremonese
+  20.30  AC Reggiana 1919         0-0  AC Pisa
+         Spezia Calcio            0-0  Brescia Calcio
+         FC Südtirol              0-0  Modena FC
+         Ascoli Calcio            2-0 (1-0)  Ternana Calcio
+         Venezia FC               1-3 (1-1)  Palermo FC
+[Wed Sep/27]
+  20.30  Calcio Como              1-0 (0-0)  Sampdoria
+         US Catanzaro             1-1 (1-1)  AS Cittadella
+         Parma Calcio 1913        2-1 (1-0)  SSC Bari
+
+
+Matchday 8
+[Sat Sep/30]
+  14.00  Modena FC                1-3 (0-0)  Venezia FC
+         AC Pisa                  1-2 (0-1)  Cosenza Calcio
+         Brescia Calcio           1-1 (0-1)  Ascoli Calcio
+         FeralpiSalò              1-2 (0-2)  Spezia Calcio
+  16.15  Ternana Calcio           3-0 (2-0)  AC Reggiana 1919
+[Sun Oct/1]
+  16.15  AS Cittadella            2-1 (0-1)  Calcio Lecco 1912
+         SSC Bari                 1-1 (0-0)  Calcio Como
+         Sampdoria                1-2 (1-2)  US Catanzaro
+         Palermo FC               2-1 (0-1)  FC Südtirol
+  18.30  US Cremonese             1-2 (0-0)  Parma Calcio 1913
+
+
+Matchday 9
+[Fri Oct/6]
+  20.30  Brescia Calcio           1-1 (0-1)  FeralpiSalò
+[Sat Oct/7]
+  14.00  Cosenza Calcio           3-0 (2-0)  Calcio Lecco 1912
+         Modena FC                0-2 (0-0)  Palermo FC
+         FC Südtirol              0-1 (0-1)  US Catanzaro
+         AC Reggiana 1919         1-1 (1-1)  SSC Bari
+  16.15  Ascoli Calcio            1-1 (1-0)  Sampdoria
+         AS Cittadella            2-2 (2-1)  Ternana Calcio
+         Venezia FC               3-2 (0-0)  Parma Calcio 1913
+[Sun Oct/8]
+  16.15  Calcio Como              1-3 (0-2)  US Cremonese
+         Spezia Calcio            0-0  AC Pisa
+
+
+Matchday 10
+[Fri Oct/20]
+  20.30  Parma Calcio 1913        2-1 (1-0)  Calcio Como
+[Sat Oct/21]
+  14.00  Ternana Calcio           0-1 (0-0)  Brescia Calcio
+         US Cremonese             0-1 (0-0)  FC Südtirol
+         SSC Bari                 1-1 (0-0)  Modena FC
+         AC Pisa                  2-1 (1-0)  AS Cittadella
+         Calcio Lecco 1912        0-2 (0-1)  Ascoli Calcio
+  16.15  US Catanzaro             3-0 (0-0)  FeralpiSalò
+[Sun Oct/22]
+  16.15  Sampdoria                2-0 (0-0)  Cosenza Calcio
+  18.30  AC Reggiana 1919         1-0 (0-0)  Venezia FC
+[Mon Oct/23]
+  20.30  Palermo FC               2-2 (0-1)  Spezia Calcio
+
+
+Matchday 1
+[Tue Oct/24]
+  18.30  Brescia Calcio           0-1 (0-0)  Modena FC
+         AC Pisa                  1-2 (0-1)  Calcio Lecco 1912
+
+
+Matchday 11
+[Fri Oct/27]
+  20.30  AS Cittadella            1-2 (0-0)  US Cremonese
+[Sat Oct/28]
+  14.00  Spezia Calcio            0-0  Cosenza Calcio
+         FC Südtirol              3-1 (0-0)  Sampdoria
+         Calcio Como              1-0 (1-0)  US Catanzaro
+         FeralpiSalò              0-3 (0-2)  AC Reggiana 1919
+  16.15  Ascoli Calcio            1-3 (1-2)  Parma Calcio 1913
+[Sun Oct/29]
+  16.15  Palermo FC               1-2 (0-2)  Calcio Lecco 1912
+         Venezia FC               2-1 (1-1)  AC Pisa
+         Modena FC                2-1 (1-0)  Ternana Calcio
+         Brescia Calcio           1-2 (1-0)  SSC Bari
+
+
+Matchday 12
+[Sat Nov/4]
+  14.00  SSC Bari                 1-0 (0-0)  Ascoli Calcio
+         AS Cittadella            3-2 (2-1)  Brescia Calcio
+         Ternana Calcio           0-1 (0-0)  Venezia FC
+         Cosenza Calcio           1-1 (1-0)  FeralpiSalò
+         AC Pisa                  1-1 (0-1)  Calcio Como
+         US Catanzaro             1-2 (1-1)  Modena FC
+  16.15  Sampdoria                1-0 (1-0)  Palermo FC
+[Sun Nov/5]
+  16.15  AC Reggiana 1919         1-1 (1-0)  Calcio Lecco 1912
+         Parma Calcio 1913        2-0 (1-0)  FC Südtirol
+         US Cremonese             3-0 (2-0)  Spezia Calcio
+
+
+Matchday 2
+[Wed Nov/8]
+  18.30  Calcio Lecco 1912        0-0  Spezia Calcio
+         Palermo FC               1-0 (1-0)  Brescia Calcio
+
+
+Matchday 13
+[Fri Nov/10]
+  20.30  Venezia FC               2-1 (2-1)  US Catanzaro
+[Sat Nov/11]
+  14.00  Cosenza Calcio           2-0 (1-0)  AC Reggiana 1919
+         FeralpiSalò              3-3 (0-1)  SSC Bari
+         Ascoli Calcio            0-1 (0-1)  Calcio Como
+         FC Südtirol              1-2 (0-1)  AC Pisa
+  16.15  Modena FC                0-2 (0-1)  Sampdoria
+[Sun Nov/12]
+  16.15  Brescia Calcio           0-3 (0-2)  US Cremonese
+         Calcio Lecco 1912        3-2 (2-1)  Parma Calcio 1913
+         Palermo FC               0-1 (0-0)  AS Cittadella
+         Spezia Calcio            2-2 (1-1)  Ternana Calcio
+
+
+Matchday 14
+[Fri Nov/24]
+  20.30  Sampdoria                2-1 (1-1)  Spezia Calcio
+[Sat Nov/25]
+  14.00  US Cremonese             1-0 (1-0)  Calcio Lecco 1912
+         AS Cittadella            2-1 (1-0)  FC Südtirol
+         SSC Bari                 0-3 (0-1)  Venezia FC
+         Calcio Como              2-1 (1-0)  FeralpiSalò
+         Parma Calcio 1913        1-1 (0-0)  Modena FC
+         AC Reggiana 1919         1-1 (0-1)  Ascoli Calcio
+  16.15  AC Pisa                  1-1 (1-1)  Brescia Calcio
+[Sun Nov/26]
+  16.15  US Catanzaro             2-0 (1-0)  Cosenza Calcio
+         Ternana Calcio           1-1 (0-1)  Palermo FC
+
+
+Matchday 3
+[Tue Nov/28]
+  18.30  Calcio Como              0-0  Calcio Lecco 1912
+         FC Südtirol              1-1 (1-0)  Brescia Calcio
+
+
+Matchday 15
+[Fri Dec/1]
+  20.30  Palermo FC               1-2 (0-1)  US Catanzaro
+[Sat Dec/2]
+  14.00  FeralpiSalò              0-1 (0-1)  AS Cittadella
+         Cosenza Calcio           1-3 (0-0)  Ternana Calcio
+         Modena FC                2-1 (1-0)  AC Reggiana 1919
+         Venezia FC               3-1 (2-0)  Ascoli Calcio
+         AC Pisa                  0-0  US Cremonese
+  16.15  Spezia Calcio            0-1 (0-0)  Parma Calcio 1913
+[Sun Dec/3]
+  16.15  Brescia Calcio           3-1 (3-0)  Sampdoria
+         Calcio Lecco 1912        1-0 (0-0)  SSC Bari
+         FC Südtirol              0-1 (0-0)  Calcio Como
+
+
+Matchday 16
+[Sat Dec/9]
+  14.00  AS Cittadella            2-0 (2-0)  Cosenza Calcio
+         Ascoli Calcio            1-2 (0-1)  Spezia Calcio
+         Sampdoria                2-0 (1-0)  Calcio Lecco 1912
+         SSC Bari                 2-1 (1-1)  FC Südtirol
+         Ternana Calcio           2-1 (1-0)  FeralpiSalò
+         US Cremonese             1-0 (0-0)  Venezia FC
+  16.15  US Catanzaro             2-0 (0-0)  AC Pisa
+[Sun Dec/10]
+  16.15  AC Reggiana 1919         1-1 (0-0)  Brescia Calcio
+         Calcio Como              2-1 (1-0)  Modena FC
+         Parma Calcio 1913        3-3 (0-2)  Palermo FC
+
+
+Matchday 17
+[Fri Dec/15]
+  20.30  Spezia Calcio            1-0 (0-0)  SSC Bari
+[Sat Dec/16]
+  14.00  FeralpiSalò              1-0 (1-0)  US Cremonese
+         Modena FC                1-1 (1-1)  AS Cittadella
+         Venezia FC               2-3 (2-1)  FC Südtirol
+         AC Reggiana 1919         1-2 (0-1)  Sampdoria
+         Brescia Calcio           2-0 (0-0)  Calcio Como
+  16.15  Ascoli Calcio            1-0 (1-0)  US Catanzaro
+         Cosenza Calcio           0-0  Parma Calcio 1913
+         Palermo FC               3-2 (2-0)  AC Pisa
+[Sun Dec/17]
+  16.15  Calcio Lecco 1912        2-3 (2-0)  Ternana Calcio
+
+
+Matchday 18
+[Sat Dec/23]
+  14.00  Calcio Como              3-3 (0-1)  Palermo FC
+         Venezia FC               2-2 (0-1)  Calcio Lecco 1912
+         Parma Calcio 1913        3-1 (1-1)  Ternana Calcio
+         US Cremonese             4-0 (4-0)  Modena FC
+         AS Cittadella            4-1 (1-0)  Spezia Calcio
+  15.00  US Catanzaro             2-3 (2-0)  Brescia Calcio
+  16.15  FC Südtirol              2-3 (1-1)  AC Reggiana 1919
+         AC Pisa                  1-0 (1-0)  Ascoli Calcio
+         Sampdoria                2-3 (1-2)  FeralpiSalò
+         SSC Bari                 0-0  Cosenza Calcio
+
+
+Matchday 19
+[Tue Dec/26]
+  12.30  AC Reggiana 1919         1-0 (1-0)  US Catanzaro
+  15.00  FeralpiSalò              2-2 (1-1)  Venezia FC
+         Ascoli Calcio            0-0  AS Cittadella
+         Calcio Lecco 1912        2-1 (0-0)  FC Südtirol
+         Cosenza Calcio           1-2 (1-1)  Calcio Como
+         Spezia Calcio            1-1 (0-0)  Modena FC
+         Ternana Calcio           1-1 (0-1)  AC Pisa
+         Brescia Calcio           0-2 (0-2)  Parma Calcio 1913
+  18.00  Palermo FC               3-2 (1-2)  US Cremonese
+  20.30  Sampdoria                1-1 (0-0)  SSC Bari
+
+
+Matchday 20
+[Fri Jan/12]
+  20.30  US Catanzaro             5-3 (1-2)  Calcio Lecco 1912
+[Sat Jan/13]
+  14.00  Calcio Como              4-0 (2-0)  Spezia Calcio
+         FC Südtirol              1-0 (0-0)  FeralpiSalò
+         SSC Bari                 3-1 (2-0)  Ternana Calcio
+         Modena FC                1-2 (0-2)  Brescia Calcio
+         AS Cittadella            2-0 (1-0)  Palermo FC
+  16.15  AC Pisa                  2-2 (1-2)  AC Reggiana 1919
+[Sun Jan/14]
+  16.15  US Cremonese             1-0 (0-0)  Cosenza Calcio
+         Venezia FC               5-3 (2-1)  Sampdoria
+         Parma Calcio 1913        1-1 (0-0)  Ascoli Calcio
+
+
+Matchday 21
+[Fri Jan/19]
+  20.30  Sampdoria                0-3 (0-2)  Parma Calcio 1913
+[Sat Jan/20]
+  14.00  FeralpiSalò              3-0 (1-0)  US Catanzaro
+         AC Reggiana 1919         2-2 (1-2)  Calcio Como
+         Spezia Calcio            0-1 (0-0)  US Cremonese
+         Ternana Calcio           3-1 (1-1)  AS Cittadella
+         Brescia Calcio           1-1 (0-0)  FC Südtirol
+  16.15  Cosenza Calcio           4-2 (3-1)  Venezia FC
+         Palermo FC               4-2 (2-1)  Modena FC
+         Calcio Lecco 1912        1-3 (0-1)  AC Pisa
+[Sun Jan/21]
+  16.15  Ascoli Calcio            2-2 (0-2)  SSC Bari
+
+
+Matchday 22
+[Fri Jan/26]
+  20.30  US Catanzaro             1-1 (1-0)  Palermo FC
+[Sat Jan/27]
+  14.00  Calcio Como              0-2 (0-0)  Ascoli Calcio
+         Modena FC                3-0 (2-0)  Parma Calcio 1913
+         FC Südtirol              0-1 (0-0)  Cosenza Calcio
+         Venezia FC               1-0 (0-0)  Ternana Calcio
+         US Cremonese             1-0 (1-0)  Brescia Calcio
+  16.15  AC Pisa                  2-3 (1-3)  Spezia Calcio
+         SSC Bari                 0-2 (0-1)  AC Reggiana 1919
+         FeralpiSalò              5-1 (1-0)  Calcio Lecco 1912
+[Sun Jan/28]
+  16.15  AS Cittadella            1-2 (0-0)  Sampdoria
+
+
+Matchday 23
+[Fri Feb/2]
+  20.30  Palermo FC               3-0 (1-0)  SSC Bari
+[Sat Feb/3]
+  14.00  Cosenza Calcio           1-1 (0-0)  AC Pisa
+         Parma Calcio 1913        2-1 (1-1)  Venezia FC
+         AC Reggiana 1919         1-1 (0-0)  FeralpiSalò
+         Spezia Calcio            1-1 (1-1)  US Catanzaro
+         Brescia Calcio           2-0 (0-0)  AS Cittadella
+  16.15  Calcio Lecco 1912        0-1 (0-0)  US Cremonese
+         Sampdoria                2-2 (2-0)  Modena FC
+         Ternana Calcio           0-1 (0-1)  Calcio Como
+[Sun Feb/4]
+  16.15  Ascoli Calcio            1-2 (0-1)  FC Südtirol
+
+
+Matchday 24
+[Fri Feb/9]
+  20.30  Calcio Como              1-0 (1-0)  Brescia Calcio
+[Sat Feb/10]
+  14.00  AS Cittadella            1-2 (1-2)  Parma Calcio 1913
+         Modena FC                1-1 (1-1)  Cosenza Calcio
+         FC Südtirol              0-3 (0-1)  Venezia FC
+         US Cremonese             1-1 (0-0)  AC Reggiana 1919
+         FeralpiSalò              1-2 (0-0)  Palermo FC
+  16.15  AC Pisa                  2-0 (0-0)  Sampdoria
+         SSC Bari                 3-1 (1-0)  Calcio Lecco 1912
+         US Catanzaro             3-2 (1-2)  Ascoli Calcio
+[Sun Feb/11]
+  16.15  Ternana Calcio           1-1 (0-0)  Spezia Calcio
+
+
+Matchday 25
+[Fri Feb/16]
+  20.30  Ascoli Calcio            0-0  US Cremonese
+[Sat Feb/17]
+  14.00  Calcio Lecco 1912        1-3 (0-2)  Cosenza Calcio
+         Parma Calcio 1913        3-2 (1-1)  AC Pisa
+         AC Reggiana 1919         0-2 (0-1)  Ternana Calcio
+         Spezia Calcio            4-2 (2-1)  AS Cittadella
+         SSC Bari                 1-0 (0-0)  FeralpiSalò
+  16.15  US Catanzaro             2-2 (1-1)  FC Südtirol
+         Sampdoria                1-1 (0-0)  Brescia Calcio
+         Palermo FC               3-0 (1-0)  Calcio Como
+[Sun Feb/18]
+  16.15  Venezia FC               2-2 (1-0)  Modena FC
+
+
+Matchday 26
+[Fri Feb/23]
+  20.30  Cosenza Calcio           1-2 (0-2)  Sampdoria
+[Sat Feb/24]
+  14.00  FeralpiSalò              0-1 (0-1)  Ascoli Calcio
+         AS Cittadella            1-2 (1-1)  US Catanzaro
+         FC Südtirol              1-0 (0-0)  SSC Bari
+         US Cremonese             2-2 (0-2)  Palermo FC
+         Brescia Calcio           0-0  AC Reggiana 1919
+  16.15  AC Pisa                  1-2 (0-0)  Venezia FC
+         Ternana Calcio           0-0  Calcio Lecco 1912
+         Calcio Como              1-1 (1-1)  Parma Calcio 1913
+[Sun Feb/25]
+  16.15  Modena FC                0-0  Spezia Calcio
+
+
+Matchday 27
+[Tue Feb/27]
+  18.15  AC Reggiana 1919         1-1 (0-0)  FC Südtirol
+         Ascoli Calcio            1-1 (1-1)  Brescia Calcio
+  20.30  Palermo FC               2-3 (1-1)  Ternana Calcio
+         Parma Calcio 1913        1-1 (1-1)  Cosenza Calcio
+         Sampdoria                1-2 (1-1)  US Cremonese
+         US Catanzaro             2-0 (1-0)  SSC Bari
+         Calcio Lecco 1912        0-3 (0-2)  Calcio Como
+[Wed Feb/28]
+  20.30  AC Pisa                  2-2 (1-0)  Modena FC
+         Spezia Calcio            0-2 (0-1)  FeralpiSalò
+         Venezia FC               2-0 (1-0)  AS Cittadella
+
+
+Matchday 28
+[Sat Mar/2]
+  14.00  Brescia Calcio           4-2 (4-2)  Palermo FC
+         FC Südtirol              1-0 (0-0)  Calcio Lecco 1912
+         Ternana Calcio           1-3 (0-2)  Parma Calcio 1913
+[Sun Mar/3]
+  16.15  FeralpiSalò              1-3 (0-2)  Sampdoria
+         AS Cittadella            0-1 (0-0)  AC Pisa
+         Ascoli Calcio            0-0  AC Reggiana 1919
+         Calcio Como              2-1 (1-1)  Venezia FC
+         Cosenza Calcio           0-2 (0-1)  US Catanzaro
+         SSC Bari                 1-1 (0-0)  Spezia Calcio
+  18.30  Modena FC                0-1 (0-0)  US Cremonese
+
+
+Matchday 29
+[Fri Mar/8]
+  20.30  Parma Calcio 1913        2-1 (0-1)  Brescia Calcio
+[Sat Mar/9]
+  14.00  Modena FC                2-3 (1-2)  FeralpiSalò
+         Spezia Calcio            2-1 (1-1)  FC Südtirol
+         Cosenza Calcio           0-0  AS Cittadella
+  16.15  AC Pisa                  1-0 (0-0)  Ternana Calcio
+         US Catanzaro             0-1 (0-1)  AC Reggiana 1919
+         US Cremonese             2-1 (1-0)  Calcio Como
+[Sun Mar/10]
+  16.15  Calcio Lecco 1912        0-1 (0-1)  Palermo FC
+         Venezia FC               3-1 (2-1)  SSC Bari
+[Mon Mar/11]
+  20.30  Sampdoria                2-1 (0-1)  Ascoli Calcio
+
+
+Matchday 30
+[Fri Mar/15]
+  20.30  Palermo FC               0-3 (0-2)  Venezia FC
+[Sat Mar/16]
+  14.00  FeralpiSalò              1-2 (0-1)  Parma Calcio 1913
+         Calcio Como              3-1 (2-0)  AC Pisa
+         FC Südtirol              3-0 (1-0)  US Cremonese
+         Ternana Calcio           1-0 (0-0)  Cosenza Calcio
+         Brescia Calcio           1-1 (0-1)  US Catanzaro
+  16.15  AS Cittadella            1-1 (1-1)  Modena FC
+         AC Reggiana 1919         0-0  Spezia Calcio
+         SSC Bari                 0-1 (0-0)  Sampdoria
+[Sun Mar/17]
+  16.15  Ascoli Calcio            4-1 (2-1)  Calcio Lecco 1912
+
+
+Matchday 31
+[Mon Apr/1]
+  12.30  Modena FC                1-1 (0-0)  SSC Bari
+  15.00  Calcio Lecco 1912        1-1 (1-1)  AS Cittadella
+         Calcio Como              2-0 (1-0)  FC Südtirol
+         Venezia FC               2-3 (2-1)  AC Reggiana 1919
+         Parma Calcio 1913        0-2 (0-2)  US Catanzaro
+         AC Pisa                  4-3 (0-2)  Palermo FC
+         Spezia Calcio            2-1 (1-1)  Ascoli Calcio
+         Cosenza Calcio           1-2 (1-1)  Brescia Calcio
+  18.00  US Cremonese             0-1 (0-0)  FeralpiSalò
+  20.30  Sampdoria                4-1 (1-0)  Ternana Calcio
+
+
+Matchday 32
+[Fri Apr/5]
+  20.30  SSC Bari                 1-2 (0-1)  US Cremonese
+[Sat Apr/6]
+  14.00  FeralpiSalò              2-2 (1-1)  Cosenza Calcio
+         FC Südtirol              0-0  Parma Calcio 1913
+         Spezia Calcio            1-1 (1-1)  Calcio Lecco 1912
+         Ternana Calcio           0-0  Modena FC
+         Brescia Calcio           3-1 (1-0)  AC Pisa
+  16.15  AC Reggiana 1919         0-2 (0-0)  AS Cittadella
+         US Catanzaro             1-2 (1-0)  Calcio Como
+         Palermo FC               2-2 (2-1)  Sampdoria
+[Sun Apr/7]
+  16.15  Ascoli Calcio            0-0  Venezia FC
+
+
+Matchday 33
+[Fri Apr/12]
+  20.30  Modena FC                1-3 (1-2)  US Catanzaro
+[Sat Apr/13]
+  14.00  AS Cittadella            0-0  Ascoli Calcio
+         Calcio Como              2-1 (1-0)  SSC Bari
+         AC Pisa                  3-1 (2-0)  FeralpiSalò
+         Sampdoria                0-1 (0-0)  FC Südtirol
+         US Cremonese             1-2 (1-1)  Ternana Calcio
+  16.15  Cosenza Calcio           1-1 (0-1)  Palermo FC
+         Parma Calcio 1913        2-0 (1-0)  Spezia Calcio
+         Calcio Lecco 1912        1-0 (0-0)  AC Reggiana 1919
+[Sun Apr/14]
+  16.15  Venezia FC               2-0 (1-0)  Brescia Calcio
+
+
+Matchday 34
+[Fri Apr/19]
+  20.30  Palermo FC               0-0  Parma Calcio 1913
+         AC Reggiana 1919         0-4 (0-2)  Cosenza Calcio
+[Sat Apr/20]
+  14.00  FeralpiSalò              2-5 (2-3)  Calcio Como
+         Ascoli Calcio            0-0  Modena FC
+         SSC Bari                 1-1 (0-1)  AC Pisa
+         Brescia Calcio           0-0  Ternana Calcio
+  16.15  FC Südtirol              0-0  AS Cittadella
+         Spezia Calcio            0-0  Sampdoria
+         US Catanzaro             0-0  US Cremonese
+         Calcio Lecco 1912        1-2 (1-0)  Venezia FC
+
+
+Matchday 35
+[Fri Apr/26]
+  20.30  AC Pisa                  2-2 (0-1)  US Catanzaro
+         Venezia FC               2-1 (0-1)  US Cremonese
+[Sat Apr/27]
+  14.00  Parma Calcio 1913        4-0 (3-0)  Calcio Lecco 1912
+         Ternana Calcio           0-1 (0-0)  Ascoli Calcio
+         Brescia Calcio           0-0  Spezia Calcio
+         Modena FC                1-0 (0-0)  FC Südtirol
+  16.15  AS Cittadella            1-1 (1-0)  FeralpiSalò
+         Cosenza Calcio           4-1 (2-1)  SSC Bari
+         Palermo FC               1-2 (1-0)  AC Reggiana 1919
+         Sampdoria                1-1 (0-0)  Calcio Como
+
+
+Matchday 36
+[Wed May/1]
+  12.30  US Cremonese             2-1 (1-0)  AC Pisa
+  15.00  Calcio Como              2-1 (0-0)  AS Cittadella
+         FC Südtirol              4-3 (1-2)  Ternana Calcio
+         Spezia Calcio            1-0 (1-0)  Palermo FC
+         US Catanzaro             3-2 (1-1)  Venezia FC
+         Ascoli Calcio            0-1 (0-1)  Cosenza Calcio
+  18.00  Calcio Lecco 1912        0-1 (0-0)  Sampdoria
+         AC Reggiana 1919         1-0 (0-0)  Modena FC
+         SSC Bari                 1-1 (0-0)  Parma Calcio 1913
+         FeralpiSalò              2-2 (2-2)  Brescia Calcio
+
+
+Matchday 37
+[Sun May/5]
+  15.00  AS Cittadella            1-1 (1-1)  SSC Bari
+         Cosenza Calcio           2-2 (1-1)  Spezia Calcio
+         Modena FC                0-0  Calcio Como
+         Venezia FC               2-1 (0-0)  FeralpiSalò
+         Palermo FC               2-2 (2-1)  Ascoli Calcio
+         Parma Calcio 1913        1-1 (0-1)  US Cremonese
+         AC Pisa                  2-2 (1-0)  FC Südtirol
+         Sampdoria                1-0 (1-0)  AC Reggiana 1919
+         Ternana Calcio           1-0 (0-0)  US Catanzaro
+         Brescia Calcio           4-1 (2-0)  Calcio Lecco 1912
+
+
+Matchday 38
+[Fri May/10]
+  20.30  FeralpiSalò              0-1 (0-1)  Ternana Calcio
+         Ascoli Calcio            2-1 (1-0)  AC Pisa
+         Calcio Lecco 1912        2-3 (1-3)  Modena FC
+         Calcio Como              1-1 (0-1)  Cosenza Calcio
+         FC Südtirol              0-1 (0-0)  Palermo FC
+         AC Reggiana 1919         1-1 (1-0)  Parma Calcio 1913
+         Spezia Calcio            2-1 (0-1)  Venezia FC
+         US Catanzaro             1-3 (1-1)  Sampdoria
+         US Cremonese             3-0 (2-0)  AS Cittadella
+         SSC Bari                 2-0 (1-0)  Brescia Calcio
