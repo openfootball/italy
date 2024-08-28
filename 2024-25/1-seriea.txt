@@ -2,84 +2,90 @@
 
 
 Matchday 1
+[Sat Aug/17]
+  18.30  Genoa CFC                2-2 (1-1)  FC Internazionale Milano
+         Parma Calcio             1-1 (1-0)  ACF Fiorentina
+  20.45  Empoli FC                0-0  AC Monza
+         AC Milan                 2-2 (0-1)  Torino FC
 [Sun Aug/18]
-  Bologna FC 1909          -  Udinese Calcio
-  Cagliari Calcio          -  AS Roma
-  Empoli FC                -  AC Monza
-  Genoa CFC                -  FC Internazionale Milano
-  Hellas Verona FC         -  SSC Napoli
-  Juventus FC              -  Como 1907
-  SS Lazio                 -  Venezia FC
-  US Lecce                 -  Atalanta BC
-  AC Milan                 -  Torino FC
-  Parma Calcio 1913        -  ACF Fiorentina
+  18.30  Bologna FC               1-1 (0-0)  Udinese Calcio
+         Hellas Verona            3-0 (0-0)  SSC Napoli
+  20.45  Cagliari Calcio          0-0  AS Roma
+         SS Lazio                 3-1 (2-1)  Venezia FC
+[Mon Aug/19]
+  18.30  US Lecce                 0-4 (0-2)  Atalanta Bergamo
+  20.45  Juventus                 3-0 (2-0)  Como 1907
 
 
 Matchday 2
+[Sat Aug/24]
+  18.30  Parma Calcio             2-1 (1-0)  AC Milan
+         Udinese Calcio           2-1 (1-0)  SS Lazio
+  20.45  FC Internazionale Milano  2-0 (1-0)  US Lecce
+         AC Monza                 0-1 (0-1)  Genoa CFC
 [Sun Aug/25]
-  Cagliari Calcio          -  Como 1907
-  ACF Fiorentina           -  Venezia FC
-  Hellas Verona FC         -  Juventus FC
-  FC Internazionale Milano  -  US Lecce
-  AC Monza                 -  Genoa CFC
-  SSC Napoli               -  Bologna FC 1909
-  Parma Calcio 1913        -  AC Milan
-  AS Roma                  -  Empoli FC
-  Torino FC                -  Atalanta BC
-  Udinese Calcio           -  SS Lazio
+  18.30  ACF Fiorentina           0-0  Venezia FC
+         Torino FC                2-1 (1-1)  Atalanta Bergamo
+  20.45  SSC Napoli               3-0 (1-0)  Bologna FC
+         AS Roma                  1-2 (0-1)  Empoli FC
+[Mon Aug/26]
+  18.30  Cagliari Calcio          1-1 (1-0)  Como 1907
+  20.45  Hellas Verona            0-3 (0-2)  Juventus
 
 
 Matchday 3
+[Fri Aug/30]
+  18.30  Venezia FC               -  Torino FC
+  20.45  FC Internazionale Milano  -  Atalanta Bergamo
+[Sat Aug/31]
+  18.30  Bologna FC               -  Empoli FC
+         US Lecce                 -  Cagliari Calcio
+  20.45  SS Lazio                 -  AC Milan
+         SSC Napoli               -  Parma Calcio
 [Sun Sep/1]
-  Bologna FC 1909          -  Empoli FC
-  ACF Fiorentina           -  AC Monza
-  Genoa CFC                -  Hellas Verona FC
-  FC Internazionale Milano  -  Atalanta BC
-  Juventus FC              -  AS Roma
-  SS Lazio                 -  AC Milan
-  US Lecce                 -  Cagliari Calcio
-  SSC Napoli               -  Parma Calcio 1913
-  Udinese Calcio           -  Como 1907
-  Venezia FC               -  Torino FC
+  18.30  ACF Fiorentina           -  AC Monza
+         Genoa CFC                -  Hellas Verona
+  20.45  Juventus                 -  AS Roma
+         Udinese Calcio           -  Como 1907
 
 
 Matchday 4
 [Sun Sep/15]
-  Atalanta BC              -  ACF Fiorentina
+  Atalanta Bergamo         -  ACF Fiorentina
   Cagliari Calcio          -  SSC Napoli
-  Como 1907                -  Bologna FC 1909
-  Empoli FC                -  Juventus FC
+  Como 1907                -  Bologna FC
+  Empoli FC                -  Juventus
   Genoa CFC                -  AS Roma
-  SS Lazio                 -  Hellas Verona FC
+  SS Lazio                 -  Hellas Verona
   AC Milan                 -  Venezia FC
   AC Monza                 -  FC Internazionale Milano
-  Parma Calcio 1913        -  Udinese Calcio
+  Parma Calcio             -  Udinese Calcio
   Torino FC                -  US Lecce
 
 
 Matchday 5
 [Sun Sep/22]
-  Atalanta BC              -  Como 1907
+  Atalanta Bergamo         -  Como 1907
   Cagliari Calcio          -  Empoli FC
   ACF Fiorentina           -  SS Lazio
-  Hellas Verona FC         -  Torino FC
+  Hellas Verona            -  Torino FC
   FC Internazionale Milano  -  AC Milan
-  Juventus FC              -  SSC Napoli
-  US Lecce                 -  Parma Calcio 1913
-  AC Monza                 -  Bologna FC 1909
+  Juventus                 -  SSC Napoli
+  US Lecce                 -  Parma Calcio
+  AC Monza                 -  Bologna FC
   AS Roma                  -  Udinese Calcio
   Venezia FC               -  Genoa CFC
 
 
 Matchday 6
 [Sun Sep/29]
-  Bologna FC 1909          -  Atalanta BC
-  Como 1907                -  Hellas Verona FC
+  Bologna FC               -  Atalanta Bergamo
+  Como 1907                -  Hellas Verona
   Empoli FC                -  ACF Fiorentina
-  Genoa CFC                -  Juventus FC
+  Genoa CFC                -  Juventus
   AC Milan                 -  US Lecce
   SSC Napoli               -  AC Monza
-  Parma Calcio 1913        -  Cagliari Calcio
+  Parma Calcio             -  Cagliari Calcio
   AS Roma                  -  Venezia FC
   Torino FC                -  SS Lazio
   Udinese Calcio           -  FC Internazionale Milano
@@ -87,12 +93,12 @@ Matchday 6
 
 Matchday 7
 [Sun Oct/6]
-  Atalanta BC              -  Genoa CFC
-  Bologna FC 1909          -  Parma Calcio 1913
+  Atalanta Bergamo         -  Genoa CFC
+  Bologna FC               -  Parma Calcio
   ACF Fiorentina           -  AC Milan
-  Hellas Verona FC         -  Venezia FC
+  Hellas Verona            -  Venezia FC
   FC Internazionale Milano  -  Torino FC
-  Juventus FC              -  Cagliari Calcio
+  Juventus                 -  Cagliari Calcio
   SS Lazio                 -  Empoli FC
   AC Monza                 -  AS Roma
   SSC Napoli               -  Como 1907
@@ -102,40 +108,40 @@ Matchday 7
 Matchday 8
 [Sun Oct/20]
   Cagliari Calcio          -  Torino FC
-  Como 1907                -  Parma Calcio 1913
+  Como 1907                -  Parma Calcio
   Empoli FC                -  SSC Napoli
-  Genoa CFC                -  Bologna FC 1909
-  Hellas Verona FC         -  AC Monza
-  Juventus FC              -  SS Lazio
+  Genoa CFC                -  Bologna FC
+  Hellas Verona            -  AC Monza
+  Juventus                 -  SS Lazio
   US Lecce                 -  ACF Fiorentina
   AC Milan                 -  Udinese Calcio
   AS Roma                  -  FC Internazionale Milano
-  Venezia FC               -  Atalanta BC
+  Venezia FC               -  Atalanta Bergamo
 
 
 Matchday 9
 [Sun Oct/27]
-  Atalanta BC              -  Hellas Verona FC
-  Bologna FC 1909          -  AC Milan
+  Atalanta Bergamo         -  Hellas Verona
+  Bologna FC               -  AC Milan
   ACF Fiorentina           -  AS Roma
-  FC Internazionale Milano  -  Juventus FC
+  FC Internazionale Milano  -  Juventus
   SS Lazio                 -  Genoa CFC
   AC Monza                 -  Venezia FC
   SSC Napoli               -  US Lecce
-  Parma Calcio 1913        -  Empoli FC
+  Parma Calcio             -  Empoli FC
   Torino FC                -  Como 1907
   Udinese Calcio           -  Cagliari Calcio
 
 
 Matchday 10
 [Wed Oct/30]
-  Atalanta BC              -  AC Monza
-  Cagliari Calcio          -  Bologna FC 1909
+  Atalanta Bergamo         -  AC Monza
+  Cagliari Calcio          -  Bologna FC
   Como 1907                -  SS Lazio
   Empoli FC                -  FC Internazionale Milano
   Genoa CFC                -  ACF Fiorentina
-  Juventus FC              -  Parma Calcio 1913
-  US Lecce                 -  Hellas Verona FC
+  Juventus                 -  Parma Calcio
+  US Lecce                 -  Hellas Verona
   AC Milan                 -  SSC Napoli
   AS Roma                  -  Torino FC
   Venezia FC               -  Udinese Calcio
@@ -143,30 +149,30 @@ Matchday 10
 
 Matchday 11
 [Sun Nov/3]
-  Bologna FC 1909          -  US Lecce
+  Bologna FC               -  US Lecce
   Empoli FC                -  Como 1907
-  Hellas Verona FC         -  AS Roma
+  Hellas Verona            -  AS Roma
   FC Internazionale Milano  -  Venezia FC
   SS Lazio                 -  Cagliari Calcio
   AC Monza                 -  AC Milan
-  SSC Napoli               -  Atalanta BC
-  Parma Calcio 1913        -  Genoa CFC
+  SSC Napoli               -  Atalanta Bergamo
+  Parma Calcio             -  Genoa CFC
   Torino FC                -  ACF Fiorentina
-  Udinese Calcio           -  Juventus FC
+  Udinese Calcio           -  Juventus
 
 
 Matchday 12
 [Sun Nov/10]
-  Atalanta BC              -  Udinese Calcio
+  Atalanta Bergamo         -  Udinese Calcio
   Cagliari Calcio          -  AC Milan
-  ACF Fiorentina           -  Hellas Verona FC
+  ACF Fiorentina           -  Hellas Verona
   Genoa CFC                -  Como 1907
   FC Internazionale Milano  -  SSC Napoli
-  Juventus FC              -  Torino FC
+  Juventus                 -  Torino FC
   US Lecce                 -  Empoli FC
   AC Monza                 -  SS Lazio
-  AS Roma                  -  Bologna FC 1909
-  Venezia FC               -  Parma Calcio 1913
+  AS Roma                  -  Bologna FC
+  Venezia FC               -  Parma Calcio
 
 
 Matchday 13
@@ -174,37 +180,37 @@ Matchday 13
   Como 1907                -  ACF Fiorentina
   Empoli FC                -  Udinese Calcio
   Genoa CFC                -  Cagliari Calcio
-  Hellas Verona FC         -  FC Internazionale Milano
-  SS Lazio                 -  Bologna FC 1909
-  AC Milan                 -  Juventus FC
+  Hellas Verona            -  FC Internazionale Milano
+  SS Lazio                 -  Bologna FC
+  AC Milan                 -  Juventus
   SSC Napoli               -  AS Roma
-  Parma Calcio 1913        -  Atalanta BC
+  Parma Calcio             -  Atalanta Bergamo
   Torino FC                -  AC Monza
   Venezia FC               -  US Lecce
 
 
 Matchday 14
 [Sun Dec/1]
-  Bologna FC 1909          -  Venezia FC
-  Cagliari Calcio          -  Hellas Verona FC
+  Bologna FC               -  Venezia FC
+  Cagliari Calcio          -  Hellas Verona
   Como 1907                -  AC Monza
   ACF Fiorentina           -  FC Internazionale Milano
-  US Lecce                 -  Juventus FC
+  US Lecce                 -  Juventus
   AC Milan                 -  Empoli FC
-  Parma Calcio 1913        -  SS Lazio
-  AS Roma                  -  Atalanta BC
+  Parma Calcio             -  SS Lazio
+  AS Roma                  -  Atalanta Bergamo
   Torino FC                -  SSC Napoli
   Udinese Calcio           -  Genoa CFC
 
 
 Matchday 15
 [Sun Dec/8]
-  Atalanta BC              -  AC Milan
+  Atalanta Bergamo         -  AC Milan
   ACF Fiorentina           -  Cagliari Calcio
   Genoa CFC                -  Torino FC
-  Hellas Verona FC         -  Empoli FC
-  FC Internazionale Milano  -  Parma Calcio 1913
-  Juventus FC              -  Bologna FC 1909
+  Hellas Verona            -  Empoli FC
+  FC Internazionale Milano  -  Parma Calcio
+  Juventus                 -  Bologna FC
   AC Monza                 -  Udinese Calcio
   SSC Napoli               -  SS Lazio
   AS Roma                  -  US Lecce
@@ -213,125 +219,125 @@ Matchday 15
 
 Matchday 16
 [Sun Dec/15]
-  Bologna FC 1909          -  ACF Fiorentina
-  Cagliari Calcio          -  Atalanta BC
+  Bologna FC               -  ACF Fiorentina
+  Cagliari Calcio          -  Atalanta Bergamo
   Como 1907                -  AS Roma
   Empoli FC                -  Torino FC
-  Juventus FC              -  Venezia FC
+  Juventus                 -  Venezia FC
   SS Lazio                 -  FC Internazionale Milano
   US Lecce                 -  AC Monza
   AC Milan                 -  Genoa CFC
-  Parma Calcio 1913        -  Hellas Verona FC
+  Parma Calcio             -  Hellas Verona
   Udinese Calcio           -  SSC Napoli
 
 
 Matchday 17
 [Sun Dec/22]
-  Atalanta BC              -  Empoli FC
+  Atalanta Bergamo         -  Empoli FC
   ACF Fiorentina           -  Udinese Calcio
   Genoa CFC                -  SSC Napoli
-  Hellas Verona FC         -  AC Milan
+  Hellas Verona            -  AC Milan
   FC Internazionale Milano  -  Como 1907
   US Lecce                 -  SS Lazio
-  AC Monza                 -  Juventus FC
-  AS Roma                  -  Parma Calcio 1913
-  Torino FC                -  Bologna FC 1909
+  AC Monza                 -  Juventus
+  AS Roma                  -  Parma Calcio
+  Torino FC                -  Bologna FC
   Venezia FC               -  Cagliari Calcio
 
 
 Matchday 18
 [Sun Dec/29]
-  Bologna FC 1909          -  Hellas Verona FC
+  Bologna FC               -  Hellas Verona
   Cagliari Calcio          -  FC Internazionale Milano
   Como 1907                -  US Lecce
   Empoli FC                -  Genoa CFC
-  Juventus FC              -  ACF Fiorentina
-  SS Lazio                 -  Atalanta BC
+  Juventus                 -  ACF Fiorentina
+  SS Lazio                 -  Atalanta Bergamo
   AC Milan                 -  AS Roma
   SSC Napoli               -  Venezia FC
-  Parma Calcio 1913        -  AC Monza
+  Parma Calcio             -  AC Monza
   Udinese Calcio           -  Torino FC
 
 
 Matchday 19
 [Sun Jan/5]
-  Atalanta BC              -  Juventus FC
+  Atalanta Bergamo         -  Juventus
   Como 1907                -  AC Milan
   ACF Fiorentina           -  SSC Napoli
-  Hellas Verona FC         -  Udinese Calcio
-  FC Internazionale Milano  -  Bologna FC 1909
+  Hellas Verona            -  Udinese Calcio
+  FC Internazionale Milano  -  Bologna FC
   US Lecce                 -  Genoa CFC
   AC Monza                 -  Cagliari Calcio
   AS Roma                  -  SS Lazio
-  Torino FC                -  Parma Calcio 1913
+  Torino FC                -  Parma Calcio
   Venezia FC               -  Empoli FC
 
 
 Matchday 20
 [Sun Jan/12]
-  Bologna FC 1909          -  AS Roma
+  Bologna FC               -  AS Roma
   Empoli FC                -  US Lecce
-  Genoa CFC                -  Parma Calcio 1913
+  Genoa CFC                -  Parma Calcio
   SS Lazio                 -  Como 1907
   AC Milan                 -  Cagliari Calcio
   AC Monza                 -  ACF Fiorentina
-  SSC Napoli               -  Hellas Verona FC
-  Torino FC                -  Juventus FC
-  Udinese Calcio           -  Atalanta BC
+  SSC Napoli               -  Hellas Verona
+  Torino FC                -  Juventus
+  Udinese Calcio           -  Atalanta Bergamo
   Venezia FC               -  FC Internazionale Milano
 
 
 Matchday 21
 [Sun Jan/19]
-  Atalanta BC              -  SSC Napoli
-  Bologna FC 1909          -  AC Monza
+  Atalanta Bergamo         -  SSC Napoli
+  Bologna FC               -  AC Monza
   Cagliari Calcio          -  US Lecce
   Como 1907                -  Udinese Calcio
   ACF Fiorentina           -  Torino FC
-  Hellas Verona FC         -  SS Lazio
+  Hellas Verona            -  SS Lazio
   FC Internazionale Milano  -  Empoli FC
-  Juventus FC              -  AC Milan
-  Parma Calcio 1913        -  Venezia FC
+  Juventus                 -  AC Milan
+  Parma Calcio             -  Venezia FC
   AS Roma                  -  Genoa CFC
 
 
 Matchday 22
 [Sun Jan/26]
-  Como 1907                -  Atalanta BC
-  Empoli FC                -  Bologna FC 1909
+  Como 1907                -  Atalanta Bergamo
+  Empoli FC                -  Bologna FC
   Genoa CFC                -  AC Monza
   SS Lazio                 -  ACF Fiorentina
   US Lecce                 -  FC Internazionale Milano
-  AC Milan                 -  Parma Calcio 1913
-  SSC Napoli               -  Juventus FC
+  AC Milan                 -  Parma Calcio
+  SSC Napoli               -  Juventus
   Torino FC                -  Cagliari Calcio
   Udinese Calcio           -  AS Roma
-  Venezia FC               -  Hellas Verona FC
+  Venezia FC               -  Hellas Verona
 
 
 Matchday 23
 [Sun Feb/2]
-  Atalanta BC              -  Torino FC
-  Bologna FC 1909          -  Como 1907
+  Atalanta Bergamo         -  Torino FC
+  Bologna FC               -  Como 1907
   Cagliari Calcio          -  SS Lazio
   ACF Fiorentina           -  Genoa CFC
-  Juventus FC              -  Empoli FC
+  Juventus                 -  Empoli FC
   AC Milan                 -  FC Internazionale Milano
-  AC Monza                 -  Hellas Verona FC
-  Parma Calcio 1913        -  US Lecce
+  AC Monza                 -  Hellas Verona
+  Parma Calcio             -  US Lecce
   AS Roma                  -  SSC Napoli
   Udinese Calcio           -  Venezia FC
 
 
 Matchday 24
 [Sun Feb/9]
-  Cagliari Calcio          -  Parma Calcio 1913
-  Como 1907                -  Juventus FC
+  Cagliari Calcio          -  Parma Calcio
+  Como 1907                -  Juventus
   Empoli FC                -  AC Milan
-  Hellas Verona FC         -  Atalanta BC
+  Hellas Verona            -  Atalanta Bergamo
   FC Internazionale Milano  -  ACF Fiorentina
   SS Lazio                 -  AC Monza
-  US Lecce                 -  Bologna FC 1909
+  US Lecce                 -  Bologna FC
   SSC Napoli               -  Udinese Calcio
   Torino FC                -  Genoa CFC
   Venezia FC               -  AS Roma
@@ -339,44 +345,44 @@ Matchday 24
 
 Matchday 25
 [Sun Feb/16]
-  Atalanta BC              -  Cagliari Calcio
-  Bologna FC 1909          -  Torino FC
+  Atalanta Bergamo         -  Cagliari Calcio
+  Bologna FC               -  Torino FC
   ACF Fiorentina           -  Como 1907
   Genoa CFC                -  Venezia FC
-  Juventus FC              -  FC Internazionale Milano
+  Juventus                 -  FC Internazionale Milano
   SS Lazio                 -  SSC Napoli
-  AC Milan                 -  Hellas Verona FC
+  AC Milan                 -  Hellas Verona
   AC Monza                 -  US Lecce
-  Parma Calcio 1913        -  AS Roma
+  Parma Calcio             -  AS Roma
   Udinese Calcio           -  Empoli FC
 
 
 Matchday 26
 [Sun Feb/23]
-  Hellas Verona FC         -  ACF Fiorentina
+  Hellas Verona            -  ACF Fiorentina
   FC Internazionale Milano  -  Genoa CFC
   US Lecce                 -  Udinese Calcio
-  Parma Calcio 1913        -  Bologna FC 1909
+  Parma Calcio             -  Bologna FC
   AS Roma                  -  AC Monza
   Torino FC                -  AC Milan
   Venezia FC               -  SS Lazio
-  Cagliari Calcio          -  Juventus FC
+  Cagliari Calcio          -  Juventus
   Como 1907                -  SSC Napoli
-  Empoli FC                -  Atalanta BC
+  Empoli FC                -  Atalanta Bergamo
 
 
 Matchday 27
 [Sun Mar/2]
-  Atalanta BC              -  Venezia FC
-  Bologna FC 1909          -  Cagliari Calcio
+  Atalanta Bergamo         -  Venezia FC
+  Bologna FC               -  Cagliari Calcio
   ACF Fiorentina           -  US Lecce
   Genoa CFC                -  Empoli FC
-  Juventus FC              -  Hellas Verona FC
+  Juventus                 -  Hellas Verona
   AC Milan                 -  SS Lazio
   AC Monza                 -  Torino FC
   SSC Napoli               -  FC Internazionale Milano
   AS Roma                  -  Como 1907
-  Udinese Calcio           -  Parma Calcio 1913
+  Udinese Calcio           -  Parma Calcio
 
 
 Matchday 28
@@ -384,26 +390,26 @@ Matchday 28
   Cagliari Calcio          -  Genoa CFC
   Como 1907                -  Venezia FC
   Empoli FC                -  AS Roma
-  Hellas Verona FC         -  Bologna FC 1909
+  Hellas Verona            -  Bologna FC
   FC Internazionale Milano  -  AC Monza
-  Juventus FC              -  Atalanta BC
+  Juventus                 -  Atalanta Bergamo
   SS Lazio                 -  Udinese Calcio
   US Lecce                 -  AC Milan
   SSC Napoli               -  ACF Fiorentina
-  Parma Calcio 1913        -  Torino FC
+  Parma Calcio             -  Torino FC
 
 
 Matchday 29
 [Sun Mar/16]
-  Atalanta BC              -  FC Internazionale Milano
-  Bologna FC 1909          -  SS Lazio
-  ACF Fiorentina           -  Juventus FC
+  Atalanta Bergamo         -  FC Internazionale Milano
+  Bologna FC               -  SS Lazio
+  ACF Fiorentina           -  Juventus
   Genoa CFC                -  US Lecce
   AC Milan                 -  Como 1907
-  AC Monza                 -  Parma Calcio 1913
+  AC Monza                 -  Parma Calcio
   AS Roma                  -  Cagliari Calcio
   Torino FC                -  Empoli FC
-  Udinese Calcio           -  Hellas Verona FC
+  Udinese Calcio           -  Hellas Verona
   Venezia FC               -  SSC Napoli
 
 
@@ -411,38 +417,38 @@ Matchday 30
 [Sun Mar/30]
   Cagliari Calcio          -  AC Monza
   Como 1907                -  Empoli FC
-  ACF Fiorentina           -  Atalanta BC
-  Hellas Verona FC         -  Parma Calcio 1913
+  ACF Fiorentina           -  Atalanta Bergamo
+  Hellas Verona            -  Parma Calcio
   FC Internazionale Milano  -  Udinese Calcio
-  Juventus FC              -  Genoa CFC
+  Juventus                 -  Genoa CFC
   SS Lazio                 -  Torino FC
   US Lecce                 -  AS Roma
   SSC Napoli               -  AC Milan
-  Venezia FC               -  Bologna FC 1909
+  Venezia FC               -  Bologna FC
 
 
 Matchday 31
 [Sun Apr/6]
-  Atalanta BC              -  SS Lazio
-  Bologna FC 1909          -  SSC Napoli
+  Atalanta Bergamo         -  SS Lazio
+  Bologna FC               -  SSC Napoli
   Empoli FC                -  Cagliari Calcio
   Genoa CFC                -  Udinese Calcio
   US Lecce                 -  Venezia FC
   AC Milan                 -  ACF Fiorentina
   AC Monza                 -  Como 1907
-  Parma Calcio 1913        -  FC Internazionale Milano
-  AS Roma                  -  Juventus FC
-  Torino FC                -  Hellas Verona FC
+  Parma Calcio             -  FC Internazionale Milano
+  AS Roma                  -  Juventus
+  Torino FC                -  Hellas Verona
 
 
 Matchday 32
 [Sun Apr/13]
-  Atalanta BC              -  Bologna FC 1909
+  Atalanta Bergamo         -  Bologna FC
   Como 1907                -  Torino FC
-  ACF Fiorentina           -  Parma Calcio 1913
-  Hellas Verona FC         -  Genoa CFC
+  ACF Fiorentina           -  Parma Calcio
+  Hellas Verona            -  Genoa CFC
   FC Internazionale Milano  -  Cagliari Calcio
-  Juventus FC              -  US Lecce
+  Juventus                 -  US Lecce
   SS Lazio                 -  AS Roma
   SSC Napoli               -  Empoli FC
   Udinese Calcio           -  AC Milan
@@ -451,54 +457,54 @@ Matchday 32
 
 Matchday 33
 [Sun Apr/20]
-  Bologna FC 1909          -  FC Internazionale Milano
+  Bologna FC               -  FC Internazionale Milano
   Cagliari Calcio          -  ACF Fiorentina
   Empoli FC                -  Venezia FC
   Genoa CFC                -  SS Lazio
   US Lecce                 -  Como 1907
-  AC Milan                 -  Atalanta BC
+  AC Milan                 -  Atalanta Bergamo
   AC Monza                 -  SSC Napoli
-  Parma Calcio 1913        -  Juventus FC
-  AS Roma                  -  Hellas Verona FC
+  Parma Calcio             -  Juventus
+  AS Roma                  -  Hellas Verona
   Torino FC                -  Udinese Calcio
 
 
 Matchday 34
 [Sun Apr/27]
-  Atalanta BC              -  US Lecce
+  Atalanta Bergamo         -  US Lecce
   Como 1907                -  Genoa CFC
   ACF Fiorentina           -  Empoli FC
-  Hellas Verona FC         -  Cagliari Calcio
+  Hellas Verona            -  Cagliari Calcio
   FC Internazionale Milano  -  AS Roma
-  Juventus FC              -  AC Monza
-  SS Lazio                 -  Parma Calcio 1913
+  Juventus                 -  AC Monza
+  SS Lazio                 -  Parma Calcio
   SSC Napoli               -  Torino FC
-  Udinese Calcio           -  Bologna FC 1909
+  Udinese Calcio           -  Bologna FC
   Venezia FC               -  AC Milan
 
 
 Matchday 35
 [Sun May/4]
-  Bologna FC 1909          -  Juventus FC
+  Bologna FC               -  Juventus
   Cagliari Calcio          -  Udinese Calcio
   Empoli FC                -  SS Lazio
   Genoa CFC                -  AC Milan
-  FC Internazionale Milano  -  Hellas Verona FC
+  FC Internazionale Milano  -  Hellas Verona
   US Lecce                 -  SSC Napoli
-  AC Monza                 -  Atalanta BC
-  Parma Calcio 1913        -  Como 1907
+  AC Monza                 -  Atalanta Bergamo
+  Parma Calcio             -  Como 1907
   AS Roma                  -  ACF Fiorentina
   Torino FC                -  Venezia FC
 
 
 Matchday 36
 [Sun May/11]
-  Atalanta BC              -  AS Roma
+  Atalanta Bergamo         -  AS Roma
   Como 1907                -  Cagliari Calcio
-  Empoli FC                -  Parma Calcio 1913
-  Hellas Verona FC         -  US Lecce
-  SS Lazio                 -  Juventus FC
-  AC Milan                 -  Bologna FC 1909
+  Empoli FC                -  Parma Calcio
+  Hellas Verona            -  US Lecce
+  SS Lazio                 -  Juventus
+  AC Milan                 -  Bologna FC
   SSC Napoli               -  Genoa CFC
   Torino FC                -  FC Internazionale Milano
   Udinese Calcio           -  AC Monza
@@ -508,26 +514,26 @@ Matchday 36
 Matchday 37
 [Sun May/18]
   Cagliari Calcio          -  Venezia FC
-  ACF Fiorentina           -  Bologna FC 1909
-  Genoa CFC                -  Atalanta BC
-  Hellas Verona FC         -  Como 1907
+  ACF Fiorentina           -  Bologna FC
+  Genoa CFC                -  Atalanta Bergamo
+  Hellas Verona            -  Como 1907
   FC Internazionale Milano  -  SS Lazio
-  Juventus FC              -  Udinese Calcio
+  Juventus                 -  Udinese Calcio
   US Lecce                 -  Torino FC
   AC Monza                 -  Empoli FC
-  Parma Calcio 1913        -  SSC Napoli
+  Parma Calcio             -  SSC Napoli
   AS Roma                  -  AC Milan
 
 
 Matchday 38
 [Sun May/25]
-  Atalanta BC              -  Parma Calcio 1913
-  Bologna FC 1909          -  Genoa CFC
+  Atalanta Bergamo         -  Parma Calcio
+  Bologna FC               -  Genoa CFC
   Como 1907                -  FC Internazionale Milano
-  Empoli FC                -  Hellas Verona FC
+  Empoli FC                -  Hellas Verona
   SS Lazio                 -  US Lecce
   AC Milan                 -  AC Monza
   SSC Napoli               -  Cagliari Calcio
   Torino FC                -  AS Roma
   Udinese Calcio           -  ACF Fiorentina
-  Venezia FC               -  Juventus FC
+  Venezia FC               -  Juventus
