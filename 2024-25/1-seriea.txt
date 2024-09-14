@@ -1,5 +1,9 @@
 = Italian Serie A 2024/25
 
+# Date       Sat Aug/17 2024 - Sun May/25 2025 (281d)
+# Teams      20
+# Matches    380
+
 
 
 Matchday 1
@@ -67,132 +71,150 @@ Matchday 4
 
 
 Matchday 5
+[Fri Sep/20]
+  18.30  Cagliari Calcio          -  Empoli FC
+  20.45  Hellas Verona FC         -  Torino FC
 [Sat Sep/21]
   15.00  Venezia FC               -  Genoa CFC
   18.00  Juventus FC              -  SSC Napoli
   20.45  US Lecce                 -  Parma Calcio 1913
 [Sun Sep/22]
-  Cagliari Calcio          -  Empoli FC
-  Hellas Verona FC         -  Torino FC
-  AC Monza                 -  Bologna FC 1909
-  11.00  FC Internazionale Milano  -  AC Milan
   12.30  ACF Fiorentina           -  SS Lazio
+  15.00  AC Monza                 -  Bologna FC 1909
   18.00  AS Roma                  -  Udinese Calcio
+  20.45  FC Internazionale Milano  -  AC Milan
 [Mon Sep/23]
   20.45  Atalanta BC              -  Como 1907
 
 
 Matchday 6
+[Fri Sep/27]
+  20.45  AC Milan                 -  US Lecce
 [Sat Sep/28]
   15.00  Udinese Calcio           -  FC Internazionale Milano
   18.00  Genoa CFC                -  Juventus FC
   20.45  Bologna FC 1909          -  Atalanta BC
 [Sun Sep/29]
-  Como 1907                -  Hellas Verona FC
-  AC Milan                 -  US Lecce
-  Parma Calcio 1913        -  Cagliari Calcio
-  AS Roma                  -  Venezia FC
   12.30  Torino FC                -  SS Lazio
+  15.00  Como 1907                -  Hellas Verona FC
+         AS Roma                  -  Venezia FC
   18.00  Empoli FC                -  ACF Fiorentina
   20.45  SSC Napoli               -  AC Monza
+[Mon Sep/30]
+  20.45  Parma Calcio 1913        -  Cagliari Calcio
 
 
 Matchday 7
+[Fri Oct/4]
+  18.30  SSC Napoli               -  Como 1907
+  20.45  Hellas Verona FC         -  Venezia FC
+[Sat Oct/5]
+  15.00  Udinese Calcio           -  US Lecce
+  18.00  Atalanta BC              -  Genoa CFC
+  20.45  FC Internazionale Milano  -  Torino FC
 [Sun Oct/6]
-  Atalanta BC              -  Genoa CFC
-  Bologna FC 1909          -  Parma Calcio 1913
-  ACF Fiorentina           -  AC Milan
-  Hellas Verona FC         -  Venezia FC
-  FC Internazionale Milano  -  Torino FC
-  Juventus FC              -  Cagliari Calcio
-  SS Lazio                 -  Empoli FC
-  AC Monza                 -  AS Roma
-  SSC Napoli               -  Como 1907
-  Udinese Calcio           -  US Lecce
+  12.30  Juventus FC              -  Cagliari Calcio
+  15.00  Bologna FC 1909          -  Parma Calcio 1913
+         SS Lazio                 -  Empoli FC
+  18.00  AC Monza                 -  AS Roma
+  20.45  ACF Fiorentina           -  AC Milan
 
 
 Matchday 8
+[Sat Oct/19]
+  15.00  Como 1907                -  Parma Calcio 1913
+         Genoa CFC                -  Bologna FC 1909
+  18.00  AC Milan                 -  Udinese Calcio
+  20.45  Juventus FC              -  SS Lazio
 [Sun Oct/20]
-  Cagliari Calcio          -  Torino FC
-  Como 1907                -  Parma Calcio 1913
-  Empoli FC                -  SSC Napoli
-  Genoa CFC                -  Bologna FC 1909
-  Hellas Verona FC         -  AC Monza
-  Juventus FC              -  SS Lazio
-  US Lecce                 -  ACF Fiorentina
-  AC Milan                 -  Udinese Calcio
-  AS Roma                  -  FC Internazionale Milano
-  Venezia FC               -  Atalanta BC
+  12.30  Empoli FC                -  SSC Napoli
+  15.00  US Lecce                 -  ACF Fiorentina
+         Venezia FC               -  Atalanta BC
+  18.00  Cagliari Calcio          -  Torino FC
+  20.45  AS Roma                  -  FC Internazionale Milano
+[Mon Oct/21]
+  20.45  Hellas Verona FC         -  AC Monza
 
 
 Matchday 9
+[Fri Oct/25]
+  18.30  Udinese Calcio           -  Cagliari Calcio
+  20.45  Torino FC                -  Como 1907
+[Sat Oct/26]
+  15.00  SSC Napoli               -  US Lecce
+  18.00  Bologna FC 1909          -  AC Milan
+  20.45  Atalanta BC              -  Hellas Verona FC
 [Sun Oct/27]
-  Atalanta BC              -  Hellas Verona FC
-  Bologna FC 1909          -  AC Milan
-  ACF Fiorentina           -  AS Roma
-  FC Internazionale Milano  -  Juventus FC
-  SS Lazio                 -  Genoa CFC
-  AC Monza                 -  Venezia FC
-  SSC Napoli               -  US Lecce
-  Parma Calcio 1913        -  Empoli FC
-  Torino FC                -  Como 1907
-  Udinese Calcio           -  Cagliari Calcio
+  12.30  Parma Calcio 1913        -  Empoli FC
+  15.00  SS Lazio                 -  Genoa CFC
+         AC Monza                 -  Venezia FC
+  18.00  FC Internazionale Milano  -  Juventus FC
+  20.45  ACF Fiorentina           -  AS Roma
 
 
 Matchday 10
+[Tue Oct/29]
+  18.30  Cagliari Calcio          -  Bologna FC 1909
+         US Lecce                 -  Hellas Verona FC
+  20.45  AC Milan                 -  SSC Napoli
 [Wed Oct/30]
-  Atalanta BC              -  AC Monza
-  Cagliari Calcio          -  Bologna FC 1909
-  Como 1907                -  SS Lazio
-  Empoli FC                -  FC Internazionale Milano
-  Genoa CFC                -  ACF Fiorentina
-  Juventus FC              -  Parma Calcio 1913
-  US Lecce                 -  Hellas Verona FC
-  AC Milan                 -  SSC Napoli
-  AS Roma                  -  Torino FC
-  Venezia FC               -  Udinese Calcio
+  18.30  Empoli FC                -  FC Internazionale Milano
+         Venezia FC               -  Udinese Calcio
+  20.45  Atalanta BC              -  AC Monza
+         Juventus FC              -  Parma Calcio 1913
+[Thu Oct/31]
+  18.30  Genoa CFC                -  ACF Fiorentina
+  20.45  Como 1907                -  SS Lazio
+         AS Roma                  -  Torino FC
 
 
 Matchday 11
+[Sat Nov/2]
+  15.00  Bologna FC 1909          -  US Lecce
+  18.00  Udinese Calcio           -  Juventus FC
+  20.45  AC Monza                 -  AC Milan
 [Sun Nov/3]
-  Bologna FC 1909          -  US Lecce
-  Empoli FC                -  Como 1907
-  Hellas Verona FC         -  AS Roma
-  FC Internazionale Milano  -  Venezia FC
-  SS Lazio                 -  Cagliari Calcio
-  AC Monza                 -  AC Milan
-  SSC Napoli               -  Atalanta BC
-  Parma Calcio 1913        -  Genoa CFC
-  Torino FC                -  ACF Fiorentina
-  Udinese Calcio           -  Juventus FC
+  12.30  SSC Napoli               -  Atalanta BC
+  15.00  Torino FC                -  ACF Fiorentina
+  18.00  Hellas Verona FC         -  AS Roma
+  20.45  FC Internazionale Milano  -  Venezia FC
+[Mon Nov/4]
+  18.30  Empoli FC                -  Como 1907
+         Parma Calcio 1913        -  Genoa CFC
+  20.45  SS Lazio                 -  Cagliari Calcio
 
 
 Matchday 12
+[Thu Nov/7]
+  20.45  Genoa CFC                -  Como 1907
+[Fri Nov/8]
+  18.30  Venezia FC               -  Parma Calcio 1913
+  20.45  US Lecce                 -  Empoli FC
+[Sat Nov/9]
+  18.00  Cagliari Calcio          -  AC Milan
+  20.45  Juventus FC              -  Torino FC
 [Sun Nov/10]
-  Atalanta BC              -  Udinese Calcio
-  Cagliari Calcio          -  AC Milan
-  ACF Fiorentina           -  Hellas Verona FC
-  Genoa CFC                -  Como 1907
-  FC Internazionale Milano  -  SSC Napoli
-  Juventus FC              -  Torino FC
-  US Lecce                 -  Empoli FC
-  AC Monza                 -  SS Lazio
-  AS Roma                  -  Bologna FC 1909
-  Venezia FC               -  Parma Calcio 1913
+  12.30  Atalanta BC              -  Udinese Calcio
+  15.00  ACF Fiorentina           -  Hellas Verona FC
+         AS Roma                  -  Bologna FC 1909
+  18.00  AC Monza                 -  SS Lazio
+  20.45  FC Internazionale Milano  -  SSC Napoli
 
 
 Matchday 13
+[Sat Nov/23]
+  15.00  Hellas Verona FC         -  FC Internazionale Milano
+  18.00  AC Milan                 -  Juventus FC
+  20.45  Parma Calcio 1913        -  Atalanta BC
 [Sun Nov/24]
-  Como 1907                -  ACF Fiorentina
-  Empoli FC                -  Udinese Calcio
-  Genoa CFC                -  Cagliari Calcio
-  Hellas Verona FC         -  FC Internazionale Milano
-  SS Lazio                 -  Bologna FC 1909
-  AC Milan                 -  Juventus FC
-  SSC Napoli               -  AS Roma
-  Parma Calcio 1913        -  Atalanta BC
-  Torino FC                -  AC Monza
-  Venezia FC               -  US Lecce
+  12.30  Genoa CFC                -  Cagliari Calcio
+  15.00  Como 1907                -  ACF Fiorentina
+         Torino FC                -  AC Monza
+  18.00  SSC Napoli               -  AS Roma
+  20.45  SS Lazio                 -  Bologna FC 1909
+[Mon Nov/25]
+  18.30  Empoli FC                -  Udinese Calcio
+  20.45  Venezia FC               -  US Lecce
 
 
 Matchday 14
