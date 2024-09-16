@@ -56,15 +56,15 @@ Matchday 3
 
 Matchday 4
 [Sat Sep/14]
-  15.00  Como 1907                -  Bologna FC 1909
-  18.00  Empoli FC                -  Juventus FC
-  20.45  AC Milan                 -  Venezia FC
+  15.00  Como 1907                2-2 (1-0)  Bologna FC 1909
+  18.00  Empoli FC                0-0  Juventus FC
+  20.45  AC Milan                 4-0 (4-0)  Venezia FC
 [Sun Sep/15]
-  12.30  Genoa CFC                -  AS Roma
-  15.00  Atalanta BC              -  ACF Fiorentina
-         Torino FC                -  US Lecce
-  18.00  Cagliari Calcio          -  SSC Napoli
-  20.45  AC Monza                 -  FC Internazionale Milano
+  12.30  Genoa CFC                1-1 (0-1)  AS Roma
+  15.00  Atalanta BC              3-2 (3-2)  ACF Fiorentina
+         Torino FC                0-0  US Lecce
+  18.00  Cagliari Calcio          0-4 (0-1)  SSC Napoli
+  20.45  AC Monza                 1-1 (0-0)  FC Internazionale Milano
 [Mon Sep/16]
   18.30  Parma Calcio 1913        -  Udinese Calcio
   20.45  SS Lazio                 -  Hellas Verona FC
