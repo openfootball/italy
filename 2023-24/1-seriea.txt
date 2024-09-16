@@ -1,99 +1,104 @@
 = Italian Serie A 2023/24
 
+# Date       Sat Aug/19 2023 - Sun Jun/2 2024 (288d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Sat Aug/19]
-  18.30  Frosinone Calcio         1-3 (1-2)  SSC Napoli
-         Empoli FC                0-1 (0-0)  Hellas Verona
-  20.45  FC Internazionale Milano  2-0 (1-0)  AC Monza
-         Genoa CFC                1-4 (0-3)  ACF Fiorentina
+  18.30  Empoli FC                0-1 (0-0)  Hellas Verona FC
+         Frosinone Calcio         1-3 (1-2)  SSC Napoli
+  20.45  Genoa CFC                1-4 (0-3)  ACF Fiorentina
+         FC Internazionale Milano  2-0 (1-0)  AC Monza
 [Sun Aug/20]
-  18.30  AS Roma                  2-2 (1-1)  Salernitana
-         US Sassuolo Calcio       0-2 (0-0)  Atalanta Bergamo
-  20.45  Udinese Calcio           0-3 (0-3)  Juventus
-         US Lecce                 2-1 (0-1)  SS Lazio
+  18.30  AS Roma                  2-2 (1-1)  US Salernitana 1919
+         US Sassuolo Calcio       0-2 (0-0)  Atalanta BC
+  20.45  US Lecce                 2-1 (0-1)  SS Lazio
+         Udinese Calcio           0-3 (0-3)  Juventus FC
 [Mon Aug/21]
   18.30  Torino FC                0-0  Cagliari Calcio
-  20.45  Bologna FC               0-2 (0-2)  AC Milan
+  20.45  Bologna FC 1909          0-2 (0-2)  AC Milan
 
 
 Matchday 2
 [Sat Aug/26]
-  18.30  Frosinone Calcio         2-1 (2-0)  Atalanta Bergamo
+  18.30  Frosinone Calcio         2-1 (2-0)  Atalanta BC
          AC Monza                 2-0 (1-0)  Empoli FC
-  20.45  AC Milan                 4-1 (3-1)  Torino FC
-         Hellas Verona            2-1 (2-0)  AS Roma
+  20.45  Hellas Verona FC         2-1 (2-0)  AS Roma
+         AC Milan                 4-1 (3-1)  Torino FC
 [Sun Aug/27]
-  18.30  Juventus                 1-1 (0-1)  Bologna FC
-         ACF Fiorentina           2-2 (2-0)  US Lecce
+  18.30  ACF Fiorentina           2-2 (2-0)  US Lecce
+         Juventus FC              1-1 (0-1)  Bologna FC 1909
   20.45  SS Lazio                 0-1 (0-1)  Genoa CFC
          SSC Napoli               2-0 (1-0)  US Sassuolo Calcio
 [Mon Aug/28]
-  18.30  Salernitana              1-1 (0-0)  Udinese Calcio
+  18.30  US Salernitana 1919      1-1 (0-0)  Udinese Calcio
   20.45  Cagliari Calcio          0-2 (0-2)  FC Internazionale Milano
 
 
 Matchday 3
 [Fri Sep/1]
-  18.30  US Sassuolo Calcio       3-1 (1-0)  Hellas Verona
+  18.30  US Sassuolo Calcio       3-1 (1-0)  Hellas Verona FC
   20.45  AS Roma                  1-2 (0-1)  AC Milan
 [Sat Sep/2]
-  18.30  Bologna FC               2-1 (0-1)  Cagliari Calcio
+  18.30  Bologna FC 1909          2-1 (0-1)  Cagliari Calcio
          Udinese Calcio           0-0  Frosinone Calcio
-  20.45  SSC Napoli               1-2 (1-1)  SS Lazio
-         Atalanta Bergamo         3-0 (2-0)  AC Monza
+  20.45  Atalanta BC              3-0 (2-0)  AC Monza
+         SSC Napoli               1-2 (1-1)  SS Lazio
 [Sun Sep/3]
-  18.30  Torino FC                1-0 (0-0)  Genoa CFC
-         FC Internazionale Milano  4-0 (1-0)  ACF Fiorentina
-  20.45  Empoli FC                0-2 (0-1)  Juventus
-         US Lecce                 2-0 (1-0)  Salernitana
+  18.30  FC Internazionale Milano  4-0 (1-0)  ACF Fiorentina
+         Torino FC                1-0 (0-0)  Genoa CFC
+  20.45  Empoli FC                0-2 (0-1)  Juventus FC
+         US Lecce                 2-0 (1-0)  US Salernitana 1919
 
 
 Matchday 4
 [Sat Sep/16]
-  15.00  Juventus                 3-1 (2-0)  SS Lazio
+  15.00  Juventus FC              3-1 (2-0)  SS Lazio
   18.00  FC Internazionale Milano  5-1 (2-0)  AC Milan
   20.45  Genoa CFC                2-2 (1-0)  SSC Napoli
 [Sun Sep/17]
   12.30  Cagliari Calcio          0-0  Udinese Calcio
   15.00  Frosinone Calcio         4-2 (1-2)  US Sassuolo Calcio
          AC Monza                 1-1 (1-1)  US Lecce
-  18.00  ACF Fiorentina           3-2 (2-1)  Atalanta Bergamo
+  18.00  ACF Fiorentina           3-2 (2-1)  Atalanta BC
   20.45  AS Roma                  7-0 (3-0)  Empoli FC
 [Mon Sep/18]
-  18.30  Salernitana              0-3 (0-2)  Torino FC
-  20.45  Hellas Verona            0-0  Bologna FC
+  18.30  US Salernitana 1919      0-3 (0-2)  Torino FC
+  20.45  Hellas Verona FC         0-0  Bologna FC 1909
 
 
 Matchday 5
 [Fri Sep/22]
-  18.30  Salernitana              1-1 (0-1)  Frosinone Calcio
+  18.30  US Salernitana 1919      1-1 (0-1)  Frosinone Calcio
   20.45  US Lecce                 1-0 (0-0)  Genoa CFC
 [Sat Sep/23]
-  15.00  AC Milan                 1-0 (1-0)  Hellas Verona
-  18.00  US Sassuolo Calcio       4-2 (2-1)  Juventus
+  15.00  AC Milan                 1-0 (1-0)  Hellas Verona FC
+  18.00  US Sassuolo Calcio       4-2 (2-1)  Juventus FC
   20.45  SS Lazio                 1-1 (1-1)  AC Monza
 [Sun Sep/24]
   12.30  Empoli FC                0-1 (0-0)  FC Internazionale Milano
-  15.00  Atalanta Bergamo         2-0 (1-0)  Cagliari Calcio
+  15.00  Atalanta BC              2-0 (1-0)  Cagliari Calcio
          Udinese Calcio           0-2 (0-1)  ACF Fiorentina
-  18.00  Bologna FC               0-0  SSC Napoli
+  18.00  Bologna FC 1909          0-0  SSC Napoli
   20.45  Torino FC                1-1 (0-0)  AS Roma
 
 
 Matchday 6
 [Tue Sep/26]
-  20.45  Juventus                 1-0 (0-0)  US Lecce
+  20.45  Juventus FC              1-0 (0-0)  US Lecce
 [Wed Sep/27]
   18.30  Cagliari Calcio          1-3 (1-2)  AC Milan
-         Empoli FC                1-0 (1-0)  Salernitana
-         Hellas Verona            0-1 (0-1)  Atalanta Bergamo
-  20.45  SS Lazio                 2-0 (0-0)  Torino FC
+         Empoli FC                1-0 (1-0)  US Salernitana 1919
+         Hellas Verona FC         0-1 (0-1)  Atalanta BC
+  20.45  FC Internazionale Milano  1-2 (1-0)  US Sassuolo Calcio
+         SS Lazio                 2-0 (0-0)  Torino FC
          SSC Napoli               4-1 (2-0)  Udinese Calcio
-         FC Internazionale Milano  1-2 (1-0)  US Sassuolo Calcio
 [Thu Sep/28]
-  18.30  AC Monza                 0-0  Bologna FC
-         Frosinone Calcio         1-1 (0-1)  ACF Fiorentina
+  18.30  Frosinone Calcio         1-1 (0-1)  ACF Fiorentina
+         AC Monza                 0-0  Bologna FC 1909
   20.45  Genoa CFC                4-1 (2-1)  AS Roma
 
 
@@ -101,15 +106,15 @@ Matchday 7
 [Sat Sep/30]
   15.00  US Lecce                 0-4 (0-1)  SSC Napoli
   18.00  AC Milan                 2-0 (0-0)  SS Lazio
-  20.45  Salernitana              0-4 (0-0)  FC Internazionale Milano
+  20.45  US Salernitana 1919      0-4 (0-0)  FC Internazionale Milano
 [Sun Oct/1]
-  12.30  Bologna FC               3-0 (1-0)  Empoli FC
+  12.30  Bologna FC 1909          3-0 (1-0)  Empoli FC
   15.00  Udinese Calcio           2-2 (1-2)  Genoa CFC
-  18.00  Atalanta Bergamo         0-0  Juventus
+  18.00  Atalanta BC              0-0  Juventus FC
   20.45  AS Roma                  2-0 (1-0)  Frosinone Calcio
 [Mon Oct/2]
-  18.30  Torino FC                0-0  Hellas Verona
-         US Sassuolo Calcio       0-1 (0-0)  AC Monza
+  18.30  US Sassuolo Calcio       0-1 (0-0)  AC Monza
+         Torino FC                0-0  Hellas Verona FC
   20.45  ACF Fiorentina           3-0 (2-0)  Cagliari Calcio
 
 
@@ -118,28 +123,28 @@ Matchday 8
   18.30  Empoli FC                0-0  Udinese Calcio
   20.45  US Lecce                 1-1 (0-1)  US Sassuolo Calcio
 [Sat Oct/7]
-  15.00  FC Internazionale Milano  2-2 (2-1)  Bologna FC
-  18.00  Juventus                 2-0 (0-0)  Torino FC
+  15.00  FC Internazionale Milano  2-2 (2-1)  Bologna FC 1909
+  18.00  Juventus FC              2-0 (0-0)  Torino FC
   20.45  Genoa CFC                0-1 (0-0)  AC Milan
 [Sun Oct/8]
-  12.30  AC Monza                 3-0 (2-0)  Salernitana
-  15.00  Frosinone Calcio         2-1 (1-0)  Hellas Verona
-         SS Lazio                 3-2 (2-1)  Atalanta Bergamo
+  12.30  AC Monza                 3-0 (2-0)  US Salernitana 1919
+  15.00  Frosinone Calcio         2-1 (1-0)  Hellas Verona FC
+         SS Lazio                 3-2 (2-1)  Atalanta BC
   18.00  Cagliari Calcio          1-4 (0-2)  AS Roma
   20.45  SSC Napoli               1-3 (1-1)  ACF Fiorentina
 
 
 Matchday 9
 [Sat Oct/21]
-  15.00  Hellas Verona            1-3 (0-2)  SSC Napoli
+  15.00  Hellas Verona FC         1-3 (0-2)  SSC Napoli
   18.00  Torino FC                0-3 (0-0)  FC Internazionale Milano
   20.45  US Sassuolo Calcio       0-2 (0-2)  SS Lazio
 [Sun Oct/22]
   12.30  AS Roma                  1-0 (0-0)  AC Monza
-  15.00  Salernitana              2-2 (0-0)  Cagliari Calcio
-         Bologna FC               2-1 (2-0)  Frosinone Calcio
-  18.00  Atalanta Bergamo         2-0 (0-0)  Genoa CFC
-  20.45  AC Milan                 0-1 (0-0)  Juventus
+  15.00  Bologna FC 1909          2-1 (2-0)  Frosinone Calcio
+         US Salernitana 1919      2-2 (0-0)  Cagliari Calcio
+  18.00  Atalanta BC              2-0 (0-0)  Genoa CFC
+  20.45  AC Milan                 0-1 (0-0)  Juventus FC
 [Mon Oct/23]
   18.30  Udinese Calcio           1-1 (0-0)  US Lecce
   20.45  ACF Fiorentina           0-2 (0-1)  Empoli FC
@@ -147,33 +152,33 @@ Matchday 9
 
 Matchday 10
 [Fri Oct/27]
-  20.45  Genoa CFC                1-0 (1-0)  Salernitana
+  20.45  Genoa CFC                1-0 (1-0)  US Salernitana 1919
 [Sat Oct/28]
-  15.00  US Sassuolo Calcio       1-1 (1-1)  Bologna FC
+  15.00  US Sassuolo Calcio       1-1 (1-1)  Bologna FC 1909
   18.00  US Lecce                 0-1 (0-1)  Torino FC
-  20.45  Juventus                 1-0 (0-0)  Hellas Verona
+  20.45  Juventus FC              1-0 (0-0)  Hellas Verona FC
 [Sun Oct/29]
   12.30  Cagliari Calcio          4-3 (0-2)  Frosinone Calcio
   15.00  AC Monza                 1-1 (1-0)  Udinese Calcio
   18.00  FC Internazionale Milano  1-0 (0-0)  AS Roma
   20.45  SSC Napoli               2-2 (0-2)  AC Milan
 [Mon Oct/30]
-  18.30  Empoli FC                0-3 (0-2)  Atalanta Bergamo
+  18.30  Empoli FC                0-3 (0-2)  Atalanta BC
   20.45  SS Lazio                 1-0 (0-0)  ACF Fiorentina
 
 
 Matchday 11
 [Fri Nov/3]
-  20.45  Bologna FC               1-0 (0-0)  SS Lazio
+  20.45  Bologna FC 1909          1-0 (0-0)  SS Lazio
 [Sat Nov/4]
-  15.00  Salernitana              0-2 (0-1)  SSC Napoli
-  18.00  Atalanta Bergamo         1-2 (0-1)  FC Internazionale Milano
+  15.00  US Salernitana 1919      0-2 (0-1)  SSC Napoli
+  18.00  Atalanta BC              1-2 (0-1)  FC Internazionale Milano
   20.45  AC Milan                 0-1 (0-0)  Udinese Calcio
 [Sun Nov/5]
-  12.30  Hellas Verona            1-3 (0-1)  AC Monza
+  12.30  Hellas Verona FC         1-3 (0-1)  AC Monza
   15.00  Cagliari Calcio          2-1 (0-0)  Genoa CFC
   18.00  AS Roma                  2-1 (0-0)  US Lecce
-  20.45  ACF Fiorentina           0-1 (0-1)  Juventus
+  20.45  ACF Fiorentina           0-1 (0-1)  Juventus FC
 [Mon Nov/6]
   18.30  Frosinone Calcio         2-1 (0-0)  Empoli FC
   20.45  Torino FC                2-1 (1-1)  US Sassuolo Calcio
@@ -181,64 +186,64 @@ Matchday 11
 
 Matchday 12
 [Fri Nov/10]
-  18.30  US Sassuolo Calcio       2-2 (1-2)  Salernitana
-  20.45  Genoa CFC                1-0 (1-0)  Hellas Verona
+  18.30  US Sassuolo Calcio       2-2 (1-2)  US Salernitana 1919
+  20.45  Genoa CFC                1-0 (1-0)  Hellas Verona FC
 [Sat Nov/11]
   15.00  US Lecce                 2-2 (0-2)  AC Milan
-  18.00  Juventus                 2-1 (0-0)  Cagliari Calcio
+  18.00  Juventus FC              2-1 (0-0)  Cagliari Calcio
   20.45  AC Monza                 1-1 (0-0)  Torino FC
 [Sun Nov/12]
   12.30  SSC Napoli               0-1 (0-0)  Empoli FC
-  15.00  Udinese Calcio           1-1 (1-0)  Atalanta Bergamo
-         ACF Fiorentina           2-1 (1-1)  Bologna FC
+  15.00  ACF Fiorentina           2-1 (1-1)  Bologna FC 1909
+         Udinese Calcio           1-1 (1-0)  Atalanta BC
   18.00  SS Lazio                 0-0  AS Roma
   20.45  FC Internazionale Milano  2-0 (1-0)  Frosinone Calcio
 
 
 Matchday 13
 [Sat Nov/25]
-  15.00  Salernitana              2-1 (0-1)  SS Lazio
-  18.00  Atalanta Bergamo         1-2 (0-1)  SSC Napoli
+  15.00  US Salernitana 1919      2-1 (0-1)  SS Lazio
+  18.00  Atalanta BC              1-2 (0-1)  SSC Napoli
   20.45  AC Milan                 1-0 (1-0)  ACF Fiorentina
 [Sun Nov/26]
   12.30  Cagliari Calcio          1-1 (1-0)  AC Monza
   15.00  Empoli FC                3-4 (2-2)  US Sassuolo Calcio
          Frosinone Calcio         2-1 (1-1)  Genoa CFC
   18.00  AS Roma                  3-1 (1-0)  Udinese Calcio
-  20.45  Juventus                 1-1 (1-1)  FC Internazionale Milano
+  20.45  Juventus FC              1-1 (1-1)  FC Internazionale Milano
 [Mon Nov/27]
-  18.30  Hellas Verona            2-2 (1-1)  US Lecce
-  20.45  Bologna FC               2-0 (0-0)  Torino FC
+  18.30  Hellas Verona FC         2-2 (1-1)  US Lecce
+  20.45  Bologna FC 1909          2-0 (0-0)  Torino FC
 
 
 Matchday 14
 [Fri Dec/1]
-  20.45  AC Monza                 1-2 (0-1)  Juventus
+  20.45  AC Monza                 1-2 (0-1)  Juventus FC
 [Sat Dec/2]
   15.00  Genoa CFC                1-1 (1-0)  Empoli FC
   18.00  SS Lazio                 1-0 (1-0)  Cagliari Calcio
   20.45  AC Milan                 3-1 (1-0)  Frosinone Calcio
 [Sun Dec/3]
-  12.30  US Lecce                 1-1 (0-0)  Bologna FC
-  15.00  Udinese Calcio           3-3 (2-1)  Hellas Verona
-         ACF Fiorentina           3-0 (2-0)  Salernitana
+  12.30  US Lecce                 1-1 (0-0)  Bologna FC 1909
+  15.00  ACF Fiorentina           3-0 (2-0)  US Salernitana 1919
+         Udinese Calcio           3-3 (2-1)  Hellas Verona FC
   18.00  US Sassuolo Calcio       1-2 (1-0)  AS Roma
   20.45  SSC Napoli               0-3 (0-1)  FC Internazionale Milano
 [Mon Dec/4]
-  20.45  Torino FC                3-0 (1-0)  Atalanta Bergamo
+  20.45  Torino FC                3-0 (1-0)  Atalanta BC
 
 
 Matchday 15
 [Fri Dec/8]
-  20.45  Juventus                 1-0 (0-0)  SSC Napoli
+  20.45  Juventus FC              1-0 (0-0)  SSC Napoli
 [Sat Dec/9]
-  15.00  Hellas Verona            1-1 (0-1)  SS Lazio
-  18.00  Atalanta Bergamo         3-2 (1-1)  AC Milan
+  15.00  Hellas Verona FC         1-1 (0-1)  SS Lazio
+  18.00  Atalanta BC              3-2 (1-1)  AC Milan
   20.45  FC Internazionale Milano  4-0 (3-0)  Udinese Calcio
 [Sun Dec/10]
   12.30  Frosinone Calcio         0-0  Torino FC
   15.00  AC Monza                 1-0 (0-0)  Genoa CFC
-  18.00  Salernitana              1-2 (0-2)  Bologna FC
+  18.00  US Salernitana 1919      1-2 (0-2)  Bologna FC 1909
   20.45  AS Roma                  1-1 (1-0)  ACF Fiorentina
 [Mon Dec/11]
   18.30  Empoli FC                1-1 (0-0)  US Lecce
@@ -247,163 +252,163 @@ Matchday 15
 
 Matchday 16
 [Fri Dec/15]
-  20.45  Genoa CFC                1-1 (0-1)  Juventus
+  20.45  Genoa CFC                1-1 (0-1)  Juventus FC
 [Sat Dec/16]
   15.00  US Lecce                 2-1 (1-1)  Frosinone Calcio
   18.30  SSC Napoli               2-1 (0-0)  Cagliari Calcio
   20.45  Torino FC                1-0 (1-0)  Empoli FC
 [Sun Dec/17]
   12.30  AC Milan                 3-0 (2-0)  AC Monza
-  15.00  ACF Fiorentina           1-0 (0-0)  Hellas Verona
+  15.00  ACF Fiorentina           1-0 (0-0)  Hellas Verona FC
          Udinese Calcio           2-2 (1-0)  US Sassuolo Calcio
-  18.00  Bologna FC               2-0 (1-0)  AS Roma
+  18.00  Bologna FC 1909          2-0 (1-0)  AS Roma
   20.45  SS Lazio                 0-2 (0-1)  FC Internazionale Milano
 [Mon Dec/18]
-  20.45  Atalanta Bergamo         4-1 (0-1)  Salernitana
+  20.45  Atalanta BC              4-1 (0-1)  US Salernitana 1919
 
 
 Matchday 17
 [Fri Dec/22]
-  18.30  Empoli FC                0-2 (0-1)  SS Lazio
-         US Sassuolo Calcio       1-2 (1-0)  Genoa CFC
+  18.30  US Sassuolo Calcio       1-2 (1-0)  Genoa CFC
+         Empoli FC                0-2 (0-1)  SS Lazio
   20.45  AC Monza                 0-1 (0-1)  ACF Fiorentina
-         Salernitana              2-2 (1-1)  AC Milan
+         US Salernitana 1919      2-2 (1-1)  AC Milan
 [Sat Dec/23]
-  12.30  Frosinone Calcio         1-2 (0-1)  Juventus
-  15.00  Bologna FC               1-0 (0-0)  Atalanta Bergamo
-         Torino FC                1-1 (0-0)  Udinese Calcio
-  18.00  Hellas Verona            2-0 (0-0)  Cagliari Calcio
+  12.30  Frosinone Calcio         1-2 (0-1)  Juventus FC
+  15.00  Torino FC                1-1 (0-0)  Udinese Calcio
+         Bologna FC 1909          1-0 (0-0)  Atalanta BC
+  18.00  Hellas Verona FC         2-0 (0-0)  Cagliari Calcio
          FC Internazionale Milano  2-0 (1-0)  US Lecce
   20.45  AS Roma                  2-0 (0-0)  SSC Napoli
 
 
 Matchday 18
 [Fri Dec/29]
-  18.30  SSC Napoli               0-0  AC Monza
-         ACF Fiorentina           1-0 (0-0)  Torino FC
-  20.45  SS Lazio                 3-1 (0-0)  Frosinone Calcio
-         Genoa CFC                1-1 (1-1)  FC Internazionale Milano
+  18.30  ACF Fiorentina           1-0 (0-0)  Torino FC
+         SSC Napoli               0-0  AC Monza
+  20.45  Genoa CFC                1-1 (1-1)  FC Internazionale Milano
+         SS Lazio                 3-1 (0-0)  Frosinone Calcio
 [Sat Dec/30]
-  12.30  Atalanta Bergamo         1-0 (0-0)  US Lecce
-  15.00  Udinese Calcio           3-0 (1-0)  Bologna FC
-         Cagliari Calcio          0-0  Empoli FC
-  18.00  AC Milan                 1-0 (0-0)  US Sassuolo Calcio
-         Hellas Verona            0-1 (0-0)  Salernitana
-  20.45  Juventus                 1-0 (0-0)  AS Roma
+  12.30  Atalanta BC              1-0 (0-0)  US Lecce
+  15.00  Cagliari Calcio          0-0  Empoli FC
+         Udinese Calcio           3-0 (1-0)  Bologna FC 1909
+  18.00  Hellas Verona FC         0-1 (0-0)  US Salernitana 1919
+         AC Milan                 1-0 (0-0)  US Sassuolo Calcio
+  20.45  Juventus FC              1-0 (0-0)  AS Roma
 
 
 Matchday 19
 [Fri Jan/5]
-  20.45  Bologna FC               1-1 (0-1)  Genoa CFC
+  20.45  Bologna FC 1909          1-1 (0-1)  Genoa CFC
 [Sat Jan/6]
-  12.30  FC Internazionale Milano  2-1 (1-0)  Hellas Verona
+  12.30  FC Internazionale Milano  2-1 (1-0)  Hellas Verona FC
   15.00  Frosinone Calcio         2-3 (0-2)  AC Monza
   18.00  US Lecce                 1-1 (1-0)  Cagliari Calcio
   20.45  US Sassuolo Calcio       1-0 (1-0)  ACF Fiorentina
 [Sun Jan/7]
   12.30  Empoli FC                0-3 (0-2)  AC Milan
-  15.00  Udinese Calcio           1-2 (0-1)  SS Lazio
-         Torino FC                3-0 (1-0)  SSC Napoli
-  18.00  Salernitana              1-2 (1-0)  Juventus
-  20.45  AS Roma                  1-1 (1-1)  Atalanta Bergamo
+  15.00  Torino FC                3-0 (1-0)  SSC Napoli
+         Udinese Calcio           1-2 (0-1)  SS Lazio
+  18.00  US Salernitana 1919      1-2 (1-0)  Juventus FC
+  20.45  AS Roma                  1-1 (1-1)  Atalanta BC
 
 
 Matchday 20
 [Sat Jan/13]
   15.00  Genoa CFC                0-0  Torino FC
-         SSC Napoli               2-1 (1-1)  Salernitana
-  18.00  Hellas Verona            2-1 (1-0)  Empoli FC
+         SSC Napoli               2-1 (1-1)  US Salernitana 1919
+  18.00  Hellas Verona FC         2-1 (1-0)  Empoli FC
   20.45  AC Monza                 1-5 (0-2)  FC Internazionale Milano
 [Sun Jan/14]
   12.30  SS Lazio                 1-0 (0-0)  US Lecce
-  15.00  Cagliari Calcio          2-1 (1-1)  Bologna FC
+  15.00  Cagliari Calcio          2-1 (1-1)  Bologna FC 1909
   18.00  ACF Fiorentina           2-2 (0-1)  Udinese Calcio
   20.45  AC Milan                 3-1 (1-0)  AS Roma
 [Mon Jan/15]
-  20.45  Atalanta Bergamo         5-0 (3-0)  Frosinone Calcio
+  20.45  Atalanta BC              5-0 (3-0)  Frosinone Calcio
 [Tue Jan/16]
-  20.45  Juventus                 3-0 (2-0)  US Sassuolo Calcio
+  20.45  Juventus FC              3-0 (2-0)  US Sassuolo Calcio
 
 
 Matchday 21
 [Sat Jan/20]
-  18.00  AS Roma                  2-1 (2-0)  Hellas Verona
+  18.00  AS Roma                  2-1 (2-0)  Hellas Verona FC
   20.45  Udinese Calcio           2-3 (1-1)  AC Milan
 [Sun Jan/21]
   12.30  Frosinone Calcio         3-1 (0-1)  Cagliari Calcio
   15.00  Empoli FC                3-0 (2-0)  AC Monza
-  18.00  Salernitana              1-2 (1-1)  Genoa CFC
-  20.45  US Lecce                 0-3 (0-0)  Juventus
+  18.00  US Salernitana 1919      1-2 (1-1)  Genoa CFC
+  20.45  US Lecce                 0-3 (0-0)  Juventus FC
 
 
 Matchday 22
 [Fri Jan/26]
   20.45  Cagliari Calcio          1-2 (0-2)  Torino FC
 [Sat Jan/27]
-  15.00  Atalanta Bergamo         2-0 (2-0)  Udinese Calcio
-  18.00  Juventus                 1-1 (0-0)  Empoli FC
-  20.45  AC Milan                 2-2 (1-1)  Bologna FC
+  15.00  Atalanta BC              2-0 (2-0)  Udinese Calcio
+  18.00  Juventus FC              1-1 (0-0)  Empoli FC
+  20.45  AC Milan                 2-2 (1-1)  Bologna FC 1909
 [Sun Jan/28]
   12.30  Genoa CFC                2-1 (0-1)  US Lecce
-  15.00  AC Monza                 1-0 (1-0)  US Sassuolo Calcio
-         Hellas Verona            1-1 (1-0)  Frosinone Calcio
+  15.00  Hellas Verona FC         1-1 (1-0)  Frosinone Calcio
+         AC Monza                 1-0 (1-0)  US Sassuolo Calcio
   18.00  SS Lazio                 0-0  SSC Napoli
   20.45  ACF Fiorentina           0-1 (0-1)  FC Internazionale Milano
 [Mon Jan/29]
-  20.45  Salernitana              1-2 (0-0)  AS Roma
+  20.45  US Salernitana 1919      1-2 (0-0)  AS Roma
 
 
 Matchday 23
 [Fri Feb/2]
   20.45  US Lecce                 3-2 (1-0)  ACF Fiorentina
 [Sat Feb/3]
-  15.00  Udinese Calcio           0-0  AC Monza
-         Empoli FC                0-0  Genoa CFC
+  15.00  Empoli FC                0-0  Genoa CFC
+         Udinese Calcio           0-0  AC Monza
   18.00  Frosinone Calcio         2-3 (1-1)  AC Milan
-  20.45  Bologna FC               4-2 (1-2)  US Sassuolo Calcio
+  20.45  Bologna FC 1909          4-2 (1-2)  US Sassuolo Calcio
 [Sun Feb/4]
-  12.30  Torino FC                0-0  Salernitana
-  15.00  SSC Napoli               2-1 (0-0)  Hellas Verona
-  18.00  Atalanta Bergamo         3-1 (2-0)  SS Lazio
-  20.45  FC Internazionale Milano  1-0 (1-0)  Juventus
+  12.30  Torino FC                0-0  US Salernitana 1919
+  15.00  SSC Napoli               2-1 (0-0)  Hellas Verona FC
+  18.00  Atalanta BC              3-1 (2-0)  SS Lazio
+  20.45  FC Internazionale Milano  1-0 (1-0)  Juventus FC
 [Mon Feb/5]
   20.45  AS Roma                  4-0 (2-0)  Cagliari Calcio
 
 
 Matchday 24
 [Fri Feb/9]
-  20.45  Salernitana              1-3 (0-1)  Empoli FC
+  20.45  US Salernitana 1919      1-3 (0-1)  Empoli FC
 [Sat Feb/10]
   15.00  Cagliari Calcio          1-3 (0-1)  SS Lazio
   18.00  AS Roma                  2-4 (2-1)  FC Internazionale Milano
   20.45  US Sassuolo Calcio       1-1 (1-1)  Torino FC
 [Sun Feb/11]
   12.30  ACF Fiorentina           5-1 (3-0)  Frosinone Calcio
-  15.00  AC Monza                 0-0  Hellas Verona
-         Bologna FC               4-0 (2-0)  US Lecce
-  18.00  Genoa CFC                1-4 (0-1)  Atalanta Bergamo
+  15.00  Bologna FC 1909          4-0 (2-0)  US Lecce
+         AC Monza                 0-0  Hellas Verona FC
+  18.00  Genoa CFC                1-4 (0-1)  Atalanta BC
   20.45  AC Milan                 1-0 (1-0)  SSC Napoli
 [Mon Feb/12]
-  20.45  Juventus                 0-1 (0-1)  Udinese Calcio
+  20.45  Juventus FC              0-1 (0-1)  Udinese Calcio
 
 
 Matchday 21
 [Wed Feb/14]
-  19.00  Bologna FC               2-0 (1-0)  ACF Fiorentina
+  19.00  Bologna FC 1909          2-0 (1-0)  ACF Fiorentina
 
 
 Matchday 25
 [Fri Feb/16]
   19.00  Torino FC                2-0 (0-0)  US Lecce
-  21.00  FC Internazionale Milano  4-0 (3-0)  Salernitana
+  21.00  FC Internazionale Milano  4-0 (3-0)  US Salernitana 1919
 [Sat Feb/17]
   15.00  SSC Napoli               1-1 (0-0)  Genoa CFC
-  18.00  Hellas Verona            2-2 (1-1)  Juventus
-  20.45  Atalanta Bergamo         3-0 (1-0)  US Sassuolo Calcio
+  18.00  Hellas Verona FC         2-2 (1-1)  Juventus FC
+  20.45  Atalanta BC              3-0 (1-0)  US Sassuolo Calcio
 [Sun Feb/18]
-  12.30  SS Lazio                 1-2 (1-1)  Bologna FC
-  15.00  Udinese Calcio           1-1 (1-1)  Cagliari Calcio
-         Empoli FC                1-1 (0-1)  ACF Fiorentina
+  12.30  SS Lazio                 1-2 (1-1)  Bologna FC 1909
+  15.00  Empoli FC                1-1 (0-1)  ACF Fiorentina
+         Udinese Calcio           1-1 (1-1)  Cagliari Calcio
   18.00  Frosinone Calcio         0-3 (0-1)  AS Roma
   20.45  AC Monza                 4-2 (2-0)  AC Milan
 
@@ -415,16 +420,16 @@ Matchday 21
 
 Matchday 26
 [Fri Feb/23]
-  20.45  Bologna FC               2-0 (1-0)  Hellas Verona
+  20.45  Bologna FC 1909          2-0 (1-0)  Hellas Verona FC
 [Sat Feb/24]
   15.00  US Sassuolo Calcio       2-3 (0-1)  Empoli FC
-  18.00  Salernitana              0-2 (0-0)  AC Monza
+  18.00  US Salernitana 1919      0-2 (0-0)  AC Monza
   20.45  Genoa CFC                2-0 (2-0)  Udinese Calcio
 [Sun Feb/25]
-  12.30  Juventus                 3-2 (2-2)  Frosinone Calcio
+  12.30  Juventus FC              3-2 (2-2)  Frosinone Calcio
   15.00  Cagliari Calcio          1-1 (0-0)  SSC Napoli
   18.00  US Lecce                 0-4 (0-1)  FC Internazionale Milano
-  20.45  AC Milan                 1-1 (1-1)  Atalanta Bergamo
+  20.45  AC Milan                 1-1 (1-1)  Atalanta BC
 [Mon Feb/26]
   18.30  AS Roma                  3-2 (1-1)  Torino FC
   20.45  ACF Fiorentina           2-1 (0-1)  SS Lazio
@@ -433,22 +438,22 @@ Matchday 26
 Matchday 21
 [Wed Feb/28]
   18.00  US Sassuolo Calcio       1-6 (1-3)  SSC Napoli
-  20.45  FC Internazionale Milano  4-0 (2-0)  Atalanta Bergamo
+  20.45  FC Internazionale Milano  4-0 (2-0)  Atalanta BC
 
 
 Matchday 27
 [Fri Mar/1]
   20.45  SS Lazio                 0-1 (0-0)  AC Milan
 [Sat Mar/2]
-  15.00  Udinese Calcio           1-1 (1-1)  Salernitana
+  15.00  Udinese Calcio           1-1 (1-1)  US Salernitana 1919
   18.00  AC Monza                 1-4 (0-2)  AS Roma
   20.45  Torino FC                0-0  ACF Fiorentina
 [Sun Mar/3]
-  12.30  Hellas Verona            1-0 (0-0)  US Sassuolo Calcio
-  15.00  Frosinone Calcio         1-1 (1-0)  US Lecce
-         Empoli FC                0-1 (0-0)  Cagliari Calcio
-  18.00  Atalanta Bergamo         1-2 (1-0)  Bologna FC
-  20.45  SSC Napoli               2-1 (1-0)  Juventus
+  12.30  Hellas Verona FC         1-0 (0-0)  US Sassuolo Calcio
+  15.00  Empoli FC                0-1 (0-0)  Cagliari Calcio
+         Frosinone Calcio         1-1 (1-0)  US Lecce
+  18.00  Atalanta BC              1-2 (1-0)  Bologna FC 1909
+  20.45  SSC Napoli               2-1 (1-0)  Juventus FC
 [Mon Mar/4]
   20.45  FC Internazionale Milano  2-1 (2-0)  Genoa CFC
 
@@ -457,14 +462,14 @@ Matchday 28
 [Fri Mar/8]
   20.45  SSC Napoli               1-1 (0-0)  Torino FC
 [Sat Mar/9]
-  15.00  US Sassuolo Calcio       1-0 (0-0)  Frosinone Calcio
-         Cagliari Calcio          4-2 (2-0)  Salernitana
-  18.00  Bologna FC               0-1 (0-1)  FC Internazionale Milano
+  15.00  Cagliari Calcio          4-2 (2-0)  US Salernitana 1919
+         US Sassuolo Calcio       1-0 (0-0)  Frosinone Calcio
+  18.00  Bologna FC 1909          0-1 (0-1)  FC Internazionale Milano
   20.45  Genoa CFC                2-3 (0-2)  AC Monza
 [Sun Mar/10]
-  12.30  US Lecce                 0-1 (0-1)  Hellas Verona
+  12.30  US Lecce                 0-1 (0-1)  Hellas Verona FC
   15.00  AC Milan                 1-0 (1-0)  Empoli FC
-  18.00  Juventus                 2-2 (0-1)  Atalanta Bergamo
+  18.00  Juventus FC              2-2 (0-1)  Atalanta BC
   20.45  ACF Fiorentina           2-2 (1-0)  AS Roma
 [Mon Mar/11]
   20.45  SS Lazio                 1-2 (0-0)  Udinese Calcio
@@ -472,81 +477,81 @@ Matchday 28
 
 Matchday 29
 [Fri Mar/15]
-  20.45  Empoli FC                0-1 (0-0)  Bologna FC
+  20.45  Empoli FC                0-1 (0-0)  Bologna FC 1909
 [Sat Mar/16]
   15.00  AC Monza                 1-0 (1-0)  Cagliari Calcio
          Udinese Calcio           0-2 (0-1)  Torino FC
-  18.00  Salernitana              0-1 (0-1)  US Lecce
+  18.00  US Salernitana 1919      0-1 (0-1)  US Lecce
   20.45  Frosinone Calcio         2-3 (1-1)  SS Lazio
 [Sun Mar/17]
-  12.30  Juventus                 0-0  Genoa CFC
-  15.00  Hellas Verona            1-3 (0-1)  AC Milan
+  12.30  Juventus FC              0-0  Genoa CFC
+  15.00  Hellas Verona FC         1-3 (0-1)  AC Milan
   18.00  AS Roma                  1-0 (0-0)  US Sassuolo Calcio
   20.45  FC Internazionale Milano  1-1 (1-0)  SSC Napoli
 
 
 Matchday 30
 [Sat Mar/30]
-  12.30  SSC Napoli               0-3 (0-2)  Atalanta Bergamo
-  15.00  Torino FC                1-0 (0-0)  AC Monza
-         Genoa CFC                1-1 (1-1)  Frosinone Calcio
-  18.00  SS Lazio                 1-0 (0-0)  Juventus
+  12.30  SSC Napoli               0-3 (0-2)  Atalanta BC
+  15.00  Genoa CFC                1-1 (1-1)  Frosinone Calcio
+         Torino FC                1-0 (0-0)  AC Monza
+  18.00  SS Lazio                 1-0 (0-0)  Juventus FC
   20.45  ACF Fiorentina           1-2 (0-0)  AC Milan
 [Mon Apr/1]
-  12.30  Bologna FC               3-0 (2-0)  Salernitana
-  15.00  US Sassuolo Calcio       1-1 (1-1)  Udinese Calcio
-         Cagliari Calcio          1-1 (0-1)  Hellas Verona
+  12.30  Bologna FC 1909          3-0 (2-0)  US Salernitana 1919
+  15.00  Cagliari Calcio          1-1 (0-1)  Hellas Verona FC
+         US Sassuolo Calcio       1-1 (1-1)  Udinese Calcio
   18.00  US Lecce                 0-0  AS Roma
   20.45  FC Internazionale Milano  2-0 (1-0)  Empoli FC
 
 
 Matchday 31
 [Fri Apr/5]
-  20.45  Salernitana              2-2 (0-2)  US Sassuolo Calcio
+  20.45  US Salernitana 1919      2-2 (0-2)  US Sassuolo Calcio
 [Sat Apr/6]
   15.00  AC Milan                 3-0 (2-0)  US Lecce
   18.00  AS Roma                  1-0 (1-0)  SS Lazio
   20.45  Empoli FC                3-2 (1-0)  Torino FC
 [Sun Apr/7]
-  12.30  Frosinone Calcio         0-0  Bologna FC
+  12.30  Frosinone Calcio         0-0  Bologna FC 1909
   15.00  AC Monza                 2-4 (1-0)  SSC Napoli
-  18.00  Hellas Verona            1-2 (1-1)  Genoa CFC
-         Cagliari Calcio          2-1 (1-1)  Atalanta Bergamo
-  20.45  Juventus                 1-0 (1-0)  ACF Fiorentina
+  18.00  Cagliari Calcio          2-1 (1-1)  Atalanta BC
+         Hellas Verona FC         1-2 (1-1)  Genoa CFC
+  20.45  Juventus FC              1-0 (1-0)  ACF Fiorentina
 [Mon Apr/8]
   20.45  Udinese Calcio           1-2 (1-0)  FC Internazionale Milano
 
 
 Matchday 32
 [Fri Apr/12]
-  20.45  SS Lazio                 4-1 (3-1)  Salernitana
+  20.45  SS Lazio                 4-1 (3-1)  US Salernitana 1919
 [Sat Apr/13]
   15.00  US Lecce                 1-0 (0-0)  Empoli FC
-  18.00  Torino FC                0-0  Juventus
-  20.45  Bologna FC               0-0  AC Monza
+  18.00  Torino FC                0-0  Juventus FC
+  20.45  Bologna FC 1909          0-0  AC Monza
 [Sun Apr/14]
   12.30  SSC Napoli               2-2 (1-0)  Frosinone Calcio
   15.00  US Sassuolo Calcio       3-3 (2-1)  AC Milan
   20.45  FC Internazionale Milano  2-2 (1-0)  Cagliari Calcio
 [Mon Apr/15]
   18.30  ACF Fiorentina           1-1 (0-1)  Genoa CFC
-  20.45  Atalanta Bergamo         2-2 (2-0)  Hellas Verona
+  20.45  Atalanta BC              2-2 (2-0)  Hellas Verona FC
 
 
 Matchday 33
 [Fri Apr/19]
   18.30  Genoa CFC                0-1 (0-0)  SS Lazio
-  20.45  Cagliari Calcio          2-2 (2-0)  Juventus
+  20.45  Cagliari Calcio          2-2 (2-0)  Juventus FC
 [Sat Apr/20]
   18.00  Empoli FC                1-0 (1-0)  SSC Napoli
-  20.45  Hellas Verona            1-0 (0-0)  Udinese Calcio
+  20.45  Hellas Verona FC         1-0 (0-0)  Udinese Calcio
 [Sun Apr/21]
   12.30  US Sassuolo Calcio       0-3 (0-2)  US Lecce
   15.00  Torino FC                0-0  Frosinone Calcio
-  18.00  Salernitana              0-2 (0-0)  ACF Fiorentina
-  20.45  AC Monza                 1-2 (0-1)  Atalanta Bergamo
+  18.00  US Salernitana 1919      0-2 (0-0)  ACF Fiorentina
+  20.45  AC Monza                 1-2 (0-1)  Atalanta BC
 [Mon Apr/22]
-  18.30  AS Roma                  1-3 (0-2)  Bologna FC
+  18.30  AS Roma                  1-3 (0-2)  Bologna FC 1909
   20.45  AC Milan                 1-2 (0-1)  FC Internazionale Milano
 
 
@@ -557,16 +562,16 @@ Matchday 32
 
 Matchday 34
 [Fri Apr/26]
-  20.45  Frosinone Calcio         3-0 (2-0)  Salernitana
+  20.45  Frosinone Calcio         3-0 (2-0)  US Salernitana 1919
 [Sat Apr/27]
   15.00  US Lecce                 1-1 (0-0)  AC Monza
-  18.00  Juventus                 0-0  AC Milan
-  20.45  SS Lazio                 1-0 (0-0)  Hellas Verona
+  18.00  Juventus FC              0-0  AC Milan
+  20.45  SS Lazio                 1-0 (0-0)  Hellas Verona FC
 [Sun Apr/28]
   12.30  FC Internazionale Milano  2-0 (0-0)  Torino FC
-  15.00  Bologna FC               1-1 (0-1)  Udinese Calcio
-  18.00  SSC Napoli               2-2 (0-0)  AS Roma
-         Atalanta Bergamo         2-0 (1-0)  Empoli FC
+  15.00  Bologna FC 1909          1-1 (0-1)  Udinese Calcio
+  18.00  Atalanta BC              2-0 (1-0)  Empoli FC
+         SSC Napoli               2-2 (0-0)  AS Roma
   20.45  ACF Fiorentina           5-1 (1-0)  US Sassuolo Calcio
 [Mon Apr/29]
   20.45  Genoa CFC                3-0 (2-0)  Cagliari Calcio
@@ -574,18 +579,18 @@ Matchday 34
 
 Matchday 35
 [Fri May/3]
-  20.45  Torino FC                0-0  Bologna FC
+  20.45  Torino FC                0-0  Bologna FC 1909
 [Sat May/4]
   18.00  AC Monza                 2-2 (0-1)  SS Lazio
   20.45  US Sassuolo Calcio       1-0 (1-0)  FC Internazionale Milano
 [Sun May/5]
   12.30  Cagliari Calcio          1-1 (1-0)  US Lecce
-  15.00  Hellas Verona            2-1 (1-1)  ACF Fiorentina
-         Empoli FC                0-0  Frosinone Calcio
+  15.00  Empoli FC                0-0  Frosinone Calcio
+         Hellas Verona FC         2-1 (1-1)  ACF Fiorentina
   18.00  AC Milan                 3-3 (1-1)  Genoa CFC
-  20.45  AS Roma                  1-1 (1-1)  Juventus
+  20.45  AS Roma                  1-1 (1-1)  Juventus FC
 [Mon May/6]
-  18.00  Salernitana              1-2 (1-0)  Atalanta Bergamo
+  18.00  US Salernitana 1919      1-2 (1-0)  Atalanta BC
   20.45  Udinese Calcio           1-1 (0-0)  SSC Napoli
 
 
@@ -593,14 +598,14 @@ Matchday 36
 [Fri May/10]
   20.45  Frosinone Calcio         0-5 (0-1)  FC Internazionale Milano
 [Sat May/11]
-  18.00  SSC Napoli               0-2 (0-2)  Bologna FC
+  18.00  SSC Napoli               0-2 (0-2)  Bologna FC 1909
   20.45  AC Milan                 5-1 (1-0)  Cagliari Calcio
 [Sun May/12]
   12.30  SS Lazio                 2-0 (1-0)  Empoli FC
-  15.00  Hellas Verona            1-2 (0-0)  Torino FC
-         Genoa CFC                2-1 (0-1)  US Sassuolo Calcio
-  18.00  Juventus                 1-1 (0-1)  Salernitana
-  20.45  Atalanta Bergamo         2-1 (2-0)  AS Roma
+  15.00  Genoa CFC                2-1 (0-1)  US Sassuolo Calcio
+         Hellas Verona FC         1-2 (0-0)  Torino FC
+  18.00  Juventus FC              1-1 (0-1)  US Salernitana 1919
+  20.45  Atalanta BC              2-1 (2-0)  AS Roma
 [Mon May/13]
   18.30  US Lecce                 0-2 (0-1)  Udinese Calcio
   20.45  ACF Fiorentina           2-1 (1-1)  AC Monza
@@ -610,7 +615,7 @@ Matchday 37
 [Fri May/17]
   20.45  ACF Fiorentina           2-2 (2-1)  SSC Napoli
 [Sat May/18]
-  18.00  US Lecce                 0-2 (0-0)  Atalanta Bergamo
+  18.00  US Lecce                 0-2 (0-0)  Atalanta BC
   20.45  Torino FC                3-1 (2-0)  AC Milan
 [Sun May/19]
   12.30  US Sassuolo Calcio       0-2 (0-0)  Cagliari Calcio
@@ -619,27 +624,27 @@ Matchday 37
   18.00  FC Internazionale Milano  1-1 (0-1)  SS Lazio
   20.45  AS Roma                  1-0 (0-0)  Genoa CFC
 [Mon May/20]
-  18.30  Salernitana              1-2 (0-2)  Hellas Verona
-  20.45  Bologna FC               3-3 (2-0)  Juventus
+  18.30  US Salernitana 1919      1-2 (0-2)  Hellas Verona FC
+  20.45  Bologna FC 1909          3-3 (2-0)  Juventus FC
 
 
 Matchday 38
 [Thu May/23]
   20.45  Cagliari Calcio          2-3 (0-1)  ACF Fiorentina
 [Fri May/24]
-  20.45  Genoa CFC                2-0 (1-0)  Bologna FC
+  20.45  Genoa CFC                2-0 (1-0)  Bologna FC 1909
 [Sat May/25]
-  18.00  Juventus                 2-0 (2-0)  AC Monza
-  20.45  AC Milan                 3-3 (2-0)  Salernitana
+  18.00  Juventus FC              2-0 (2-0)  AC Monza
+  20.45  AC Milan                 3-3 (2-0)  US Salernitana 1919
 [Sun May/26]
-  18.00  SSC Napoli               0-0  US Lecce
-         Atalanta Bergamo         3-0 (2-0)  Torino FC
+  18.00  Atalanta BC              3-0 (2-0)  Torino FC
+         SSC Napoli               0-0  US Lecce
   20.45  Empoli FC                2-1 (1-1)  AS Roma
          Frosinone Calcio         0-1 (0-0)  Udinese Calcio
-         Hellas Verona            2-2 (2-2)  FC Internazionale Milano
+         Hellas Verona FC         2-2 (2-2)  FC Internazionale Milano
          SS Lazio                 1-1 (0-0)  US Sassuolo Calcio
 
 
 Matchday 29
 [Sun Jun/2]
-  18.00  Atalanta Bergamo         2-3 (2-3)  ACF Fiorentina
+  18.00  Atalanta BC              2-3 (2-3)  ACF Fiorentina

@@ -1,0 +1,638 @@
+= Italian Serie B 2021/22
+
+# Date       Fri Aug/20 2021 - Sun May/29 2022 (282d)
+# Teams      20
+# Matches    390
+# Stages     Regular Season (380)  Playoffs - Relegation (2)  Aufstieg (8)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/20]
+  20.30  Frosinone Calcio         2-2 (1-1)  Parma Calcio 1913
+[Sat Aug/21]
+  20.30  AS Cittadella            1-0 (0-0)  L.R. Vicenza
+  18.00  Pordenone Calcio         0-1 (0-1)  AC Perugia Calcio
+[Sun Aug/22]
+  18.00  Reggina 1914             0-0  AC Monza
+         Ternana Calcio           0-2 (0-2)  Brescia Calcio
+  20.30  Pisa SC                  1-0 (1-0)  SPAL 2013 Ferrara
+         Benevento Calcio         4-3 (2-2)  US Alessandria 1912
+         FC Crotone               2-2 (0-0)  Como 1907
+         US Cremonese             3-0 (0-0)  US Lecce
+         Ascoli Calcio            1-0 (1-0)  Cosenza Calcio
+
+
+Matchday 2
+[Fri Aug/27]
+  18.00  Pisa SC                  2-0 (0-0)  US Alessandria 1912
+  20.30  Brescia Calcio           5-1 (2-0)  Cosenza Calcio
+[Sat Aug/28]
+  20.30  AC Perugia Calcio        2-3 (1-1)  Ascoli Calcio
+  18.00  L.R. Vicenza             0-2 (0-0)  Frosinone Calcio
+[Sun Aug/29]
+  20.30  Parma Calcio 1913        1-0 (0-0)  Benevento Calcio
+         Reggina 1914             3-2 (0-1)  Ternana Calcio
+         SPAL 2013 Ferrara        5-0 (3-0)  Pordenone Calcio
+         AC Monza                 1-0 (0-0)  US Cremonese
+         US Lecce                 1-1 (1-1)  Como 1907
+  18.00  AS Cittadella            4-2 (1-1)  FC Crotone
+
+
+Matchday 3
+[Fri Sep/10]
+  20.30  Benevento Calcio         0-0  US Lecce
+[Sat Sep/11]
+  14.00  Como 1907                0-1 (0-0)  Ascoli Calcio
+         Frosinone Calcio         0-0  AC Perugia Calcio
+         SPAL 2013 Ferrara        1-1 (1-0)  AC Monza
+         US Alessandria 1912      1-3 (0-0)  Brescia Calcio
+  16.15  Ternana Calcio           1-4 (1-2)  Pisa SC
+  18.30  FC Crotone               1-1 (0-1)  Reggina 1914
+[Sun Sep/12]
+  16.15  US Cremonese             2-0 (1-0)  AS Cittadella
+  20.30  Pordenone Calcio         0-4 (0-2)  Parma Calcio 1913
+  14.00  Cosenza Calcio           2-1 (1-0)  L.R. Vicenza
+
+
+Matchday 4
+[Fri Sep/17]
+  18.00  Como 1907                0-2 (0-2)  Frosinone Calcio
+  20.30  Brescia Calcio           2-2 (1-0)  FC Crotone
+[Sat Sep/18]
+  14.00  Ascoli Calcio            0-2 (0-2)  Benevento Calcio
+         Reggina 1914             2-1 (1-1)  SPAL 2013 Ferrara
+         AC Monza                 1-1 (1-0)  Ternana Calcio
+         US Lecce                 3-2 (1-1)  US Alessandria 1912
+         AC Perugia Calcio        1-1 (0-0)  Cosenza Calcio
+  16.15  L.R. Vicenza             1-3 (1-1)  Pisa SC
+  18.30  AS Cittadella            1-0 (0-0)  Pordenone Calcio
+[Sun Sep/19]
+  20.30  Parma Calcio 1913        1-2 (0-2)  US Cremonese
+
+
+Matchday 5
+[Mon Sep/20]
+  20.30  Frosinone Calcio         2-2 (2-1)  Brescia Calcio
+[Tue Sep/21]
+  18.00  Benevento Calcio         4-1 (1-1)  AS Cittadella
+         US Alessandria 1912      1-3 (0-2)  Ascoli Calcio
+  20.30  Pisa SC                  2-1 (1-0)  AC Monza
+         FC Crotone               0-3 (0-2)  US Lecce
+         Pordenone Calcio         1-1 (1-0)  Reggina 1914
+         SPAL 2013 Ferrara        3-2 (1-1)  L.R. Vicenza
+         Cosenza Calcio           2-0 (1-0)  Como 1907
+[Wed Sep/22]
+  20.30  US Cremonese             0-3 (0-2)  AC Perugia Calcio
+  18.00  Ternana Calcio           3-1 (0-0)  Parma Calcio 1913
+
+
+Matchday 6
+[Sat Sep/25]
+  14.00  Ascoli Calcio            2-3 (2-1)  Brescia Calcio
+         Como 1907                1-1 (1-1)  Benevento Calcio
+         AC Monza                 3-1 (1-1)  Pordenone Calcio
+  16.15  Reggina 1914             0-0  Frosinone Calcio
+  18.30  Cosenza Calcio           1-0 (0-0)  FC Crotone
+  14.00  AS Cittadella            1-2 (1-1)  US Lecce
+[Sun Sep/26]
+  14.00  AC Perugia Calcio        1-1 (1-1)  US Alessandria 1912
+  16.15  Parma Calcio 1913        1-1 (0-1)  Pisa SC
+  20.30  L.R. Vicenza             0-1 (0-1)  US Cremonese
+         Ternana Calcio           1-0 (1-0)  SPAL 2013 Ferrara
+
+
+Matchday 7
+[Fri Oct/1]
+  20.30  US Lecce                 3-0 (1-0)  AC Monza
+[Sat Oct/2]
+  14.00  FC Crotone               2-2 (2-1)  Ascoli Calcio
+         Frosinone Calcio         0-1 (0-0)  AS Cittadella
+         US Cremonese             2-0 (1-0)  Ternana Calcio
+         US Alessandria 1912      1-0 (0-0)  Cosenza Calcio
+  16.15  Pisa SC                  2-0 (1-0)  Reggina 1914
+  18.30  SPAL 2013 Ferrara        2-2 (0-1)  Parma Calcio 1913
+[Sun Oct/3]
+  16.15  Pordenone Calcio         2-4 (1-2)  L.R. Vicenza
+  20.30  Benevento Calcio         0-0  AC Perugia Calcio
+  14.00  Brescia Calcio           2-4 (1-1)  Como 1907
+
+
+Matchday 8
+[Sat Oct/16]
+  14.00  Ascoli Calcio            1-1 (0-1)  US Lecce
+         FC Crotone               2-1 (2-1)  Pisa SC
+         L.R. Vicenza             0-1 (0-1)  Reggina 1914
+         Pordenone Calcio         1-3 (0-2)  Ternana Calcio
+  16.15  AC Perugia Calcio        1-0 (1-0)  Brescia Calcio
+         Cosenza Calcio           1-1 (1-0)  Frosinone Calcio
+  18.30  Como 1907                2-0 (0-0)  US Alessandria 1912
+[Sun Oct/17]
+  16.15  Parma Calcio 1913        0-0  AC Monza
+  20.30  AS Cittadella            0-0  SPAL 2013 Ferrara
+  14.00  US Cremonese             1-1 (0-1)  Benevento Calcio
+
+
+Matchday 9
+[Fri Oct/22]
+  20.30  US Alessandria 1912      1-0 (1-0)  FC Crotone
+[Sat Oct/23]
+  14.00  AC Monza                 1-0 (0-0)  AS Cittadella
+         Ternana Calcio           5-0 (2-0)  L.R. Vicenza
+         US Lecce                 0-0  AC Perugia Calcio
+         Benevento Calcio         3-0 (1-0)  Cosenza Calcio
+  16.15  Frosinone Calcio         2-1 (1-0)  Ascoli Calcio
+  18.30  Brescia Calcio           1-0 (0-0)  US Cremonese
+[Sun Oct/24]
+  16.15  Reggina 1914             2-1 (1-0)  Parma Calcio 1913
+  20.30  SPAL 2013 Ferrara        1-1 (0-1)  Como 1907
+  14.00  Pisa SC                  1-1 (0-0)  Pordenone Calcio
+
+
+Matchday 10
+[Wed Oct/27]
+  20.30  L.R. Vicenza             1-1 (0-1)  AC Monza
+  18.00  Cosenza Calcio           3-1 (2-1)  Ternana Calcio
+[Thu Oct/28]
+  18.00  Ascoli Calcio            0-1 (0-0)  SPAL 2013 Ferrara
+         Brescia Calcio           1-1 (0-0)  US Lecce
+         US Alessandria 1912      1-1 (0-0)  Frosinone Calcio
+  20.30  AC Perugia Calcio        0-2 (0-2)  Reggina 1914
+         AS Cittadella            1-2 (0-1)  Parma Calcio 1913
+         Como 1907                1-0 (1-0)  Pordenone Calcio
+         FC Crotone               0-2 (0-1)  Benevento Calcio
+         US Cremonese             1-1 (0-1)  Pisa SC
+
+
+Matchday 11
+[Mon Nov/1]
+  12.30  Benevento Calcio         0-1 (0-0)  Brescia Calcio
+  15.00  Frosinone Calcio         2-1 (1-1)  FC Crotone
+         Reggina 1914             0-1 (0-1)  AS Cittadella
+         SPAL 2013 Ferrara        1-2 (1-1)  AC Perugia Calcio
+         AC Monza                 1-0 (1-0)  US Alessandria 1912
+         Ternana Calcio           1-2 (0-1)  Como 1907
+         US Lecce                 3-1 (2-0)  Cosenza Calcio
+  18.00  Pisa SC                  1-1 (1-1)  Ascoli Calcio
+         Parma Calcio 1913        1-0 (1-0)  L.R. Vicenza
+         Pordenone Calcio         2-2 (1-2)  US Cremonese
+
+
+Matchday 12
+[Fri Nov/5]
+  20.30  Cosenza Calcio           0-1 (0-0)  Reggina 1914
+[Sat Nov/6]
+  14.00  Ascoli Calcio            2-1 (2-0)  L.R. Vicenza
+         Como 1907                4-1 (4-0)  AC Perugia Calcio
+         US Alessandria 1912      0-2 (0-2)  Ternana Calcio
+         US Cremonese             1-1 (1-1)  SPAL 2013 Ferrara
+  16.15  Brescia Calcio           1-0 (0-0)  Pordenone Calcio
+  18.30  Benevento Calcio         1-4 (0-2)  Frosinone Calcio
+[Sun Nov/7]
+  16.15  FC Crotone               1-1 (0-1)  AC Monza
+  20.30  AS Cittadella            2-0 (0-0)  Pisa SC
+  14.00  US Lecce                 4-0 (4-0)  Parma Calcio 1913
+
+
+Matchday 13
+[Sat Nov/20]
+  14.00  Frosinone Calcio         0-0  US Lecce
+         Pordenone Calcio         0-1 (0-1)  Ascoli Calcio
+         SPAL 2013 Ferrara        2-3 (2-3)  US Alessandria 1912
+         Ternana Calcio           1-1 (0-1)  AS Cittadella
+  16.15  AC Perugia Calcio        2-0 (1-0)  FC Crotone
+  18.30  L.R. Vicenza             2-3 (1-2)  Brescia Calcio
+[Sun Nov/21]
+  14.00  Parma Calcio 1913        1-1 (1-0)  Cosenza Calcio
+  16.15  AC Monza                 3-2 (2-0)  Como 1907
+  20.30  Pisa SC                  1-0 (1-0)  Benevento Calcio
+  14.00  Reggina 1914             1-2 (1-0)  US Cremonese
+
+
+Matchday 14
+[Fri Nov/26]
+  20.30  US Lecce                 3-3 (2-1)  Ternana Calcio
+  18.00  FC Crotone               0-1 (0-0)  L.R. Vicenza
+[Sat Nov/27]
+  14.00  Ascoli Calcio            1-1 (1-1)  AC Monza
+         Benevento Calcio         4-0 (2-0)  Reggina 1914
+         Frosinone Calcio         2-2 (0-0)  Pordenone Calcio
+         US Alessandria 1912      1-0 (0-0)  US Cremonese
+         Cosenza Calcio           0-1 (0-0)  SPAL 2013 Ferrara
+  16.15  Brescia Calcio           0-1 (0-0)  Pisa SC
+  18.30  AC Perugia Calcio        1-1 (1-0)  AS Cittadella
+[Sun Nov/28]
+  20.30  Como 1907                1-1 (0-0)  Parma Calcio 1913
+
+
+Matchday 15
+[Mon Nov/29]
+  20.30  Ternana Calcio           1-0 (1-0)  FC Crotone
+[Tue Nov/30]
+  18.00  Pisa SC                  1-1 (1-0)  AC Perugia Calcio
+         US Cremonese             1-1 (0-0)  Frosinone Calcio
+  20.30  L.R. Vicenza             2-3 (0-1)  Benevento Calcio
+         Pordenone Calcio         2-0 (1-0)  US Alessandria 1912
+         Reggina 1914             1-2 (1-1)  Ascoli Calcio
+         SPAL 2013 Ferrara        1-3 (1-1)  US Lecce
+         AC Monza                 4-1 (3-0)  Cosenza Calcio
+[Wed Dec/1]
+  20.30  AS Cittadella            2-2 (1-0)  Como 1907
+  18.00  Parma Calcio 1913        0-1 (0-1)  Brescia Calcio
+
+
+Matchday 16
+[Fri Dec/3]
+  20.30  AC Perugia Calcio        1-0 (0-0)  L.R. Vicenza
+[Sat Dec/4]
+  14.00  FC Crotone               1-2 (0-1)  SPAL 2013 Ferrara
+         Frosinone Calcio         1-1 (1-0)  Ternana Calcio
+         Cosenza Calcio           0-2 (0-1)  US Cremonese
+  16.15  US Lecce                 2-0 (1-0)  Reggina 1914
+  14.00  Benevento Calcio         2-1 (0-0)  Pordenone Calcio
+[Sun Dec/5]
+  14.00  Ascoli Calcio            0-0  Parma Calcio 1913
+         Como 1907                0-1 (0-1)  Pisa SC
+  16.15  Brescia Calcio           0-2 (0-1)  AC Monza
+  20.30  US Alessandria 1912      0-1 (0-1)  AS Cittadella
+
+
+Matchday 17
+[Fri Dec/10]
+  20.30  Ternana Calcio           0-2 (0-2)  Benevento Calcio
+  18.00  US Cremonese             3-2 (1-1)  FC Crotone
+[Sat Dec/11]
+  14.00  SPAL 2013 Ferrara        0-2 (0-0)  Brescia Calcio
+         AC Monza                 3-2 (0-0)  Frosinone Calcio
+         Pordenone Calcio         1-1 (1-0)  Cosenza Calcio
+  16.15  Pisa SC                  1-0 (0-0)  US Lecce
+  14.00  AS Cittadella            2-0 (1-0)  Ascoli Calcio
+[Sun Dec/12]
+  14.00  Parma Calcio 1913        1-1 (1-0)  AC Perugia Calcio
+  16.15  L.R. Vicenza             0-1 (0-1)  Como 1907
+  20.30  Reggina 1914             0-4 (0-2)  US Alessandria 1912
+
+
+Matchday 18
+[Sat Dec/18]
+  14.00  Ascoli Calcio            1-4 (1-2)  US Cremonese
+         Como 1907                1-1 (0-1)  Reggina 1914
+         FC Crotone               4-1 (2-1)  Pordenone Calcio
+         Cosenza Calcio           0-2 (0-1)  Pisa SC
+  16.15  Frosinone Calcio         4-0 (3-0)  SPAL 2013 Ferrara
+[Sun Dec/19]
+  14.00  US Alessandria 1912      0-2 (0-2)  Parma Calcio 1913
+  16.15  AC Perugia Calcio        1-1 (1-0)  Ternana Calcio
+  14.00  Brescia Calcio           1-1 (0-0)  AS Cittadella
+[Thu Jan/13]
+  20.30  Benevento Calcio         3-1 (2-0)  AC Monza
+
+
+Matchday 19
+[Fri Jan/14]
+  20.30  Ternana Calcio           2-4 (0-3)  Ascoli Calcio
+[Sat Jan/15]
+  14.00  Reggina 1914             0-2 (0-2)  Brescia Calcio
+         US Cremonese             2-0 (1-0)  Como 1907
+  16.15  Pisa SC                  1-3 (1-0)  Frosinone Calcio
+[Sun Jan/16]
+  16.15  Pordenone Calcio         0-1 (0-1)  US Lecce
+         AC Monza                 2-2 (1-0)  AC Perugia Calcio
+         SPAL 2013 Ferrara        1-1 (0-1)  Benevento Calcio
+
+
+Matchday 20
+[Fri Jan/21]
+  20.30  Parma Calcio 1913        0-1 (0-0)  Frosinone Calcio
+[Sat Jan/22]
+  14.00  US Alessandria 1912      2-0 (1-0)  Benevento Calcio
+         AC Monza                 1-0 (0-0)  Reggina 1914
+  16.15  AC Perugia Calcio        0-1 (0-0)  Pordenone Calcio
+  14.00  Cosenza Calcio           1-3 (0-1)  Ascoli Calcio
+         Brescia Calcio           1-1 (1-1)  Ternana Calcio
+         Como 1907                1-1 (1-1)  FC Crotone
+         SPAL 2013 Ferrara        0-0  Pisa SC
+[Sun Jan/23]
+  16.15  L.R. Vicenza             3-3 (2-2)  AS Cittadella
+  18.30  US Lecce                 2-1 (1-1)  US Cremonese
+
+
+Matchday 18
+[Wed Jan/26]
+  20.00  US Lecce                 2-1 (2-0)  L.R. Vicenza
+
+
+Matchday 19
+[Sun Jan/30]
+  14.30  L.R. Vicenza             2-1 (1-1)  US Alessandria 1912
+         Parma Calcio 1913        1-1 (1-0)  FC Crotone
+         AS Cittadella            1-1 (1-1)  Cosenza Calcio
+
+
+Matchday 21
+[Sat Feb/5]
+  14.00  Benevento Calcio         0-0  Parma Calcio 1913
+         Como 1907                1-1 (1-1)  US Lecce
+         FC Crotone               0-0  AS Cittadella
+         Ternana Calcio           2-0 (2-0)  Reggina 1914
+         US Alessandria 1912      1-1 (1-1)  Pisa SC
+         Cosenza Calcio           0-0  Brescia Calcio
+  16.15  Frosinone Calcio         2-0 (1-0)  L.R. Vicenza
+  18.30  Ascoli Calcio            0-1 (0-1)  AC Perugia Calcio
+[Sun Feb/6]
+  16.15  US Cremonese             3-2 (1-0)  AC Monza
+         Pordenone Calcio         1-1 (1-0)  SPAL 2013 Ferrara
+
+
+Matchday 22
+[Sat Feb/12]
+  14.00  Pisa SC                  0-0  Ternana Calcio
+         AS Cittadella            0-2 (0-1)  US Cremonese
+         Parma Calcio 1913        4-1 (0-1)  Pordenone Calcio
+         AC Monza                 4-0 (1-0)  SPAL 2013 Ferrara
+         L.R. Vicenza             0-0  Cosenza Calcio
+  16.15  AC Perugia Calcio        3-0 (2-0)  Frosinone Calcio
+         Reggina 1914             1-0 (1-0)  FC Crotone
+[Sun Feb/13]
+  15.30  Ascoli Calcio            1-1 (1-0)  Como 1907
+         Brescia Calcio           1-1 (0-0)  US Alessandria 1912
+         US Lecce                 1-1 (1-1)  Benevento Calcio
+
+
+Matchday 23
+[Tue Feb/15]
+  18.30  Pisa SC                  2-2 (1-2)  L.R. Vicenza
+         Pordenone Calcio         0-1 (0-1)  AS Cittadella
+         SPAL 2013 Ferrara        1-3 (1-1)  Reggina 1914
+         Ternana Calcio           0-1 (0-1)  AC Monza
+         US Cremonese             3-1 (1-0)  Parma Calcio 1913
+         Cosenza Calcio           1-2 (0-1)  AC Perugia Calcio
+[Wed Feb/16]
+  18.30  FC Crotone               0-1 (0-1)  Brescia Calcio
+         Frosinone Calcio         1-2 (1-2)  Como 1907
+         US Alessandria 1912      1-1 (0-0)  US Lecce
+         Benevento Calcio         0-2 (0-0)  Ascoli Calcio
+
+
+Matchday 24
+[Sat Feb/19]
+  14.00  Ascoli Calcio            3-0 (1-0)  US Alessandria 1912
+         L.R. Vicenza             1-1 (1-1)  SPAL 2013 Ferrara
+         Parma Calcio 1913        2-3 (2-2)  Ternana Calcio
+         Reggina 1914             2-0 (0-0)  Pordenone Calcio
+         AC Monza                 1-2 (1-1)  Pisa SC
+  16.15  AC Perugia Calcio        0-0  US Cremonese
+[Sun Feb/20]
+  15.30  Brescia Calcio           2-2 (1-1)  Frosinone Calcio
+         US Lecce                 3-0 (2-0)  FC Crotone
+         Como 1907                2-1 (0-0)  Cosenza Calcio
+         AS Cittadella            0-1 (0-0)  Benevento Calcio
+
+
+Matchday 25
+[Tue Feb/22]
+  18.30  Pisa SC                  0-0  Parma Calcio 1913
+         Pordenone Calcio         1-4 (0-2)  AC Monza
+         SPAL 2013 Ferrara        5-1 (2-0)  Ternana Calcio
+         US Alessandria 1912      1-2 (1-1)  AC Perugia Calcio
+         US Cremonese             0-0  L.R. Vicenza
+[Wed Feb/23]
+  18.30  Brescia Calcio           2-0 (1-0)  Ascoli Calcio
+         Frosinone Calcio         3-0 (0-0)  Reggina 1914
+         US Lecce                 1-2 (0-1)  AS Cittadella
+         FC Crotone               3-3 (0-2)  Cosenza Calcio
+         Benevento Calcio         5-0 (3-0)  Como 1907
+
+
+Matchday 26
+[Sat Feb/26]
+  14.00  Como 1907                1-1 (1-0)  Brescia Calcio
+         L.R. Vicenza             1-0 (1-0)  Pordenone Calcio
+         Parma Calcio 1913        4-0 (2-0)  SPAL 2013 Ferrara
+         Cosenza Calcio           2-1 (0-1)  US Alessandria 1912
+  14.05  Ternana Calcio           1-2 (0-0)  US Cremonese
+  16.20  AC Perugia Calcio        0-1 (0-1)  Benevento Calcio
+[Sun Feb/27]
+  15.30  Ascoli Calcio            2-1 (0-0)  FC Crotone
+         Reggina 1914             1-0 (1-0)  Pisa SC
+         AC Monza                 0-1 (0-0)  US Lecce
+         AS Cittadella            3-0 (3-0)  Frosinone Calcio
+
+
+Matchday 27
+[Tue Mar/1]
+  18.30  Brescia Calcio           2-1 (0-1)  AC Perugia Calcio
+         Ternana Calcio           1-0 (0-0)  Pordenone Calcio
+  20.30  US Alessandria 1912      1-1 (0-1)  Como 1907
+  18.30  Benevento Calcio         1-1 (1-1)  US Cremonese
+[Wed Mar/2]
+  18.30  Pisa SC                  3-2 (3-0)  FC Crotone
+         Reggina 1914             3-1 (2-0)  L.R. Vicenza
+         SPAL 2013 Ferrara        0-0  AS Cittadella
+         AC Monza                 1-1 (0-1)  Parma Calcio 1913
+         US Lecce                 3-1 (1-0)  Ascoli Calcio
+         Frosinone Calcio         1-0 (0-0)  Cosenza Calcio
+
+
+Matchday 28
+[Sat Mar/5]
+  14.00  AS Cittadella            1-2 (1-1)  AC Monza
+         Como 1907                0-2 (0-1)  SPAL 2013 Ferrara
+         Parma Calcio 1913        1-1 (1-0)  Reggina 1914
+         Pordenone Calcio         0-1 (0-1)  Pisa SC
+  16.15  US Cremonese             2-1 (1-1)  Brescia Calcio
+[Sun Mar/6]
+  15.30  Ascoli Calcio            1-1 (1-0)  Frosinone Calcio
+         FC Crotone               0-0  US Alessandria 1912
+         L.R. Vicenza             3-1 (3-0)  Ternana Calcio
+         AC Perugia Calcio        1-1 (0-0)  US Lecce
+
+
+Matchday 29
+[Fri Mar/11]
+  20.30  Parma Calcio 1913        1-1 (0-1)  AS Cittadella
+[Sat Mar/12]
+  16.15  Frosinone Calcio         3-0 (1-0)  US Alessandria 1912
+  14.00  Reggina 1914             0-1 (0-0)  AC Perugia Calcio
+         US Lecce                 1-1 (1-1)  Brescia Calcio
+         Ternana Calcio           2-0 (2-0)  Cosenza Calcio
+  16.15  Benevento Calcio         3-1 (2-1)  FC Crotone
+         SPAL 2013 Ferrara        1-2 (0-1)  Ascoli Calcio
+         Pordenone Calcio         1-1 (1-0)  Como 1907
+         AC Monza                 4-0 (1-0)  L.R. Vicenza
+[Sun Mar/13]
+  15.30  Pisa SC                  3-0 (1-0)  US Cremonese
+
+
+Matchday 30
+[Tue Mar/15]
+  20.30  US Alessandria 1912      0-3 (0-1)  AC Monza
+  18.30  AS Cittadella            0-0  Reggina 1914
+         Brescia Calcio           2-2 (2-1)  Benevento Calcio
+         Como 1907                1-1 (1-0)  Ternana Calcio
+         FC Crotone               2-0 (1-0)  Frosinone Calcio
+         L.R. Vicenza             0-1 (0-1)  Parma Calcio 1913
+         Cosenza Calcio           2-2 (1-1)  US Lecce
+[Wed Mar/16]
+  18.30  AC Perugia Calcio        1-1 (0-0)  SPAL 2013 Ferrara
+         Ascoli Calcio            2-0 (2-0)  Pisa SC
+         US Cremonese             2-1 (0-0)  Pordenone Calcio
+
+
+Matchday 31
+[Sat Mar/19]
+  14.00  Reggina 1914             1-0 (1-0)  Cosenza Calcio
+         Parma Calcio 1913        0-0  US Lecce
+         AC Monza                 1-0 (0-0)  FC Crotone
+         Ternana Calcio           3-0 (1-0)  US Alessandria 1912
+  16.15  Frosinone Calcio         2-0 (1-0)  Benevento Calcio
+[Sun Mar/20]
+  14.00  Pisa SC                  1-0 (1-0)  AS Cittadella
+         AC Perugia Calcio        0-1 (0-0)  Como 1907
+  16.15  Pordenone Calcio         1-1 (1-1)  Brescia Calcio
+  14.00  L.R. Vicenza             2-0 (0-0)  Ascoli Calcio
+  16.15  SPAL 2013 Ferrara        0-2 (0-1)  US Cremonese
+
+
+Matchday 32
+[Sat Apr/2]
+  16.15  Benevento Calcio         5-1 (2-0)  Pisa SC
+  14.00  AS Cittadella            1-2 (0-1)  Ternana Calcio
+         Ascoli Calcio            1-0 (0-0)  Pordenone Calcio
+         US Alessandria 1912      2-2 (1-1)  SPAL 2013 Ferrara
+         US Cremonese             1-1 (0-0)  Reggina 1914
+         US Lecce                 1-0 (1-0)  Frosinone Calcio
+         Cosenza Calcio           1-3 (0-1)  Parma Calcio 1913
+[Sun Apr/3]
+  15.30  Como 1907                2-0 (0-0)  AC Monza
+         Brescia Calcio           2-0 (2-0)  L.R. Vicenza
+         FC Crotone               1-1 (0-1)  AC Perugia Calcio
+
+
+Matchday 33
+[Tue Apr/5]
+  19.00  Pordenone Calcio         2-0 (1-0)  Frosinone Calcio
+         Reggina 1914             0-3 (0-1)  Benevento Calcio
+         Ternana Calcio           1-4 (1-2)  US Lecce
+         US Cremonese             2-1 (1-0)  US Alessandria 1912
+         SPAL 2013 Ferrara        2-2 (0-1)  Cosenza Calcio
+[Wed Apr/6]
+  19.00  AC Monza                 2-0 (2-0)  Ascoli Calcio
+  14.00  Parma Calcio 1913        4-3 (1-0)  Como 1907
+  19.00  Pisa SC                  0-0  Brescia Calcio
+         AS Cittadella            0-0  AC Perugia Calcio
+         L.R. Vicenza             1-1 (1-1)  FC Crotone
+
+
+Matchday 34
+[Sat Apr/9]
+  14.00  Como 1907                1-2 (1-2)  AS Cittadella
+         US Alessandria 1912      2-0 (1-0)  Pordenone Calcio
+         US Lecce                 1-0 (0-0)  SPAL 2013 Ferrara
+  16.15  Frosinone Calcio         2-1 (2-1)  US Cremonese
+[Sun Apr/10]
+  18.00  AC Perugia Calcio        1-1 (0-1)  Pisa SC
+  14.30  Benevento Calcio         1-0 (0-0)  L.R. Vicenza
+  15.30  Ascoli Calcio            2-0 (0-0)  Reggina 1914
+         FC Crotone               1-2 (1-1)  Ternana Calcio
+         Cosenza Calcio           0-2 (0-1)  AC Monza
+[Mon Apr/11]
+  20.30  Brescia Calcio           1-0 (0-0)  Parma Calcio 1913
+
+
+Matchday 28
+[Thu Apr/14]
+  20.00  Cosenza Calcio           1-0 (0-0)  Benevento Calcio
+
+
+Matchday 35
+[Mon Apr/18]
+  12.30  SPAL 2013 Ferrara        1-1 (0-1)  FC Crotone
+  15.00  L.R. Vicenza             1-2 (1-1)  AC Perugia Calcio
+         Pordenone Calcio         1-4 (0-2)  Benevento Calcio
+         Reggina 1914             1-0 (1-0)  US Lecce
+         US Cremonese             3-1 (3-1)  Cosenza Calcio
+  18.00  Pisa SC                  3-1 (1-0)  Como 1907
+         AS Cittadella            1-2 (0-2)  US Alessandria 1912
+         Parma Calcio 1913        0-1 (0-1)  Ascoli Calcio
+         Ternana Calcio           4-4 (2-2)  Frosinone Calcio
+  20.30  AC Monza                 1-1 (0-0)  Brescia Calcio
+
+
+Matchday 36
+[Mon Apr/25]
+  12.30  Ascoli Calcio            0-0  AS Cittadella
+  15.00  FC Crotone               3-1 (3-0)  US Cremonese
+         Frosinone Calcio         4-1 (2-1)  AC Monza
+         US Alessandria 1912      0-0  Reggina 1914
+         US Lecce                 2-0 (1-0)  Pisa SC
+         Cosenza Calcio           3-1 (2-1)  Pordenone Calcio
+  18.00  Benevento Calcio         1-2 (1-0)  Ternana Calcio
+         Brescia Calcio           1-1 (0-0)  SPAL 2013 Ferrara
+         Como 1907                0-2 (0-1)  L.R. Vicenza
+  20.30  AC Perugia Calcio        2-1 (2-0)  Parma Calcio 1913
+
+
+Matchday 37
+[Sat Apr/30]
+  14.00  AS Cittadella            1-0 (0-0)  Brescia Calcio
+         L.R. Vicenza             2-1 (0-0)  US Lecce
+         Parma Calcio 1913        2-2 (1-1)  US Alessandria 1912
+         Pordenone Calcio         3-3 (0-1)  FC Crotone
+         SPAL 2013 Ferrara        3-0 (2-0)  Frosinone Calcio
+         AC Monza                 3-0 (0-0)  Benevento Calcio
+         Ternana Calcio           1-0 (1-0)  AC Perugia Calcio
+         US Cremonese             0-1 (0-0)  Ascoli Calcio
+         Pisa SC                  1-1 (1-0)  Cosenza Calcio
+  16.15  Reggina 1914             1-4 (0-2)  Como 1907
+
+
+Matchday 38
+[Fri May/6]
+  18.15  FC Crotone               0-1 (0-1)  Parma Calcio 1913
+  20.30  AC Perugia Calcio        1-0 (0-0)  AC Monza
+         Ascoli Calcio            4-1 (2-0)  Ternana Calcio
+         Benevento Calcio         1-2 (0-1)  SPAL 2013 Ferrara
+         Brescia Calcio           3-0 (1-0)  Reggina 1914
+         Como 1907                1-2 (0-1)  US Cremonese
+         Frosinone Calcio         1-2 (0-2)  Pisa SC
+         US Alessandria 1912      0-1 (0-1)  L.R. Vicenza
+         US Lecce                 1-0 (0-0)  Pordenone Calcio
+         Cosenza Calcio           1-0 (0-0)  AS Cittadella
+
+
+== Playoffs - Relegation
+
+Final
+[Thu May/12]
+  20.30  L.R. Vicenza             1-0 (0-0)  Cosenza Calcio
+[Fri May/20]
+  20.30  Cosenza Calcio           2-0 (0-0)  L.R. Vicenza
+
+
+== Aufstieg
+
+Round 1
+[Fri May/13]
+  20.30  Ascoli Calcio            0-1 (0-1)  Benevento Calcio
+[Sat May/14]
+  18.00  Brescia Calcio           3-2 a.e.t. (1-1, 1-1)  AC Perugia Calcio
+
+
+Semifinals
+[Tue May/17]
+  20.30  Benevento Calcio         1-0 (0-0)  Pisa SC
+[Wed May/18]
+  20.00  Brescia Calcio           1-2 (1-1)  AC Monza
+[Sat May/21]
+  18.00  Pisa SC                  1-0 (1-0)  Benevento Calcio
+[Sun May/22]
+  21.00  AC Monza                 2-1 (0-1)  Brescia Calcio
+
+
+Final
+[Thu May/26]
+  20.30  AC Monza                 2-1 (1-0)  Pisa SC
+[Sun May/29]
+  20.30  Pisa SC                  3-4 a.e.t. (3-2, 2-1)  AC Monza

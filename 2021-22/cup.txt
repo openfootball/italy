@@ -1,0 +1,94 @@
+= Coppa Italia 2021/22
+
+# Date       Sat Aug/7 2021 - Wed May/11 2022 (277d)
+# Teams      44
+# Matches    45
+
+
+
+Vorrunde
+[Sat Aug/7]
+  19.00  Como 1907                3-4 pen. 2-2 a.e.t. (2-2, 1-0)  US Catanzaro
+[Sun Aug/8]
+  19.00  AC Perugia Calcio        1-0 (0-0)  FC Südtirol
+  20.30  Calcio Padova            0-2 a.e.t. (0-0)  US Alessandria 1912
+  18.30  Ternana Calcio           4-3 pen. 1-1 a.e.t. (1-1, 0-1)  US Avellino
+
+
+Round 1
+[Fri Aug/13]
+  18.00  Genoa CFC                3-2 (2-2)  AC Perugia Calcio
+  20.45  Udinese Calcio           3-1 (1-0)  Ascoli Calcio
+  21.00  ACF Fiorentina           4-0 (3-0)  Cosenza Calcio
+  17.45  Pordenone Calcio         1-3 (0-2)  Spezia Calcio
+[Sat Aug/14]
+  17.45  Benevento Calcio         2-1 a.e.t. (1-1, 1-0)  SPAL 2013 Ferrara
+  18.00  AS Cittadella            2-1 (2-1)  AC Monza
+  20.45  Hellas Verona            3-0 (3-0)  US Catanzaro
+  21.00  Cagliari Calcio          3-1 (3-0)  Pisa SC
+[Sun Aug/15]
+  18.00  Parma Calcio 1913        1-3 (1-2)  US Lecce
+  20.45  Venezia FC               8-7 pen. 1-1 a.e.t. (0-0)  Frosinone Calcio
+  21.00  Torino FC                4-1 pen. 0-0 a.e.t. (0-0)  US Cremonese
+  17.45  Empoli FC                4-2 (3-1)  L.R. Vicenza
+[Mon Aug/16]
+  18.00  Bologna FC               4-5 (1-3)  Ternana Calcio
+  20.45  US Salernitana 1919      2-0 (1-0)  Reggina 1914
+  21.00  Sampdoria                3-2 (1-2)  US Alessandria 1912
+  17.45  FC Crotone               4-2 pen. 2-2 a.e.t. (2-2, 1-0)  Brescia Calcio
+
+
+Round 2
+[Tue Dec/14]
+  15.00  Venezia FC               3-1 (0-0)  Ternana Calcio
+  18.00  Udinese Calcio           4-0 (3-0)  FC Crotone
+  21.00  Genoa CFC                1-0 (0-0)  US Salernitana 1919
+[Wed Dec/15]
+  18.00  Cagliari Calcio          3-1 (2-0)  AS Cittadella
+  21.00  ACF Fiorentina           2-1 (1-0)  Benevento Calcio
+  15.00  Hellas Verona            3-4 (1-1)  Empoli FC
+[Thu Dec/16]
+  21.00  Sampdoria                2-1 (1-0)  Torino FC
+  18.00  Spezia Calcio            0-2 (0-1)  US Lecce
+
+
+Round of 16
+[Wed Jan/12]
+  17.30  Atalanta                 2-0 (1-0)  Venezia FC
+[Thu Jan/13]
+  21.00  AC Milan                 3-1 a.e.t. (1-1, 0-1)  Genoa CFC
+  18.00  SSC Napoli               2-5 a.e.t. (2-2, 1-1)  ACF Fiorentina
+[Tue Jan/18]
+  21.00  Juventus                 4-1 (1-0)  Sampdoria
+  17.30  Lazio Roma               1-0 a.e.t. (0-0)  Udinese Calcio
+[Wed Jan/19]
+  17.30  Sassuolo Calcio          1-0 (1-0)  Cagliari Calcio
+  21.00  Inter                    3-2 a.e.t. (2-2, 1-0)  Empoli FC
+[Thu Jan/20]
+  21.00  AS Roma                  3-1 (1-1)  US Lecce
+
+
+Quarterfinals
+[Tue Feb/8]
+  21.00  Inter                    2-0 (1-0)  AS Roma
+[Wed Feb/9]
+  21.00  AC Milan                 4-0 (3-0)  Lazio Roma
+[Thu Feb/10]
+  21.00  Juventus                 2-1 (1-1)  Sassuolo Calcio
+  18.00  Atalanta                 2-3 (1-1)  ACF Fiorentina
+
+
+Semifinals
+[Tue Mar/1]
+  21.00  AC Milan                 0-0  Inter
+[Wed Mar/2]
+  21.00  ACF Fiorentina           0-1 (0-0)  Juventus
+[Tue Apr/19]
+  21.00  Inter                    3-0 (2-0)  AC Milan
+[Wed Apr/20]
+  21.00  Juventus                 2-0 (1-0)  ACF Fiorentina
+
+
+Final
+[Wed May/11]
+  21.00  Juventus                 2-4 a.e.t. (2-2, 0-1)  Inter

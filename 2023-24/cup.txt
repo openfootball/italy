@@ -1,0 +1,96 @@
+= Coppa Italia 2023/24
+
+# Date       Sat Aug/5 2023 - Wed May/15 2024 (284d)
+# Teams      44
+# Matches    45
+
+
+
+Vorrunde
+[Sat Aug/5]
+  18.00  US Catanzaro             1-0 (0-0)  Foggia Calcio
+[Sun Aug/6]
+  20.00  Feralpisalò              2-1 (2-0)  L.R. Vicenza
+  20.30  Cesena FC                6-5 pen. 2-2 a.e.t. (2-2, 2-0)  Virtus Entella
+  18.00  AC Reggiana 1919         6-2 (3-2)  Delfino Pescara
+
+
+Round 1
+[Fri Aug/11]
+  18.00  Udinese Calcio           4-1 (1-1)  US Catanzaro
+  21.00  Genoa CFC                4-3 (2-2)  Modena FC
+  21.15  Bologna FC               2-0 (1-0)  Cesena FC
+  17.45  Frosinone Calcio         1-0 (1-0)  Pisa SC
+[Sat Aug/12]
+  17.45  Empoli FC                1-2 (1-0)  AS Cittadella
+  18.00  SSC Bari                 0-3 (0-2)  Parma Calcio 1913
+  21.00  Hellas Verona            3-1 (2-1)  Ascoli Calcio
+  21.15  Cagliari Calcio          2-1 a.e.t. (0-0)  Palermo FC
+[Sun Aug/13]
+  18.00  Sassuolo Calcio          5-2 a.e.t. (2-2, 1-1)  Cosenza Calcio
+  21.00  US Lecce                 1-0 (1-0)  Como 1907
+  21.15  AC Monza                 1-2 (1-0)  AC Reggiana 1919
+  17.45  US Salernitana 1919      1-0 (1-0)  Ternana Calcio
+[Mon Aug/14]
+  18.00  Sampdoria                7-6 pen. 1-1 a.e.t. (1-1, 1-1)  FC Südtirol
+  21.00  Spezia Calcio            4-3 pen. 2-2 a.e.t. (2-2, 1-0)  Venezia FC
+  21.15  Torino FC                2-1 (1-1)  Feralpisalò
+  17.45  US Cremonese             3-1 a.e.t. (1-1, 1-1)  FC Crotone
+
+
+Round 2
+[Tue Oct/31]
+  15.00  US Cremonese             2-1 a.e.t. (1-1, 0-0)  AS Cittadella
+  18.00  US Salernitana 1919      4-0 (2-0)  Sampdoria
+  21.00  Bologna FC               2-0 (1-0)  Hellas Verona
+[Wed Nov/1]
+  18.00  US Lecce                 2-4 (0-2)  Parma Calcio 1913
+  21.00  Udinese Calcio           1-2 a.e.t. (1-1, 0-0)  Cagliari Calcio
+  15.00  Genoa CFC                2-1 a.e.t. (1-1, 0-1)  AC Reggiana 1919
+[Thu Nov/2]
+  21.00  Torino FC                1-2 a.e.t. (1-1, 1-1)  Frosinone Calcio
+  18.00  Sassuolo Calcio          5-4 pen. 0-0 a.e.t. (0-0)  Spezia Calcio
+
+
+Round of 16
+[Tue Dec/5]
+  21.00  Lazio Roma               1-0 (1-0)  Genoa CFC
+[Wed Dec/6]
+  21.00  ACF Fiorentina           4-1 pen. 2-2 a.e.t. (2-2, 0-2)  Parma Calcio 1913
+[Tue Dec/19]
+  21.00  SSC Napoli               0-4 (0-0)  Frosinone Calcio
+[Wed Dec/20]
+  21.00  Inter                    1-2 a.e.t. (0-0)  Bologna FC
+[Tue Jan/2]
+  21.00  AC Milan                 4-1 (2-0)  Cagliari Calcio
+[Wed Jan/3]
+  18.00  Atalanta                 3-1 (1-0)  Sassuolo Calcio
+  21.00  AS Roma                  2-1 (0-1)  US Cremonese
+[Thu Jan/4]
+  21.00  Juventus                 6-1 (2-1)  US Salernitana 1919
+
+
+Quarterfinals
+[Tue Jan/9]
+  21.00  ACF Fiorentina           5-4 pen. 0-0 a.e.t. (0-0)  Bologna FC
+[Wed Jan/10]
+  21.00  AC Milan                 1-2 (1-1)  Atalanta
+  18.00  Lazio Roma               1-0 (0-0)  AS Roma
+[Thu Jan/11]
+  21.00  Juventus                 4-0 (2-0)  Frosinone Calcio
+
+
+Semifinals
+[Tue Apr/2]
+  21.00  Juventus                 2-0 (0-0)  Lazio Roma
+[Wed Apr/3]
+  21.00  ACF Fiorentina           1-0 (1-0)  Atalanta
+[Tue Apr/23]
+  21.00  Lazio Roma               2-1 (1-0)  Juventus
+[Wed Apr/24]
+  21.00  Atalanta                 4-1 (1-0)  ACF Fiorentina
+
+
+Final
+[Wed May/15]
+  21.00  Atalanta                 0-1 (0-1)  Juventus

@@ -1,0 +1,642 @@
+= Italian Serie B 2022/23
+
+# Date       Fri Aug/12 2022 - Sun Jun/11 2023 (303d)
+# Teams      20
+# Matches    390
+# Stages     Regular Season (380)  Playout (2)  Playoff (8)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/12]
+  20.45  Parma Calcio 1913        2-2 (2-2)  SSC Bari
+[Sat Aug/13]
+  20.45  Como 1907                1-1 (1-0)  Cagliari Calcio
+         Palermo FC               2-0 (1-0)  AC Perugia Calcio
+         AS Cittadella            4-3 (1-1)  Pisa SC
+[Sun Aug/14]
+  20.45  Ascoli Calcio            2-1 (2-0)  Ternana Calcio
+         Benevento Calcio         0-1 (0-0)  Cosenza Calcio
+         Brescia Calcio           2-0 (1-0)  FC Südtirol
+         Modena FC                0-1 (0-1)  Frosinone Calcio
+         Venezia FC               1-2 (0-1)  Genoa CFC
+         SPAL 2013 Ferrara        1-3 (0-1)  Reggina 1914
+
+
+Matchday 2
+[Fri Aug/19]
+  20.45  SSC Bari                 1-1 (0-1)  Palermo FC
+[Sat Aug/20]
+  20.45  Ascoli Calcio            1-1 (1-1)  SPAL 2013 Ferrara
+         Genoa CFC                0-0  Benevento Calcio
+         AC Perugia Calcio        0-0  Parma Calcio 1913
+[Sun Aug/21]
+  20.45  Pisa SC                  2-2 (1-1)  Como 1907
+         Cagliari Calcio          2-1 (0-1)  AS Cittadella
+         Cosenza Calcio           2-1 (0-1)  Modena FC
+         FC Südtirol              1-2 (0-0)  Venezia FC
+         Frosinone Calcio         3-0 (1-0)  Brescia Calcio
+         Ternana Calcio           1-0 (1-0)  Reggina 1914
+
+
+Matchday 3
+[Sat Aug/27]
+  20.45  Modena FC                4-1 (2-0)  Ternana Calcio
+         Palermo FC               2-3 (1-2)  Ascoli Calcio
+         SPAL 2013 Ferrara        1-0 (1-0)  Cagliari Calcio
+[Sun Aug/28]
+  20.45  Pisa SC                  0-1 (0-1)  Genoa CFC
+         AS Cittadella            1-1 (0-0)  Venezia FC
+         Benevento Calcio         2-1 (1-0)  Frosinone Calcio
+         Parma Calcio 1913        1-0 (1-0)  Cosenza Calcio
+         Reggina 1914             4-0 (2-0)  FC Südtirol
+         AC Perugia Calcio        1-3 (0-1)  SSC Bari
+[Mon Aug/29]
+  20.45  Como 1907                0-1 (0-1)  Brescia Calcio
+
+
+Matchday 4
+[Fri Sep/2]
+  20.30  Cagliari Calcio          1-0 (1-0)  Modena FC
+[Sat Sep/3]
+  14.00  Ascoli Calcio            0-0  AS Cittadella
+         Brescia Calcio           2-1 (2-1)  AC Perugia Calcio
+         Venezia FC               0-2 (0-0)  Benevento Calcio
+         Frosinone Calcio         2-0 (1-0)  Como 1907
+         Reggina 1914             3-0 (1-0)  Palermo FC
+         SSC Bari                 2-2 (2-0)  SPAL 2013 Ferrara
+         Ternana Calcio           1-1 (1-0)  Cosenza Calcio
+  16.15  Genoa CFC                3-3 (2-2)  Parma Calcio 1913
+[Sun Sep/4]
+  16.15  FC Südtirol              2-1 (1-1)  Pisa SC
+
+
+Matchday 5
+[Fri Sep/9]
+  20.30  Palermo FC               1-0 (0-0)  Genoa CFC
+[Sat Sep/10]
+  14.00  Pisa SC                  0-1 (0-1)  Reggina 1914
+         AS Cittadella            1-0 (0-0)  Frosinone Calcio
+         Benevento Calcio         0-2 (0-0)  Cagliari Calcio
+         Como 1907                0-2 (0-0)  FC Südtirol
+         Cosenza Calcio           0-1 (0-1)  SSC Bari
+         Parma Calcio 1913        2-3 (1-0)  Ternana Calcio
+  15.00  Modena FC                1-3 (1-1)  Brescia Calcio
+  16.15  AC Perugia Calcio        1-0 (1-0)  Ascoli Calcio
+[Sun Sep/11]
+  16.15  SPAL 2013 Ferrara        2-0 (1-0)  Venezia FC
+
+
+Matchday 6
+[Fri Sep/16]
+  20.30  Brescia Calcio           1-0 (0-0)  Benevento Calcio
+[Sat Sep/17]
+  14.00  Ascoli Calcio            1-3 (0-2)  Parma Calcio 1913
+         Cagliari Calcio          0-1 (0-0)  SSC Bari
+         Como 1907                3-3 (1-1)  SPAL 2013 Ferrara
+         FC Südtirol              1-1 (1-0)  Cosenza Calcio
+         Venezia FC               1-1 (1-1)  Pisa SC
+         Frosinone Calcio         1-0 (1-0)  Palermo FC
+         Reggina 1914             3-0 (1-0)  AS Cittadella
+  16.15  Genoa CFC                1-0 (1-0)  Modena FC
+[Sun Sep/18]
+  16.15  Ternana Calcio           1-0 (1-0)  AC Perugia Calcio
+
+
+Matchday 7
+[Fri Sep/30]
+  20.30  Cosenza Calcio           3-1 (2-1)  Como 1907
+[Sat Oct/1]
+  14.00  AS Cittadella            0-2 (0-1)  Ternana Calcio
+         Cagliari Calcio          1-4 (1-0)  Venezia FC
+         Modena FC                1-0 (0-0)  Reggina 1914
+         Palermo FC               0-1 (0-1)  FC Südtirol
+         Parma Calcio 1913        2-1 (1-0)  Frosinone Calcio
+         SPAL 2013 Ferrara        0-2 (0-1)  Genoa CFC
+         SSC Bari                 6-2 (3-0)  Brescia Calcio
+  16.15  AC Perugia Calcio        1-3 (0-1)  Pisa SC
+[Sun Oct/2]
+  16.15  Benevento Calcio         1-1 (0-1)  Ascoli Calcio
+
+
+Matchday 8
+[Fri Oct/7]
+  20.30  Genoa CFC                0-0  Cagliari Calcio
+[Sat Oct/8]
+  14.00  Pisa SC                  0-0  Parma Calcio 1913
+         Ascoli Calcio            1-2 (1-0)  Modena FC
+         Brescia Calcio           1-1 (1-0)  AS Cittadella
+         Venezia FC               1-2 (0-0)  SSC Bari
+         Ternana Calcio           3-0 (0-0)  Palermo FC
+  16.15  Frosinone Calcio         2-0 (0-0)  SPAL 2013 Ferrara
+         Reggina 1914             3-0 (1-0)  Cosenza Calcio
+[Sun Oct/9]
+  16.15  FC Südtirol              1-1 (0-1)  Benevento Calcio
+         Como 1907                1-0 (1-0)  AC Perugia Calcio
+
+
+Matchday 9
+[Fri Oct/14]
+  20.30  Venezia FC               1-3 (1-0)  Frosinone Calcio
+[Sat Oct/15]
+  14.00  AS Cittadella            0-0  SPAL 2013 Ferrara
+         Benevento Calcio         2-3 (2-0)  Ternana Calcio
+         Cagliari Calcio          2-1 (2-0)  Brescia Calcio
+         Cosenza Calcio           1-2 (1-2)  Genoa CFC
+         Modena FC                5-1 (3-0)  Como 1907
+         Palermo FC               3-3 (2-1)  Pisa SC
+         Parma Calcio 1913        2-0 (0-0)  Reggina 1914
+  16.15  SSC Bari                 0-2 (0-0)  Ascoli Calcio
+[Sun Oct/16]
+  16.15  AC Perugia Calcio        1-2 (0-1)  FC Südtirol
+
+
+Matchday 10
+[Sat Oct/22]
+  14.00  Brescia Calcio           1-1 (1-0)  Venezia FC
+         Como 1907                2-1 (2-1)  Benevento Calcio
+         FC Südtirol              1-0 (1-0)  Parma Calcio 1913
+         Frosinone Calcio         1-0 (0-0)  SSC Bari
+         Reggina 1914             2-3 (0-1)  AC Perugia Calcio
+         SPAL 2013 Ferrara        5-0 (2-0)  Cosenza Calcio
+  16.15  Ternana Calcio           1-2 (1-0)  Genoa CFC
+[Sun Oct/23]
+  16.15  Palermo FC               0-0  AS Cittadella
+         Pisa SC                  4-2 (1-1)  Modena FC
+[Mon Oct/24]
+  20.30  Ascoli Calcio            2-1 (1-0)  Cagliari Calcio
+
+
+Matchday 11
+[Fri Oct/28]
+  20.30  SSC Bari                 0-0  Ternana Calcio
+[Sat Oct/29]
+  14.00  Benevento Calcio         0-0  Pisa SC
+         Cagliari Calcio          1-1 (1-1)  Reggina 1914
+         Cosenza Calcio           1-2 (1-1)  Frosinone Calcio
+         Modena FC                0-2 (0-2)  Palermo FC
+         Venezia FC               0-2 (0-0)  Ascoli Calcio
+         Parma Calcio 1913        1-0 (1-0)  Como 1907
+         SPAL 2013 Ferrara        1-1 (1-0)  FC Südtirol
+  16.15  Genoa CFC                1-1 (1-0)  Brescia Calcio
+[Sun Oct/30]
+  16.15  AC Perugia Calcio        0-2 (0-1)  AS Cittadella
+
+
+Matchday 12
+[Sat Nov/5]
+  14.00  Pisa SC                  3-1 (2-0)  Cosenza Calcio
+         AS Cittadella            0-0  Modena FC
+         Benevento Calcio         1-1 (1-0)  SSC Bari
+         Brescia Calcio           1-1 (0-0)  Ascoli Calcio
+         FC Südtirol              2-2 (1-1)  Cagliari Calcio
+         Ternana Calcio           0-0  SPAL 2013 Ferrara
+  16.15  Frosinone Calcio         1-0 (1-0)  AC Perugia Calcio
+         Palermo FC               1-0 (0-0)  Parma Calcio 1913
+[Sun Nov/6]
+  16.15  Como 1907                1-0 (0-0)  Venezia FC
+[Mon Nov/7]
+  20.30  Reggina 1914             2-1 (1-1)  Genoa CFC
+
+
+Matchday 13
+[Fri Nov/11]
+  20.30  Ascoli Calcio            0-1 (0-0)  Frosinone Calcio
+[Sat Nov/12]
+  14.00  Cagliari Calcio          1-1 (0-0)  Pisa SC
+         Cosenza Calcio           3-2 (1-1)  Palermo FC
+         Modena FC                1-1 (1-1)  AC Perugia Calcio
+         Venezia FC               1-2 (1-0)  Reggina 1914
+         Parma Calcio 1913        3-1 (1-0)  AS Cittadella
+         SPAL 2013 Ferrara        1-2 (1-0)  Benevento Calcio
+         SSC Bari                 2-2 (1-2)  FC Südtirol
+  16.15  Ternana Calcio           0-0  Brescia Calcio
+[Sun Nov/13]
+  16.15  Genoa CFC                1-1 (1-0)  Como 1907
+
+
+Matchday 14
+[Sat Nov/26]
+  15.00  Parma Calcio 1913        1-2 (0-2)  Modena FC
+  18.00  Pisa SC                  3-1 (3-1)  Ternana Calcio
+[Sun Nov/27]
+  12.30  Reggina 1914             2-2 (2-0)  Benevento Calcio
+  15.00  AC Perugia Calcio        1-0 (0-0)  Genoa CFC
+         AS Cittadella            1-1 (1-0)  Cosenza Calcio
+         Brescia Calcio           2-0 (2-0)  SPAL 2013 Ferrara
+         Como 1907                1-1 (1-0)  SSC Bari
+         FC Südtirol              2-2 (0-1)  Ascoli Calcio
+         Frosinone Calcio         2-2 (1-1)  Cagliari Calcio
+  18.00  Palermo FC               0-1 (0-0)  Venezia FC
+
+
+Matchday 15
+[Sat Dec/3]
+  18.00  Cagliari Calcio          1-1 (0-1)  Parma Calcio 1913
+  14.00  Venezia FC               2-1 (2-1)  Ternana Calcio
+[Sun Dec/4]
+  12.30  SPAL 2013 Ferrara        2-3 (0-1)  Modena FC
+  15.00  Ascoli Calcio            3-3 (1-2)  Como 1907
+         Brescia Calcio           0-2 (0-2)  Reggina 1914
+         Genoa CFC                0-1 (0-0)  AS Cittadella
+         Cosenza Calcio           0-0  AC Perugia Calcio
+         FC Südtirol              1-1 (1-0)  Frosinone Calcio
+         SSC Bari                 0-0  Pisa SC
+  18.00  Benevento Calcio         0-1 (0-0)  Palermo FC
+
+
+Matchday 16
+[Wed Dec/7]
+  20.30  Ternana Calcio           1-0 (1-0)  Cagliari Calcio
+[Thu Dec/8]
+  12.30  Parma Calcio 1913        0-1 (0-1)  Benevento Calcio
+  15.00  AC Perugia Calcio        0-0  SPAL 2013 Ferrara
+         AS Cittadella            0-3 (0-2)  SSC Bari
+         Genoa CFC                2-0 (0-0)  FC Südtirol
+         Cosenza Calcio           1-1 (0-0)  Brescia Calcio
+         Modena FC                2-2 (1-0)  Venezia FC
+         Reggina 1914             0-3 (0-1)  Frosinone Calcio
+  18.00  Pisa SC                  2-0 (1-0)  Ascoli Calcio
+  20.30  Palermo FC               0-0  Como 1907
+
+
+Matchday 17
+[Sun Dec/11]
+  12.30  Cagliari Calcio          3-2 (2-1)  AC Perugia Calcio
+  15.00  Ascoli Calcio            0-0  Genoa CFC
+         Benevento Calcio         1-0 (1-0)  AS Cittadella
+         Como 1907                0-1 (0-0)  Reggina 1914
+         FC Südtirol              0-0  Ternana Calcio
+         Venezia FC               2-0 (1-0)  Cosenza Calcio
+         SPAL 2013 Ferrara        1-1 (1-1)  Palermo FC
+  18.00  SSC Bari                 4-1 (2-0)  Modena FC
+  20.30  Frosinone Calcio         0-0  Pisa SC
+[Mon Dec/12]
+  20.30  Brescia Calcio           0-2 (0-1)  Parma Calcio 1913
+
+
+Matchday 18
+[Sat Dec/17]
+  18.00  Pisa SC                  3-0 (2-0)  Brescia Calcio
+  20.30  Reggina 1914             0-0  SSC Bari
+[Sun Dec/18]
+  14.00  Cosenza Calcio           1-3 (0-1)  Ascoli Calcio
+         Modena FC                1-1 (1-1)  Benevento Calcio
+         Parma Calcio 1913        0-1 (0-1)  SPAL 2013 Ferrara
+         Ternana Calcio           0-3 (0-1)  Como 1907
+  18.45  Palermo FC               2-1 (1-0)  Cagliari Calcio
+  20.45  Genoa CFC                1-0 (1-0)  Frosinone Calcio
+  14.00  AS Cittadella            0-2 (0-2)  FC Südtirol
+[Mon Dec/19]
+  20.30  AC Perugia Calcio        2-1 (2-0)  Venezia FC
+
+
+Matchday 19
+[Mon Dec/26]
+  12.30  Brescia Calcio           1-1 (0-0)  Palermo FC
+  15.00  Ascoli Calcio            0-1 (0-0)  Reggina 1914
+         Benevento Calcio         0-2 (0-1)  AC Perugia Calcio
+         Cagliari Calcio          2-0 (0-0)  Cosenza Calcio
+         Como 1907                2-0 (1-0)  AS Cittadella
+         FC Südtirol              0-2 (0-1)  Modena FC
+         Venezia FC               2-2 (0-1)  Parma Calcio 1913
+         SPAL 2013 Ferrara        0-1 (0-0)  Pisa SC
+  18.00  Frosinone Calcio         3-0 (1-0)  Ternana Calcio
+  20.30  SSC Bari                 1-2 (1-1)  Genoa CFC
+
+
+Matchday 20
+[Sat Jan/14]
+  14.00  AC Perugia Calcio        3-3 (3-1)  Palermo FC
+         Pisa SC                  1-2 (0-2)  AS Cittadella
+         Cagliari Calcio          2-0 (1-0)  Como 1907
+         Reggina 1914             0-1 (0-0)  SPAL 2013 Ferrara
+         SSC Bari                 4-0 (3-0)  Parma Calcio 1913
+  16.15  Frosinone Calcio         2-1 (0-0)  Modena FC
+[Sun Jan/15]
+  16.15  Cosenza Calcio           1-1 (0-1)  Benevento Calcio
+         Ternana Calcio           1-0 (1-0)  Ascoli Calcio
+  14.00  FC Südtirol              1-0 (1-0)  Brescia Calcio
+[Mon Jan/16]
+  18.45  Genoa CFC                1-0 (0-0)  Venezia FC
+
+
+Matchday 21
+[Fri Jan/20]
+  20.30  Palermo FC               1-0 (0-0)  SSC Bari
+[Sat Jan/21]
+  14.00  Benevento Calcio         1-2 (0-1)  Genoa CFC
+         Como 1907                2-2 (1-1)  Pisa SC
+         Modena FC                2-0 (0-0)  Cosenza Calcio
+         Parma Calcio 1913        2-0 (1-0)  AC Perugia Calcio
+         Reggina 1914             2-1 (1-1)  Ternana Calcio
+         SPAL 2013 Ferrara        1-1 (1-1)  Ascoli Calcio
+  14.30  Venezia FC               0-1 (0-0)  FC Südtirol
+  16.15  AS Cittadella            0-0  Cagliari Calcio
+[Sun Jan/22]
+  16.15  Brescia Calcio           1-3 (1-2)  Frosinone Calcio
+
+
+Matchday 22
+[Fri Jan/27]
+  20.30  Cagliari Calcio          2-1 (1-1)  SPAL 2013 Ferrara
+[Sat Jan/28]
+  14.00  Brescia Calcio           0-1 (0-0)  Como 1907
+         Cosenza Calcio           1-0 (1-0)  Parma Calcio 1913
+         FC Südtirol              2-1 (1-1)  Reggina 1914
+         Venezia FC               1-1 (1-1)  AS Cittadella
+         SSC Bari                 0-2 (0-0)  AC Perugia Calcio
+         Ternana Calcio           2-1 (2-0)  Modena FC
+  16.15  Genoa CFC                0-0  Pisa SC
+[Sun Jan/29]
+  14.00  Ascoli Calcio            1-2 (0-1)  Palermo FC
+  16.15  Frosinone Calcio         1-0 (0-0)  Benevento Calcio
+
+
+Matchday 23
+[Fri Feb/3]
+  20.30  Modena FC                2-0 (1-0)  Cagliari Calcio
+[Sat Feb/4]
+  14.00  AC Perugia Calcio        4-0 (1-0)  Brescia Calcio
+         Pisa SC                  0-1 (0-1)  FC Südtirol
+         AS Cittadella            3-0 (1-0)  Ascoli Calcio
+         Benevento Calcio         1-2 (1-1)  Venezia FC
+         Cosenza Calcio           0-0  Ternana Calcio
+         SPAL 2013 Ferrara        3-4 (0-2)  SSC Bari
+  16.15  Como 1907                0-2 (0-2)  Frosinone Calcio
+[Sun Feb/5]
+  16.15  Parma Calcio 1913        2-0 (1-0)  Genoa CFC
+         Palermo FC               2-1 (0-0)  Reggina 1914
+
+
+Matchday 24
+[Fri Feb/10]
+  20.30  Genoa CFC                2-0 (1-0)  Palermo FC
+[Sat Feb/11]
+  14.00  Brescia Calcio           0-1 (0-0)  Modena FC
+         Cagliari Calcio          1-0 (0-0)  Benevento Calcio
+         FC Südtirol              1-1 (0-0)  Como 1907
+         Venezia FC               2-1 (2-0)  SPAL 2013 Ferrara
+         Frosinone Calcio         3-0 (1-0)  AS Cittadella
+         Reggina 1914             0-2 (0-0)  Pisa SC
+  16.15  Ascoli Calcio            1-0 (0-0)  AC Perugia Calcio
+         Ternana Calcio           1-1 (1-1)  Parma Calcio 1913
+[Sun Feb/12]
+  16.15  SSC Bari                 2-1 (1-1)  Cosenza Calcio
+
+
+Matchday 25
+[Fri Feb/17]
+  20.30  Pisa SC                  1-1 (0-1)  Venezia FC
+[Sat Feb/18]
+  14.00  AS Cittadella            3-2 (0-2)  Reggina 1914
+         Benevento Calcio         1-0 (0-0)  Brescia Calcio
+         Cosenza Calcio           0-0  FC Südtirol
+         Palermo FC               1-1 (1-0)  Frosinone Calcio
+         Parma Calcio 1913        0-1 (0-0)  Ascoli Calcio
+         SPAL 2013 Ferrara        1-1 (1-1)  Como 1907
+  16.15  AC Perugia Calcio        3-0 (0-0)  Ternana Calcio
+         SSC Bari                 1-1 (0-1)  Cagliari Calcio
+[Sun Feb/19]
+  16.15  Modena FC                2-2 (1-1)  Genoa CFC
+
+
+Matchday 26
+[Fri Feb/24]
+  20.30  Frosinone Calcio         3-4 (1-3)  Parma Calcio 1913
+         Pisa SC                  2-1 (0-1)  AC Perugia Calcio
+[Sat Feb/25]
+  14.00  Brescia Calcio           0-2 (0-1)  SSC Bari
+         Como 1907                5-1 (2-1)  Cosenza Calcio
+         FC Südtirol              1-1 (1-0)  Palermo FC
+         Venezia FC               0-0  Cagliari Calcio
+         Reggina 1914             2-1 (1-1)  Modena FC
+         Ternana Calcio           1-2 (1-0)  AS Cittadella
+  16.15  Genoa CFC                3-0 (0-0)  SPAL 2013 Ferrara
+[Sun Feb/26]
+  16.15  Ascoli Calcio            0-0  Benevento Calcio
+
+
+Matchday 27
+[Tue Feb/28]
+  20.30  Palermo FC               0-0  Ternana Calcio
+         Parma Calcio 1913        0-1 (0-0)  Pisa SC
+         Cosenza Calcio           2-1 (0-1)  Reggina 1914
+[Wed Mar/1]
+  20.30  AC Perugia Calcio        0-0  Como 1907
+         AS Cittadella            0-0  Brescia Calcio
+         Benevento Calcio         0-2 (0-1)  FC Südtirol
+         Cagliari Calcio          0-0  Genoa CFC
+         Modena FC                0-1 (0-0)  Ascoli Calcio
+         SPAL 2013 Ferrara        0-2 (0-1)  Frosinone Calcio
+         SSC Bari                 1-0 (0-0)  Venezia FC
+
+
+Matchday 28
+[Sat Mar/4]
+  14.00  Pisa SC                  1-1 (0-1)  Palermo FC
+  16.15  Reggina 1914             0-1 (0-0)  Parma Calcio 1913
+[Sun Mar/5]
+  15.00  Ascoli Calcio            0-1 (0-1)  SSC Bari
+         Brescia Calcio           1-1 (0-0)  Cagliari Calcio
+         Como 1907                1-0 (0-0)  Modena FC
+         FC Südtirol              2-1 (1-1)  AC Perugia Calcio
+         Frosinone Calcio         3-0 (1-0)  Venezia FC
+         SPAL 2013 Ferrara        2-1 (1-0)  AS Cittadella
+         Ternana Calcio           2-2 (2-2)  Benevento Calcio
+[Mon Mar/6]
+  20.30  Genoa CFC                4-0 (1-0)  Cosenza Calcio
+
+
+Matchday 29
+[Fri Mar/10]
+  20.30  Cagliari Calcio          4-1 (0-1)  Ascoli Calcio
+[Sat Mar/11]
+  14.00  AS Cittadella            3-3 (2-2)  Palermo FC
+         Benevento Calcio         0-0  Como 1907
+         Modena FC                1-0 (1-0)  Pisa SC
+         Venezia FC               1-1 (0-0)  Brescia Calcio
+         Parma Calcio 1913        0-0  FC Südtirol
+  16.15  SSC Bari                 0-0  Frosinone Calcio
+[Sun Mar/12]
+  16.15  Cosenza Calcio           1-0 (0-0)  SPAL 2013 Ferrara
+         Genoa CFC                1-0 (1-0)  Ternana Calcio
+
+
+Matchday 30
+[Fri Mar/17]
+  20.30  Palermo FC               5-2 (1-2)  Modena FC
+[Sat Mar/18]
+  16.15  Reggina 1914             0-4 (0-2)  Cagliari Calcio
+  14.00  Pisa SC                  2-0 (1-0)  Benevento Calcio
+         AS Cittadella            0-2 (0-0)  AC Perugia Calcio
+         Ascoli Calcio            0-1 (0-0)  Venezia FC
+         Brescia Calcio           0-3 (0-1)  Genoa CFC
+         Como 1907                2-0 (1-0)  Parma Calcio 1913
+         FC Südtirol              2-0 (1-0)  SPAL 2013 Ferrara
+         Frosinone Calcio         0-1 (0-0)  Cosenza Calcio
+[Sun Mar/19]
+  16.15  Ternana Calcio           1-0 (1-0)  SSC Bari
+
+
+Matchday 31
+[Fri Mar/31]
+  20.30  Genoa CFC                1-0 (1-0)  Reggina 1914
+[Sat Apr/1]
+  14.00  Cosenza Calcio           1-0 (1-0)  Pisa SC
+         Ascoli Calcio            4-3 (1-1)  Brescia Calcio
+         Cagliari Calcio          1-1 (1-0)  FC Südtirol
+  16.15  SSC Bari                 2-0 (0-0)  Benevento Calcio
+  14.00  Venezia FC               3-2 (1-1)  Como 1907
+         Parma Calcio 1913        2-1 (1-1)  Palermo FC
+         SPAL 2013 Ferrara        1-1 (1-0)  Ternana Calcio
+  16.15  AC Perugia Calcio        1-1 (0-0)  Frosinone Calcio
+[Sun Apr/2]
+  16.15  Modena FC                0-0  AS Cittadella
+
+
+Matchday 29
+[Wed Apr/5]
+  20.15  AC Perugia Calcio        1-3 (1-1)  Reggina 1914
+
+
+Matchday 32
+[Mon Apr/10]
+  12.30  Benevento Calcio         1-3 (1-1)  SPAL 2013 Ferrara
+  15.00  AC Perugia Calcio        0-1 (0-0)  Modena FC
+         AS Cittadella            0-1 (0-1)  Parma Calcio 1913
+         Brescia Calcio           1-0 (1-0)  Ternana Calcio
+         Como 1907                2-2 (0-1)  Genoa CFC
+         FC Südtirol              0-1 (0-0)  SSC Bari
+         Frosinone Calcio         2-0 (1-0)  Ascoli Calcio
+         Reggina 1914             1-0 (1-0)  Venezia FC
+  18.00  Pisa SC                  0-0  Cagliari Calcio
+  20.30  Palermo FC               0-0  Cosenza Calcio
+
+
+Matchday 33
+[Fri Apr/14]
+  20.30  Modena FC                1-1 (1-1)  Parma Calcio 1913
+[Sat Apr/15]
+  14.00  Ascoli Calcio            1-0 (0-0)  FC Südtirol
+         Benevento Calcio         1-1 (0-1)  Reggina 1914
+         Genoa CFC                2-0 (1-0)  AC Perugia Calcio
+         Cosenza Calcio           1-1 (1-1)  AS Cittadella
+         Venezia FC               3-2 (1-1)  Palermo FC
+         SPAL 2013 Ferrara        2-2 (1-1)  Brescia Calcio
+         SSC Bari                 2-2 (0-2)  Como 1907
+  16.15  Cagliari Calcio          0-0  Frosinone Calcio
+[Sun Apr/16]
+  16.15  Ternana Calcio           2-1 (0-1)  Pisa SC
+
+
+Matchday 34
+[Fri Apr/21]
+  20.30  Reggina 1914             1-2 (0-1)  Brescia Calcio
+[Sat Apr/22]
+  14.00  AC Perugia Calcio        0-0  Cosenza Calcio
+         AS Cittadella            0-1 (0-0)  Genoa CFC
+         Como 1907                1-1 (0-0)  Ascoli Calcio
+         Modena FC                0-0  SPAL 2013 Ferrara
+         Frosinone Calcio         0-0  FC Südtirol
+         Parma Calcio 1913        2-1 (0-1)  Cagliari Calcio
+  16.15  Palermo FC               1-1 (1-1)  Benevento Calcio
+[Sun Apr/23]
+  16.15  Ternana Calcio           1-4 (0-3)  Venezia FC
+         Pisa SC                  1-2 (1-1)  SSC Bari
+
+
+Matchday 35
+[Sun Apr/30]
+  16.15  SPAL 2013 Ferrara        1-1 (0-1)  AC Perugia Calcio
+         Cagliari Calcio          2-1 (1-1)  Ternana Calcio
+[Mon May/1]
+  12.30  Como 1907                1-1 (1-1)  Palermo FC
+  15.00  Ascoli Calcio            2-1 (0-0)  Pisa SC
+         Benevento Calcio         2-2 (0-2)  Parma Calcio 1913
+         Brescia Calcio           2-1 (0-0)  Cosenza Calcio
+         FC Südtirol              0-0  Genoa CFC
+         SSC Bari                 1-1 (0-0)  AS Cittadella
+  18.00  Venezia FC               5-0 (1-0)  Modena FC
+  20.30  Frosinone Calcio         3-1 (2-0)  Reggina 1914
+
+
+Matchday 36
+[Fri May/5]
+  20.30  AC Perugia Calcio        0-5 (0-3)  Cagliari Calcio
+[Sat May/6]
+  14.00  Pisa SC                  1-3 (1-1)  Frosinone Calcio
+         AS Cittadella            3-1 (1-1)  Benevento Calcio
+         Genoa CFC                2-1 (1-0)  Ascoli Calcio
+         Cosenza Calcio           1-1 (0-1)  Venezia FC
+         Modena FC                1-1 (0-1)  SSC Bari
+         Reggina 1914             2-1 (1-0)  Como 1907
+         Ternana Calcio           0-1 (0-1)  FC Südtirol
+  16.15  Palermo FC               2-1 (2-0)  SPAL 2013 Ferrara
+[Sun May/7]
+  16.15  Parma Calcio 1913        2-0 (2-0)  Brescia Calcio
+
+
+Matchday 37
+[Sat May/13]
+  14.00  Ascoli Calcio            1-1 (1-1)  Cosenza Calcio
+         Benevento Calcio         2-1 (2-1)  Modena FC
+         Brescia Calcio           1-1 (0-0)  Pisa SC
+         Cagliari Calcio          2-1 (1-1)  Palermo FC
+         Como 1907                3-1 (0-1)  Ternana Calcio
+         FC Südtirol              1-1 (0-0)  AS Cittadella
+         Venezia FC               3-2 (2-0)  AC Perugia Calcio
+         SPAL 2013 Ferrara        0-1 (0-0)  Parma Calcio 1913
+         SSC Bari                 1-0 (1-0)  Reggina 1914
+  16.15  Frosinone Calcio         3-2 (2-1)  Genoa CFC
+
+
+Matchday 38
+[Fri May/19]
+  20.30  AC Perugia Calcio        3-2 (0-1)  Benevento Calcio
+         Pisa SC                  1-2 (0-1)  SPAL 2013 Ferrara
+         AS Cittadella            0-0  Como 1907
+         Genoa CFC                4-3 (2-1)  SSC Bari
+         Cosenza Calcio           0-1 (0-1)  Cagliari Calcio
+         Modena FC                2-1 (2-0)  FC Südtirol
+         Palermo FC               2-2 (2-0)  Brescia Calcio
+         Parma Calcio 1913        2-1 (1-1)  Venezia FC
+         Reggina 1914             1-0 (0-0)  Ascoli Calcio
+         Ternana Calcio           2-3 (2-1)  Frosinone Calcio
+
+
+== Playout
+
+Final
+[Thu May/25]
+  20.30  Cosenza Calcio           1-0 (0-0)  Brescia Calcio
+[Thu Jun/1]
+  20.30  Brescia Calcio           0-3  Cosenza Calcio           [awarded]
+
+
+== Playoff
+
+Round 1
+[Fri May/26]
+  20.30  FC Südtirol              1-0 (0-0)  Reggina 1914
+[Sat May/27]
+  20.30  Cagliari Calcio          2-1 (2-0)  Venezia FC
+
+
+Semifinals
+[Mon May/29]
+  20.30  FC Südtirol              1-0 (0-0)  SSC Bari
+[Tue May/30]
+  20.30  Cagliari Calcio          3-2 (0-2)  Parma Calcio 1913
+[Fri Jun/2]
+  20.30  SSC Bari                 1-0 (1-0)  FC Südtirol
+[Sat Jun/3]
+  20.30  Parma Calcio 1913        0-0  Cagliari Calcio
+
+
+Final
+[Thu Jun/8]
+  20.30  Cagliari Calcio          1-1 (1-0)  SSC Bari
+[Sun Jun/11]
+  20.30  SSC Bari                 0-1 (0-0)  Cagliari Calcio

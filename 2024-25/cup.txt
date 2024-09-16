@@ -1,0 +1,69 @@
+= Coppa Italia 2024/25
+
+# Date       Sat Aug/3 2024 - Thu May/15 2025 (285d)
+# Teams      52
+# Matches    37
+
+
+
+Vorrunde
+[Sat Aug/3]
+  20.30  SEF Torres 1903          1-2 (0-2)  Mantova 1911 SSD
+  18.00  Carrarese Calcio         2-1 (0-0)  Calcio Catania
+[Sun Aug/4]
+  20.45  US Avellino              3-1 (2-1)  SS Juve Stabia
+  20.30  Cesena FC                3-1 (2-0)  Calcio Padova
+
+
+Round 1
+[Fri Aug/9]
+  18.30  Udinese Calcio           4-0 (1-0)  US Avellino
+  20.45  Genoa CFC                1-0 (0-0)  AC Reggiana 1919
+  21.15  AC Monza                 9-8 pen. (0-0)  FC Südtirol
+  18.00  Sassuolo Calcio          2-1 (1-0)  AS Cittadella
+[Sat Aug/10]
+  18.00  US Cremonese             5-4 pen. (1-1, 0-0)  SSC Bari
+  18.30  Hellas Verona            1-2 (0-1)  Cesena FC
+  20.45  Empoli FC                4-1 (1-1)  US Catanzaro
+  21.15  SSC Napoli               4-3 pen. (0-0)  Modena FC
+[Sun Aug/11]
+  18.30  Parma Calcio 1913        0-1 (0-1)  Palermo FC
+  20.45  Sampdoria                4-3 pen. (1-1, 1-1)  Como 1907
+  21.15  Torino FC                2-0 (1-0)  Cosenza Calcio
+  18.00  Brescia Calcio           3-1 (1-0)  Venezia FC
+[Mon Aug/12]
+  18.00  Frosinone Calcio         0-3 (0-2)  Pisa SC
+  18.30  US Lecce                 2-1 (1-0)  Mantova 1911 SSD
+  20.45  US Salernitana 1919      5-4 pen. (3-3, 0-2)  Spezia Calcio
+  21.15  Cagliari Calcio          3-1 (2-0)  Carrarese Calcio
+
+
+Round 2
+[Tue Sep/24]
+  18.30  Cagliari Calcio          -  US Cremonese
+  21.00  Torino FC                -  Empoli FC
+  16.00  US Lecce                 -  Sassuolo Calcio
+[Wed Sep/25]
+  18.30  Udinese Calcio           -  US Salernitana 1919
+  21.00  Genoa CFC                -  Sampdoria
+  16.00  Pisa SC                  -  Cesena FC
+[Thu Sep/26]
+  21.00  SSC Napoli               -  Palermo FC
+  18.30  AC Monza                 -  Brescia Calcio
+
+
+Round of 16
+[Wed Dec/4]
+  Juventus                 -  Cagliari / Cremona
+  ACF Fiorentina           -  Torino FC / Empoli
+  Bologna FC               -  Monza / Brescia
+  Atalanta                 -  Pisa / Cesena
+  AC Milan                 -  Lecce / Sassuolo
+  AS Roma                  -  Genoa CFC / Sampdoria
+  Lazio Roma               -  Napoli / Palermo
+  Inter                    -  Udine / Salerno
+
+
+Final
+[Thu May/15]
+  N.N.                     -  N.N.
