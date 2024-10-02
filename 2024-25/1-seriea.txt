@@ -72,36 +72,36 @@ Matchday 4
 
 Matchday 5
 [Fri Sep/20]
-  18.30  Cagliari Calcio          -  Empoli FC
-  20.45  Hellas Verona FC         -  Torino FC
+  18.30  Cagliari Calcio          0-2 (0-1)  Empoli FC
+  20.45  Hellas Verona FC         2-3 (1-2)  Torino FC
 [Sat Sep/21]
-  15.00  Venezia FC               -  Genoa CFC
-  18.00  Juventus FC              -  SSC Napoli
-  20.45  US Lecce                 -  Parma Calcio 1913
+  15.00  Venezia FC               2-0 (0-0)  Genoa CFC
+  18.00  Juventus FC              0-0  SSC Napoli
+  20.45  US Lecce                 2-2 (1-0)  Parma Calcio 1913
 [Sun Sep/22]
-  12.30  ACF Fiorentina           -  SS Lazio
-  15.00  AC Monza                 -  Bologna FC 1909
-  18.00  AS Roma                  -  Udinese Calcio
-  20.45  FC Internazionale Milano  -  AC Milan
-[Mon Sep/23]
-  20.45  Atalanta BC              -  Como 1907
+  12.30  ACF Fiorentina           2-1 (0-1)  SS Lazio
+  15.00  AC Monza                 1-2 (1-1)  Bologna FC 1909
+  18.00  AS Roma                  3-0 (1-0)  Udinese Calcio
+  20.45  FC Internazionale Milano  1-2 (1-1)  AC Milan
+[Tue Sep/24]
+  20.45  Atalanta BC              2-3 (1-0)  Como 1907
 
 
 Matchday 6
 [Fri Sep/27]
-  20.45  AC Milan                 -  US Lecce
+  20.45  AC Milan                 3-0 (3-0)  US Lecce
 [Sat Sep/28]
-  15.00  Udinese Calcio           -  FC Internazionale Milano
-  18.00  Genoa CFC                -  Juventus FC
-  20.45  Bologna FC 1909          -  Atalanta BC
+  15.00  Udinese Calcio           2-3 (1-2)  FC Internazionale Milano
+  18.00  Genoa CFC                0-3 (0-0)  Juventus FC
+  20.45  Bologna FC 1909          1-1 (0-0)  Atalanta BC
 [Sun Sep/29]
-  12.30  Torino FC                -  SS Lazio
-  15.00  Como 1907                -  Hellas Verona FC
-         AS Roma                  -  Venezia FC
-  18.00  Empoli FC                -  ACF Fiorentina
-  20.45  SSC Napoli               -  AC Monza
+  12.30  Torino FC                2-3 (0-1)  SS Lazio
+  15.00  Como 1907                3-2 (1-0)  Hellas Verona FC
+         AS Roma                  2-1 (0-1)  Venezia FC
+  18.00  Empoli FC                0-0  ACF Fiorentina
+  20.45  SSC Napoli               2-0 (2-0)  AC Monza
 [Mon Sep/30]
-  20.45  Parma Calcio 1913        -  Cagliari Calcio
+  20.45  Parma Calcio 1913        2-3 (0-1)  Cagliari Calcio
 
 
 Matchday 7
