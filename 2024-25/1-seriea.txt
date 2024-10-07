@@ -106,18 +106,18 @@ Matchday 6
 
 Matchday 7
 [Fri Oct/4]
-  18.30  SSC Napoli               -  Como 1907
-  20.45  Hellas Verona FC         -  Venezia FC
+  18.30  SSC Napoli               3-1 (1-1)  Como 1907
+  20.45  Hellas Verona FC         2-1 (1-1)  Venezia FC
 [Sat Oct/5]
-  15.00  Udinese Calcio           -  US Lecce
-  18.00  Atalanta BC              -  Genoa CFC
-  20.45  FC Internazionale Milano  -  Torino FC
+  15.00  Udinese Calcio           1-0 (0-0)  US Lecce
+  18.00  Atalanta BC              5-1 (1-0)  Genoa CFC
+  20.45  FC Internazionale Milano  3-2 (2-1)  Torino FC
 [Sun Oct/6]
-  12.30  Juventus FC              -  Cagliari Calcio
-  15.00  Bologna FC 1909          -  Parma Calcio 1913
-         SS Lazio                 -  Empoli FC
-  18.00  AC Monza                 -  AS Roma
-  20.45  ACF Fiorentina           -  AC Milan
+  12.30  Juventus FC              1-1 (1-0)  Cagliari Calcio
+  15.00  Bologna FC 1909          0-0  Parma Calcio 1913
+         SS Lazio                 2-1 (1-1)  Empoli FC
+  18.00  AC Monza                 1-1 (0-0)  AS Roma
+  20.45  ACF Fiorentina           2-1 (1-0)  AC Milan
 
 
 Matchday 8
@@ -145,11 +145,11 @@ Matchday 9
   18.00  Bologna FC 1909          -  AC Milan
   20.45  Atalanta BC              -  Hellas Verona FC
 [Sun Oct/27]
-  12.30  Parma Calcio 1913        -  Empoli FC
+  11.30  Parma Calcio 1913        -  Empoli FC
   15.00  SS Lazio                 -  Genoa CFC
          AC Monza                 -  Venezia FC
-  18.00  FC Internazionale Milano  -  Juventus FC
-  20.45  ACF Fiorentina           -  AS Roma
+  17.00  FC Internazionale Milano  -  Juventus FC
+  19.45  ACF Fiorentina           -  AS Roma
 
 
 Matchday 10
