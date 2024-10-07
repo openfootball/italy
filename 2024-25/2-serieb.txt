@@ -80,141 +80,151 @@ Matchday 5
 [Sun Sep/15]
   15.00  Cosenza Calcio           2-1 (1-0)  Sampdoria
          AC Reggiana 1919         1-3 (1-2)  FC Südtirol
-         US Salernitana 1919      2-3 (1-2)  Pisa SC
-         Carrarese Calcio         0-2 (0-0)  Sassuolo Calcio
+  17.30  US Salernitana 1919      2-3 (1-2)  Pisa SC
+  15.00  Carrarese Calcio         0-2 (0-0)  Sassuolo Calcio
 
 
 Matchday 6
 [Fri Sep/20]
-  20.30  US Catanzaro             -  US Cremonese
+  20.30  US Catanzaro             1-2 (1-1)  US Cremonese
 [Sat Sep/21]
-  15.00  Cosenza Calcio           -  Sassuolo Calcio
-         Palermo FC               -  Cesena FC
-         Pisa SC                  -  Brescia Calcio
-         AC Reggiana 1919         -  US Salernitana 1919
-         Sampdoria                -  FC Südtirol
-  18.00  Modena FC                -  SS Juve Stabia
+  15.00  Cosenza Calcio           0-1 (0-0)  Sassuolo Calcio
+         Palermo FC               0-0  Cesena FC
+         Pisa SC                  2-1 (1-0)  Brescia Calcio
+         AC Reggiana 1919         0-0  US Salernitana 1919
+         Sampdoria                1-0 (1-0)  FC Südtirol
+  18.00  Modena FC                3-0 (2-0)  SS Juve Stabia
 [Sun Sep/22]
-  15.00  Frosinone Calcio         -  SSC Bari
-         Mantova 1911 SSD         -  AS Cittadella
-         Spezia Calcio            -  Carrarese Calcio
+  15.00  Frosinone Calcio         0-3 (0-1)  SSC Bari
+         Mantova 1911 SSD         1-0 (0-0)  AS Cittadella
+         Spezia Calcio            4-2 (1-1)  Carrarese Calcio
 
 
 Matchday 7
 [Fri Sep/27]
-  20.30  AS Cittadella            -  Frosinone Calcio
+  20.30  AS Cittadella            1-2 (0-1)  Frosinone Calcio
 [Sat Sep/28]
-  15.00  Carrarese Calcio         -  AC Reggiana 1919
-         Sassuolo Calcio          -  Spezia Calcio
-         SSC Bari                 -  Cosenza Calcio
+  15.00  Carrarese Calcio         0-0  AC Reggiana 1919
+         Sassuolo Calcio          0-0  Spezia Calcio
+         SSC Bari                 1-1 (1-0)  Cosenza Calcio
 [Sun Sep/29]
-  15.00  SS Juve Stabia           -  Pisa SC
-         Modena FC                -  Sampdoria
-         US Salernitana 1919      -  US Catanzaro
-         Cesena FC                -  Mantova 1911 SSD
+  15.00  SS Juve Stabia           2-0 (1-0)  Pisa SC
+         Modena FC                1-3 (0-0)  Sampdoria
+         US Salernitana 1919      0-0  US Catanzaro
+         Cesena FC                4-2 (3-0)  Mantova 1911 SSD
 [Mon Sep/30]
-  19.30  FC Südtirol              -  Palermo FC
-  20.30  Brescia Calcio           -  US Cremonese
+  19.30  FC Südtirol              1-3 (0-1)  Palermo FC
+  20.30  Brescia Calcio           3-2 (3-0)  US Cremonese
 
 
 Matchday 8
 [Fri Oct/4]
-  20.30  Sampdoria                -  SS Juve Stabia
+  20.30  Sampdoria                1-2 (1-0)  SS Juve Stabia
 [Sat Oct/5]
-  15.00  Pisa SC                  -  Cesena FC
-         Sassuolo Calcio          -  AS Cittadella
-         Spezia Calcio            -  AC Reggiana 1919
-         Frosinone Calcio         -  Carrarese Calcio
+  15.00  Pisa SC                  3-1 (2-0)  Cesena FC
+         Sassuolo Calcio          6-1 (1-1)  AS Cittadella
+         Spezia Calcio            1-0 (1-0)  AC Reggiana 1919
+         Frosinone Calcio         0-1 (0-0)  Carrarese Calcio
 [Sun Oct/6]
-  15.00  US Catanzaro             -  Modena FC
-         Cosenza Calcio           -  FC Südtirol
-         US Cremonese             -  SSC Bari
-         Mantova 1911 SSD         -  Brescia Calcio
-         Palermo FC               -  US Salernitana 1919
+  15.00  US Catanzaro             2-2 (1-1)  Modena FC
+         Cosenza Calcio           0-2 (0-1)  FC Südtirol
+         US Cremonese             1-1 (0-1)  SSC Bari
+         Mantova 1911 SSD         1-1 (0-0)  Brescia Calcio
+         Palermo FC               0-1 (0-1)  US Salernitana 1919
 
 
 Matchday 9
+[Fri Oct/18]
+  20.30  SSC Bari                 -  US Catanzaro
 [Sat Oct/19]
-  SSC Bari                 -  US Catanzaro
-  Brescia Calcio           -  Sassuolo Calcio
-  Carrarese Calcio         -  Mantova 1911 SSD
-  Cesena FC                -  Sampdoria
-  AS Cittadella            -  Cosenza Calcio
-  SS Juve Stabia           -  US Cremonese
-  Modena FC                -  Palermo FC
-  AC Reggiana 1919         -  Frosinone Calcio
-  US Salernitana 1919      -  Spezia Calcio
-  FC Südtirol              -  Pisa SC
+  15.00  Modena FC                -  Palermo FC
+         US Salernitana 1919      -  Spezia Calcio
+         FC Südtirol              -  Pisa SC
+  17.15  Brescia Calcio           -  Sassuolo Calcio
+  15.00  AS Cittadella            -  Cosenza Calcio
+[Sun Oct/20]
+  15.00  Carrarese Calcio         -  Mantova 1911 SSD
+         SS Juve Stabia           -  US Cremonese
+         AC Reggiana 1919         -  Frosinone Calcio
+  17.15  Cesena FC                -  Sampdoria
 
 
 Matchday 10
+[Fri Oct/25]
+  20.30  Spezia Calcio            -  SSC Bari
 [Sat Oct/26]
-  Carrarese Calcio         -  AS Cittadella
-  US Catanzaro             -  FC Südtirol
-  Cesena FC                -  Brescia Calcio
-  Cosenza Calcio           -  SS Juve Stabia
-  US Cremonese             -  US Salernitana 1919
-  Frosinone Calcio         -  Pisa SC
-  Palermo FC               -  AC Reggiana 1919
-  Sampdoria                -  Mantova 1911 SSD
-  Sassuolo Calcio          -  Modena FC
-  Spezia Calcio            -  SSC Bari
+  15.00  Cesena FC                -  Brescia Calcio
+         Cosenza Calcio           -  SS Juve Stabia
+         US Cremonese             -  US Salernitana 1919
+         Palermo FC               -  AC Reggiana 1919
+  17.15  Carrarese Calcio         -  AS Cittadella
+         Sassuolo Calcio          -  Modena FC
+[Sun Oct/27]
+  15.00  Frosinone Calcio         -  Pisa SC
+         Sampdoria                -  Mantova 1911 SSD
+         US Catanzaro             -  FC Südtirol
 
 
 Matchday 11
 [Tue Oct/29]
-  SSC Bari                 -  Carrarese Calcio
-  Brescia Calcio           -  Spezia Calcio
-  AS Cittadella            -  Sampdoria
-  SS Juve Stabia           -  Sassuolo Calcio
-  Mantova 1911 SSD         -  Palermo FC
-  Modena FC                -  US Cremonese
-  Pisa SC                  -  US Catanzaro
-  AC Reggiana 1919         -  Cosenza Calcio
-  US Salernitana 1919      -  Cesena FC
-  FC Südtirol              -  Frosinone Calcio
+  20.30  SSC Bari                 -  Carrarese Calcio
+         Brescia Calcio           -  Spezia Calcio
+         SS Juve Stabia           -  Sassuolo Calcio
+         Modena FC                -  US Cremonese
+         AC Reggiana 1919         -  Cosenza Calcio
+         US Salernitana 1919      -  Cesena FC
+[Wed Oct/30]
+  20.30  AS Cittadella            -  Sampdoria
+         Mantova 1911 SSD         -  Palermo FC
+         Pisa SC                  -  US Catanzaro
+  19.30  FC Südtirol              -  Frosinone Calcio
 
 
 Matchday 12
 [Sat Nov/2]
-  SSC Bari                 -  AC Reggiana 1919
-  Carrarese Calcio         -  SS Juve Stabia
-  US Catanzaro             -  Frosinone Calcio
-  Cesena FC                -  FC Südtirol
-  Cosenza Calcio           -  US Salernitana 1919
-  US Cremonese             -  Pisa SC
-  Palermo FC               -  AS Cittadella
-  Sampdoria                -  Brescia Calcio
-  Sassuolo Calcio          -  Mantova 1911 SSD
-  Spezia Calcio            -  Modena FC
+  15.00  Carrarese Calcio         -  SS Juve Stabia
+         Spezia Calcio            -  Modena FC
+  17.15  Cosenza Calcio           -  US Salernitana 1919
+  15.00  SSC Bari                 -  AC Reggiana 1919
+[Sun Nov/3]
+  15.00  US Catanzaro             -  Frosinone Calcio
+         Cesena FC                -  FC Südtirol
+         US Cremonese             -  Pisa SC
+         Palermo FC               -  AS Cittadella
+  17.15  Sampdoria                -  Brescia Calcio
+         Sassuolo Calcio          -  Mantova 1911 SSD
 
 
 Matchday 13
+[Fri Nov/8]
+  20.30  Frosinone Calcio         -  Palermo FC
 [Sat Nov/9]
-  Brescia Calcio           -  Cosenza Calcio
-  AS Cittadella            -  Cesena FC
-  Frosinone Calcio         -  Palermo FC
-  SS Juve Stabia           -  Spezia Calcio
-  Mantova 1911 SSD         -  US Cremonese
-  Modena FC                -  Carrarese Calcio
-  Pisa SC                  -  Sampdoria
-  AC Reggiana 1919         -  US Catanzaro
-  US Salernitana 1919      -  SSC Bari
-  FC Südtirol              -  Sassuolo Calcio
+  15.00  Brescia Calcio           -  Cosenza Calcio
+         Modena FC                -  Carrarese Calcio
+         Pisa SC                  -  Sampdoria
+         FC Südtirol              -  Sassuolo Calcio
+  17.15  Mantova 1911 SSD         -  US Cremonese
+[Sun Nov/10]
+  15.00  SS Juve Stabia           -  Spezia Calcio
+         AC Reggiana 1919         -  US Catanzaro
+  17.15  US Salernitana 1919      -  SSC Bari
+  15.00  AS Cittadella            -  Cesena FC
 
 
 Matchday 14
+[Fri Nov/22]
+  20.30  Cosenza Calcio           -  Modena FC
 [Sat Nov/23]
-  SSC Bari                 -  AS Cittadella
-  Carrarese Calcio         -  Pisa SC
-  US Catanzaro             -  Mantova 1911 SSD
-  Cesena FC                -  AC Reggiana 1919
-  Cosenza Calcio           -  Modena FC
-  US Cremonese             -  Frosinone Calcio
-  SS Juve Stabia           -  Brescia Calcio
-  Palermo FC               -  Sampdoria
-  Sassuolo Calcio          -  US Salernitana 1919
-  Spezia Calcio            -  FC Südtirol
+  15.00  Carrarese Calcio         -  Pisa SC
+         US Catanzaro             -  Mantova 1911 SSD
+         SS Juve Stabia           -  Brescia Calcio
+         Sassuolo Calcio          -  US Salernitana 1919
+  17.15  Cesena FC                -  AC Reggiana 1919
+[Sun Nov/24]
+  15.00  US Cremonese             -  Frosinone Calcio
+         Spezia Calcio            -  FC Südtirol
+  17.15  Palermo FC               -  Sampdoria
+  15.00  SSC Bari                 -  AS Cittadella
 
 
 Matchday 15
