@@ -133,23 +133,23 @@ Matchday 8
   18.00  Cagliari Calcio          3-2 (1-1)  Torino FC
   20.45  AS Roma                  0-1 (0-0)  FC Internazionale Milano
 [Mon Oct/21]
-  20.45  Hellas Verona FC         -  AC Monza
+  20.45  Hellas Verona FC         0-3 (0-1)  AC Monza
 
 
 Matchday 9
 [Fri Oct/25]
-  18.30  Udinese Calcio           -  Cagliari Calcio
-  20.45  Torino FC                -  Como 1907
+  18.30  Udinese Calcio           2-0 (1-0)  Cagliari Calcio
+  20.45  Torino FC                1-0 (0-0)  Como 1907
 [Sat Oct/26]
-  15.00  SSC Napoli               -  US Lecce
-  18.00  Bologna FC 1909          -  AC Milan
-  20.45  Atalanta BC              -  Hellas Verona FC
+         Bologna FC 1909          -  AC Milan                 [postponed]
+  15.00  SSC Napoli               1-0 (0-0)  US Lecce
+  20.45  Atalanta BC              6-1 (5-1)  Hellas Verona FC
 [Sun Oct/27]
-  12.30  Parma Calcio 1913        -  Empoli FC
-  15.00  SS Lazio                 -  Genoa CFC
-         AC Monza                 -  Venezia FC
-  18.00  FC Internazionale Milano  -  Juventus FC
-  20.45  ACF Fiorentina           -  AS Roma
+  12.30  Parma Calcio 1913        1-1 (0-1)  Empoli FC
+  15.00  SS Lazio                 3-0 (1-0)  Genoa CFC
+         AC Monza                 2-2 (2-2)  Venezia FC
+  18.00  FC Internazionale Milano  4-4 (3-2)  Juventus FC
+  20.45  ACF Fiorentina           5-1 (3-1)  AS Roma
 
 
 Matchday 10
@@ -188,9 +188,9 @@ Matchday 12
 [Thu Nov/7]
   20.45  Genoa CFC                -  Como 1907
 [Fri Nov/8]
-  18.30  Venezia FC               -  Parma Calcio 1913
   20.45  US Lecce                 -  Empoli FC
 [Sat Nov/9]
+  15.00  Venezia FC               -  Parma Calcio 1913
   18.00  Cagliari Calcio          -  AC Milan
   20.45  Juventus FC              -  Torino FC
 [Sun Nov/10]
@@ -198,7 +198,7 @@ Matchday 12
   15.00  ACF Fiorentina           -  Hellas Verona FC
          AS Roma                  -  Bologna FC 1909
   18.00  AC Monza                 -  SS Lazio
-  19.45  FC Internazionale Milano  -  SSC Napoli
+  20.45  FC Internazionale Milano  -  SSC Napoli
 
 
 Matchday 13
