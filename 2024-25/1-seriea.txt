@@ -154,33 +154,33 @@ Matchday 9
 
 Matchday 10
 [Tue Oct/29]
-  18.30  Cagliari Calcio          -  Bologna FC 1909
-         US Lecce                 -  Hellas Verona FC
-  20.45  AC Milan                 -  SSC Napoli
+  18.30  Cagliari Calcio          0-2 (0-1)  Bologna FC 1909
+         US Lecce                 1-0 (0-0)  Hellas Verona FC
+  20.45  AC Milan                 0-2 (0-2)  SSC Napoli
 [Wed Oct/30]
-  18.30  Empoli FC                -  FC Internazionale Milano
-         Venezia FC               -  Udinese Calcio
-  20.45  Atalanta BC              -  AC Monza
-         Juventus FC              -  Parma Calcio 1913
+  18.30  Empoli FC                0-3 (0-0)  FC Internazionale Milano
+         Venezia FC               3-2 (1-2)  Udinese Calcio
+  20.45  Atalanta BC              2-0 (0-0)  AC Monza
+         Juventus FC              2-2 (1-2)  Parma Calcio 1913
 [Thu Oct/31]
-  18.30  Genoa CFC                -  ACF Fiorentina
-  20.45  Como 1907                -  SS Lazio
-         AS Roma                  -  Torino FC
+  18.30  Genoa CFC                0-1 (0-0)  ACF Fiorentina
+  20.45  Como 1907                1-5 (0-2)  SS Lazio
+         AS Roma                  1-0 (1-0)  Torino FC
 
 
 Matchday 11
 [Sat Nov/2]
-  15.00  Bologna FC 1909          -  US Lecce
-  18.00  Udinese Calcio           -  Juventus FC
-  20.45  AC Monza                 -  AC Milan
+  15.00  Bologna FC 1909          1-0 (0-0)  US Lecce
+  18.00  Udinese Calcio           0-2 (0-2)  Juventus FC
+  20.45  AC Monza                 0-1 (0-1)  AC Milan
 [Sun Nov/3]
-  12.30  SSC Napoli               -  Atalanta BC
-  15.00  Torino FC                -  ACF Fiorentina
-  18.00  Hellas Verona FC         -  AS Roma
-  20.45  FC Internazionale Milano  -  Venezia FC
+  12.30  SSC Napoli               0-3 (0-2)  Atalanta BC
+  15.00  Torino FC                0-1 (0-1)  ACF Fiorentina
+  18.00  Hellas Verona FC         3-2 (2-1)  AS Roma
+  20.45  FC Internazionale Milano  1-0 (0-0)  Venezia FC
 [Mon Nov/4]
-  18.30  Empoli FC                -  Como 1907
-         Parma Calcio 1913        -  Genoa CFC
+  18.30  Empoli FC                1-0 (0-0)  Como 1907
+         Parma Calcio 1913        0-1 (0-0)  Genoa CFC
   20.45  SS Lazio                 -  Cagliari Calcio
 
 
