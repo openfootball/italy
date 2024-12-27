@@ -203,86 +203,86 @@ Matchday 12
 
 Matchday 13
 [Sat Nov/23]
-  15.00  Hellas Verona FC         -  FC Internazionale Milano
-  18.00  AC Milan                 -  Juventus FC
-  20.45  Parma Calcio 1913        -  Atalanta BC
+  15.00  Hellas Verona FC         0-5 (0-5)  FC Internazionale Milano
+  18.00  AC Milan                 0-0  Juventus FC
+  20.45  Parma Calcio 1913        1-3 (0-2)  Atalanta BC
 [Sun Nov/24]
-  12.30  Genoa CFC                -  Cagliari Calcio
-  15.00  Como 1907                -  ACF Fiorentina
-         Torino FC                -  AC Monza
-  18.00  SSC Napoli               -  AS Roma
-  20.45  SS Lazio                 -  Bologna FC 1909
+  12.30  Genoa CFC                2-2 (1-1)  Cagliari Calcio
+  15.00  Como 1907                0-2 (0-1)  ACF Fiorentina
+         Torino FC                1-1 (0-0)  AC Monza
+  18.00  SSC Napoli               1-0 (0-0)  AS Roma
+  20.45  SS Lazio                 3-0 (0-0)  Bologna FC 1909
 [Mon Nov/25]
-  18.30  Empoli FC                -  Udinese Calcio
-  20.45  Venezia FC               -  US Lecce
+  18.30  Empoli FC                1-1 (1-0)  Udinese Calcio
+  20.45  Venezia FC               0-1 (0-0)  US Lecce
 
 
 Matchday 14
 [Fri Nov/29]
-  20.45  Cagliari Calcio          -  Hellas Verona FC
+  20.45  Cagliari Calcio          1-0 (0-0)  Hellas Verona FC
 [Sat Nov/30]
-  15.00  Como 1907                -  AC Monza
-  18.00  AC Milan                 -  Empoli FC
-  20.45  Bologna FC 1909          -  Venezia FC
+  15.00  Como 1907                1-1 (1-0)  AC Monza
+  18.00  AC Milan                 3-0 (2-0)  Empoli FC
+  20.45  Bologna FC 1909          3-0 (1-0)  Venezia FC
 [Sun Dec/1]
-  12.30  Udinese Calcio           -  Genoa CFC
-  15.00  Parma Calcio 1913        -  SS Lazio
-         Torino FC                -  SSC Napoli
-  18.00  ACF Fiorentina           -  FC Internazionale Milano
-  20.45  US Lecce                 -  Juventus FC
+  12.30  Udinese Calcio           0-2 (0-1)  Genoa CFC
+  15.00  Parma Calcio 1913        3-1 (1-0)  SS Lazio
+         Torino FC                0-1 (0-1)  SSC Napoli
+  18.00  ACF Fiorentina           -  FC Internazionale Milano  [cancelled]
+  20.45  US Lecce                 1-1 (0-0)  Juventus FC
 [Mon Dec/2]
-  20.45  AS Roma                  -  Atalanta BC
+  20.45  AS Roma                  0-2 (0-0)  Atalanta BC
 
 
 Matchday 15
 [Fri Dec/6]
-  18.30  FC Internazionale Milano  -  Parma Calcio 1913
-  20.45  Atalanta BC              -  AC Milan
+  18.30  FC Internazionale Milano  3-1 (1-0)  Parma Calcio 1913
+  20.45  Atalanta BC              2-1 (1-1)  AC Milan
 [Sat Dec/7]
-  15.00  Genoa CFC                -  Torino FC
-  18.00  Juventus FC              -  Bologna FC 1909
-  20.45  AS Roma                  -  US Lecce
+  15.00  Genoa CFC                0-0  Torino FC
+  18.00  Juventus FC              2-2 (0-1)  Bologna FC 1909
+  20.45  AS Roma                  4-1 (1-1)  US Lecce
 [Sun Dec/8]
-  12.30  ACF Fiorentina           -  Cagliari Calcio
-  15.00  Hellas Verona FC         -  Empoli FC
-  18.00  Venezia FC               -  Como 1907
-  20.45  SSC Napoli               -  SS Lazio
+  12.30  ACF Fiorentina           1-0 (1-0)  Cagliari Calcio
+  15.00  Hellas Verona FC         1-4 (1-4)  Empoli FC
+  18.00  Venezia FC               2-2 (1-0)  Como 1907
+  20.45  SSC Napoli               0-1 (0-0)  SS Lazio
 [Mon Dec/9]
-  20.45  AC Monza                 -  Udinese Calcio
+  20.45  AC Monza                 1-2 (0-1)  Udinese Calcio
 
 
 Matchday 16
 [Fri Dec/13]
-  20.45  Empoli FC                -  Torino FC
+  20.45  Empoli FC                0-1 (0-0)  Torino FC
 [Sat Dec/14]
-  15.00  Cagliari Calcio          -  Atalanta BC
-  18.00  Udinese Calcio           -  SSC Napoli
-  20.45  Juventus FC              -  Venezia FC
+  15.00  Cagliari Calcio          0-1 (0-0)  Atalanta BC
+  18.00  Udinese Calcio           1-3 (1-0)  SSC Napoli
+  20.45  Juventus FC              2-2 (1-0)  Venezia FC
 [Sun Dec/15]
-  12.30  US Lecce                 -  AC Monza
-  15.00  Bologna FC 1909          -  ACF Fiorentina
-         Parma Calcio 1913        -  Hellas Verona FC
-  18.00  Como 1907                -  AS Roma
-  20.45  AC Milan                 -  Genoa CFC
+  12.30  US Lecce                 2-1 (2-1)  AC Monza
+  15.00  Bologna FC 1909          1-0 (0-0)  ACF Fiorentina
+         Parma Calcio 1913        2-3 (1-1)  Hellas Verona FC
+  18.00  Como 1907                2-0 (0-0)  AS Roma
+  20.45  AC Milan                 0-0  Genoa CFC
 [Mon Dec/16]
-  20.45  SS Lazio                 -  FC Internazionale Milano
+  20.45  SS Lazio                 0-6 (0-2)  FC Internazionale Milano
 
 
 Matchday 17
 [Fri Dec/20]
-  20.45  Hellas Verona FC         -  AC Milan
+  20.45  Hellas Verona FC         0-1 (0-0)  AC Milan
 [Sat Dec/21]
-  15.00  Torino FC                -  Bologna FC 1909
-  18.00  Genoa CFC                -  SSC Napoli
-  20.45  US Lecce                 -  SS Lazio
+  15.00  Torino FC                0-2 (0-0)  Bologna FC 1909
+  18.00  Genoa CFC                1-2 (0-2)  SSC Napoli
+  20.45  US Lecce                 1-2 (0-1)  SS Lazio
 [Sun Dec/22]
-  12.30  AS Roma                  -  Parma Calcio 1913
-  15.00  Venezia FC               -  Cagliari Calcio
-  18.00  Atalanta BC              -  Empoli FC
-  20.45  AC Monza                 -  Juventus FC
+  12.30  AS Roma                  5-0 (2-0)  Parma Calcio 1913
+  15.00  Venezia FC               2-1 (1-0)  Cagliari Calcio
+  18.00  Atalanta BC              3-2 (2-1)  Empoli FC
+  20.45  AC Monza                 1-2 (1-2)  Juventus FC
 [Mon Dec/23]
-  18.30  ACF Fiorentina           -  Udinese Calcio
-  20.45  FC Internazionale Milano  -  Como 1907
+  18.30  ACF Fiorentina           1-2 (1-0)  Udinese Calcio
+  20.45  FC Internazionale Milano  2-0 (0-0)  Como 1907
 
 
 Matchday 18
@@ -339,45 +339,54 @@ Matchday 19
 
 
 Matchday 21
+[Fri Jan/17]
+  20.45  AS Roma                  -  Genoa CFC
+[Sat Jan/18]
+  15.00  Bologna FC 1909          -  AC Monza
+  18.00  Juventus FC              -  AC Milan
+  20.45  Atalanta BC              -  SSC Napoli
 [Sun Jan/19]
-         Atalanta BC              -  SSC Napoli
-         Bologna FC 1909          -  AC Monza
-         Cagliari Calcio          -  US Lecce
-         Como 1907                -  Udinese Calcio
-         ACF Fiorentina           -  Torino FC
-         Hellas Verona FC         -  SS Lazio
-         FC Internazionale Milano  -  Empoli FC
-         Juventus FC              -  AC Milan
+  12.30  ACF Fiorentina           -  Torino FC
+  15.00  Cagliari Calcio          -  US Lecce
          Parma Calcio 1913        -  Venezia FC
-         AS Roma                  -  Genoa CFC
+  18.00  Hellas Verona FC         -  SS Lazio
+  20.45  FC Internazionale Milano  -  Empoli FC
+[Mon Jan/20]
+  20.45  Como 1907                -  Udinese Calcio
 
 
 Matchday 22
+[Fri Jan/24]
+  20.45  Torino FC                -  Cagliari Calcio
+[Sat Jan/25]
+  15.00  Como 1907                -  Atalanta BC
+  18.00  SSC Napoli               -  Juventus FC
+  20.45  Empoli FC                -  Bologna FC 1909
 [Sun Jan/26]
-         Como 1907                -  Atalanta BC
-         Empoli FC                -  Bologna FC 1909
-         Genoa CFC                -  AC Monza
-         SS Lazio                 -  ACF Fiorentina
-         US Lecce                 -  FC Internazionale Milano
-         AC Milan                 -  Parma Calcio 1913
-         SSC Napoli               -  Juventus FC
-         Torino FC                -  Cagliari Calcio
-         Udinese Calcio           -  AS Roma
-         Venezia FC               -  Hellas Verona FC
+  12.30  AC Milan                 -  Parma Calcio 1913
+  15.00  Udinese Calcio           -  AS Roma
+  18.00  US Lecce                 -  FC Internazionale Milano
+  20.45  SS Lazio                 -  ACF Fiorentina
+[Mon Jan/27]
+  18.30  Venezia FC               -  Hellas Verona FC
+  20.45  Genoa CFC                -  AC Monza
 
 
 Matchday 23
-[Sun Feb/2]
-         Atalanta BC              -  Torino FC
-         Bologna FC 1909          -  Como 1907
-         Cagliari Calcio          -  SS Lazio
-         ACF Fiorentina           -  Genoa CFC
-         Juventus FC              -  Empoli FC
-         AC Milan                 -  FC Internazionale Milano
-         AC Monza                 -  Hellas Verona FC
-         Parma Calcio 1913        -  US Lecce
-         AS Roma                  -  SSC Napoli
+[Fri Jan/31]
+  20.45  Parma Calcio 1913        -  US Lecce
+[Sat Feb/1]
+  15.00  AC Monza                 -  Hellas Verona FC
          Udinese Calcio           -  Venezia FC
+  18.00  Atalanta BC              -  Torino FC
+  20.45  Bologna FC 1909          -  Como 1907
+[Sun Feb/2]
+  12.30  Juventus FC              -  Empoli FC
+  15.00  ACF Fiorentina           -  Genoa CFC
+  18.00  AC Milan                 -  FC Internazionale Milano
+  20.45  AS Roma                  -  SSC Napoli
+[Mon Feb/3]
+  20.45  Cagliari Calcio          -  SS Lazio
 
 
 Matchday 24
