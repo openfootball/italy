@@ -287,18 +287,18 @@ Matchday 17
 
 Matchday 18
 [Sat Dec/28]
-  15.00  Empoli FC                -  Genoa CFC
-         Parma Calcio 1913        -  AC Monza
-  18.00  Cagliari Calcio          -  FC Internazionale Milano
-  20.45  SS Lazio                 -  Atalanta BC
+  15.00  Empoli FC                1-2 (0-0)  Genoa CFC
+         Parma Calcio 1913        2-1 (0-0)  AC Monza
+  18.00  Cagliari Calcio          0-3 (0-0)  FC Internazionale Milano
+  20.45  SS Lazio                 1-1 (1-0)  Atalanta BC
 [Sun Dec/29]
-  12.30  Udinese Calcio           -  Torino FC
-  15.00  SSC Napoli               -  Venezia FC
-  18.00  Juventus FC              -  ACF Fiorentina
-  20.45  AC Milan                 -  AS Roma
+  12.30  Udinese Calcio           2-2 (1-0)  Torino FC
+  15.00  SSC Napoli               1-0 (0-0)  Venezia FC
+  18.00  Juventus FC              2-2 (1-1)  ACF Fiorentina
+  20.45  AC Milan                 1-1 (1-1)  AS Roma
 [Mon Dec/30]
-  18.30  Como 1907                -  US Lecce
-  20.45  Bologna FC 1909          -  Hellas Verona FC
+  18.30  Como 1907                2-0 (0-0)  US Lecce
+  20.45  Bologna FC 1909          2-3 (1-2)  Hellas Verona FC
 
 
 Matchday 19
