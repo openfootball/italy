@@ -303,14 +303,14 @@ Matchday 18
 
 Matchday 19
 [Sat Jan/4]
-  15.00  Venezia FC               -  Empoli FC
-  18.00  ACF Fiorentina           -  SSC Napoli
-  20.45  Hellas Verona FC         -  Udinese Calcio
+  15.00  Venezia FC               1-1 (1-1)  Empoli FC
+  18.00  ACF Fiorentina           0-3 (0-1)  SSC Napoli
+  20.45  Hellas Verona FC         0-0  Udinese Calcio
 [Sun Jan/5]
-  12.30  AC Monza                 -  Cagliari Calcio
-  15.00  US Lecce                 -  Genoa CFC
-  18.00  Torino FC                -  Parma Calcio 1913
-  20.45  AS Roma                  -  SS Lazio
+  12.30  AC Monza                 1-2 (1-1)  Cagliari Calcio
+  15.00  US Lecce                 0-0  Genoa CFC
+  18.00  Torino FC                0-0  Parma Calcio 1913
+  20.45  AS Roma                  2-0 (2-0)  SS Lazio
 
 
 Matchday 20
