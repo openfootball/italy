@@ -315,17 +315,17 @@ Matchday 19
 
 Matchday 20
 [Fri Jan/10]
-  20.45  SS Lazio                 -  Como 1907
+  20.45  SS Lazio                 1-1 (1-0)  Como 1907
 [Sat Jan/11]
-  15.00  Empoli FC                -  US Lecce
-         Udinese Calcio           -  Atalanta BC
-  18.00  Torino FC                -  Juventus FC
-  20.45  AC Milan                 -  Cagliari Calcio
+  15.00  Empoli FC                1-3 (0-2)  US Lecce
+         Udinese Calcio           0-0  Atalanta BC
+  18.00  Torino FC                1-1 (1-1)  Juventus FC
+  20.45  AC Milan                 1-1 (0-0)  Cagliari Calcio
 [Sun Jan/12]
-  12.30  Genoa CFC                -  Parma Calcio 1913
-  15.00  Venezia FC               -  FC Internazionale Milano
-  18.00  Bologna FC 1909          -  AS Roma
-  20.45  SSC Napoli               -  Hellas Verona FC
+  12.30  Genoa CFC                1-0 (0-0)  Parma Calcio 1913
+  15.00  Venezia FC               0-1 (0-1)  FC Internazionale Milano
+  18.00  Bologna FC 1909          2-2 (0-0)  AS Roma
+  20.45  SSC Napoli               2-0 (1-0)  Hellas Verona FC
 [Mon Jan/13]
   20.45  AC Monza                 -  ACF Fiorentina
 
