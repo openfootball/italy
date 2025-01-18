@@ -327,23 +327,23 @@ Matchday 20
   18.00  Bologna FC 1909          2-2 (0-0)  AS Roma
   20.45  SSC Napoli               2-0 (1-0)  Hellas Verona FC
 [Mon Jan/13]
-  20.45  AC Monza                 -  ACF Fiorentina
+  20.45  AC Monza                 2-1 (1-0)  ACF Fiorentina
 
 
 Matchday 19
 [Tue Jan/14]
-  18.30  Como 1907                -  AC Milan
-  20.45  Atalanta BC              -  Juventus FC
+  18.30  Como 1907                1-2 (0-0)  AC Milan
+  20.45  Atalanta BC              1-1 (0-0)  Juventus FC
 [Wed Jan/15]
-  20.45  FC Internazionale Milano  -  Bologna FC 1909
+  20.45  FC Internazionale Milano  2-2 (2-1)  Bologna FC 1909
 
 
 Matchday 21
 [Fri Jan/17]
-  20.45  AS Roma                  -  Genoa CFC
+  20.45  AS Roma                  3-1 (1-1)  Genoa CFC
 [Sat Jan/18]
-  15.00  Bologna FC 1909          -  AC Monza
-  18.00  Juventus FC              -  AC Milan
+  15.00  Bologna FC 1909          3-1 (2-1)  AC Monza
+  18.00  Juventus FC              2-0 (0-0)  AC Milan
   20.45  Atalanta BC              -  SSC Napoli
 [Sun Jan/19]
   12.30  ACF Fiorentina           -  Torino FC
