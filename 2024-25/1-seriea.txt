@@ -344,15 +344,15 @@ Matchday 21
 [Sat Jan/18]
   15.00  Bologna FC 1909          3-1 (2-1)  AC Monza
   18.00  Juventus FC              2-0 (0-0)  AC Milan
-  20.45  Atalanta BC              -  SSC Napoli
+  20.45  Atalanta BC              2-3 (1-2)  SSC Napoli
 [Sun Jan/19]
-  12.30  ACF Fiorentina           -  Torino FC
-  15.00  Cagliari Calcio          -  US Lecce
-         Parma Calcio 1913        -  Venezia FC
-  18.00  Hellas Verona FC         -  SS Lazio
-  20.45  FC Internazionale Milano  -  Empoli FC
+  12.30  ACF Fiorentina           1-1 (1-0)  Torino FC
+  15.00  Cagliari Calcio          4-1 (0-1)  US Lecce
+         Parma Calcio 1913        1-1 (0-1)  Venezia FC
+  18.00  Hellas Verona FC         0-3 (0-2)  SS Lazio
+  20.45  FC Internazionale Milano  3-1 (0-0)  Empoli FC
 [Mon Jan/20]
-  20.45  Como 1907                -  Udinese Calcio
+  20.45  Como 1907                4-1 (2-0)  Udinese Calcio
 
 
 Matchday 22
