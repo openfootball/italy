@@ -357,19 +357,19 @@ Matchday 21
 
 Matchday 22
 [Fri Jan/24]
-  20.45  Torino FC                -  Cagliari Calcio
+  20.45  Torino FC                2-0 (1-0)  Cagliari Calcio
 [Sat Jan/25]
-  15.00  Como 1907                -  Atalanta BC
-  18.00  SSC Napoli               -  Juventus FC
-  20.45  Empoli FC                -  Bologna FC 1909
+  15.00  Como 1907                1-2 (1-0)  Atalanta BC
+  18.00  SSC Napoli               2-1 (0-1)  Juventus FC
+  20.45  Empoli FC                1-1 (1-1)  Bologna FC 1909
 [Sun Jan/26]
-  12.30  AC Milan                 -  Parma Calcio 1913
-  15.00  Udinese Calcio           -  AS Roma
-  18.00  US Lecce                 -  FC Internazionale Milano
-  20.45  SS Lazio                 -  ACF Fiorentina
+  12.30  AC Milan                 3-2 (1-1)  Parma Calcio 1913
+  15.00  Udinese Calcio           1-2 (1-0)  AS Roma
+  18.00  US Lecce                 0-4 (0-2)  FC Internazionale Milano
+  20.45  SS Lazio                 1-2 (0-2)  ACF Fiorentina
 [Mon Jan/27]
-  18.30  Venezia FC               -  Hellas Verona FC
-  20.45  Genoa CFC                -  AC Monza
+  18.30  Venezia FC               1-1 (1-0)  Hellas Verona FC
+  20.45  Genoa CFC                2-0 (0-0)  AC Monza
 
 
 Matchday 23
