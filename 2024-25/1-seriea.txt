@@ -374,61 +374,69 @@ Matchday 22
 
 Matchday 23
 [Fri Jan/31]
-  20.45  Parma Calcio 1913        -  US Lecce
+  20.45  Parma Calcio 1913        1-3 (1-1)  US Lecce
 [Sat Feb/1]
-  15.00  AC Monza                 -  Hellas Verona FC
-         Udinese Calcio           -  Venezia FC
-  18.00  Atalanta BC              -  Torino FC
-  20.45  Bologna FC 1909          -  Como 1907
+  15.00  AC Monza                 0-1 (0-1)  Hellas Verona FC
+         Udinese Calcio           3-2 (0-0)  Venezia FC
+  18.00  Atalanta BC              1-1 (1-1)  Torino FC
+  20.45  Bologna FC 1909          2-0 (1-0)  Como 1907
 [Sun Feb/2]
-  12.30  Juventus FC              -  Empoli FC
-  15.00  ACF Fiorentina           -  Genoa CFC
-  18.00  AC Milan                 -  FC Internazionale Milano
-  20.45  AS Roma                  -  SSC Napoli
+  12.30  Juventus FC              4-1 (0-1)  Empoli FC
+  15.00  ACF Fiorentina           2-1 (2-0)  Genoa CFC
+  18.00  AC Milan                 1-1 (1-0)  FC Internazionale Milano
+  20.45  AS Roma                  1-1 (0-1)  SSC Napoli
 [Mon Feb/3]
   20.45  Cagliari Calcio          -  SS Lazio
 
 
 Matchday 24
+[Fri Feb/7]
+  20.45  Como 1907                -  Juventus FC
+[Sat Feb/8]
+  15.00  Hellas Verona FC         -  Atalanta BC
+  18.00  Empoli FC                -  AC Milan
+  20.45  Torino FC                -  Genoa CFC
 [Sun Feb/9]
-         Cagliari Calcio          -  Parma Calcio 1913
-         Como 1907                -  Juventus FC
-         Empoli FC                -  AC Milan
-         Hellas Verona FC         -  Atalanta BC
-         FC Internazionale Milano  -  ACF Fiorentina
+  12.30  Venezia FC               -  AS Roma
+  15.00  Cagliari Calcio          -  Parma Calcio 1913
          SS Lazio                 -  AC Monza
-         US Lecce                 -  Bologna FC 1909
-         SSC Napoli               -  Udinese Calcio
-         Torino FC                -  Genoa CFC
-         Venezia FC               -  AS Roma
+  18.00  US Lecce                 -  Bologna FC 1909
+  20.45  SSC Napoli               -  Udinese Calcio
+[Mon Feb/10]
+  20.45  FC Internazionale Milano  -  ACF Fiorentina
 
 
 Matchday 25
+[Fri Feb/14]
+  20.45  Bologna FC 1909          -  Torino FC
+[Sat Feb/15]
+  15.00  Atalanta BC              -  Cagliari Calcio
+  18.00  SS Lazio                 -  SSC Napoli
+  20.45  AC Milan                 -  Hellas Verona FC
 [Sun Feb/16]
-         Atalanta BC              -  Cagliari Calcio
-         Bologna FC 1909          -  Torino FC
-         ACF Fiorentina           -  Como 1907
-         Genoa CFC                -  Venezia FC
-         Juventus FC              -  FC Internazionale Milano
-         SS Lazio                 -  SSC Napoli
-         AC Milan                 -  Hellas Verona FC
-         AC Monza                 -  US Lecce
-         Parma Calcio 1913        -  AS Roma
+  12.30  ACF Fiorentina           -  Como 1907
+  15.00  AC Monza                 -  US Lecce
          Udinese Calcio           -  Empoli FC
+  18.00  Parma Calcio 1913        -  AS Roma
+  20.45  Juventus FC              -  FC Internazionale Milano
+[Mon Feb/17]
+  20.45  Genoa CFC                -  Venezia FC
 
 
 Matchday 26
-[Sun Feb/23]
-         Hellas Verona FC         -  ACF Fiorentina
-         FC Internazionale Milano  -  Genoa CFC
-         US Lecce                 -  Udinese Calcio
-         Parma Calcio 1913        -  Bologna FC 1909
-         AS Roma                  -  AC Monza
-         Torino FC                -  AC Milan
+[Fri Feb/21]
+  20.45  US Lecce                 -  Udinese Calcio
+[Sat Feb/22]
+  15.00  Parma Calcio 1913        -  Bologna FC 1909
          Venezia FC               -  SS Lazio
+  18.00  Torino FC                -  AC Milan
+  20.45  FC Internazionale Milano  -  Genoa CFC
+[Sun Feb/23]
+  12.30  Como 1907                -  SSC Napoli
+  15.00  Hellas Verona FC         -  ACF Fiorentina
+  18.00  Empoli FC                -  Atalanta BC
+  20.45  AS Roma                  -  AC Monza
          Cagliari Calcio          -  Juventus FC
-         Como 1907                -  SSC Napoli
-         Empoli FC                -  Atalanta BC
 
 
 Matchday 27
