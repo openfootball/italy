@@ -141,7 +141,6 @@ Matchday 9
   18.30  Udinese Calcio           2-0 (1-0)  Cagliari Calcio
   20.45  Torino FC                1-0 (0-0)  Como 1907
 [Sat Oct/26]
-         Bologna FC 1909          -  AC Milan                 [postponed]
   15.00  SSC Napoli               1-0 (0-0)  US Lecce
   20.45  Atalanta BC              6-1 (5-1)  Hellas Verona FC
 [Sun Oct/27]
@@ -228,7 +227,6 @@ Matchday 14
   12.30  Udinese Calcio           0-2 (0-1)  Genoa CFC
   15.00  Parma Calcio 1913        3-1 (1-0)  SS Lazio
          Torino FC                0-1 (0-1)  SSC Napoli
-  18.00  ACF Fiorentina           -  FC Internazionale Milano  [cancelled]
   20.45  US Lecce                 1-1 (0-0)  Juventus FC
 [Mon Dec/2]
   20.45  AS Roma                  0-2 (0-0)  Atalanta BC
@@ -386,24 +384,29 @@ Matchday 23
   18.00  AC Milan                 1-1 (1-0)  FC Internazionale Milano
   20.45  AS Roma                  1-1 (0-1)  SSC Napoli
 [Mon Feb/3]
-  20.45  Cagliari Calcio          -  SS Lazio
+  20.45  Cagliari Calcio          1-2 (0-1)  SS Lazio
+
+
+Matchday 14
+[Thu Feb/6]
+  20.45  ACF Fiorentina           3-0 (3-0)  FC Internazionale Milano
 
 
 Matchday 24
 [Fri Feb/7]
-  20.45  Como 1907                -  Juventus FC
+  20.45  Como 1907                1-2 (1-1)  Juventus FC
 [Sat Feb/8]
-  15.00  Hellas Verona FC         -  Atalanta BC
-  18.00  Empoli FC                -  AC Milan
-  20.45  Torino FC                -  Genoa CFC
+  15.00  Hellas Verona FC         0-5 (0-4)  Atalanta BC
+  18.00  Empoli FC                0-2 (0-0)  AC Milan
+  20.45  Torino FC                1-1 (1-0)  Genoa CFC
 [Sun Feb/9]
-  12.30  Venezia FC               -  AS Roma
-  15.00  Cagliari Calcio          -  Parma Calcio 1913
-         SS Lazio                 -  AC Monza
-  18.00  US Lecce                 -  Bologna FC 1909
-  20.45  SSC Napoli               -  Udinese Calcio
+  12.30  Venezia FC               0-1 (0-0)  AS Roma
+  15.00  Cagliari Calcio          2-1 (0-0)  Parma Calcio 1913
+         SS Lazio                 5-1 (1-0)  AC Monza
+  18.00  US Lecce                 0-0  Bologna FC 1909
+  20.45  SSC Napoli               1-1 (1-1)  Udinese Calcio
 [Mon Feb/10]
-  20.45  FC Internazionale Milano  -  ACF Fiorentina
+  20.45  FC Internazionale Milano  2-1 (1-1)  ACF Fiorentina
 
 
 Matchday 25
@@ -435,13 +438,19 @@ Matchday 26
   12.30  Como 1907                -  SSC Napoli
   15.00  Hellas Verona FC         -  ACF Fiorentina
   18.00  Empoli FC                -  Atalanta BC
+  20.45  Cagliari Calcio          -  Juventus FC
+[Mon Feb/24]
   20.45  AS Roma                  -  AC Monza
-         Cagliari Calcio          -  Juventus FC
+
+
+Matchday 9
+[Wed Feb/26]
+  18.30  Bologna FC 1909          -  AC Milan
 
 
 Matchday 27
 [Sun Mar/2]
-         Atalanta BC              -  Venezia FC
+  15.00  Atalanta BC              -  Venezia FC
          Bologna FC 1909          -  Cagliari Calcio
          ACF Fiorentina           -  US Lecce
          Genoa CFC                -  Empoli FC
