@@ -411,19 +411,19 @@ Matchday 24
 
 Matchday 25
 [Fri Feb/14]
-  20.45  Bologna FC 1909          -  Torino FC
+  20.45  Bologna FC 1909          3-2 (1-1)  Torino FC
 [Sat Feb/15]
-  15.00  Atalanta BC              -  Cagliari Calcio
-  18.00  SS Lazio                 -  SSC Napoli
-  20.45  AC Milan                 -  Hellas Verona FC
+  15.00  Atalanta BC              0-0  Cagliari Calcio
+  18.00  SS Lazio                 2-2 (1-1)  SSC Napoli
+  20.45  AC Milan                 1-0 (0-0)  Hellas Verona FC
 [Sun Feb/16]
-  12.30  ACF Fiorentina           -  Como 1907
-  15.00  AC Monza                 -  US Lecce
-         Udinese Calcio           -  Empoli FC
-  18.00  Parma Calcio 1913        -  AS Roma
-  20.45  Juventus FC              -  FC Internazionale Milano
+  12.30  ACF Fiorentina           0-2 (0-1)  Como 1907
+  15.00  AC Monza                 0-0  US Lecce
+         Udinese Calcio           3-0 (1-0)  Empoli FC
+  18.00  Parma Calcio 1913        0-1 (0-1)  AS Roma
+  20.45  Juventus FC              1-0 (0-0)  FC Internazionale Milano
 [Mon Feb/17]
-  20.45  Genoa CFC                -  Venezia FC
+  20.45  Genoa CFC                2-0 (0-0)  Venezia FC
 
 
 Matchday 26
