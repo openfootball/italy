@@ -445,24 +445,24 @@ Matchday 26
 
 Matchday 9
 [Thu Feb/27]
-  20.45  Bologna FC 1909          -  AC Milan
+  20.45  Bologna FC 1909          2-1 (0-1)  AC Milan
 
 
 Matchday 27
 [Fri Feb/28]
-  20.45  ACF Fiorentina           -  US Lecce
+  20.45  ACF Fiorentina           1-0 (1-0)  US Lecce
 [Sat Mar/1]
-  15.00  Atalanta BC              -  Venezia FC
-  18.00  SSC Napoli               -  FC Internazionale Milano
-  20.45  Udinese Calcio           -  Parma Calcio 1913
+  15.00  Atalanta BC              0-0  Venezia FC
+  18.00  SSC Napoli               1-1 (0-1)  FC Internazionale Milano
+  20.45  Udinese Calcio           1-0 (1-0)  Parma Calcio 1913
 [Sun Mar/2]
-  12.30  AC Monza                 -  Torino FC
-  15.00  Bologna FC 1909          -  Cagliari Calcio
-         Genoa CFC                -  Empoli FC
-  18.00  AS Roma                  -  Como 1907
-  20.45  AC Milan                 -  SS Lazio
+  12.30  AC Monza                 0-2 (0-1)  Torino FC
+  15.00  Bologna FC 1909          2-1 (0-1)  Cagliari Calcio
+         Genoa CFC                1-1 (0-1)  Empoli FC
+  18.00  AS Roma                  2-1 (0-1)  Como 1907
+  20.45  AC Milan                 1-2 (0-1)  SS Lazio
 [Mon Mar/3]
-  20.45  Juventus FC              -  Hellas Verona FC
+  20.45  Juventus FC              2-0 (0-0)  Hellas Verona FC
 
 
 Matchday 28
@@ -499,17 +499,19 @@ Matchday 29
 
 
 Matchday 30
-[Sun Mar/30]
-         Cagliari Calcio          -  AC Monza
-         Como 1907                -  Empoli FC
-         ACF Fiorentina           -  Atalanta BC
-         Hellas Verona FC         -  Parma Calcio 1913
-         FC Internazionale Milano  -  Udinese Calcio
-         Juventus FC              -  Genoa CFC
-         SS Lazio                 -  Torino FC
-         US Lecce                 -  AS Roma
-         SSC Napoli               -  AC Milan
+[Sat Mar/29]
+  15.00  Como 1907                -  Empoli FC
          Venezia FC               -  Bologna FC 1909
+  18.00  Juventus FC              -  Genoa CFC
+  20.45  US Lecce                 -  AS Roma
+[Sun Mar/30]
+  12.30  Cagliari Calcio          -  AC Monza
+  15.00  ACF Fiorentina           -  Atalanta BC
+  18.00  FC Internazionale Milano  -  Udinese Calcio
+  20.45  SSC Napoli               -  AC Milan
+[Mon Mar/31]
+  18.30  Hellas Verona FC         -  Parma Calcio 1913
+  20.45  SS Lazio                 -  Torino FC
 
 
 Matchday 31
