@@ -467,17 +467,17 @@ Matchday 27
 
 Matchday 28
 [Fri Mar/7]
-  20.45  Cagliari Calcio          -  Genoa CFC
+  20.45  Cagliari Calcio          1-1 (1-0)  Genoa CFC
 [Sat Mar/8]
-  15.00  Como 1907                -  Venezia FC
-         Parma Calcio 1913        -  Torino FC
-  18.00  US Lecce                 -  AC Milan
-  20.45  FC Internazionale Milano  -  AC Monza
+  15.00  Como 1907                1-1 (0-0)  Venezia FC
+         Parma Calcio 1913        2-2 (0-1)  Torino FC
+  18.00  US Lecce                 2-3 (1-0)  AC Milan
+  20.45  FC Internazionale Milano  3-2 (1-2)  AC Monza
 [Sun Mar/9]
-  12.30  Hellas Verona FC         -  Bologna FC 1909
-  15.00  SSC Napoli               -  ACF Fiorentina
-  18.00  Empoli FC                -  AS Roma
-  20.45  Juventus FC              -  Atalanta BC
+  12.30  Hellas Verona FC         1-2 (0-1)  Bologna FC 1909
+  15.00  SSC Napoli               2-1 (1-0)  ACF Fiorentina
+  18.00  Empoli FC                0-1 (0-1)  AS Roma
+  20.45  Juventus FC              0-4 (0-1)  Atalanta BC
 [Mon Mar/10]
   20.45  SS Lazio                 -  Udinese Calcio
 
@@ -493,7 +493,7 @@ Matchday 29
 [Sun Mar/16]
   12.30  Venezia FC               -  SSC Napoli
   15.00  Bologna FC 1909          -  SS Lazio
-         AS Roma                  -  Cagliari Calcio
+  16.00  AS Roma                  -  Cagliari Calcio
   18.00  ACF Fiorentina           -  Juventus FC
   20.45  Atalanta BC              -  FC Internazionale Milano
 
