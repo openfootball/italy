@@ -479,23 +479,23 @@ Matchday 28
   18.00  Empoli FC                0-1 (0-1)  AS Roma
   20.45  Juventus FC              0-4 (0-1)  Atalanta BC
 [Mon Mar/10]
-  20.45  SS Lazio                 -  Udinese Calcio
+  20.45  SS Lazio                 1-1 (1-1)  Udinese Calcio
 
 
 Matchday 29
 [Fri Mar/14]
-  20.45  Genoa CFC                -  US Lecce
+  20.45  Genoa CFC                2-1 (2-0)  US Lecce
 [Sat Mar/15]
-  15.00  AC Monza                 -  Parma Calcio 1913
-         Udinese Calcio           -  Hellas Verona FC
-  18.00  AC Milan                 -  Como 1907
-  20.45  Torino FC                -  Empoli FC
+  15.00  AC Monza                 1-1 (0-0)  Parma Calcio 1913
+         Udinese Calcio           0-1 (0-0)  Hellas Verona FC
+  18.00  AC Milan                 2-1 (0-1)  Como 1907
+  20.45  Torino FC                1-0 (0-0)  Empoli FC
 [Sun Mar/16]
-  12.30  Venezia FC               -  SSC Napoli
-  15.00  Bologna FC 1909          -  SS Lazio
-  16.00  AS Roma                  -  Cagliari Calcio
-  18.00  ACF Fiorentina           -  Juventus FC
-  20.45  Atalanta BC              -  FC Internazionale Milano
+  12.30  Venezia FC               0-0  SSC Napoli
+  15.00  Bologna FC 1909          5-0 (1-0)  SS Lazio
+  16.00  AS Roma                  1-0 (0-0)  Cagliari Calcio
+  18.00  ACF Fiorentina           3-0 (2-0)  Juventus FC
+  20.45  Atalanta BC              0-2 (0-0)  FC Internazionale Milano
 
 
 Matchday 30
@@ -515,22 +515,25 @@ Matchday 30
 
 
 Matchday 31
+[Fri Apr/4]
+  20.45  Genoa CFC                -  Udinese Calcio
+[Sat Apr/5]
+  15.00  AC Monza                 -  Como 1907
+  18.00  Parma Calcio 1913        -  FC Internazionale Milano
+  20.45  AC Milan                 -  ACF Fiorentina
 [Sun Apr/6]
-         Atalanta BC              -  SS Lazio
-         Bologna FC 1909          -  SSC Napoli
-         Empoli FC                -  Cagliari Calcio
-         Genoa CFC                -  Udinese Calcio
-         US Lecce                 -  Venezia FC
-         AC Milan                 -  ACF Fiorentina
-         AC Monza                 -  Como 1907
-         Parma Calcio 1913        -  FC Internazionale Milano
-         AS Roma                  -  Juventus FC
+  12.30  US Lecce                 -  Venezia FC
+  15.00  Empoli FC                -  Cagliari Calcio
          Torino FC                -  Hellas Verona FC
+  18.00  Atalanta BC              -  SS Lazio
+  20.45  AS Roma                  -  Juventus FC
+[Mon Apr/7]
+  20.45  Bologna FC 1909          -  SSC Napoli
 
 
 Matchday 32
 [Sun Apr/13]
-         Atalanta BC              -  Bologna FC 1909
+  02.00  Atalanta BC              -  Bologna FC 1909
          Como 1907                -  Torino FC
          ACF Fiorentina           -  Parma Calcio 1913
          Hellas Verona FC         -  Genoa CFC
@@ -544,7 +547,7 @@ Matchday 32
 
 Matchday 33
 [Sun Apr/20]
-         Bologna FC 1909          -  FC Internazionale Milano
+  02.00  Bologna FC 1909          -  FC Internazionale Milano
          Cagliari Calcio          -  ACF Fiorentina
          Empoli FC                -  Venezia FC
          Genoa CFC                -  SS Lazio
