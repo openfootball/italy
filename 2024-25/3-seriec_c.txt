@@ -1,0 +1,617 @@
+= Italian Serie C (South) 2024/25
+
+# Date       Fri Aug/23 2024 - Sun Apr/27 2025 (247d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Aug/23 2024
+    20.45  Giugliano               v Taranto FC               [cancelled]
+           Juventus II             v Audace Cerignola         3-4 (1-3)
+           Latina Calcio           v Casertana FC             1-1 (0-0)
+  Sat Aug/24
+    18.00  Sorrento Calcio         v Calcio Catania           0-0
+  Sun Aug/25
+    18.00  AZ Picerno              v US Avellino              4-1 (0-0)
+    20.45  ACR Messina             v Potenza                  2-2 (0-1)
+           FC Turris               v SS Monopoli 1966         [cancelled]
+  Mon Aug/26
+    20.30  FC Crotone              v Team Altamura            2-0 (2-0)
+    20.45  Benevento Calcio        v Cavese                   2-1 (0-1)
+           Foggia Calcio           v Trapani Calcio           2-2 (1-1)
+
+
+» Matchday 2
+  Fri Aug/30
+    20.45  Audace Cerignola        v ACR Messina              2-0 (1-0)
+           Casertana FC            v Juventus II              2-3 (2-2)
+           Taranto FC              v Latina Calcio            [cancelled]
+  Sat Aug/31
+    20.45  SS Monopoli 1966        v Sorrento Calcio          0-1 (0-1)
+  Sun Sep/1
+    18.00  Potenza                 v FC Turris                [cancelled]
+    20.45  Trapani Calcio          v AZ Picerno               0-3 (0-1)
+  Mon Sep/2
+    20.45  US Avellino             v Giugliano                1-1 (0-1)
+           Cavese                  v FC Crotone               2-1 (1-1)
+           Team Altamura           v Foggia Calcio            0-2 (0-1)
+    21.15  Calcio Catania          v Benevento Calcio         1-0 (1-0)
+
+
+» Matchday 3
+  Sat Sep/7
+    18.30  AZ Picerno              v Casertana FC             0-0
+           Juventus II             v Calcio Catania           1-3 (0-1)
+    20.45  ACR Messina             v Taranto FC               [cancelled]
+           FC Crotone              v Trapani Calcio           1-2 (1-1)
+           FC Turris               v Latina Calcio            [cancelled]
+  Sun Sep/8
+    18.30  Sorrento Calcio         v Team Altamura            2-1 (1-0)
+    20.45  US Avellino             v Audace Cerignola         0-0
+           Benevento Calcio        v Potenza                  4-1 (3-1)
+           Foggia Calcio           v SS Monopoli 1966         1-4 (1-2)
+           Giugliano               v Cavese                   0-0
+
+
+» Matchday 4
+  Fri Sep/13
+    20.45  Potenza                 v Sorrento Calcio          1-0 (0-0)
+           Taranto FC              v Trapani Calcio           [cancelled]
+  Sat Sep/14
+    18.30  FC Crotone              v ACR Messina              2-0 (1-0)
+           SS Monopoli 1966        v Juventus II              0-0
+    20.45  Casertana FC            v FC Turris                [cancelled]
+           Calcio Catania          v AZ Picerno               0-0
+  Sun Sep/15
+    20.45  Audace Cerignola        v Giugliano                3-1 (0-1)
+           Cavese                  v US Avellino              1-1 (0-0)
+           Team Altamura           v Benevento Calcio         0-2 (0-0)
+  Mon Sep/16
+    20.30  Latina Calcio           v Foggia Calcio            0-0
+
+
+» Matchday 5
+  Fri Sep/20
+    20.45  ACR Messina             v Casertana FC             2-2 (2-0)
+  Sat Sep/21
+    18.30  Sorrento Calcio         v FC Turris                [cancelled]
+    20.45  US Avellino             v Latina Calcio            0-1 (0-1)
+           Cavese                  v SS Monopoli 1966         0-1 (0-1)
+           Taranto FC              v Team Altamura            [cancelled]
+  Sun Sep/22
+    16.15  Trapani Calcio          v Juventus II              1-1 (1-0)
+    18.30  Giugliano               v Calcio Catania           3-2 (1-0)
+    20.45  Audace Cerignola        v Potenza                  0-1 (0-0)
+           AZ Picerno              v FC Crotone               5-2 (4-1)
+           Benevento Calcio        v Foggia Calcio            4-0 (2-0)
+
+
+» Matchday 6
+  Tue Sep/24
+    20.45  Casertana FC            v Taranto FC               [cancelled]
+           Team Altamura           v Cavese                   0-0
+           FC Turris               v US Avellino              [cancelled]
+  Wed Sep/25
+    18.30  Potenza                 v Trapani Calcio           1-5 (1-2)
+    20.45  Calcio Catania          v Audace Cerignola         0-0
+           FC Crotone              v Sorrento Calcio          1-2 (1-0)
+           Foggia Calcio           v Giugliano                1-2 (1-2)
+           Latina Calcio           v ACR Messina              1-1 (1-1)
+  Thu Sep/26
+    18.30  Juventus II             v AZ Picerno               1-1 (0-0)
+    20.45  SS Monopoli 1966        v Benevento Calcio         1-0 (0-0)
+
+
+» Matchday 7
+  Sat Sep/28
+    18.30  Taranto FC              v Sorrento Calcio          [cancelled]
+  Sun Sep/29
+    18.30  Audace Cerignola        v Casertana FC             0-0
+           Cavese                  v Latina Calcio            1-0 (1-0)
+           Trapani Calcio          v FC Turris                [cancelled]
+    20.45  US Avellino             v Foggia Calcio            2-1 (2-0)
+           Calcio Catania          v SS Monopoli 1966         1-0 (0-0)
+           Giugliano               v Team Altamura            2-3 (1-1)
+           Potenza                 v FC Crotone               3-3 (1-2)
+  Mon Sep/30
+    20.30  AZ Picerno              v ACR Messina              2-0 (0-0)
+    20.45  Benevento Calcio        v Juventus II              4-1 (3-1)
+
+
+» Matchday 8
+  Fri Oct/4
+    20.30  Foggia Calcio           v Taranto FC               [cancelled]
+  Sat Oct/5
+    15.00  Juventus II             v Potenza                  2-3 (1-2)
+    17.30  AZ Picerno              v Cavese                   1-1 (0-1)
+           Team Altamura           v SS Monopoli 1966         0-1 (0-1)
+  Sun Oct/6
+    12.30  Latina Calcio           v Giugliano                0-1 (0-0)
+    15.00  ACR Messina             v Benevento Calcio         0-0
+           Casertana FC            v Calcio Catania           1-3 (1-1)
+           Sorrento Calcio         v Trapani Calcio           1-1 (1-1)
+    17.30  FC Turris               v Audace Cerignola         [cancelled]
+  Mon Oct/7
+    20.30  FC Crotone              v US Avellino              0-4 (0-1)
+
+
+» Matchday 9
+  Fri Oct/11
+    20.30  Audace Cerignola        v Sorrento Calcio          2-0 (1-0)
+           Cavese                  v FC Turris                [cancelled]
+           Trapani Calcio          v ACR Messina              1-1 (0-0)
+  Sat Oct/12
+    15.00  Giugliano               v Juventus II              1-0 (1-0)
+           SS Monopoli 1966        v FC Crotone               1-1 (0-0)
+    17.30  Calcio Catania          v Team Altamura            2-0 (2-0)
+  Sun Oct/13
+    15.00  Benevento Calcio        v Latina Calcio            5-0 (2-0)
+    17.30  Taranto FC              v AZ Picerno               [cancelled]
+    19.30  US Avellino             v Casertana FC             5-0 (3-0)
+    19.45  Potenza                 v Foggia Calcio            1-1 (1-0)
+
+
+» Matchday 10
+  Sat Oct/19
+    15.00  Latina Calcio           v Team Altamura            0-2 (0-0)
+           Sorrento Calcio         v Benevento Calcio         0-3 (0-3)
+    17.30  FC Turris               v Giugliano                [cancelled]
+  Sun Oct/20
+    15.00  Foggia Calcio           v Calcio Catania           2-2 (1-0)
+           Juventus II             v US Avellino              0-3 (0-1)
+           Trapani Calcio          v Audace Cerignola         5-1 (3-0)
+    17.30  ACR Messina             v SS Monopoli 1966         0-0
+    19.30  FC Crotone              v Taranto FC               [cancelled]
+  Mon Oct/21
+    20.30  AZ Picerno              v Potenza                  1-1 (0-0)
+           Casertana FC            v Cavese                   1-0 (0-0)
+
+
+» Matchday 11
+  Sat Oct/26
+    15.00  Cavese                  v Potenza                  0-0
+           SS Monopoli 1966        v Trapani Calcio           2-2 (0-1)
+    17.30  Audace Cerignola        v AZ Picerno               2-1 (0-0)
+  Sun Oct/27
+    15.00  US Avellino             v ACR Messina              6-0 (3-0)
+           Calcio Catania          v Latina Calcio            0-1 (0-0)
+           Taranto FC              v FC Turris                [cancelled]
+           Team Altamura           v Juventus II              2-0 (1-0)
+    15.30  Benevento Calcio        v Casertana FC             1-0 (0-0)
+    17.30  Giugliano               v FC Crotone               1-3 (1-3)
+           Sorrento Calcio         v Foggia Calcio            2-1 (0-0)
+
+
+» Matchday 12
+  Wed Oct/30
+    15.00  AZ Picerno              v Giugliano                1-3 (1-2)
+    20.45  Trapani Calcio          v US Avellino              1-2 (0-1)
+  Thu Oct/31
+    15.00  Potenza                 v Taranto FC               [cancelled]
+    18.30  Casertana FC            v Team Altamura            1-1 (1-1)
+           Latina Calcio           v SS Monopoli 1966         0-1 (0-1)
+    20.30  Juventus II             v Sorrento Calcio          0-1 (0-0)
+    20.45  ACR Messina             v Cavese                   1-3 (1-1)
+           FC Crotone              v Benevento Calcio         2-2 (0-1)
+           Foggia Calcio           v Audace Cerignola         0-1 (0-0)
+           FC Turris               v Calcio Catania           [cancelled]
+
+
+» Matchday 13
+  Sun Nov/3
+    15.00  Audace Cerignola        v FC Crotone               1-1 (1-0)
+           US Avellino             v Taranto FC               [cancelled]
+           Giugliano               v Trapani Calcio           2-1 (1-0)
+           Juventus II             v Latina Calcio            0-0
+    19.30  Calcio Catania          v ACR Messina              0-0
+  Mon Nov/4
+    15.00  Sorrento Calcio         v Casertana FC             1-1 (1-0)
+    20.30  Benevento Calcio        v FC Turris                [cancelled]
+           Cavese                  v Foggia Calcio            2-1 (1-1)
+           SS Monopoli 1966        v AZ Picerno               1-1 (0-0)
+           Team Altamura           v Potenza                  2-2 (1-1)
+
+
+» Matchday 14
+  Sat Nov/9
+    15.00  Casertana FC            v SS Monopoli 1966         0-0
+           Trapani Calcio          v Cavese                   1-0 (0-0)
+    17.30  AZ Picerno              v Benevento Calcio         1-0 (0-0)
+           Latina Calcio           v Sorrento Calcio          2-0 (1-0)
+  Sun Nov/10
+    12.30  Potenza                 v US Avellino              0-0
+    15.00  Foggia Calcio           v Juventus II              1-0 (1-0)
+    17.30  ACR Messina             v Giugliano                1-0 (1-0)
+    19.30  FC Crotone              v Calcio Catania           3-2 (3-0)
+  Mon Nov/11
+    20.30  Taranto FC              v Audace Cerignola         [cancelled]
+           FC Turris               v Team Altamura            [cancelled]
+
+
+» Matchday 15
+  Fri Nov/15
+    20.30  Calcio Catania          v Trapani Calcio           2-1 (1-0)
+           Foggia Calcio           v Casertana FC             0-0
+  Sat Nov/16
+    17.30  Giugliano               v Potenza                  1-2 (1-0)
+           Sorrento Calcio         v AZ Picerno               1-1 (0-0)
+  Sun Nov/17
+    15.00  Team Altamura           v ACR Messina              2-1 (2-0)
+    17.30  Benevento Calcio        v US Avellino              2-2 (1-2)
+           Cavese                  v Taranto FC               [cancelled]
+           Latina Calcio           v FC Crotone               0-4 (0-2)
+  Mon Nov/18
+    20.30  SS Monopoli 1966        v Audace Cerignola         1-1 (0-1)
+  Wed Nov/27
+    15.00  Juventus II             v FC Turris                [cancelled]
+
+
+» Matchday 16
+  Fri Nov/22
+    16.00  AZ Picerno              v Team Altamura            2-0 (1-0)
+  Sat Nov/23
+    15.00  US Avellino             v Calcio Catania           2-2 (0-1)
+           Taranto FC              v Benevento Calcio         [cancelled]
+           Trapani Calcio          v Latina Calcio            4-0 (3-0)
+    17.30  Casertana FC            v Giugliano                1-1 (1-0)
+           Potenza                 v SS Monopoli 1966         0-1 (0-0)
+  Sun Nov/24
+    12.30  FC Crotone              v Juventus II              2-1 (2-0)
+    15.00  ACR Messina             v Sorrento Calcio          0-1 (0-0)
+    17.30  Audace Cerignola        v Cavese                   3-1 (2-0)
+           FC Turris               v Foggia Calcio            [cancelled]
+
+
+» Matchday 17
+  Sat Nov/30
+    15.00  Benevento Calcio        v Audace Cerignola         1-1 (0-0)
+           Foggia Calcio           v FC Crotone               1-1 (1-1)
+           Latina Calcio           v AZ Picerno               2-0 (2-0)
+           Team Altamura           v Trapani Calcio           2-1 (1-0)
+    17.30  Calcio Catania          v Cavese                   1-1 (1-0)
+  Sun Dec/1
+    15.00  Casertana FC            v Potenza                  0-0
+    17.30  Juventus II             v Taranto FC               [cancelled]
+           FC Turris               v ACR Messina              [cancelled]
+  Mon Dec/2
+    20.30  SS Monopoli 1966        v US Avellino              1-1 (1-1)
+           Sorrento Calcio         v Giugliano                3-0 (2-0)
+
+
+» Matchday 18
+  Fri Dec/6
+    20.30  Audace Cerignola        v Team Altamura            1-1 (1-0)
+  Sat Dec/7
+    15.00  Potenza                 v Latina Calcio            5-1 (1-0)
+    17.30  ACR Messina             v Foggia Calcio            0-3 (0-1)
+  Sun Dec/8
+    15.00  AZ Picerno              v FC Turris                [cancelled]
+           Cavese                  v Juventus II              0-1 (0-0)
+           FC Crotone              v Casertana FC             2-3 (2-2)
+    17.30  US Avellino             v Sorrento Calcio          1-0 (1-0)
+           Taranto FC              v Calcio Catania           [cancelled]
+    19.30  Trapani Calcio          v Benevento Calcio         1-2 (1-0)
+  Mon Dec/9
+    20.30  Giugliano               v SS Monopoli 1966         1-2 (0-1)
+
+
+» Matchday 19
+  Fri Dec/13
+    20.30  Team Altamura           v US Avellino              1-3 (1-1)
+  Sat Dec/14
+    15.00  Casertana FC            v Trapani Calcio           0-1 (0-0)
+           Juventus II             v ACR Messina              2-0 (0-0)
+           Sorrento Calcio         v Cavese                   1-3 (1-2)
+           FC Turris               v FC Crotone               [cancelled]
+    17.30  Benevento Calcio        v Giugliano                0-1 (0-0)
+           Calcio Catania          v Potenza                  0-2 (0-0)
+  Sun Dec/15
+    15.00  SS Monopoli 1966        v Taranto FC               [cancelled]
+    19.30  Foggia Calcio           v AZ Picerno               1-0 (1-0)
+  Mon Dec/16
+    20.30  Latina Calcio           v Audace Cerignola         0-1 (0-0)
+
+
+» Matchday 20
+  Fri Dec/20
+    20.30  Cavese                  v Benevento Calcio         1-2 (0-2)
+           SS Monopoli 1966        v FC Turris                [cancelled]
+  Sat Dec/21
+    17.30  Team Altamura           v FC Crotone               1-3 (0-2)
+           Audace Cerignola        v Juventus II              3-3 (2-1)
+           Casertana FC            v Latina Calcio            0-2 (0-0)
+  Sun Dec/22
+    12.30  Potenza                 v ACR Messina              2-1 (0-1)
+    17.30  US Avellino             v AZ Picerno               1-0 (1-0)
+           Taranto FC              v Giugliano                [cancelled]
+           Calcio Catania          v Sorrento Calcio          4-0 (0-0)
+  Mon Dec/23
+    20.30  Trapani Calcio          v Foggia Calcio            0-0
+
+
+» Matchday 21
+  Sat Jan/4 2025
+    15.00  Juventus II             v Casertana FC             1-0 (0-0)
+           FC Crotone              v Cavese                   1-1 (1-1)
+  Sun Jan/5
+    15.00  ACR Messina             v Audace Cerignola         1-3 (0-1)
+           Benevento Calcio        v Calcio Catania           3-2 (1-1)
+           Sorrento Calcio         v SS Monopoli 1966         1-2 (0-1)
+           Latina Calcio           v Taranto FC               [cancelled]
+    17.30  Giugliano               v US Avellino              1-1 (0-0)
+           FC Turris               v Potenza                  [cancelled]
+  Mon Jan/6
+    15.00  AZ Picerno              v Trapani Calcio           0-0
+    17.30  Foggia Calcio           v Team Altamura            0-2 (0-0)
+
+
+» Matchday 22
+  Fri Jan/10
+    20.30  Team Altamura           v Sorrento Calcio          1-1 (1-1)
+  Sat Jan/11
+    15.00  Taranto FC              v ACR Messina              [cancelled]
+    17.30  Casertana FC            v AZ Picerno               0-1 (0-1)
+  Sun Jan/12
+    15.00  Trapani Calcio          v FC Crotone               0-3 (0-3)
+           Calcio Catania          v Juventus II              1-2 (0-1)
+    17.30  Latina Calcio           v FC Turris                [cancelled]
+  Mon Jan/13
+    20.30  Audace Cerignola        v US Avellino              1-1 (0-0)
+           SS Monopoli 1966        v Foggia Calcio            1-0 (1-0)
+           Cavese                  v Giugliano                1-0 (1-0)
+  Tue Jan/21
+    19.00  Potenza                 v Benevento Calcio         3-0 (0-0)
+
+
+» Matchday 23
+  Fri Jan/17
+    20.30  Giugliano               v Audace Cerignola         1-3 (1-1)
+  Sat Jan/18
+    17.30  US Avellino             v Cavese                   2-1 (0-0)
+           Sorrento Calcio         v Potenza                  0-2 (0-1)
+           Trapani Calcio          v Taranto FC               [cancelled]
+           Benevento Calcio        v Team Altamura            1-1 (1-1)
+  Sun Jan/19
+    15.00  Juventus II             v SS Monopoli 1966         1-0 (0-0)
+    17.30  AZ Picerno              v Calcio Catania           1-1 (0-0)
+    19.30  Foggia Calcio           v Latina Calcio            1-0 (0-0)
+  Mon Jan/20
+    20.30  FC Turris               v Casertana FC             [cancelled]
+           ACR Messina             v FC Crotone               0-2 (0-1)
+
+
+» Matchday 24
+  Sat Jan/25
+    17.30  Casertana FC            v ACR Messina              1-1 (0-1)
+           Potenza                 v Audace Cerignola         1-2 (1-1)
+  Sun Jan/26
+    12.30  Calcio Catania          v Giugliano                3-1 (2-1)
+    15.00  Latina Calcio           v US Avellino              0-3 (0-1)
+           Foggia Calcio           v Benevento Calcio         2-2 (1-1)
+           Juventus II             v Trapani Calcio           2-0 (1-0)
+    17.30  SS Monopoli 1966        v Cavese                   3-1 (2-0)
+           FC Turris               v Sorrento Calcio          [cancelled]
+  Mon Jan/27
+    20.30  FC Crotone              v AZ Picerno               0-0
+           Team Altamura           v Taranto FC               [cancelled]
+
+
+» Matchday 25
+  Fri Jan/31
+    20.30  Giugliano               v Foggia Calcio            2-1 (1-0)
+           Cavese                  v Team Altamura            1-1 (1-0)
+  Sat Feb/1
+    15.00  ACR Messina             v Latina Calcio            2-1 (1-1)
+           Trapani Calcio          v Potenza                  4-2 (3-1)
+    17.30  Sorrento Calcio         v FC Crotone               2-1 (2-0)
+  Sun Feb/2
+    15.00  Audace Cerignola        v Calcio Catania           2-0 (0-0)
+           AZ Picerno              v Juventus II              1-1 (1-1)
+           US Avellino             v FC Turris                [cancelled]
+  Mon Feb/3
+    15.00  Taranto FC              v Casertana FC             [cancelled]
+    20.30  Benevento Calcio        v SS Monopoli 1966         0-0
+
+
+» Matchday 26
+  Fri Feb/7
+    20.30  Latina Calcio           v Cavese                   1-0 (1-0)
+  Sat Feb/8
+    15.00  ACR Messina             v AZ Picerno               0-0
+           FC Turris               v Trapani Calcio           [cancelled]
+    17.30  Foggia Calcio           v US Avellino              1-0 (1-0)
+           Team Altamura           v Giugliano                0-1 (0-1)
+           FC Crotone              v Potenza                  4-1 (1-0)
+           Sorrento Calcio         v Taranto FC               [cancelled]
+  Sun Feb/9
+    12.30  Juventus II             v Benevento Calcio         2-0 (2-0)
+    15.00  SS Monopoli 1966        v Calcio Catania           1-2 (0-1)
+  Mon Feb/10
+    20.30  Casertana FC            v Audace Cerignola         0-1 (0-0)
+
+
+» Matchday 27
+  Fri Feb/14
+    20.30  Taranto FC              v Foggia Calcio            [cancelled]
+           Giugliano               v Latina Calcio            5-2 (2-0)
+  Sat Feb/15
+    15.00  Benevento Calcio        v ACR Messina              0-0
+    17.30  Cavese                  v AZ Picerno               1-1 (0-0)
+  Sun Feb/16
+    12.30  Potenza                 v Juventus II              1-1 (0-0)
+    15.00  US Avellino             v FC Crotone               2-1 (0-0)
+           Trapani Calcio          v Sorrento Calcio          0-0
+    17.30  Calcio Catania          v Casertana FC             1-1 (1-0)
+           SS Monopoli 1966        v Team Altamura            1-1 (0-1)
+           Audace Cerignola        v FC Turris                [cancelled]
+
+
+» Matchday 28
+  Fri Feb/21
+    20.30  AZ Picerno              v Taranto FC               [cancelled]
+  Sat Feb/22
+    17.30  Casertana FC            v US Avellino              1-2 (1-1)
+           Latina Calcio           v Benevento Calcio         1-1 (1-1)
+           FC Turris               v Cavese                   [cancelled]
+           Juventus II             v Giugliano                0-0
+  Sun Feb/23
+    15.00  Team Altamura           v Calcio Catania           1-1 (1-1)
+           FC Crotone              v SS Monopoli 1966         2-0 (1-0)
+           Foggia Calcio           v Potenza                  3-4 (2-2)
+    17.30  Sorrento Calcio         v Audace Cerignola         0-1 (0-1)
+  Mon Feb/24
+    20.30  ACR Messina             v Trapani Calcio           0-1 (0-0)
+
+
+» Matchday 29
+  Fri Feb/28
+    20.30  Giugliano               v FC Turris                [cancelled]
+  Sat Mar/1
+           Taranto FC              v FC Crotone               [cancelled]
+    15.00  Team Altamura           v Latina Calcio            1-1 (0-0)
+  Sun Mar/2
+    12.30  US Avellino             v Juventus II              2-1 (2-1)
+    15.00  SS Monopoli 1966        v ACR Messina              2-1 (0-1)
+           Calcio Catania          v Foggia Calcio            1-1 (0-0)
+           Audace Cerignola        v Trapani Calcio           1-0 (1-0)
+    17.30  Potenza                 v AZ Picerno               2-2 (1-2)
+           Benevento Calcio        v Sorrento Calcio          1-1 (0-0)
+  Mon Mar/3
+    20.30  Cavese                  v Casertana FC             1-0 (1-0)
+
+
+» Matchday 30
+  Sat Mar/8
+           FC Turris               v Taranto FC               [cancelled]
+    15.00  ACR Messina             v US Avellino              0-1 (0-1)
+           Latina Calcio           v Calcio Catania           1-4 (0-0)
+           Trapani Calcio          v SS Monopoli 1966         0-1 (0-0)
+    17.30  Potenza                 v Cavese                   2-2 (2-1)
+           Juventus II             v Team Altamura            1-2 (0-1)
+  Sun Mar/9
+    15.00  AZ Picerno              v Audace Cerignola         0-0
+           Foggia Calcio           v Sorrento Calcio          2-1 (1-0)
+    17.30  FC Crotone              v Giugliano                3-2 (2-1)
+    19.30  Casertana FC            v Benevento Calcio         1-1 (1-1)
+
+
+» Matchday 31
+  Wed Mar/12
+           Taranto FC              v Potenza                  [cancelled]
+           Calcio Catania          v FC Turris                [cancelled]
+    18.30  Cavese                  v ACR Messina              3-3 (0-1)
+           Giugliano               v AZ Picerno               0-2 (0-1)
+           Team Altamura           v Casertana FC             2-0 (2-0)
+           Sorrento Calcio         v Juventus II              0-1 (0-0)
+           SS Monopoli 1966        v Latina Calcio            2-0 (0-0)
+    20.30  US Avellino             v Trapani Calcio           2-0 (1-0)
+    20.45  Benevento Calcio        v FC Crotone               1-1 (0-1)
+           Audace Cerignola        v Foggia Calcio            3-2 (1-1)
+
+
+» Matchday 32
+  Sun Mar/16
+           Taranto FC              v US Avellino              [cancelled]
+           FC Turris               v Benevento Calcio         [cancelled]
+    15.00  FC Crotone              v Audace Cerignola         2-1 (1-0)
+           Foggia Calcio           v Cavese                   0-1 (0-1)
+           Latina Calcio           v Juventus II              3-2 (1-0)
+           AZ Picerno              v SS Monopoli 1966         2-2 (1-1)
+    17.30  Trapani Calcio          v Giugliano                1-2 (1-1)
+    19.30  ACR Messina             v Calcio Catania           0-1 (0-1)
+    20.30  Casertana FC            v Sorrento Calcio          4-0 (0-0)
+  Mon Mar/17
+    20.30  Potenza                 v Team Altamura            3-1 (3-0)
+
+
+» Matchday 33
+  Sat Mar/22
+    15.00  Sorrento Calcio         v Latina Calcio            1-1 (0-0)
+           Cavese                  v Trapani Calcio           2-1 (0-0)
+    17.30  Juventus II             v Foggia Calcio            2-0 (2-0)
+  Sun Mar/23
+           Audace Cerignola        v Taranto FC               [cancelled]
+           Team Altamura           v FC Turris                [cancelled]
+    12.30  Calcio Catania          v FC Crotone               0-0
+    15.00  Giugliano               v ACR Messina              2-3 (1-0)
+           SS Monopoli 1966        v Casertana FC             1-0 (0-0)
+  Mon Mar/24
+    20.30  Benevento Calcio        v AZ Picerno               0-0
+           US Avellino             v Potenza                  1-0 (0-0)
+
+
+» Matchday 34
+  Sat Mar/29
+           Taranto FC              v Cavese                   [cancelled]
+           FC Turris               v Juventus II              [cancelled]
+    15.00  FC Crotone              v Latina Calcio
+           ACR Messina             v Team Altamura
+    17.30  Casertana FC            v Foggia Calcio
+           AZ Picerno              v Sorrento Calcio
+  Sun Mar/30
+    15.00  Trapani Calcio          v Calcio Catania
+           Audace Cerignola        v SS Monopoli 1966
+    17.30  Potenza                 v Giugliano
+    19.30  US Avellino             v Benevento Calcio
+
+
+» Matchday 35
+  Sat Apr/5
+           Foggia Calcio           v FC Turris                [cancelled]
+    15.00  Team Altamura           v AZ Picerno
+           Juventus II             v FC Crotone
+           Latina Calcio           v Trapani Calcio
+  Sun Apr/6
+           Benevento Calcio        v Taranto FC               [cancelled]
+    15.00  Cavese                  v Audace Cerignola
+           SS Monopoli 1966        v Potenza
+    17.30  Sorrento Calcio         v ACR Messina
+    19.30  Calcio Catania          v US Avellino
+  Mon Apr/7
+    20.30  Giugliano               v Casertana FC
+
+
+» Matchday 36
+  Sat Apr/12
+    15.00  Cavese                  v Calcio Catania
+           AZ Picerno              v Latina Calcio
+    17.30  Giugliano               v Sorrento Calcio
+  Sun Apr/13
+           Taranto FC              v Juventus II              [cancelled]
+           ACR Messina             v FC Turris                [cancelled]
+    17.30  Potenza                 v Casertana FC
+           Trapani Calcio          v Team Altamura
+    19.30  Audace Cerignola        v Benevento Calcio
+           US Avellino             v SS Monopoli 1966
+  Mon Apr/14
+    20.30  FC Crotone              v Foggia Calcio
+
+
+» Matchday 37
+  Sat Apr/19
+           Foggia Calcio           v ACR Messina
+           Team Altamura           v Audace Cerignola
+           Sorrento Calcio         v US Avellino
+           FC Turris               v AZ Picerno               [cancelled]
+           Juventus II             v Cavese
+           Casertana FC            v FC Crotone
+           SS Monopoli 1966        v Giugliano
+           Latina Calcio           v Potenza
+           Calcio Catania          v Taranto FC               [cancelled]
+           Benevento Calcio        v Trapani Calcio
+
+
+» Matchday 38
+  Sun Apr/27
+           Giugliano               v Benevento Calcio
+           Trapani Calcio          v Casertana FC
+           Potenza                 v Calcio Catania
+           AZ Picerno              v Foggia Calcio
+           ACR Messina             v Juventus II
+           Audace Cerignola        v Latina Calcio
+           Taranto FC              v SS Monopoli 1966         [cancelled]
+           Cavese                  v Sorrento Calcio
+           US Avellino             v Team Altamura
+           FC Crotone              v FC Turris                [cancelled]

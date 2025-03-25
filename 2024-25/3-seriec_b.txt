@@ -1,0 +1,621 @@
+= Italian Serie C (North & Central East) 2024/25
+
+# Date       Fri Aug/23 2024 - Sun Apr/27 2025 (247d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Aug/23 2024
+    20.00  SPAL 2013 Ferrara       v Ascoli Calcio            2-2 (0-1)
+    20.45  ASD Pineto Calcio       v Lucchese                 0-0
+           Ternana Calcio          v Delfino Pescara          1-2 (0-1)
+  Sat Aug/24
+    18.00  FC Legnago Salus        v US Pontedera             2-3 (2-1)
+           US Pianese              v AC Perugia Calcio        3-3 (3-1)
+  Sun Aug/25
+    18.00  AS Gubbio               v USD Sestri Levante       1-0 (0-0)
+    20.45  US Arezzo               v Campobasso               1-0 (0-0)
+           Virtus Entella          v AC Milan II              1-0 (0-0)
+  Mon Aug/26
+    20.45  AC Carpi                v AC Rimini                2-2 (0-1)
+           SEF Torres 1903         v Vis Pesaro               3-0 (1-0)
+
+
+» Matchday 2
+  Fri Aug/30
+    20.45  Lucchese                v AS Gubbio                0-1 (0-0)
+           AC Perugia Calcio       v SPAL 2013 Ferrara        3-0 (1-0)
+           US Pontedera            v Ternana Calcio           1-2 (0-0)
+  Sat Aug/31
+    18.00  Campobasso              v FC Legnago Salus         2-0 (0-0)
+    20.45  AC Rimini               v Virtus Entella           1-2 (1-1)
+           USD Sestri Levante      v ASD Pineto Calcio        0-0
+  Sun Sep/1
+    18.00  AC Milan II             v AC Carpi                 1-1 (0-1)
+    20.45  Delfino Pescara         v SEF Torres 1903          2-2 (0-1)
+  Mon Sep/2
+    20.45  Ascoli Calcio           v US Pianese               1-0 (1-0)
+           Vis Pesaro              v US Arezzo                3-0 (2-0)
+
+
+» Matchday 3
+  Sat Sep/7
+    20.45  AS Gubbio               v Ternana Calcio           0-0
+           ASD Pineto Calcio       v US Arezzo                3-1 (1-0)
+           AC Rimini               v Delfino Pescara          0-1 (0-0)
+  Sun Sep/8
+    16.15  US Pianese              v Campobasso               2-0 (2-0)
+    18.30  AC Carpi                v AC Perugia Calcio        2-0 (0-0)
+           FC Legnago Salus        v Vis Pesaro               0-1 (0-0)
+           US Pontedera            v USD Sestri Levante       4-1 (2-1)
+           SPAL 2013 Ferrara       v Lucchese                 2-3 (1-3)
+  Mon Sep/9
+    16.30  Virtus Entella          v Ascoli Calcio            2-1 (0-0)
+  Wed Sep/18
+    20.45  SEF Torres 1903         v AC Milan II              0-0
+
+
+» Matchday 4
+  Fri Sep/13
+    20.45  US Arezzo               v FC Legnago Salus         1-0 (0-0)
+           Virtus Entella          v AC Carpi                 1-1 (1-1)
+  Sat Sep/14
+    18.30  AC Milan II             v Ascoli Calcio            0-2 (0-2)
+           Vis Pesaro              v US Pontedera             2-0 (0-0)
+    20.45  Campobasso              v SEF Torres 1903          0-1 (0-0)
+           USD Sestri Levante      v SPAL 2013 Ferrara        1-3 (1-2)
+  Sun Sep/15
+    20.45  AC Perugia Calcio       v AS Gubbio                1-1 (0-0)
+           Ternana Calcio          v ASD Pineto Calcio        3-0 (2-0)
+  Mon Sep/16
+    20.45  Lucchese                v AC Rimini                2-2 (0-1)
+           Delfino Pescara         v US Pianese               2-1 (0-1)
+
+
+» Matchday 5
+  Fri Sep/20
+    20.45  AS Gubbio               v Campobasso               0-0
+           Vis Pesaro              v Ternana Calcio           0-2 (0-1)
+  Sat Sep/21
+    16.15  FC Legnago Salus        v USD Sestri Levante       0-3 (0-1)
+    20.45  US Pontedera            v US Arezzo                0-1 (0-0)
+           SEF Torres 1903         v ASD Pineto Calcio        1-1 (0-1)
+  Sun Sep/22
+    18.30  Ascoli Calcio           v Lucchese                 1-2 (0-0)
+           US Pianese              v Virtus Entella           1-1 (1-0)
+  Mon Sep/23
+    20.30  Delfino Pescara         v AC Perugia Calcio        0-0
+    20.45  AC Rimini               v AC Milan II              1-0 (0-0)
+           SPAL 2013 Ferrara       v AC Carpi                 2-1 (2-0)
+
+
+» Matchday 6
+  Tue Sep/24
+    20.45  US Arezzo               v AS Gubbio                2-0 (1-0)
+           USD Sestri Levante      v SEF Torres 1903          1-2 (0-1)
+  Wed Sep/25
+    18.30  Lucchese                v US Pianese               3-3 (0-1)
+           Ternana Calcio          v FC Legnago Salus         8-0 (3-0)
+  Thu Sep/26
+    18.30  AC Carpi                v Ascoli Calcio            2-2 (1-1)
+           AC Milan II             v SPAL 2013 Ferrara        2-1 (0-0)
+           ASD Pineto Calcio       v US Pontedera             1-1 (0-1)
+    20.45  Campobasso              v Vis Pesaro               3-2 (3-1)
+           AC Perugia Calcio       v AC Rimini                1-4 (0-2)
+           Virtus Entella          v Delfino Pescara          0-1 (0-0)
+
+
+» Matchday 7
+  Sat Sep/28
+    20.45  AS Gubbio               v SEF Torres 1903          1-2 (0-1)
+  Sun Sep/29
+    14.00  US Arezzo               v Ternana Calcio           1-2 (1-2)
+           FC Legnago Salus        v ASD Pineto Calcio        2-1 (1-0)
+    16.15  Ascoli Calcio           v AC Rimini                0-1 (0-0)
+           US Pianese              v USD Sestri Levante       0-1 (0-0)
+    18.30  US Pontedera            v Campobasso               1-2 (1-1)
+           SPAL 2013 Ferrara       v Virtus Entella           0-2 (0-1)
+  Mon Sep/30
+    20.45  Lucchese                v AC Milan II              1-1 (1-1)
+           Delfino Pescara         v AC Carpi                 2-1 (0-0)
+           Vis Pesaro              v AC Perugia Calcio        0-0
+
+
+» Matchday 8
+  Fri Oct/4
+    20.30  AC Rimini               v SPAL 2013 Ferrara        0-1 (0-1)
+  Sat Oct/5
+    15.00  AC Carpi                v US Pontedera             2-1 (1-0)
+           AC Milan II             v US Pianese               0-1 (0-0)
+           USD Sestri Levante      v Vis Pesaro               1-1 (0-0)
+  Sun Oct/6
+    15.00  ASD Pineto Calcio       v AS Gubbio                1-2 (1-2)
+           SEF Torres 1903         v US Arezzo                0-2 (0-2)
+    17.30  AC Perugia Calcio       v Lucchese                 4-0 (1-0)
+           Virtus Entella          v FC Legnago Salus         3-1 (1-0)
+    19.30  Ascoli Calcio           v Delfino Pescara          1-2 (0-1)
+  Mon Oct/7
+    20.30  Ternana Calcio          v Campobasso               0-0
+
+
+» Matchday 9
+  Fri Oct/11
+    20.30  Lucchese                v USD Sestri Levante       0-0
+  Sat Oct/12
+    15.00  US Pontedera            v SEF Torres 1903          2-3 (1-1)
+    17.30  AC Perugia Calcio       v Virtus Entella           0-1 (0-1)
+  Sun Oct/13
+    12.30  Campobasso              v SPAL 2013 Ferrara        4-0 (1-0)
+    15.00  FC Legnago Salus        v AS Gubbio                0-1 (0-0)
+    17.30  US Arezzo               v AC Rimini                1-1 (1-0)
+           US Pianese              v AC Carpi                 1-0 (0-0)
+           Vis Pesaro              v ASD Pineto Calcio        1-1 (1-1)
+    20.45  Ternana Calcio          v Ascoli Calcio            3-1 (0-0)
+  Thu Nov/21
+    20.45  Delfino Pescara         v AC Milan II              4-1 (3-0)
+
+
+» Matchday 10
+  Fri Oct/18
+    20.30  USD Sestri Levante      v US Arezzo                0-1 (0-0)
+           SPAL 2013 Ferrara       v Delfino Pescara          0-1 (0-0)
+  Sat Oct/19
+    15.00  Ascoli Calcio           v AC Perugia Calcio        0-1 (0-1)
+           AC Rimini               v US Pianese               0-0
+  Sun Oct/20
+    15.00  AS Gubbio               v US Pontedera             0-1 (0-1)
+           SEF Torres 1903         v Ternana Calcio           1-1 (0-0)
+    17.30  AC Carpi                v Lucchese                 0-0
+           AC Milan II             v FC Legnago Salus         1-3 (1-0)
+           Virtus Entella          v Vis Pesaro               1-1 (1-1)
+  Mon Oct/21
+    20.30  ASD Pineto Calcio       v Campobasso               0-1 (0-0)
+
+
+» Matchday 11
+  Fri Oct/25
+    20.30  US Pianese              v AS Gubbio                3-1 (2-0)
+           Ternana Calcio          v AC Rimini                1-1 (0-0)
+           Vis Pesaro              v AC Carpi                 4-0 (2-0)
+  Sat Oct/26
+    15.00  Campobasso              v USD Sestri Levante       0-0
+           FC Legnago Salus        v SEF Torres 1903          2-3 (1-1)
+    17.30  US Arezzo               v SPAL 2013 Ferrara        2-1 (0-1)
+  Sun Oct/27
+    12.30  AC Perugia Calcio       v AC Milan II              0-2 (0-2)
+    17.30  ASD Pineto Calcio       v Ascoli Calcio            1-0 (1-0)
+           US Pontedera            v Virtus Entella           1-1 (0-1)
+    19.30  Lucchese                v Delfino Pescara          1-3 (0-3)
+
+
+» Matchday 12
+  Tue Oct/29
+    18.30  USD Sestri Levante      v Ternana Calcio           0-1 (0-0)
+           SPAL 2013 Ferrara       v US Pianese               1-1 (0-0)
+    20.45  AC Carpi                v US Arezzo                2-1 (1-1)
+           AS Gubbio               v Vis Pesaro               1-3 (1-1)
+           AC Rimini               v FC Legnago Salus         1-0 (0-0)
+  Wed Oct/30
+    18.30  AC Milan II             v ASD Pineto Calcio        0-2 (0-1)
+           SEF Torres 1903         v AC Perugia Calcio        2-1 (1-0)
+    20.45  Ascoli Calcio           v Campobasso               1-1 (1-0)
+           Delfino Pescara         v US Pontedera             2-1 (1-0)
+           Virtus Entella          v Lucchese                 0-0
+
+
+» Matchday 13
+  Sat Nov/2
+    15.00  Ternana Calcio          v SPAL 2013 Ferrara        4-1 (0-1)
+           SEF Torres 1903         v US Pianese               3-0 (1-0)
+    17.30  AS Gubbio               v AC Rimini                1-0 (0-0)
+  Sun Nov/3
+    12.30  Vis Pesaro              v Delfino Pescara          1-0 (0-0)
+    15.00  Campobasso              v Lucchese                 3-0 (2-0)
+           FC Legnago Salus        v AC Perugia Calcio        2-2 (1-0)
+    17.30  US Arezzo               v Ascoli Calcio            1-1 (0-0)
+           US Pontedera            v AC Milan II              1-1 (1-1)
+    19.45  ASD Pineto Calcio       v AC Carpi                 1-4 (0-2)
+           USD Sestri Levante      v Virtus Entella           0-0
+
+
+» Matchday 14
+  Sat Nov/9
+    15.00  Lucchese                v FC Legnago Salus         1-1 (0-0)
+    17.30  Delfino Pescara         v USD Sestri Levante       1-0 (0-0)
+  Sun Nov/10
+    12.30  AC Rimini               v SEF Torres 1903          1-1 (0-1)
+    15.00  Ascoli Calcio           v US Pontedera             1-1 (0-1)
+           AC Carpi                v Campobasso               0-0
+           AC Milan II             v US Arezzo                2-2 (2-1)
+           AC Perugia Calcio       v Ternana Calcio           0-0
+           Virtus Entella          v AS Gubbio                2-1 (1-0)
+    17.30  US Pianese              v Vis Pesaro               2-0 (1-0)
+           SPAL 2013 Ferrara       v ASD Pineto Calcio        2-1 (0-1)
+
+
+» Matchday 15
+  Fri Nov/15
+    20.30  Vis Pesaro              v Ascoli Calcio            1-1 (0-0)
+  Sat Nov/16
+    17.30  ASD Pineto Calcio       v AC Perugia Calcio        3-1 (3-1)
+           US Pontedera            v US Pianese               1-2 (1-2)
+  Sun Nov/17
+    15.00  US Arezzo               v Delfino Pescara          0-0
+           FC Legnago Salus        v SPAL 2013 Ferrara        0-3 (0-1)
+           USD Sestri Levante      v AC Rimini                0-3 (0-2)
+           Ternana Calcio          v Lucchese                 5-0 (2-0)
+           SEF Torres 1903         v Virtus Entella           0-1 (0-0)
+    17.30  AS Gubbio               v AC Carpi                 1-0 (1-0)
+  Thu Dec/5
+    20.00  Campobasso              v AC Milan II              1-1 (1-1)
+
+
+» Matchday 16
+  Fri Nov/22
+    20.30  AC Perugia Calcio       v US Arezzo                2-0 (1-0)
+           AC Rimini               v Vis Pesaro               0-1 (0-1)
+  Sat Nov/23
+    17.30  SPAL 2013 Ferrara       v SEF Torres 1903          1-0 (0-0)
+  Sun Nov/24
+    15.00  US Pianese              v FC Legnago Salus         1-1 (0-1)
+           Virtus Entella          v Campobasso               3-0 (1-0)
+    17.30  AC Milan II             v USD Sestri Levante       2-2 (2-1)
+    19.30  Ascoli Calcio           v AS Gubbio                1-0 (1-0)
+  Mon Nov/25
+    20.30  AC Carpi                v Ternana Calcio           1-2 (1-1)
+           Lucchese                v US Pontedera             2-1 (1-1)
+           Delfino Pescara         v ASD Pineto Calcio        0-1 (0-0)
+
+
+» Matchday 17
+  Fri Nov/29
+    20.30  ASD Pineto Calcio       v US Pianese               1-0 (1-0)
+  Sat Nov/30
+    15.00  Vis Pesaro              v Lucchese                 2-1 (1-1)
+    17.30  AS Gubbio               v Delfino Pescara          1-2 (0-0)
+           FC Legnago Salus        v AC Carpi                 1-3 (0-1)
+  Sun Dec/1
+    15.00  USD Sestri Levante      v AC Perugia Calcio        2-2 (1-2)
+           Ternana Calcio          v AC Milan II              3-0 (1-0)
+           SEF Torres 1903         v Ascoli Calcio            1-2 (0-1)
+    17.30  Campobasso              v AC Rimini                1-2 (0-2)
+  Mon Dec/2
+    20.30  US Arezzo               v Virtus Entella           1-1 (1-0)
+           US Pontedera            v SPAL 2013 Ferrara        5-1 (1-0)
+
+
+» Matchday 18
+  Fri Dec/6
+    20.30  Ascoli Calcio           v USD Sestri Levante       4-1 (0-0)
+  Sat Dec/7
+    15.00  AC Carpi                v SEF Torres 1903          1-2 (1-2)
+           US Pianese              v Ternana Calcio           1-3 (0-2)
+           AC Rimini               v US Pontedera             5-1 (3-0)
+    17.30  Delfino Pescara         v FC Legnago Salus         0-1 (0-0)
+           SPAL 2013 Ferrara       v Vis Pesaro               0-1 (0-0)
+  Sun Dec/8
+    12.30  AC Milan II             v AS Gubbio                1-0 (1-0)
+    15.00  Virtus Entella          v ASD Pineto Calcio        4-1 (2-1)
+  Mon Dec/9
+    20.30  Lucchese                v US Arezzo                0-1 (0-1)
+           AC Perugia Calcio       v Campobasso               2-1 (0-0)
+
+
+» Matchday 19
+  Fri Dec/13
+    20.30  ASD Pineto Calcio       v AC Rimini                1-1 (1-0)
+  Sat Dec/14
+    15.00  FC Legnago Salus        v Ascoli Calcio            0-1 (0-1)
+    17.30  USD Sestri Levante      v AC Carpi                 1-3 (0-2)
+    19.45  Campobasso              v Delfino Pescara          2-2 (1-0)
+  Sun Dec/15
+    15.00  US Pontedera            v AC Perugia Calcio        2-1 (1-0)
+           Ternana Calcio          v Virtus Entella           1-1 (0-1)
+           SEF Torres 1903         v Lucchese                 0-0
+           Vis Pesaro              v AC Milan II              2-1 (0-0)
+    17.30  US Arezzo               v US Pianese               4-2 (2-1)
+           AS Gubbio               v SPAL 2013 Ferrara        1-1 (0-1)
+
+
+» Matchday 20
+  Fri Dec/20
+    20.30  US Pontedera            v FC Legnago Salus         0-0
+           Lucchese                v ASD Pineto Calcio        3-3 (3-1)
+           Ascoli Calcio           v SPAL 2013 Ferrara        1-1 (1-1)
+  Sat Dec/21
+    17.30  USD Sestri Levante      v AS Gubbio                2-1 (0-0)
+  Sun Dec/22
+    15.00  Campobasso              v US Arezzo                0-1 (0-0)
+           Delfino Pescara         v Ternana Calcio           0-0
+           AC Milan II             v Virtus Entella           1-2 (0-0)
+    17.30  AC Perugia Calcio       v US Pianese               1-1 (1-1)
+           Vis Pesaro              v SEF Torres 1903          1-3 (0-0)
+    19.45  AC Rimini               v AC Carpi                 0-0
+
+
+» Matchday 21
+  Sat Jan/4 2025
+    15.00  AS Gubbio               v Lucchese                 3-1 (2-1)
+           ASD Pineto Calcio       v USD Sestri Levante       1-0 (1-0)
+  Sun Jan/5
+    12.30  SPAL 2013 Ferrara       v AC Perugia Calcio        1-1 (0-0)
+    15.00  FC Legnago Salus        v Campobasso               0-0
+           SEF Torres 1903         v Delfino Pescara          1-0 (1-0)
+    17.30  AC Carpi                v AC Milan II              0-0
+  Mon Jan/6
+    15.00  US Pianese              v Ascoli Calcio            1-1 (0-1)
+           Virtus Entella          v AC Rimini                2-1 (1-1)
+           US Arezzo               v Vis Pesaro               0-0
+    17.30  Ternana Calcio          v US Pontedera             0-0
+
+
+» Matchday 22
+  Fri Jan/10
+    20.30  AC Perugia Calcio       v AC Carpi                 1-0 (0-0)
+           Lucchese                v SPAL 2013 Ferrara        2-3 (0-2)
+  Sat Jan/11
+    17.30  Ternana Calcio          v AS Gubbio                2-1 (2-0)
+           USD Sestri Levante      v US Pontedera             0-1 (0-0)
+           Delfino Pescara         v AC Rimini                0-0
+  Sun Jan/12
+    12.30  AC Milan II             v SEF Torres 1903          1-5 (0-4)
+    15.00  Campobasso              v US Pianese               0-2 (0-1)
+           Ascoli Calcio           v Virtus Entella           0-1 (0-1)
+    17.30  Vis Pesaro              v FC Legnago Salus         3-0 (1-0)
+           US Arezzo               v ASD Pineto Calcio        1-2 (1-0)
+
+
+» Matchday 23
+  Fri Jan/17
+    20.30  ASD Pineto Calcio       v Ternana Calcio           1-0 (0-0)
+  Sat Jan/18
+    15.00  FC Legnago Salus        v US Arezzo                0-3 (0-1)
+           SPAL 2013 Ferrara       v USD Sestri Levante       1-1 (1-0)
+    17.30  AC Rimini               v Lucchese                 0-0
+  Sun Jan/19
+    12.30  Ascoli Calcio           v AC Milan II              2-2 (0-0)
+    15.00  SEF Torres 1903         v Campobasso               2-1 (0-1)
+           US Pianese              v Delfino Pescara          3-2 (2-0)
+    17.30  AC Carpi                v Virtus Entella           0-3 (0-1)
+           US Pontedera            v Vis Pesaro               0-1 (0-1)
+  Mon Jan/20
+    20.30  AS Gubbio               v AC Perugia Calcio        1-0 (0-0)
+
+
+» Matchday 24
+  Fri Jan/24
+    20.30  Lucchese                v Ascoli Calcio            2-1 (1-0)
+           USD Sestri Levante      v FC Legnago Salus         1-1 (0-0)
+  Sat Jan/25
+    15.00  AC Carpi                v SPAL 2013 Ferrara        1-0 (1-0)
+           ASD Pineto Calcio       v SEF Torres 1903          0-0
+    17.30  Campobasso              v AS Gubbio                1-1 (0-1)
+           Virtus Entella          v US Pianese               2-0 (1-0)
+  Sun Jan/26
+    15.00  AC Perugia Calcio       v Delfino Pescara          0-0
+           AC Milan II             v AC Rimini                0-0
+    19.30  Ternana Calcio          v Vis Pesaro               2-1 (0-1)
+  Mon Jan/27
+    20.30  US Arezzo               v US Pontedera             2-4 (0-1)
+
+
+» Matchday 25
+  Fri Jan/31
+    20.30  Vis Pesaro              v Campobasso               1-0 (1-0)
+           Ascoli Calcio           v AC Carpi                 2-1 (1-0)
+  Sat Feb/1
+    15.00  SPAL 2013 Ferrara       v AC Milan II              1-2 (0-1)
+    17.30  AC Rimini               v AC Perugia Calcio        1-1 (1-1)
+  Sun Feb/2
+    12.30  AS Gubbio               v US Arezzo                0-0
+    15.00  SEF Torres 1903         v USD Sestri Levante       2-1 (1-1)
+           FC Legnago Salus        v Ternana Calcio           0-1 (0-1)
+    17.30  US Pianese              v Lucchese                 2-0 (1-0)
+           US Pontedera            v ASD Pineto Calcio        3-2 (2-1)
+    19.30  Delfino Pescara         v Virtus Entella           1-1 (1-1)
+
+
+» Matchday 26
+  Fri Feb/7
+    20.30  AC Perugia Calcio       v Vis Pesaro               0-1 (0-0)
+  Sat Feb/8
+    15.00  AC Milan II             v Lucchese                 0-2 (0-2)
+    19.30  AC Rimini               v Ascoli Calcio            2-0 (0-0)
+  Sun Feb/9
+    15.00  SEF Torres 1903         v AS Gubbio                0-0
+           Virtus Entella          v SPAL 2013 Ferrara        2-1 (2-0)
+    17.30  ASD Pineto Calcio       v FC Legnago Salus         1-0 (1-0)
+           USD Sestri Levante      v US Pianese               2-3 (1-0)
+           Campobasso              v US Pontedera             0-2 (0-1)
+    19.30  AC Carpi                v Delfino Pescara          1-2 (1-1)
+  Mon Feb/10
+    20.30  Ternana Calcio          v US Arezzo                3-1 (2-1)
+
+
+» Matchday 27
+  Fri Feb/14
+    20.30  AS Gubbio               v ASD Pineto Calcio        2-1 (1-1)
+  Sat Feb/15
+    15.00  US Pianese              v AC Milan II              1-0 (1-0)
+    17.30  US Pontedera            v AC Carpi                 0-2 (0-1)
+           Vis Pesaro              v USD Sestri Levante       0-0
+  Sun Feb/16
+    15.00  US Arezzo               v SEF Torres 1903          0-1 (0-1)
+           FC Legnago Salus        v Virtus Entella           1-1 (0-0)
+    17.30  SPAL 2013 Ferrara       v AC Rimini                0-3 (0-1)
+    19.30  Campobasso              v Ternana Calcio           1-0 (0-0)
+  Mon Feb/17
+    20.30  Delfino Pescara         v Ascoli Calcio            1-2 (1-0)
+           Lucchese                v AC Perugia Calcio        2-1 (0-1)
+
+
+» Matchday 28
+  Fri Feb/21
+    20.30  ASD Pineto Calcio       v Vis Pesaro               1-1 (1-1)
+  Sat Feb/22
+    15.00  SPAL 2013 Ferrara       v Campobasso               1-2 (0-2)
+           AS Gubbio               v FC Legnago Salus         0-3 (0-0)
+           AC Carpi                v US Pianese               0-1 (0-0)
+  Sun Feb/23
+    12.30  AC Milan II             v Delfino Pescara          2-3 (1-1)
+    15.00  SEF Torres 1903         v US Pontedera             1-0 (1-0)
+           Ascoli Calcio           v Ternana Calcio           0-3 (0-3)
+    17.30  USD Sestri Levante      v Lucchese                 1-1 (1-1)
+           Virtus Entella          v AC Perugia Calcio        1-0 (0-0)
+  Mon Feb/24
+    20.30  AC Rimini               v US Arezzo                0-2 (0-1)
+
+
+» Matchday 29
+  Sat Mar/1
+    15.00  Lucchese                v AC Carpi                 2-2 (1-1)
+           Vis Pesaro              v Virtus Entella           0-1 (0-1)
+    17.30  US Pontedera            v AS Gubbio                2-1 (2-0)
+           US Arezzo               v USD Sestri Levante       1-0 (0-0)
+           Delfino Pescara         v SPAL 2013 Ferrara        1-1 (1-0)
+  Sun Mar/2
+    15.00  FC Legnago Salus        v AC Milan II              2-1 (1-1)
+           US Pianese              v AC Rimini                0-1 (0-1)
+           Ternana Calcio          v SEF Torres 1903          3-1 (2-1)
+    17.30  Campobasso              v ASD Pineto Calcio        1-3 (1-2)
+  Mon Mar/3
+    20.30  AC Perugia Calcio       v Ascoli Calcio            2-1 (1-1)
+
+
+» Matchday 30
+  Fri Mar/7
+    20.30  SPAL 2013 Ferrara       v US Arezzo                0-2 (0-2)
+           Delfino Pescara         v Lucchese                 4-1 (0-0)
+           AS Gubbio               v US Pianese               1-0 (1-0)
+           Virtus Entella          v US Pontedera             3-1 (3-0)
+           AC Carpi                v Vis Pesaro               2-1 (0-0)
+  Sat Mar/8
+    15.00  SEF Torres 1903         v FC Legnago Salus         0-0
+           AC Milan II             v AC Perugia Calcio        0-0
+           AC Rimini               v Ternana Calcio           0-1 (0-1)
+    17.30  USD Sestri Levante      v Campobasso               2-0 (1-0)
+           Ascoli Calcio           v ASD Pineto Calcio        0-1 (0-0)
+
+
+» Matchday 31
+  Tue Mar/11
+    18.30  US Arezzo               v AC Carpi                 0-1 (0-1)
+           ASD Pineto Calcio       v AC Milan II              2-1 (0-1)
+           US Pontedera            v Delfino Pescara          0-3 (0-1)
+           FC Legnago Salus        v AC Rimini                1-3 (0-1)
+           US Pianese              v SPAL 2013 Ferrara        0-1 (0-0)
+           AC Perugia Calcio       v SEF Torres 1903          1-0 (1-0)
+    20.45  Campobasso              v Ascoli Calcio            2-0 (0-0)
+           Vis Pesaro              v AS Gubbio                1-1 (1-1)
+           Ternana Calcio          v USD Sestri Levante       1-0 (1-0)
+           Lucchese                v Virtus Entella           2-2 (1-0)
+
+
+» Matchday 32
+  Sat Mar/15
+    15.00  Ascoli Calcio           v US Arezzo                1-0 (0-0)
+           Lucchese                v Campobasso               2-0 (0-0)
+           AC Rimini               v AS Gubbio                0-1 (0-0)
+           AC Carpi                v ASD Pineto Calcio        1-1 (1-1)
+           AC Milan II             v US Pontedera             1-1 (0-0)
+           Delfino Pescara         v Vis Pesaro               2-2 (1-1)
+    17.30  AC Perugia Calcio       v FC Legnago Salus         2-1 (2-0)
+  Sun Mar/16
+    15.00  US Pianese              v SEF Torres 1903          2-1 (1-1)
+  Mon Mar/17
+    20.30  Virtus Entella          v USD Sestri Levante       4-0 (0-0)
+           SPAL 2013 Ferrara       v Ternana Calcio           0-3 (0-1)
+
+
+» Matchday 33
+  Sat Mar/22
+    15.00  Campobasso              v AC Carpi                 2-1 (0-1)
+           Vis Pesaro              v US Pianese               2-0 (0-0)
+           SEF Torres 1903         v AC Rimini                2-0 (0-0)
+    17.30  US Pontedera            v Ascoli Calcio            1-1 (0-0)
+           FC Legnago Salus        v Lucchese                 1-1 (0-1)
+    19.30  US Arezzo               v AC Milan II              1-0 (0-0)
+  Sun Mar/23
+    15.00  Ternana Calcio          v AC Perugia Calcio        0-0
+           USD Sestri Levante      v Delfino Pescara          3-1 (2-1)
+           AS Gubbio               v Virtus Entella           0-2 (0-2)
+    17.30  ASD Pineto Calcio       v SPAL 2013 Ferrara        3-2 (2-0)
+
+
+» Matchday 34
+  Fri Mar/28
+    20.30  AC Perugia Calcio       v ASD Pineto Calcio
+           US Pianese              v US Pontedera
+  Sat Mar/29
+    15.00  Delfino Pescara         v US Arezzo
+           AC Milan II             v Campobasso
+    17.30  AC Carpi                v AS Gubbio
+  Sun Mar/30
+    15.00  AC Rimini               v USD Sestri Levante
+           Lucchese                v Ternana Calcio
+           Ascoli Calcio           v Vis Pesaro
+    17.30  SPAL 2013 Ferrara       v FC Legnago Salus
+  Mon Mar/31
+    20.30  Virtus Entella          v SEF Torres 1903
+
+
+» Matchday 35
+  Fri Apr/4
+    20.30  ASD Pineto Calcio       v Delfino Pescara
+           FC Legnago Salus        v US Pianese
+  Sat Apr/5
+    15.00  USD Sestri Levante      v AC Milan II
+           Vis Pesaro              v AC Rimini
+    17.30  AS Gubbio               v Ascoli Calcio
+           US Pontedera            v Lucchese
+  Sun Apr/6
+    12.30  SEF Torres 1903         v SPAL 2013 Ferrara
+    15.00  Ternana Calcio          v AC Carpi
+           US Arezzo               v AC Perugia Calcio
+           Campobasso              v Virtus Entella
+
+
+» Matchday 36
+  Sat Apr/12
+    15.00  US Pianese              v ASD Pineto Calcio
+    17.30  SPAL 2013 Ferrara       v US Pontedera
+           AC Perugia Calcio       v USD Sestri Levante
+  Sun Apr/13
+    12.30  AC Milan II             v Ternana Calcio
+    15.00  Virtus Entella          v US Arezzo
+           Delfino Pescara         v AS Gubbio
+           Ascoli Calcio           v SEF Torres 1903
+           Lucchese                v Vis Pesaro
+    17.30  AC Rimini               v Campobasso
+  Mon Apr/14
+    20.30  AC Carpi                v FC Legnago Salus
+
+
+» Matchday 37
+  Sat Apr/19
+           USD Sestri Levante      v Ascoli Calcio
+           SEF Torres 1903         v AC Carpi
+           US Arezzo               v Lucchese
+           AS Gubbio               v AC Milan II
+           Campobasso              v AC Perugia Calcio
+           FC Legnago Salus        v Delfino Pescara
+           Ternana Calcio          v US Pianese
+           US Pontedera            v AC Rimini
+           Vis Pesaro              v SPAL 2013 Ferrara
+           ASD Pineto Calcio       v Virtus Entella
+
+
+» Matchday 38
+  Sun Apr/27
+           US Pianese              v US Arezzo
+           Delfino Pescara         v Campobasso
+           SPAL 2013 Ferrara       v AS Gubbio
+           Ascoli Calcio           v FC Legnago Salus
+           AC Rimini               v ASD Pineto Calcio
+           AC Perugia Calcio       v US Pontedera
+           AC Carpi                v USD Sestri Levante
+           Virtus Entella          v Ternana Calcio
+           Lucchese                v SEF Torres 1903
+           AC Milan II             v Vis Pesaro

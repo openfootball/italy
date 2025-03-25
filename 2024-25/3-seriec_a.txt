@@ -1,0 +1,615 @@
+= Italian Serie C (North & Central West) 2024/25
+
+# Date       Fri Aug/23 2024 - Sun Apr/27 2025 (247d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Aug/23 2024
+    20.45  Feralpisalò             v Novara Calcio            0-0
+  Sat Aug/24
+    18.00  UC AlbinoLeffe          v Caldiero Terme           2-3 (1-1)
+           Atalanta II             v ASC Alcione              1-2 (0-1)
+           US Triestina            v Arzignano Valchiampo     3-0 (0-0)
+  Sun Aug/25
+    18.00  Calcio Lecco 1912       v Clodiense SSD            1-0 (0-0)
+           Aurora Pro Patria       v AC Renate                0-1 (0-0)
+           Virtus Verona           v FC Lumezzane             0-1 (0-1)
+    20.45  L.R. Vicenza            v Giana Erminio            2-2 (1-1)
+  Mon Aug/26
+    20.45  Calcio Padova           v Trento Calcio 1921       3-0 (0-0)
+           Pro Vercelli            v US Pergolettese          1-0 (0-0)
+
+
+» Matchday 2
+  Fri Aug/30
+    20.45  ASC Alcione             v Virtus Verona            0-0
+  Sat Aug/31
+    18.00  Giana Erminio           v Aurora Pro Patria        1-1 (0-1)
+           AC Renate               v Feralpisalò              1-0 (0-0)
+    20.45  Clodiense SSD           v US Triestina             1-0 (1-0)
+  Sun Sep/1
+    18.00  Caldiero Terme          v Calcio Padova            0-2 (0-1)
+           FC Lumezzane            v Pro Vercelli             0-2 (0-1)
+           Novara Calcio           v Atalanta II              0-3 (0-1)
+           US Pergolettese         v L.R. Vicenza             0-1 (0-1)
+           Trento Calcio 1921      v Calcio Lecco 1912        1-1 (0-1)
+  Mon Sep/2
+    20.45  Arzignano Valchiampo    v UC AlbinoLeffe           1-1 (0-0)
+
+
+» Matchday 3
+  Sat Sep/7
+    16.15  Aurora Pro Patria       v Feralpisalò              0-0
+    18.30  ASC Alcione             v AC Renate                0-1 (0-1)
+           Atalanta II             v Trento Calcio 1921       1-1 (1-0)
+           Calcio Lecco 1912       v FC Lumezzane             1-1 (1-0)
+           US Pergolettese         v Clodiense SSD            2-2 (2-2)
+           Virtus Verona           v Novara Calcio            1-0 (0-0)
+    20.45  UC AlbinoLeffe          v L.R. Vicenza             1-1 (0-1)
+  Sun Sep/8
+    18.30  Pro Vercelli            v Giana Erminio            0-1 (0-0)
+           US Triestina            v Caldiero Terme           0-1 (0-1)
+    20.45  Arzignano Valchiampo    v Calcio Padova            1-4 (0-1)
+
+
+» Matchday 4
+  Fri Sep/13
+    20.45  UC AlbinoLeffe          v US Pergolettese          3-0 (1-0)
+           Feralpisalò             v Virtus Verona            1-0 (0-0)
+           AC Renate               v Giana Erminio            1-0 (1-0)
+  Sat Sep/14
+    20.45  Calcio Padova           v ASC Alcione              1-0 (1-0)
+  Sun Sep/15
+    18.30  Caldiero Terme          v Pro Vercelli             4-1 (2-0)
+           L.R. Vicenza            v Aurora Pro Patria        2-0 (1-0)
+           Trento Calcio 1921      v Arzignano Valchiampo     3-2 (1-1)
+           Clodiense SSD           v FC Lumezzane             1-1 (0-1)
+    20.45  US Triestina            v Atalanta II              1-5 (1-2)
+  Mon Sep/16
+    20.45  Novara Calcio           v Calcio Lecco 1912        0-0
+
+
+» Matchday 5
+  Fri Sep/20
+    20.45  Giana Erminio           v UC AlbinoLeffe           0-2 (0-2)
+           Pro Vercelli            v Calcio Padova            1-3 (1-1)
+           Virtus Verona           v AC Renate                1-2 (1-0)
+  Sat Sep/21
+    18.30  ASC Alcione             v L.R. Vicenza             1-2 (0-0)
+           Arzignano Valchiampo    v Clodiense SSD            1-0 (0-0)
+           Calcio Lecco 1912       v US Triestina             2-1 (1-1)
+           US Pergolettese         v Feralpisalò              2-2 (0-2)
+  Sun Sep/22
+    18.30  FC Lumezzane            v Atalanta II              2-1 (2-0)
+           Trento Calcio 1921      v Caldiero Terme           1-0 (1-0)
+  Tue Oct/1
+    18.30  Aurora Pro Patria       v Novara Calcio            1-1 (1-1)
+
+
+» Matchday 6
+  Tue Sep/24
+    18.30  UC AlbinoLeffe          v Aurora Pro Patria        0-0
+    20.45  L.R. Vicenza            v AC Renate                1-0 (0-0)
+           Novara Calcio           v Pro Vercelli             1-0 (0-0)
+           Calcio Padova           v Virtus Verona            4-1 (0-1)
+  Wed Sep/25
+    18.30  Atalanta II             v US Pergolettese          5-1 (0-0)
+           Caldiero Terme          v ASC Alcione              0-2 (0-0)
+           Calcio Lecco 1912       v Arzignano Valchiampo     3-2 (0-2)
+    20.30  Feralpisalò             v Giana Erminio            2-0 (0-0)
+  Thu Sep/26
+    18.30  Clodiense SSD           v Trento Calcio 1921       2-2 (2-1)
+    20.45  US Triestina            v FC Lumezzane             2-3 (1-2)
+
+
+» Matchday 7
+  Sat Sep/28
+    18.30  Aurora Pro Patria       v Calcio Padova            1-1 (1-0)
+    20.45  ASC Alcione             v Novara Calcio            2-1 (1-0)
+           L.R. Vicenza            v Feralpisalò              1-0 (0-0)
+           Pro Vercelli            v Calcio Lecco 1912        3-2 (2-2)
+           AC Renate               v UC AlbinoLeffe           0-2 (0-1)
+  Sun Sep/29
+    12.30  Trento Calcio 1921      v US Triestina             1-1 (0-1)
+    20.45  Giana Erminio           v Clodiense SSD            2-1 (0-0)
+           Virtus Verona           v Atalanta II              1-2 (1-1)
+  Mon Sep/30
+    20.45  FC Lumezzane            v Arzignano Valchiampo     1-0 (1-0)
+           US Pergolettese         v Caldiero Terme           3-2 (3-0)
+
+
+» Matchday 8
+  Fri Oct/4
+    20.30  Atalanta II             v Giana Erminio            1-3 (0-2)
+           Calcio Lecco 1912       v AC Renate                0-2 (0-1)
+  Sat Oct/5
+    15.00  Novara Calcio           v US Pergolettese          3-1 (2-1)
+           US Triestina            v Pro Vercelli             1-1 (0-0)
+    17.30  Arzignano Valchiampo    v ASC Alcione              0-2 (0-1)
+           FC Lumezzane            v Trento Calcio 1921       0-2 (0-1)
+  Sun Oct/6
+    15.00  Calcio Padova           v L.R. Vicenza             1-0 (1-0)
+    17.30  Caldiero Terme          v Virtus Verona            0-3 (0-2)
+           Clodiense SSD           v Aurora Pro Patria        1-2 (0-2)
+  Mon Oct/7
+    20.30  Feralpisalò             v UC AlbinoLeffe           1-0 (1-0)
+
+
+» Matchday 9
+  Fri Oct/11
+    20.30  AC Renate               v Novara Calcio            0-1 (0-0)
+  Sat Oct/12
+    15.00  ASC Alcione             v US Triestina             1-0 (1-0)
+           Virtus Verona           v Arzignano Valchiampo     2-1 (1-1)
+    17.30  UC AlbinoLeffe          v Atalanta II              2-2 (1-0)
+           Giana Erminio           v Calcio Padova            0-1 (0-1)
+           Aurora Pro Patria       v Calcio Lecco 1912        2-1 (0-1)
+  Sun Oct/13
+    15.00  Feralpisalò             v Caldiero Terme           2-0 (0-0)
+           L.R. Vicenza            v FC Lumezzane             1-1 (0-1)
+           US Pergolettese         v Trento Calcio 1921       0-0
+           Pro Vercelli            v Clodiense SSD            1-1 (1-0)
+
+
+» Matchday 10
+  Fri Oct/18
+    20.30  Caldiero Terme          v Aurora Pro Patria        1-1 (1-0)
+  Sat Oct/19
+    15.00  Arzignano Valchiampo    v L.R. Vicenza             1-2 (0-1)
+           FC Lumezzane            v Giana Erminio            3-2 (1-0)
+    17.30  Atalanta II             v AC Renate                4-0 (2-0)
+           Novara Calcio           v UC AlbinoLeffe           2-0 (1-0)
+           US Triestina            v Virtus Verona            0-2 (0-1)
+           Clodiense SSD           v ASC Alcione              1-3 (1-2)
+  Sun Oct/20
+    12.30  Calcio Lecco 1912       v US Pergolettese          1-0 (1-0)
+    15.00  Trento Calcio 1921      v Pro Vercelli             1-0 (1-0)
+    17.30  Calcio Padova           v Feralpisalò              0-0
+
+
+» Matchday 11
+  Fri Oct/25
+    20.30  Giana Erminio           v Novara Calcio            2-2 (1-2)
+           Aurora Pro Patria       v Trento Calcio 1921       1-1 (0-1)
+           Pro Vercelli            v Arzignano Valchiampo     0-3 (0-1)
+  Sat Oct/26
+    15.00  L.R. Vicenza            v Atalanta II              3-0 (1-0)
+           US Pergolettese         v US Triestina             1-0 (0-0)
+    17.30  ASC Alcione             v FC Lumezzane             1-0 (1-0)
+           AC Renate               v Caldiero Terme           0-0
+           Virtus Verona           v Clodiense SSD            4-1 (3-0)
+  Sun Oct/27
+    15.00  UC AlbinoLeffe          v Calcio Padova            0-2 (0-0)
+    17.30  Feralpisalò             v Calcio Lecco 1912        2-1 (0-0)
+
+
+» Matchday 12
+  Tue Oct/29
+    18.30  Arzignano Valchiampo    v Aurora Pro Patria        1-0 (0-0)
+           Atalanta II             v Pro Vercelli             2-0 (0-0)
+           Caldiero Terme          v Giana Erminio            1-0 (0-0)
+           Trento Calcio 1921      v Virtus Verona            1-1 (0-0)
+    20.45  FC Lumezzane            v US Pergolettese          0-2 (0-2)
+           Novara Calcio           v L.R. Vicenza             0-0
+  Wed Oct/30
+    18.30  Calcio Lecco 1912       v ASC Alcione              1-0 (1-0)
+           US Triestina            v UC AlbinoLeffe           1-1 (0-0)
+           Clodiense SSD           v Feralpisalò              0-1 (0-0)
+    20.45  Calcio Padova           v AC Renate                1-0 (0-0)
+
+
+» Matchday 13
+  Sat Nov/2
+    15.00  Giana Erminio           v Arzignano Valchiampo     0-1 (0-1)
+           Novara Calcio           v Caldiero Terme           3-1 (1-0)
+           AC Renate               v FC Lumezzane             1-2 (0-1)
+           Virtus Verona           v Pro Vercelli             0-0
+    17.30  ASC Alcione             v Trento Calcio 1921       0-1 (0-0)
+  Sun Nov/3
+    17.30  UC AlbinoLeffe          v Clodiense SSD            1-0 (0-0)
+           US Pergolettese         v Calcio Padova            1-2 (0-1)
+           Aurora Pro Patria       v US Triestina             0-0
+    19.45  Feralpisalò             v Atalanta II              3-1 (0-0)
+  Mon Nov/4
+    20.30  L.R. Vicenza            v Calcio Lecco 1912        1-0 (0-0)
+
+
+» Matchday 14
+  Fri Nov/8
+    20.30  Pro Vercelli            v ASC Alcione              1-0 (0-0)
+           Trento Calcio 1921      v Feralpisalò              3-2 (0-1)
+           US Triestina            v Giana Erminio            0-1 (0-0)
+  Sat Nov/9
+    15.00  Arzignano Valchiampo    v US Pergolettese          1-1 (0-0)
+           Atalanta II             v Aurora Pro Patria        2-1 (0-1)
+           Caldiero Terme          v L.R. Vicenza             0-2 (0-1)
+    17.30  Calcio Lecco 1912       v Virtus Verona            1-1 (1-1)
+  Sun Nov/10
+    17.30  FC Lumezzane            v UC AlbinoLeffe           1-0 (0-0)
+           Clodiense SSD           v AC Renate                2-2 (2-0)
+  Mon Nov/11
+    20.30  Calcio Padova           v Novara Calcio            2-1 (2-0)
+
+
+» Matchday 15
+  Fri Nov/15
+    20.30  Caldiero Terme          v FC Lumezzane             2-2 (0-1)
+  Sat Nov/16
+    15.00  UC AlbinoLeffe          v Trento Calcio 1921       0-0
+           US Pergolettese         v ASC Alcione              1-2 (1-2)
+           Aurora Pro Patria       v Virtus Verona            1-1 (0-1)
+           AC Renate               v Arzignano Valchiampo     0-0
+    17.30  Giana Erminio           v Calcio Lecco 1912        1-0 (1-0)
+  Sun Nov/17
+    12.30  Novara Calcio           v Clodiense SSD            0-0
+    15.00  L.R. Vicenza            v Pro Vercelli             2-0 (1-0)
+    17.30  Feralpisalò             v US Triestina             2-0 (2-0)
+  Wed Dec/4
+    20.00  Calcio Padova           v Atalanta II              3-1 (3-0)
+
+
+» Matchday 16
+  Fri Nov/22
+    20.30  US Triestina            v AC Renate                0-1 (0-0)
+           Clodiense SSD           v L.R. Vicenza             1-2 (0-2)
+  Sat Nov/23
+    15.00  Atalanta II             v Caldiero Terme           2-0 (0-0)
+           Pro Vercelli            v UC AlbinoLeffe           0-2 (0-0)
+           Trento Calcio 1921      v Giana Erminio            2-0 (0-0)
+    17.30  Calcio Lecco 1912       v Calcio Padova            0-3 (0-0)
+           FC Lumezzane            v Feralpisalò              1-3 (1-1)
+  Sun Nov/24
+    15.00  ASC Alcione             v Aurora Pro Patria        2-0 (2-0)
+           Arzignano Valchiampo    v Novara Calcio            0-2 (0-1)
+           Virtus Verona           v US Pergolettese          1-2 (0-2)
+
+
+» Matchday 17
+  Fri Nov/29
+    20.30  Feralpisalò             v ASC Alcione              1-1 (0-1)
+  Sat Nov/30
+    15.00  UC AlbinoLeffe          v Calcio Lecco 1912        0-0
+    17.30  AC Renate               v Trento Calcio 1921       1-1 (1-0)
+  Sun Dec/1
+    12.30  Caldiero Terme          v Arzignano Valchiampo     1-2 (0-1)
+    15.00  Novara Calcio           v FC Lumezzane             0-0
+    15.30  Calcio Padova           v US Triestina             1-1 (1-0)
+    17.30  Giana Erminio           v US Pergolettese          0-0
+           Aurora Pro Patria       v Pro Vercelli             1-1 (0-0)
+    19.30  L.R. Vicenza            v Virtus Verona            3-0 (0-0)
+  Wed Dec/11
+    14.30  Atalanta II             v Clodiense SSD            2-1 (0-0)
+
+
+» Matchday 18
+  Fri Dec/6
+    20.30  Calcio Lecco 1912       v Caldiero Terme           5-1 (1-1)
+           Trento Calcio 1921      v Novara Calcio            1-3 (1-1)
+  Sat Dec/7
+    15.00  FC Lumezzane            v Aurora Pro Patria        1-1 (1-0)
+           Virtus Verona           v Giana Erminio            1-1 (0-1)
+    17.30  US Pergolettese         v AC Renate                0-1 (0-0)
+  Sun Dec/8
+    12.30  US Triestina            v L.R. Vicenza             2-0 (0-0)
+    15.00  Arzignano Valchiampo    v Atalanta II              3-1 (2-0)
+           Pro Vercelli            v Feralpisalò              1-0 (1-0)
+    17.30  ASC Alcione             v UC AlbinoLeffe           0-2 (0-0)
+  Wed Dec/18
+    20.30  Clodiense SSD           v Calcio Padova            1-2 (0-1)
+
+
+» Matchday 19
+  Fri Dec/13
+    20.30  L.R. Vicenza            v Trento Calcio 1921       3-0 (2-0)
+           AC Renate               v Pro Vercelli             1-0 (1-0)
+  Sat Dec/14
+    15.00  Atalanta II             v Calcio Lecco 1912        5-2 (3-1)
+           Novara Calcio           v US Triestina             2-3 (0-0)
+    17.30  Giana Erminio           v ASC Alcione              0-2 (0-1)
+           Calcio Padova           v FC Lumezzane             2-0 (1-0)
+  Sun Dec/15
+    15.00  Aurora Pro Patria       v US Pergolettese          1-1 (1-1)
+    17.30  Caldiero Terme          v Clodiense SSD            2-2 (1-1)
+           Feralpisalò             v Arzignano Valchiampo     1-1 (0-1)
+  Mon Dec/16
+    14.30  UC AlbinoLeffe          v Virtus Verona            3-1 (1-1)
+
+
+» Matchday 20
+  Fri Dec/20
+    20.30  ASC Alcione             v Atalanta II              0-1 (0-0)
+  Sat Dec/21
+    15.00  Novara Calcio           v Feralpisalò              0-1 (0-1)
+           Clodiense SSD           v Calcio Lecco 1912        1-1 (0-0)
+           AC Renate               v Aurora Pro Patria        1-0 (1-0)
+           Arzignano Valchiampo    v US Triestina             3-0 (2-0)
+           FC Lumezzane            v Virtus Verona            0-3 (0-2)
+  Sun Dec/22
+    15.00  Caldiero Terme          v UC AlbinoLeffe           0-2 (0-0)
+           Giana Erminio           v L.R. Vicenza             0-0
+           Trento Calcio 1921      v Calcio Padova            0-1 (0-1)
+           US Pergolettese         v Pro Vercelli             1-0 (0-0)
+
+
+» Matchday 21
+  Sat Jan/4 2025
+    15.00  Virtus Verona           v ASC Alcione              1-0 (1-0)
+           US Triestina            v Clodiense SSD            3-0 (0-0)
+    17.30  UC AlbinoLeffe          v Arzignano Valchiampo     1-1 (0-1)
+           Atalanta II             v Novara Calcio            0-0
+           Feralpisalò             v AC Renate                3-1 (2-0)
+  Sun Jan/5
+    17.30  Calcio Padova           v Caldiero Terme           1-0 (1-0)
+           Calcio Lecco 1912       v Trento Calcio 1921       1-2 (0-0)
+  Mon Jan/6
+    15.00  Aurora Pro Patria       v Giana Erminio            1-2 (1-1)
+           Pro Vercelli            v FC Lumezzane             3-3 (2-0)
+    17.30  L.R. Vicenza            v US Pergolettese          2-0 (1-0)
+
+
+» Matchday 22
+  Sat Jan/11
+    15.00  Trento Calcio 1921      v Atalanta II              2-2 (1-2)
+           FC Lumezzane            v Calcio Lecco 1912        4-0 (1-0)
+           Giana Erminio           v Pro Vercelli             1-2 (1-1)
+           Caldiero Terme          v US Triestina             0-2 (0-0)
+           Novara Calcio           v Virtus Verona            3-0 (1-0)
+    17.30  AC Renate               v ASC Alcione              0-1 (0-1)
+  Sun Jan/12
+    15.00  L.R. Vicenza            v UC AlbinoLeffe           2-0 (0-0)
+           Calcio Padova           v Arzignano Valchiampo     1-1 (1-0)
+    17.30  Clodiense SSD           v US Pergolettese          0-1 (0-1)
+           Feralpisalò             v Aurora Pro Patria        1-0 (0-0)
+
+
+» Matchday 23
+  Fri Jan/17
+    20.30  Calcio Lecco 1912       v Novara Calcio            1-1 (1-1)
+  Sat Jan/18
+    15.00  Pro Vercelli            v Caldiero Terme           2-1 (1-0)
+           Virtus Verona           v Feralpisalò              1-3 (0-1)
+           Giana Erminio           v AC Renate                2-1 (0-0)
+           Atalanta II             v US Triestina             3-1 (2-0)
+  Sun Jan/19
+    15.00  US Pergolettese         v UC AlbinoLeffe           1-2 (1-1)
+           ASC Alcione             v Calcio Padova            0-2 (0-1)
+           Arzignano Valchiampo    v Trento Calcio 1921       1-2 (1-1)
+    17.30  Aurora Pro Patria       v L.R. Vicenza             0-3 (0-2)
+           FC Lumezzane            v Clodiense SSD            0-2 (0-1)
+
+
+» Matchday 24
+  Fri Jan/24
+    20.30  Feralpisalò             v US Pergolettese          1-2 (0-2)
+  Sat Jan/25
+    15.00  Clodiense SSD           v Arzignano Valchiampo     1-1 (1-0)
+           Atalanta II             v FC Lumezzane             0-1 (0-1)
+           Novara Calcio           v Aurora Pro Patria        2-1 (0-1)
+           AC Renate               v Virtus Verona            0-3 (0-0)
+    17.30  Calcio Padova           v Pro Vercelli             1-1 (0-1)
+  Sun Jan/26
+    15.00  L.R. Vicenza            v ASC Alcione              4-1 (2-1)
+    17.30  UC AlbinoLeffe          v Giana Erminio            0-3 (0-2)
+           US Triestina            v Calcio Lecco 1912        1-1 (1-0)
+           Caldiero Terme          v Trento Calcio 1921       2-0 (1-0)
+
+
+» Matchday 25
+  Sat Feb/1
+    15.00  Aurora Pro Patria       v UC AlbinoLeffe           1-2 (0-0)
+           Arzignano Valchiampo    v Calcio Lecco 1912        2-0 (1-0)
+           Virtus Verona           v Calcio Padova            1-0 (1-0)
+    17.30  ASC Alcione             v Caldiero Terme           1-1 (0-1)
+           AC Renate               v L.R. Vicenza             0-1 (0-0)
+           Trento Calcio 1921      v Clodiense SSD            5-0 (1-0)
+  Sun Feb/2
+    15.00  US Pergolettese         v Atalanta II              3-1 (0-1)
+    17.30  Giana Erminio           v Feralpisalò              3-1 (1-0)
+           FC Lumezzane            v US Triestina             1-3 (0-3)
+  Mon Feb/3
+    20.45  Pro Vercelli            v Novara Calcio            1-0 (0-0)
+
+
+» Matchday 26
+  Sat Feb/8
+    15.00  Clodiense SSD           v Giana Erminio            0-1 (0-0)
+           Caldiero Terme          v US Pergolettese          0-1 (0-1)
+           Atalanta II             v Virtus Verona            0-3 (0-0)
+    17.30  Arzignano Valchiampo    v FC Lumezzane             1-1 (0-0)
+  Sun Feb/9
+    15.00  Novara Calcio           v ASC Alcione              1-1 (0-1)
+           Feralpisalò             v L.R. Vicenza             2-0 (2-0)
+           Calcio Padova           v Aurora Pro Patria        3-1 (0-0)
+    17.30  Calcio Lecco 1912       v Pro Vercelli             2-1 (1-0)
+           UC AlbinoLeffe          v AC Renate                1-0 (0-0)
+  Mon Feb/10
+    20.30  US Triestina            v Trento Calcio 1921       1-0 (0-0)
+
+
+» Matchday 27
+  Sat Feb/15
+    15.00  ASC Alcione             v Arzignano Valchiampo     0-1 (0-0)
+           US Pergolettese         v Novara Calcio            1-2 (1-1)
+           Pro Vercelli            v US Triestina             0-1 (0-0)
+           Aurora Pro Patria       v Clodiense SSD            3-1 (1-1)
+    17.30  AC Renate               v Calcio Lecco 1912        1-0 (0-0)
+  Sun Feb/16
+    15.00  Trento Calcio 1921      v FC Lumezzane             2-2 (1-2)
+           L.R. Vicenza            v Calcio Padova            1-1 (1-0)
+    17.30  Giana Erminio           v Atalanta II              2-1 (2-0)
+           UC AlbinoLeffe          v Feralpisalò              0-0
+  Mon Feb/17
+    20.30  Virtus Verona           v Caldiero Terme           5-2 (3-1)
+
+
+» Matchday 28
+  Fri Feb/21
+    20.30  Trento Calcio 1921      v US Pergolettese          1-1 (0-0)
+  Sat Feb/22
+    15.00  US Triestina            v ASC Alcione              1-0 (1-0)
+           Caldiero Terme          v Feralpisalò              2-3 (1-2)
+           Arzignano Valchiampo    v Virtus Verona            0-2 (0-1)
+    17.30  Calcio Lecco 1912       v Aurora Pro Patria        2-1 (0-1)
+  Sun Feb/23
+    15.00  Clodiense SSD           v Pro Vercelli             2-0 (2-0)
+    17.30  FC Lumezzane            v L.R. Vicenza             0-1 (0-1)
+           Novara Calcio           v AC Renate                1-0 (1-0)
+    19.30  Calcio Padova           v Giana Erminio            3-0 (1-0)
+  Mon Feb/24
+    20.30  Atalanta II             v UC AlbinoLeffe           1-1 (1-1)
+
+
+» Matchday 29
+  Fri Feb/28
+    20.30  Giana Erminio           v FC Lumezzane             1-1 (0-0)
+           ASC Alcione             v Clodiense SSD            2-0 (0-0)
+  Sat Mar/1
+    15.00  Aurora Pro Patria       v Caldiero Terme           0-0
+           US Pergolettese         v Calcio Lecco 1912        0-0
+           Virtus Verona           v US Triestina             2-2 (0-2)
+    17.30  Pro Vercelli            v Trento Calcio 1921       0-0
+  Sun Mar/2
+    17.30  L.R. Vicenza            v Arzignano Valchiampo     4-0 (2-0)
+           UC AlbinoLeffe          v Novara Calcio            1-1 (0-1)
+    19.30  Feralpisalò             v Calcio Padova            1-0 (0-0)
+  Mon Mar/3
+    20.30  AC Renate               v Atalanta II              1-0 (1-0)
+
+
+» Matchday 30
+  Sun Mar/9
+    12.30  Atalanta II             v L.R. Vicenza             2-2 (2-0)
+    13.30  Calcio Lecco 1912       v Feralpisalò              0-0
+    15.00  Calcio Padova           v UC AlbinoLeffe           3-0 (1-0)
+           FC Lumezzane            v ASC Alcione              1-1 (0-1)
+           US Triestina            v US Pergolettese          0-0
+           Trento Calcio 1921      v Aurora Pro Patria        0-0
+           Arzignano Valchiampo    v Pro Vercelli             3-1 (1-0)
+    17.30  Novara Calcio           v Giana Erminio            0-1 (0-1)
+           Caldiero Terme          v AC Renate                2-2 (0-1)
+           Clodiense SSD           v Virtus Verona            1-2 (0-2)
+
+
+» Matchday 31
+  Thu Mar/13
+    18.30  Aurora Pro Patria       v Arzignano Valchiampo     1-0 (1-0)
+           Giana Erminio           v Caldiero Terme           3-1 (1-0)
+           US Pergolettese         v FC Lumezzane             1-0 (1-0)
+           AC Renate               v Calcio Padova            3-2 (2-1)
+           Virtus Verona           v Trento Calcio 1921       1-2 (1-1)
+           Feralpisalò             v Clodiense SSD            3-1 (1-0)
+    20.45  Pro Vercelli            v Atalanta II              0-0
+           ASC Alcione             v Calcio Lecco 1912        0-0
+           L.R. Vicenza            v Novara Calcio            1-0 (0-0)
+           UC AlbinoLeffe          v US Triestina             2-0 (1-0)
+
+
+» Matchday 32
+  Sun Mar/16
+    12.30  Atalanta II             v Feralpisalò              4-1 (1-1)
+    15.00  FC Lumezzane            v AC Renate                0-2 (0-1)
+    17.30  Clodiense SSD           v UC AlbinoLeffe           1-3 (0-1)
+           Caldiero Terme          v Novara Calcio            2-0 (1-0)
+           US Triestina            v Aurora Pro Patria        1-0 (0-0)
+           Pro Vercelli            v Virtus Verona            0-0
+    20.30  Arzignano Valchiampo    v Giana Erminio            1-0 (0-0)
+  Mon Mar/17
+    20.30  Trento Calcio 1921      v ASC Alcione              1-0 (1-0)
+           Calcio Lecco 1912       v L.R. Vicenza             1-1 (0-1)
+           Calcio Padova           v US Pergolettese          2-1 (0-1)
+
+
+» Matchday 33
+  Sat Mar/22
+    15.00  Giana Erminio           v US Triestina             3-0 (2-0)
+    17.30  ASC Alcione             v Pro Vercelli             1-2 (0-1)
+           AC Renate               v Clodiense SSD            2-1 (1-0)
+  Sun Mar/23
+    12.30  US Pergolettese         v Arzignano Valchiampo     0-2 (0-1)
+    15.00  Novara Calcio           v Calcio Padova            2-1 (1-0)
+           Feralpisalò             v Trento Calcio 1921       2-0 (1-0)
+    17.30  L.R. Vicenza            v Caldiero Terme           2-1 (2-0)
+           Virtus Verona           v Calcio Lecco 1912        1-1 (0-1)
+           UC AlbinoLeffe          v FC Lumezzane             2-0 (1-0)
+  Wed Apr/2
+    18.30  Aurora Pro Patria       v Atalanta II
+
+
+» Matchday 34
+  Fri Mar/28
+    20.30  Arzignano Valchiampo    v AC Renate
+  Sat Mar/29
+    15.00  US Triestina            v Feralpisalò
+    17.30  Clodiense SSD           v Novara Calcio
+           ASC Alcione             v US Pergolettese
+  Sun Mar/30
+    12.30  Atalanta II             v Calcio Padova
+    15.00  Pro Vercelli            v L.R. Vicenza
+    17.30  Trento Calcio 1921      v UC AlbinoLeffe
+           FC Lumezzane            v Caldiero Terme
+           Virtus Verona           v Aurora Pro Patria
+  Mon Mar/31
+    20.30  Calcio Lecco 1912       v Giana Erminio
+
+
+» Matchday 35
+  Sat Apr/5
+    15.00  Giana Erminio           v Trento Calcio 1921
+    17.30  Novara Calcio           v Arzignano Valchiampo
+           Feralpisalò             v FC Lumezzane
+           US Pergolettese         v Virtus Verona
+  Sun Apr/6
+    15.00  L.R. Vicenza            v Clodiense SSD
+    17.30  Aurora Pro Patria       v ASC Alcione
+           Caldiero Terme          v Atalanta II
+           AC Renate               v US Triestina
+  Mon Apr/7
+    20.30  Calcio Padova           v Calcio Lecco 1912
+           UC AlbinoLeffe          v Pro Vercelli
+
+
+» Matchday 36
+  Fri Apr/11
+    20.30  Arzignano Valchiampo    v Caldiero Terme
+           ASC Alcione             v Feralpisalò
+           FC Lumezzane            v Novara Calcio
+  Sat Apr/12
+    15.00  Clodiense SSD           v Atalanta II
+           Trento Calcio 1921      v AC Renate
+    17.30  Calcio Lecco 1912       v UC AlbinoLeffe
+           Pro Vercelli            v Aurora Pro Patria
+  Sun Apr/13
+    15.00  Virtus Verona           v L.R. Vicenza
+           US Triestina            v Calcio Padova
+    17.30  US Pergolettese         v Giana Erminio
+
+
+» Matchday 37
+  Fri Apr/18
+    20.00  UC AlbinoLeffe          v ASC Alcione
+           Atalanta II             v Arzignano Valchiampo
+           Caldiero Terme          v Calcio Lecco 1912
+           Aurora Pro Patria       v FC Lumezzane
+           AC Renate               v US Pergolettese
+           Feralpisalò             v Pro Vercelli
+           Novara Calcio           v Trento Calcio 1921
+           L.R. Vicenza            v US Triestina
+           Calcio Padova           v Clodiense SSD
+           Giana Erminio           v Virtus Verona
+
+
+» Matchday 38
+  Sun Apr/27
+           Virtus Verona           v UC AlbinoLeffe
+           Calcio Lecco 1912       v Atalanta II
+           Clodiense SSD           v Caldiero Terme
+           Arzignano Valchiampo    v Feralpisalò
+           ASC Alcione             v Giana Erminio
+           Trento Calcio 1921      v L.R. Vicenza
+           US Triestina            v Novara Calcio
+           FC Lumezzane            v Calcio Padova
+           US Pergolettese         v Aurora Pro Patria
+           Pro Vercelli            v AC Renate
