@@ -1,0 +1,743 @@
+= Italian Serie B 2016/17
+
+# Date       Fri Aug/26 2016 - Thu Jun/8 2017 (286d)
+# Teams      22
+# Matches    470
+# Stages     Regular Season (462)  Aufstieg (8)
+
+
+
+» Matchday 1
+  Fri Aug/26 2016
+    20.30  Spezia Calcio           v US Salernitana 1919      1-1 (0-1)
+  Sat Aug/27
+    20.30  US Avellino             v Brescia Calcio           1-1 (0-0)
+           FC Bari 1908            v AS Cittadella            1-2 (0-0)
+           Benevento Calcio        v SPAL 2013 Ferrara        2-0 (1-0)
+           Frosinone Calcio        v Virtus Entella           2-0 (1-0)
+           Pro Vercelli            v Ascoli Picchio FC        1-1 (0-1)
+           Hellas Verona           v Latina Calcio            4-1 (3-1)
+           Vicenza Calcio          v Carpi FC                 0-2 (0-0)
+  Sun Aug/28
+    17.30  Novara Calcio           v Trapani Calcio           2-2 (1-1)
+  Mon Aug/29
+    20.30  AC Cesena               v AC Perugia Calcio        1-1 (0-0)
+  Wed Sep/7
+    20.30  Ternana Calcio          v AC Pisa                  1-0 (1-0)
+
+
+» Matchday 2
+  Sat Sep/3
+    18.00  Brescia Calcio          v Frosinone Calcio         2-0 (1-0)
+    20.30  AS Cittadella           v Ternana Calcio           2-0 (1-0)
+           AC Perugia Calcio       v FC Bari 1908             0-1 (0-0)
+  Sun Sep/4
+    17.30  Virtus Entella          v US Avellino              2-0 (1-0)
+    20.30  Carpi FC                v Benevento Calcio         1-1 (0-0)
+           Latina Calcio           v Spezia Calcio            0-0
+           AC Pisa                 v Novara Calcio            1-0 (1-0)
+           US Salernitana 1919     v Hellas Verona            1-1 (0-1)
+           SPAL 2013 Ferrara       v Vicenza Calcio           3-0 (2-0)
+           Trapani Calcio          v Pro Vercelli             1-1 (0-1)
+  Tue Sep/27
+    18.30  Ascoli Picchio FC       v AC Cesena                0-0
+
+
+» Matchday 3
+  Fri Sep/9
+    20.30  AC Cesena               v Carpi FC                 1-0 (0-0)
+  Sat Sep/10
+    15.00  Ascoli Picchio FC       v SPAL 2013 Ferrara        1-1 (0-1)
+           US Avellino             v Trapani Calcio           0-0
+           Benevento Calcio        v Hellas Verona            2-0 (1-0)
+           Brescia Calcio          v AC Perugia Calcio        1-1 (0-0)
+           Frosinone Calcio        v Latina Calcio            2-1 (0-0)
+           Novara Calcio           v US Salernitana 1919      1-0 (1-0)
+           Pro Vercelli            v AS Cittadella            1-5 (0-2)
+           Vicenza Calcio          v FC Bari 1908             0-0
+  Sun Sep/11
+    17.30  Ternana Calcio          v Spezia Calcio            1-1 (0-0)
+  Mon Sep/12
+    20.30  Virtus Entella          v AC Pisa                  0-0
+
+
+» Matchday 4
+  Fri Sep/16
+    19.00  FC Bari 1908            v AC Cesena                2-1 (1-0)
+    21.00  Carpi FC                v Frosinone Calcio         0-0
+           US Salernitana 1919     v Vicenza Calcio           2-3 (1-2)
+  Sat Sep/17
+    15.00  AS Cittadella           v Novara Calcio            3-1 (1-0)
+           Latina Calcio           v Benevento Calcio         1-1 (0-0)
+           AC Perugia Calcio       v Ternana Calcio           1-1 (0-0)
+           AC Pisa                 v Brescia Calcio           1-0 (0-0)
+           SPAL 2013 Ferrara       v Virtus Entella           2-2 (2-2)
+           Spezia Calcio           v Pro Vercelli             2-1 (0-0)
+           Trapani Calcio          v Ascoli Picchio FC        1-1 (0-1)
+           Hellas Verona           v US Avellino              3-1 (3-1)
+
+
+» Matchday 5
+  Mon Sep/19
+    20.30  AC Cesena               v US Salernitana 1919      0-0
+  Tue Sep/20
+    20.30  Ascoli Picchio FC       v Vicenza Calcio           2-0 (1-0)
+           US Avellino             v AS Cittadella            0-1 (0-0)
+           Benevento Calcio        v Pro Vercelli             1-1 (0-1)
+           Brescia Calcio          v Carpi FC                 2-2 (2-1)
+           Virtus Entella          v AC Perugia Calcio        2-1 (1-1)
+           Frosinone Calcio        v AC Pisa                  0-0
+           Novara Calcio           v Latina Calcio            2-2 (2-2)
+           SPAL 2013 Ferrara       v Hellas Verona            1-3 (0-2)
+           Ternana Calcio          v FC Bari 1908             0-0
+           Trapani Calcio          v Spezia Calcio            0-0
+
+
+» Matchday 6
+  Sat Sep/24
+    15.00  FC Bari 1908            v Benevento Calcio         0-4 (0-0)
+           Carpi FC                v Virtus Entella           2-1 (1-0)
+           AS Cittadella           v Brescia Calcio           0-3 (0-2)
+           Latina Calcio           v Ternana Calcio           1-1 (1-1)
+           AC Pisa                 v Ascoli Picchio FC        2-1 (1-0)
+           Pro Vercelli            v AC Cesena                1-0 (1-0)
+           US Salernitana 1919     v Trapani Calcio           2-0 (2-0)
+           Spezia Calcio           v Novara Calcio            1-0 (0-0)
+           Vicenza Calcio          v US Avellino              0-0
+  Sun Sep/25
+    17.30  Hellas Verona           v Frosinone Calcio         2-0 (1-0)
+  Mon Sep/26
+    20.30  AC Perugia Calcio       v SPAL 2013 Ferrara        1-0 (0-0)
+
+
+» Matchday 7
+  Fri Sep/30
+    20.30  Brescia Calcio          v FC Bari 1908             1-1 (0-0)
+  Sat Oct/1
+    15.00  US Avellino             v Pro Vercelli             3-2 (2-1)
+           Benevento Calcio        v Novara Calcio            1-0 (1-0)
+           Virtus Entella          v Vicenza Calcio           4-1 (2-0)
+           Frosinone Calcio        v AC Perugia Calcio        1-2 (1-1)
+           SPAL 2013 Ferrara       v US Salernitana 1919      3-2 (2-1)
+           Ternana Calcio          v Hellas Verona            0-3 (0-3)
+           Trapani Calcio          v AS Cittadella            0-2 (0-0)
+  Sun Oct/2
+    15.00  AC Cesena               v Latina Calcio            2-2 (1-1)
+    17.30  Ascoli Picchio FC       v Spezia Calcio            0-2 (0-2)
+  Mon Oct/3
+    20.30  Carpi FC                v AC Pisa                  1-1 (1-0)
+
+
+» Matchday 8
+  Sat Oct/8
+    18.00  Novara Calcio           v Ascoli Picchio FC        1-0 (0-0)
+    20.30  AS Cittadella           v Frosinone Calcio         2-3 (1-2)
+  Sun Oct/9
+    12.30  Hellas Verona           v Brescia Calcio           2-2 (0-1)
+    15.00  FC Bari 1908            v Virtus Entella           1-1 (1-1)
+           Latina Calcio           v Trapani Calcio           2-0 (2-0)
+           AC Perugia Calcio       v US Avellino              3-0 (2-0)
+           AC Pisa                 v SPAL 2013 Ferrara        0-1 (0-0)
+           Pro Vercelli            v Ternana Calcio           1-0 (0-0)
+           Spezia Calcio           v Carpi FC                 0-1 (0-0)
+           Vicenza Calcio          v AC Cesena                0-0
+    17.30  US Salernitana 1919     v Benevento Calcio         2-1 (2-0)
+
+
+» Matchday 9
+  Fri Oct/14
+    20.30  AC Cesena               v SPAL 2013 Ferrara        1-1 (0-0)
+  Sat Oct/15
+    15.00  Ascoli Picchio FC       v Hellas Verona            1-4 (0-1)
+           US Avellino             v Spezia Calcio            1-0 (0-0)
+           Brescia Calcio          v US Salernitana 1919      1-1 (0-1)
+           Carpi FC                v Latina Calcio            2-0 (1-0)
+           Virtus Entella          v Benevento Calcio         3-2 (2-2)
+           AC Perugia Calcio       v AS Cittadella            2-0 (0-0)
+           AC Pisa                 v Vicenza Calcio           0-1 (0-0)
+  Sun Oct/16
+    15.00  Frosinone Calcio        v FC Bari 1908             3-1 (2-0)
+    17.30  Pro Vercelli            v Novara Calcio            2-1 (0-1)
+  Mon Oct/17
+    20.30  Trapani Calcio          v Ternana Calcio           2-2 (1-0)
+
+
+» Matchday 10
+  Fri Oct/21
+    19.00  AS Cittadella           v Ascoli Picchio FC        0-1 (0-0)
+    21.00  Spezia Calcio           v Brescia Calcio           2-0 (1-0)
+  Sat Oct/22
+    15.00  FC Bari 1908            v Trapani Calcio           3-0 (1-0)
+           Benevento Calcio        v AC Perugia Calcio        0-0
+           Latina Calcio           v AC Pisa                  1-1 (1-0)
+           Novara Calcio           v US Avellino              1-0 (0-0)
+           US Salernitana 1919     v Virtus Entella           1-1 (0-1)
+           SPAL 2013 Ferrara       v Carpi FC                 3-1 (1-0)
+           Ternana Calcio          v AC Cesena                1-1 (1-0)
+           Hellas Verona           v Pro Vercelli             3-0 (1-0)
+           Vicenza Calcio          v Frosinone Calcio         1-1 (0-0)
+
+
+» Matchday 11
+  Mon Oct/24
+    20.30  Spezia Calcio           v AS Cittadella            1-1 (0-1)
+  Tue Oct/25
+    20.30  Ascoli Picchio FC       v US Salernitana 1919      0-0
+           US Avellino             v Ternana Calcio           1-0 (1-0)
+           Brescia Calcio          v Vicenza Calcio           2-1 (0-1)
+           AC Cesena               v Virtus Entella           0-1 (0-0)
+           Frosinone Calcio        v SPAL 2013 Ferrara        2-1 (2-1)
+           Novara Calcio           v FC Bari 1908             1-0 (1-0)
+           AC Perugia Calcio       v Carpi FC                 0-2 (0-1)
+           AC Pisa                 v Hellas Verona            0-0
+           Pro Vercelli            v Latina Calcio            1-1 (0-0)
+           Trapani Calcio          v Benevento Calcio         1-0 (1-0)
+
+
+» Matchday 12
+  Sat Oct/29
+    15.00  FC Bari 1908            v Pro Vercelli             2-0 (1-0)
+           Benevento Calcio        v Spezia Calcio            1-0 (0-0)
+           Carpi FC                v Ascoli Picchio FC        0-2 (0-1)
+           AS Cittadella           v Latina Calcio            2-1 (1-0)
+           Virtus Entella          v Brescia Calcio           4-0 (1-0)
+           Frosinone Calcio        v AC Cesena                2-1 (1-0)
+           US Salernitana 1919     v AC Pisa                  0-0
+           Ternana Calcio          v Novara Calcio            4-3 (3-2)
+  Sun Oct/30
+    15.00  Hellas Verona           v Trapani Calcio           2-0 (1-0)
+    17.30  Vicenza Calcio          v AC Perugia Calcio        1-4 (0-3)
+  Mon Oct/31
+    20.30  SPAL 2013 Ferrara       v US Avellino              3-0 (1-0)
+
+
+» Matchday 13
+  Fri Nov/4
+    20.30  Brescia Calcio          v AC Cesena                3-2 (2-0)
+  Sat Nov/5
+    15.00  AS Cittadella           v US Salernitana 1919      2-0 (1-0)
+           Latina Calcio           v FC Bari 1908             2-1 (2-0)
+           Novara Calcio           v SPAL 2013 Ferrara        0-1 (0-1)
+           AC Pisa                 v AC Perugia Calcio        0-1 (0-1)
+           Pro Vercelli            v Carpi FC                 0-0
+           Spezia Calcio           v Hellas Verona            1-4 (1-2)
+           Trapani Calcio          v Vicenza Calcio           0-1 (0-0)
+  Sun Nov/6
+    15.00  US Avellino             v Frosinone Calcio         0-1 (0-1)
+  Mon Nov/7
+    20.30  Ternana Calcio          v Benevento Calcio         0-1 (0-1)
+  Tue Dec/13
+    20.30  Ascoli Picchio FC       v Virtus Entella           2-1 (1-1)
+
+
+» Matchday 14
+  Sat Nov/12
+    15.00  SPAL 2013 Ferrara       v Brescia Calcio           3-2 (2-2)
+    18.00  Vicenza Calcio          v Latina Calcio            0-1 (0-0)
+  Sun Nov/13
+    12.30  AC Cesena               v AC Pisa                  2-0 (1-0)
+    15.00  Benevento Calcio        v AS Cittadella            1-0 (0-0)
+           Carpi FC                v US Avellino              1-1 (0-0)
+           Virtus Entella          v Pro Vercelli             0-0
+           Frosinone Calcio        v Ascoli Picchio FC        3-1 (1-0)
+           AC Perugia Calcio       v Trapani Calcio           1-1 (0-0)
+           US Salernitana 1919     v Ternana Calcio           4-2 (3-2)
+           Hellas Verona           v Novara Calcio            0-4 (0-1)
+    20.30  FC Bari 1908            v Spezia Calcio            1-1 (1-0)
+
+
+» Matchday 15
+  Fri Nov/18
+    20.30  AS Cittadella           v Hellas Verona            5-1 (4-1)
+  Sat Nov/19
+    15.00  US Avellino             v AC Pisa                  1-0 (0-0)
+           FC Bari 1908            v Carpi FC                 2-0 (0-0)
+           Benevento Calcio        v Brescia Calcio           4-0 (1-0)
+           Latina Calcio           v US Salernitana 1919      1-1 (0-0)
+           Pro Vercelli            v Vicenza Calcio           1-1 (1-0)
+           Spezia Calcio           v AC Cesena                1-0 (0-0)
+           Ternana Calcio          v Virtus Entella           3-0 (2-0)
+  Sun Nov/20
+    15.00  Ascoli Picchio FC       v AC Perugia Calcio        2-2 (0-1)
+    17.30  Novara Calcio           v Frosinone Calcio         1-2 (0-0)
+  Mon Nov/21
+    20.30  Trapani Calcio          v SPAL 2013 Ferrara        1-1 (0-1)
+
+
+» Matchday 16
+  Fri Nov/25
+    20.30  Virtus Entella          v Spezia Calcio            1-1 (0-1)
+  Sat Nov/26
+    15.00  Brescia Calcio          v Ascoli Picchio FC        1-0 (0-0)
+           Carpi FC                v AS Cittadella            2-0 (2-0)
+           AC Cesena               v US Avellino              3-0 (1-0)
+           Frosinone Calcio        v Ternana Calcio           1-1 (1-1)
+           AC Perugia Calcio       v Novara Calcio            0-0
+           AC Pisa                 v Trapani Calcio           1-0 (0-0)
+           SPAL 2013 Ferrara       v Latina Calcio            0-0
+           Vicenza Calcio          v Benevento Calcio         0-0
+  Sun Nov/27
+    17.30  Hellas Verona           v FC Bari 1908             1-0 (0-0)
+  Mon Nov/28
+    20.30  US Salernitana 1919     v Pro Vercelli             1-1 (1-0)
+
+
+» Matchday 17
+  Fri Dec/2
+    20.30  Trapani Calcio          v Carpi FC                 0-1 (0-1)
+  Sat Dec/3
+    15.00  US Avellino             v Ascoli Picchio FC        1-2 (1-1)
+           FC Bari 1908            v US Salernitana 1919      2-0 (1-0)
+           AS Cittadella           v SPAL 2013 Ferrara        1-2 (0-1)
+           Latina Calcio           v Virtus Entella           1-1 (1-0)
+           Novara Calcio           v Vicenza Calcio           2-1 (1-1)
+           Pro Vercelli            v AC Pisa                  0-0
+           Spezia Calcio           v Frosinone Calcio         0-0
+           Ternana Calcio          v Brescia Calcio           1-0 (0-0)
+  Sun Dec/4
+    15.00  Hellas Verona           v AC Perugia Calcio        2-2 (2-1)
+  Mon Dec/5
+    20.30  Benevento Calcio        v AC Cesena                2-1 (1-1)
+
+
+» Matchday 18
+  Fri Dec/9
+    20.30  AC Pisa                 v FC Bari 1908             0-0
+  Sat Dec/10
+    15.00  Ascoli Picchio FC       v Latina Calcio            2-2 (0-0)
+           US Avellino             v Benevento Calcio         1-1 (1-0)
+           Carpi FC                v Ternana Calcio           1-1 (0-1)
+           AC Cesena               v AS Cittadella            3-0 (0-0)
+           Virtus Entella          v Trapani Calcio           2-2 (0-1)
+           Frosinone Calcio        v US Salernitana 1919      1-3 (1-1)
+           AC Perugia Calcio       v Pro Vercelli             1-0 (0-0)
+           SPAL 2013 Ferrara       v Spezia Calcio            2-1 (1-1)
+           Vicenza Calcio          v Hellas Verona            1-0 (0-0)
+  Sun Dec/11
+    17.30  Brescia Calcio          v Novara Calcio            0-0
+
+
+» Matchday 19
+  Fri Dec/16
+    20.30  Trapani Calcio          v Frosinone Calcio         1-4 (0-1)
+  Sat Dec/17
+    15.00  FC Bari 1908            v US Avellino              2-1 (0-1)
+           AS Cittadella           v AC Pisa                  1-0 (1-0)
+           Latina Calcio           v Brescia Calcio           1-1 (0-0)
+           Novara Calcio           v AC Cesena                3-1 (3-0)
+           Pro Vercelli            v SPAL 2013 Ferrara        3-1 (0-0)
+           US Salernitana 1919     v Carpi FC                 1-2 (0-0)
+           Spezia Calcio           v AC Perugia Calcio        2-1 (0-1)
+           Ternana Calcio          v Vicenza Calcio           1-2 (0-1)
+  Sun Dec/18
+    17.30  Benevento Calcio        v Ascoli Picchio FC        0-0
+  Mon Dec/19
+    20.30  Hellas Verona           v Virtus Entella           1-0 (0-0)
+
+
+» Matchday 20
+  Sat Dec/24
+    12.30  AC Pisa                 v Spezia Calcio            0-0
+    15.00  Ascoli Picchio FC       v FC Bari 1908             1-1 (0-0)
+           US Avellino             v US Salernitana 1919      3-2 (2-0)
+           Brescia Calcio          v Pro Vercelli             2-1 (1-0)
+           Carpi FC                v Hellas Verona            1-1 (1-1)
+           AC Cesena               v Trapani Calcio           3-1 (2-0)
+           Virtus Entella          v Novara Calcio            4-1 (3-0)
+           Frosinone Calcio        v Benevento Calcio         3-2 (1-0)
+           AC Perugia Calcio       v Latina Calcio            1-1 (1-1)
+           SPAL 2013 Ferrara       v Ternana Calcio           4-0 (2-0)
+           Vicenza Calcio          v AS Cittadella            2-0 (1-0)
+
+
+» Matchday 21
+  Wed Dec/28
+    20.30  Spezia Calcio           v Vicenza Calcio           0-0
+  Thu Dec/29
+    20.30  FC Bari 1908            v SPAL 2013 Ferrara        1-1 (0-1)
+  Fri Dec/30
+    15.00  US Salernitana 1919     v AC Perugia Calcio        2-1 (1-0)
+    17.30  Novara Calcio           v Carpi FC                 2-1 (2-1)
+    20.30  Benevento Calcio        v AC Pisa                  1-0 (1-0)
+           AS Cittadella           v Virtus Entella           2-1 (1-0)
+           Latina Calcio           v US Avellino              0-0
+           Pro Vercelli            v Frosinone Calcio         2-0 (1-0)
+           Ternana Calcio          v Ascoli Picchio FC        0-1 (0-0)
+           Trapani Calcio          v Brescia Calcio           0-0
+           Hellas Verona           v AC Cesena                3-0 (2-0)
+
+
+» Matchday 22
+  Sat Jan/21 2017
+    15.00  Brescia Calcio          v US Avellino              0-2 (0-1)
+           Carpi FC                v Vicenza Calcio           0-0
+           AS Cittadella           v FC Bari 1908             2-0 (1-0)
+           Virtus Entella          v Frosinone Calcio         2-1 (0-1)
+           Latina Calcio           v Hellas Verona            2-0 (1-0)
+           AC Pisa                 v Ternana Calcio           1-0 (1-0)
+           SPAL 2013 Ferrara       v Benevento Calcio         2-0 (1-0)
+           Trapani Calcio          v Novara Calcio            2-1 (1-1)
+  Sun Jan/22
+    17.30  US Salernitana 1919     v Spezia Calcio            1-0 (1-0)
+  Mon Jan/23
+    20.30  AC Perugia Calcio       v AC Cesena                3-3 (1-0)
+  Tue Feb/14
+    18.30  Ascoli Picchio FC       v Pro Vercelli             3-1 (2-0)
+
+
+» Matchday 23
+  Fri Jan/27
+    20.30  Frosinone Calcio        v Brescia Calcio           1-0 (1-0)
+  Sat Jan/28
+    15.00  US Avellino             v Virtus Entella           2-2 (1-1)
+           FC Bari 1908            v AC Perugia Calcio        0-0
+           Benevento Calcio        v Carpi FC                 3-0 (2-0)
+           AC Cesena               v Ascoli Picchio FC        2-2 (1-0)
+           Novara Calcio           v AC Pisa                  1-1 (0-0)
+           Pro Vercelli            v Trapani Calcio           1-3 (1-0)
+           Ternana Calcio          v AS Cittadella            1-0 (0-0)
+           Vicenza Calcio          v SPAL 2013 Ferrara        1-1 (0-0)
+  Sun Jan/29
+    17.30  Hellas Verona           v US Salernitana 1919      2-0 (1-0)
+  Mon Jan/30
+    20.30  Spezia Calcio           v Latina Calcio            3-2 (2-0)
+
+
+» Matchday 24
+  Fri Feb/3
+    20.30  Hellas Verona           v Benevento Calcio         2-2 (1-2)
+  Sat Feb/4
+    15.00  AS Cittadella           v Pro Vercelli             0-0
+           Latina Calcio           v Frosinone Calcio         0-1 (0-1)
+           AC Perugia Calcio       v Brescia Calcio           3-2 (1-1)
+           AC Pisa                 v Virtus Entella           1-1 (0-0)
+           US Salernitana 1919     v Novara Calcio            0-0
+           SPAL 2013 Ferrara       v Ascoli Picchio FC        1-1 (0-0)
+           Spezia Calcio           v Ternana Calcio           2-0 (1-0)
+    18.00  FC Bari 1908            v Vicenza Calcio           2-1 (1-0)
+  Sun Feb/5
+    12.30  Carpi FC                v AC Cesena                1-2 (0-2)
+  Mon Feb/6
+    20.30  Trapani Calcio          v US Avellino              0-0
+
+
+» Matchday 25
+  Fri Feb/10
+    20.30  Vicenza Calcio          v US Salernitana 1919      0-1 (0-1)
+  Sat Feb/11
+    15.00  Ascoli Picchio FC       v Trapani Calcio           2-2 (2-0)
+           US Avellino             v Hellas Verona            2-0 (0-0)
+           Benevento Calcio        v Latina Calcio            2-1 (1-1)
+           Brescia Calcio          v AC Pisa                  1-1 (1-1)
+           AC Cesena               v FC Bari 1908             1-1 (0-1)
+           Frosinone Calcio        v Carpi FC                 1-0 (1-0)
+           Novara Calcio           v AS Cittadella            1-1 (1-0)
+           Pro Vercelli            v Spezia Calcio            0-2 (0-0)
+    18.00  Virtus Entella          v SPAL 2013 Ferrara        0-3 (0-3)
+  Sun Feb/12
+    15.00  Ternana Calcio          v AC Perugia Calcio        0-1 (0-0)
+
+
+» Matchday 26
+  Fri Feb/17
+    20.30  Latina Calcio           v Novara Calcio            0-1 (0-0)
+  Sat Feb/18
+    15.00  FC Bari 1908            v Ternana Calcio           3-1 (1-1)
+           Carpi FC                v Brescia Calcio           2-1 (2-0)
+           AS Cittadella           v US Avellino              1-3 (1-0)
+           AC Perugia Calcio       v Virtus Entella           0-0
+           Pro Vercelli            v Benevento Calcio         0-1 (0-0)
+           US Salernitana 1919     v AC Cesena                1-1 (1-1)
+           Spezia Calcio           v Trapani Calcio           2-2 (2-1)
+           Vicenza Calcio          v Ascoli Picchio FC        1-1 (0-1)
+  Sun Feb/19
+    15.00  AC Pisa                 v Frosinone Calcio         0-0
+  Mon Feb/20
+    20.30  Hellas Verona           v SPAL 2013 Ferrara        0-0
+
+
+» Matchday 27
+  Fri Feb/24
+    19.00  Brescia Calcio          v AS Cittadella            4-1 (4-1)
+    21.00  Benevento Calcio        v FC Bari 1908             3-4 (2-3)
+  Sat Feb/25
+    15.00  Ascoli Picchio FC       v AC Pisa                  2-4 (1-3)
+           US Avellino             v Vicenza Calcio           3-1 (2-0)
+           AC Cesena               v Pro Vercelli             1-2 (1-1)
+           Virtus Entella          v Carpi FC                 2-0 (0-0)
+           Frosinone Calcio        v Hellas Verona            1-0 (1-0)
+           Novara Calcio           v Spezia Calcio            2-1 (2-1)
+           SPAL 2013 Ferrara       v AC Perugia Calcio        2-0 (1-0)
+           Ternana Calcio          v Latina Calcio            0-1 (0-1)
+           Trapani Calcio          v US Salernitana 1919      1-0 (1-0)
+
+
+» Matchday 28
+  Mon Feb/27
+    20.30  FC Bari 1908            v Brescia Calcio           2-0 (1-0)
+  Tue Feb/28
+    20.30  AS Cittadella           v Trapani Calcio           3-2 (0-1)
+           Latina Calcio           v AC Cesena                1-1 (0-1)
+           Novara Calcio           v Benevento Calcio         1-0 (0-0)
+           AC Perugia Calcio       v Frosinone Calcio         1-1 (0-1)
+           AC Pisa                 v Carpi FC                 0-0
+           Pro Vercelli            v US Avellino              1-1 (0-1)
+           US Salernitana 1919     v SPAL 2013 Ferrara        1-2 (0-1)
+           Spezia Calcio           v Ascoli Picchio FC        2-1 (1-0)
+           Hellas Verona           v Ternana Calcio           2-0 (2-0)
+           Vicenza Calcio          v Virtus Entella           2-2 (1-0)
+
+
+» Matchday 29
+  Sat Mar/4
+    15.00  Ascoli Picchio FC       v Novara Calcio            1-2 (1-1)
+           US Avellino             v AC Perugia Calcio        0-5 (0-2)
+           Carpi FC                v Spezia Calcio            1-0 (1-0)
+           AC Cesena               v Vicenza Calcio           1-1 (1-1)
+           Virtus Entella          v FC Bari 1908             2-0 (1-0)
+           SPAL 2013 Ferrara       v AC Pisa                  1-1 (1-1)
+           Ternana Calcio          v Pro Vercelli             1-2 (1-2)
+           Trapani Calcio          v Latina Calcio            1-1 (1-1)
+  Sun Mar/5
+    15.00  Brescia Calcio          v Hellas Verona            0-1 (0-1)
+    17.30  Benevento Calcio        v US Salernitana 1919      1-1 (0-1)
+  Mon Mar/6
+    20.30  Frosinone Calcio        v AS Cittadella            1-1 (1-0)
+
+
+» Matchday 30
+  Sat Mar/11
+    15.00  FC Bari 1908            v Frosinone Calcio         1-0 (0-0)
+           Benevento Calcio        v Virtus Entella           0-0
+           AS Cittadella           v AC Perugia Calcio        1-1 (1-0)
+           US Salernitana 1919     v Brescia Calcio           2-0 (0-0)
+           SPAL 2013 Ferrara       v AC Cesena                2-0 (1-0)
+           Spezia Calcio           v US Avellino              2-1 (1-1)
+    18.00  Latina Calcio           v Carpi FC                 0-1 (0-0)
+  Sun Mar/12
+    15.00  Novara Calcio           v Pro Vercelli             0-0
+           Ternana Calcio          v Trapani Calcio           2-1 (2-0)
+    17.30  Vicenza Calcio          v AC Pisa                  2-1 (0-0)
+  Mon Mar/13
+    20.30  Hellas Verona           v Ascoli Picchio FC        0-0
+
+
+» Matchday 31
+  Fri Mar/17
+    20.30  AC Perugia Calcio       v Benevento Calcio         3-1 (2-1)
+  Sat Mar/18
+    15.00  Ascoli Picchio FC       v AS Cittadella            2-1 (0-0)
+           US Avellino             v Novara Calcio            1-1 (0-1)
+           Brescia Calcio          v Spezia Calcio            1-1 (0-1)
+           Carpi FC                v SPAL 2013 Ferrara        1-4 (0-3)
+           Frosinone Calcio        v Vicenza Calcio           3-1 (1-0)
+           AC Pisa                 v Latina Calcio            1-1 (0-0)
+           Pro Vercelli            v Hellas Verona            1-1 (1-0)
+           Trapani Calcio          v FC Bari 1908             4-0 (3-0)
+  Sun Mar/19
+    17.30  AC Cesena               v Ternana Calcio           1-0 (0-0)
+  Mon Mar/20
+    20.30  Virtus Entella          v US Salernitana 1919      0-1 (0-1)
+
+
+» Matchday 32
+  Sat Mar/25
+    18.00  AS Cittadella           v Spezia Calcio            1-0 (1-0)
+    20.30  Benevento Calcio        v Trapani Calcio           1-3 (1-1)
+  Sun Mar/26
+    12.30  Hellas Verona           v AC Pisa                  1-1 (1-0)
+    15.00  Carpi FC                v AC Perugia Calcio        0-0
+           Virtus Entella          v AC Cesena                2-1 (1-1)
+           Latina Calcio           v Pro Vercelli             0-0
+           US Salernitana 1919     v Ascoli Picchio FC        2-0 (0-0)
+           SPAL 2013 Ferrara       v Frosinone Calcio         0-2 (0-0)
+           Ternana Calcio          v US Avellino              4-1 (2-0)
+           Vicenza Calcio          v Brescia Calcio           1-1 (1-1)
+    20.30  FC Bari 1908            v Novara Calcio            0-0
+
+
+» Matchday 33
+  Fri Mar/31
+    19.00  US Avellino             v SPAL 2013 Ferrara        1-0 (0-0)
+    21.00  AC Cesena               v Frosinone Calcio         1-1 (1-0)
+  Sat Apr/1
+    15.00  Ascoli Picchio FC       v Carpi FC                 1-2 (1-1)
+           Brescia Calcio          v Virtus Entella           2-2 (0-1)
+           Latina Calcio           v AS Cittadella            0-2 (0-0)
+           Novara Calcio           v Ternana Calcio           1-2 (0-0)
+           AC Perugia Calcio       v Vicenza Calcio           1-0 (0-0)
+           AC Pisa                 v US Salernitana 1919      0-1 (0-0)
+           Pro Vercelli            v FC Bari 1908             1-0 (1-0)
+           Spezia Calcio           v Benevento Calcio         1-3 (1-1)
+           Trapani Calcio          v Hellas Verona            0-2 (0-0)
+
+
+» Matchday 34
+  Mon Apr/3
+    20.30  Frosinone Calcio        v US Avellino              1-1 (1-0)
+  Tue Apr/4
+    20.30  FC Bari 1908            v Latina Calcio            2-0 (0-0)
+           Benevento Calcio        v Ternana Calcio           2-1 (1-0)
+           Carpi FC                v Pro Vercelli             0-0
+           AC Cesena               v Brescia Calcio           1-1 (1-1)
+           Virtus Entella          v Ascoli Picchio FC        2-1 (1-0)
+           AC Perugia Calcio       v AC Pisa                  2-2 (2-1)
+           US Salernitana 1919     v AS Cittadella            0-0
+           SPAL 2013 Ferrara       v Novara Calcio            2-0 (0-0)
+           Hellas Verona           v Spezia Calcio            0-1 (0-0)
+           Vicenza Calcio          v Trapani Calcio           0-1 (0-0)
+
+
+» Matchday 35
+  Sat Apr/8
+    15.00  Ascoli Picchio FC       v Frosinone Calcio         1-1 (0-0)
+           US Avellino             v Carpi FC                 1-0 (0-0)
+           AS Cittadella           v Benevento Calcio         1-0 (1-0)
+           Latina Calcio           v Vicenza Calcio           0-1 (0-0)
+           AC Pisa                 v AC Cesena                0-1 (0-0)
+           Pro Vercelli            v Virtus Entella           1-0 (0-0)
+           Spezia Calcio           v FC Bari 1908             1-0 (1-0)
+           Ternana Calcio          v US Salernitana 1919      1-0 (1-0)
+           Trapani Calcio          v AC Perugia Calcio        3-0 (1-0)
+  Sun Apr/9
+    17.30  Brescia Calcio          v SPAL 2013 Ferrara        1-3 (1-2)
+  Mon Apr/10
+    20.30  Novara Calcio           v Hellas Verona            2-2 (0-1)
+
+
+» Matchday 36
+  Mon Apr/17
+    12.30  SPAL 2013 Ferrara       v Trapani Calcio           2-1 (0-1)
+    15.00  Brescia Calcio          v Benevento Calcio         1-0 (1-0)
+           Carpi FC                v FC Bari 1908             2-0 (1-0)
+           Virtus Entella          v Ternana Calcio           1-1 (0-0)
+           Frosinone Calcio        v Novara Calcio            2-3 (1-2)
+           AC Perugia Calcio       v Ascoli Picchio FC        0-0
+           US Salernitana 1919     v Latina Calcio            2-1 (0-1)
+           Hellas Verona           v AS Cittadella            2-0 (1-0)
+           Vicenza Calcio          v Pro Vercelli             0-1 (0-0)
+    18.00  AC Pisa                 v US Avellino              0-1 (0-0)
+    20.30  AC Cesena               v Spezia Calcio            1-0 (0-0)
+
+
+» Matchday 37
+  Fri Apr/21
+    19.00  Novara Calcio           v AC Perugia Calcio        0-1 (0-0)
+    21.00  Benevento Calcio        v Vicenza Calcio           0-0
+  Sat Apr/22
+    15.00  Ascoli Picchio FC       v Brescia Calcio           0-0
+           US Avellino             v AC Cesena                1-1 (1-1)
+           FC Bari 1908            v Hellas Verona            0-2 (0-1)
+           AS Cittadella           v Carpi FC                 4-1 (2-1)
+           Latina Calcio           v SPAL 2013 Ferrara        1-2 (1-1)
+           Pro Vercelli            v US Salernitana 1919      0-0
+           Spezia Calcio           v Virtus Entella           2-0 (0-0)
+           Ternana Calcio          v Frosinone Calcio         2-0 (0-0)
+           Trapani Calcio          v AC Pisa                  1-0 (0-0)
+
+
+» Matchday 38
+  Mon Apr/24
+    20.30  Vicenza Calcio          v Novara Calcio            3-1 (1-1)
+  Tue Apr/25
+    12.30  US Salernitana 1919     v FC Bari 1908             0-0
+    15.00  Ascoli Picchio FC       v US Avellino              2-0 (1-0)
+           Brescia Calcio          v Ternana Calcio           2-1 (1-1)
+           Virtus Entella          v Latina Calcio            0-1 (0-0)
+           Frosinone Calcio        v Spezia Calcio            2-0 (0-0)
+           AC Pisa                 v Pro Vercelli             1-1 (0-1)
+           SPAL 2013 Ferrara       v AS Cittadella            2-1 (0-0)
+    18.00  AC Cesena               v Benevento Calcio         4-1 (0-0)
+    20.30  Carpi FC                v Trapani Calcio           2-1 (2-0)
+           AC Perugia Calcio       v Hellas Verona            1-1 (0-0)
+
+
+» Matchday 39
+  Sat Apr/29
+    15.00  FC Bari 1908            v AC Pisa                  0-0
+           AS Cittadella           v AC Cesena                2-3 (1-1)
+           Latina Calcio           v Ascoli Picchio FC        0-0
+           Pro Vercelli            v AC Perugia Calcio        0-1 (0-1)
+           Spezia Calcio           v SPAL 2013 Ferrara        0-0
+           Ternana Calcio          v Carpi FC                 0-0
+           Trapani Calcio          v Virtus Entella           2-0 (2-0)
+  Sun Apr/30
+    17.30  Novara Calcio           v Brescia Calcio           2-3 (1-1)
+  Mon May/1
+    12.30  Benevento Calcio        v US Avellino              2-1 (0-0)
+    15.00  Hellas Verona           v Vicenza Calcio           3-2 (1-1)
+    20.30  US Salernitana 1919     v Frosinone Calcio         1-3 (0-3)
+
+
+» Matchday 40
+  Fri May/5
+    20.30  AC Perugia Calcio       v Spezia Calcio            0-0
+  Sat May/6
+    15.00  Ascoli Picchio FC       v Benevento Calcio         1-1 (0-1)
+           US Avellino             v FC Bari 1908             1-1 (0-1)
+           Brescia Calcio          v Latina Calcio            1-1 (0-0)
+           Carpi FC                v US Salernitana 1919      2-0 (0-0)
+           AC Cesena               v Novara Calcio            0-1 (0-1)
+           Virtus Entella          v Hellas Verona            1-2 (0-2)
+           Frosinone Calcio        v Trapani Calcio           1-0 (1-0)
+           Vicenza Calcio          v Ternana Calcio           0-1 (0-0)
+  Sun May/7
+    17.30  SPAL 2013 Ferrara       v Pro Vercelli             0-0
+  Mon May/8
+    20.30  AC Pisa                 v AS Cittadella            1-4 (0-1)
+
+
+» Matchday 41
+  Sat May/13
+    15.00  Benevento Calcio        v Frosinone Calcio         2-1 (1-0)
+           AS Cittadella           v Vicenza Calcio           2-0 (1-0)
+           Latina Calcio           v AC Perugia Calcio        2-2 (1-1)
+           Novara Calcio           v Virtus Entella           2-0 (1-0)
+           Pro Vercelli            v Brescia Calcio           2-2 (1-1)
+           US Salernitana 1919     v US Avellino              2-0 (0-0)
+           Spezia Calcio           v AC Pisa                  0-0
+           Ternana Calcio          v SPAL 2013 Ferrara        2-1 (2-1)
+           Hellas Verona           v Carpi FC                 1-1 (0-1)
+    18.00  Trapani Calcio          v AC Cesena                1-2 (1-1)
+  Sun May/14
+    15.00  FC Bari 1908            v Ascoli Picchio FC        0-1 (0-1)
+
+
+» Matchday 42
+  Thu May/18
+    20.30  Ascoli Picchio FC       v Ternana Calcio           1-2 (1-0)
+           US Avellino             v Latina Calcio            2-1 (0-1)
+           Brescia Calcio          v Trapani Calcio           2-1 (2-0)
+           Carpi FC                v Novara Calcio            2-0 (2-0)
+           AC Cesena               v Hellas Verona            0-0
+           Virtus Entella          v AS Cittadella            4-1 (4-0)
+           Frosinone Calcio        v Pro Vercelli             2-1 (2-0)
+           AC Perugia Calcio       v US Salernitana 1919      3-2 (2-1)
+           AC Pisa                 v Benevento Calcio         0-3 (0-0)
+           SPAL 2013 Ferrara       v FC Bari 1908             2-1 (1-1)
+           Vicenza Calcio          v Spezia Calcio            0-1 (0-1)
+
+
+» Aufstieg, Round 1
+  Mon May/22
+    20.30  AS Cittadella           v Carpi FC                 1-2 (0-1)
+  Tue May/23
+    20.30  Benevento Calcio        v Spezia Calcio            2-1 (2-0)
+
+
+» Aufstieg, Semifinals
+  Fri May/26
+    20.30  Carpi FC                v Frosinone Calcio         0-0
+  Sat May/27
+    20.30  Benevento Calcio        v AC Perugia Calcio        1-0 (0-0)
+  Mon May/29
+    20.30  Frosinone Calcio        v Carpi FC                 0-1 (0-0)
+  Tue May/30
+    20.30  AC Perugia Calcio       v Benevento Calcio         1-1 (0-0)
+
+
+» Aufstieg, Final
+  Sun Jun/4
+    20.30  Carpi FC                v Benevento Calcio         0-0
+  Thu Jun/8
+    20.30  Benevento Calcio        v Carpi FC                 1-0 (1-0)

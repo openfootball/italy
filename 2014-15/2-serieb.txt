@@ -1,0 +1,734 @@
+= Italian Serie B 2014/15
+
+# Date       Fri Aug/29 2014 - Tue Jun/9 2015 (284d)
+# Teams      22
+# Matches    472
+# Stages     Regular Season (462)  Relegation (2)  Aufstieg (8)
+
+
+
+» Matchday 1
+  Fri Aug/29 2014
+    20.30  AC Perugia Calcio       v Bologna FC               2-1 (0-0)
+  Sat Aug/30
+    20.30  AS Avellino             v Pro Vercelli             1-0 (0-0)
+           Calcio Catania          v Virtus Lanciano          3-3 (1-0)
+           FC Crotone              v Ternana Calcio           0-2 (0-1)
+           Frosinone Calcio        v Brescia Calcio           1-0 (0-0)
+           AS Livorno              v Carpi FC                 1-1 (1-0)
+           Delfino Pescara         v Trapani Calcio           0-0
+           AS Varese 1910          v Spezia Calcio            2-1 (0-0)
+           Virtus Entella          v FC Bari 1908             0-2 (0-0)
+  Mon Sep/1
+    20.30  Modena FC               v AS Cittadella            1-1 (0-1)
+  Wed Sep/10
+    20.30  Vicenza Calcio          v Latina Calcio            0-0
+
+
+» Matchday 2
+  Sat Sep/6
+    18.00  Latina Calcio           v FC Crotone               1-0 (0-0)
+    20.30  Brescia Calcio          v AS Livorno               0-1 (0-0)
+  Sun Sep/7
+    15.00  Bologna FC              v Virtus Entella           1-1 (0-1)
+           Carpi FC                v AS Varese 1910           4-2 (1-2)
+           AS Cittadella           v AS Avellino              3-1 (2-1)
+           Spezia Calcio           v Frosinone Calcio         2-1 (2-1)
+           Ternana Calcio          v Delfino Pescara          1-1 (1-0)
+           Virtus Lanciano         v Modena FC                2-0 (1-0)
+           Trapani Calcio          v Vicenza Calcio           2-1 (1-0)
+    18.00  Pro Vercelli            v Calcio Catania           3-2 (0-1)
+    20.30  FC Bari 1908            v AC Perugia Calcio        0-2 (0-1)
+
+
+» Matchday 3
+  Fri Sep/12
+    20.30  Delfino Pescara         v Bologna FC               2-3 (0-3)
+  Sat Sep/13
+    15.00  AS Avellino             v Spezia Calcio            0-0
+           FC Crotone              v Carpi FC                 1-1 (1-0)
+           Frosinone Calcio        v FC Bari 1908             1-1 (0-1)
+           Modena FC               v Pro Vercelli             1-0 (0-0)
+           AC Perugia Calcio       v Calcio Catania           1-0 (0-0)
+           Trapani Calcio          v AS Cittadella            2-1 (1-1)
+           AS Varese 1910          v Virtus Lanciano          1-1 (0-1)
+           Virtus Entella          v Brescia Calcio           0-1 (0-0)
+  Sun Sep/14
+    18.00  Vicenza Calcio          v Ternana Calcio           0-1 (0-1)
+  Mon Sep/15
+    20.30  AS Livorno              v Latina Calcio            1-1 (0-0)
+
+
+» Matchday 4
+  Fri Sep/19
+    19.00  Carpi FC                v Trapani Calcio           2-2 (2-1)
+    21.00  Spezia Calcio           v Virtus Entella           1-0 (1-0)
+  Sat Sep/20
+    15.00  FC Bari 1908            v AS Livorno               2-0 (1-0)
+           Bologna FC              v FC Crotone               0-2 (0-0)
+           Brescia Calcio          v Ternana Calcio           0-0
+           Calcio Catania          v Modena FC                0-0
+           AS Cittadella           v Delfino Pescara          3-2 (1-1)
+           Latina Calcio           v AS Avellino              1-2 (1-1)
+           Pro Vercelli            v AS Varese 1910           4-0 (2-0)
+           Virtus Lanciano         v Frosinone Calcio         1-5 (0-3)
+           AC Perugia Calcio       v Vicenza Calcio           2-2 (1-2)
+
+
+» Matchday 5
+  Mon Sep/22
+    20.30  Spezia Calcio           v Carpi FC                 1-2 (0-1)
+  Tue Sep/23
+    20.30  Brescia Calcio          v Virtus Lanciano          1-1 (1-0)
+           AS Cittadella           v Pro Vercelli             1-2 (1-1)
+           FC Crotone              v Calcio Catania           1-1 (0-1)
+           Frosinone Calcio        v AS Avellino              0-0
+           AS Livorno              v AS Varese 1910           1-0 (1-0)
+           Modena FC               v AC Perugia Calcio        0-0
+           Delfino Pescara         v Latina Calcio            1-1 (1-1)
+           Ternana Calcio          v Bologna FC               0-1 (0-0)
+           Trapani Calcio          v Virtus Entella           2-2 (0-1)
+           Vicenza Calcio          v FC Bari 1908             1-0 (0-0)
+
+
+» Matchday 6
+  Sat Sep/27
+    15.00  AS Avellino             v AS Livorno               2-1 (0-1)
+           Bologna FC              v AS Cittadella            1-0 (1-0)
+           Latina Calcio           v Ternana Calcio           1-1 (0-0)
+           Modena FC               v Spezia Calcio            2-0 (0-0)
+           AC Perugia Calcio       v Brescia Calcio           1-0 (0-0)
+           Pro Vercelli            v Frosinone Calcio         1-1 (0-1)
+           AS Varese 1910          v Trapani Calcio           5-2 (4-0)
+           Virtus Entella          v Carpi FC                 2-0 (1-0)
+           FC Crotone              v Vicenza Calcio           0-0
+  Sun Sep/28
+    18.00  Calcio Catania          v Delfino Pescara          2-1 (1-1)
+  Mon Sep/29
+    20.30  Virtus Lanciano         v FC Bari 1908             1-1 (1-0)
+
+
+» Matchday 7
+  Fri Oct/3
+    20.30  AS Livorno              v FC Crotone               1-0 (0-0)
+  Sat Oct/4
+    15.00  FC Bari 1908            v Modena FC                1-1 (1-1)
+           Brescia Calcio          v AS Varese 1910           1-1 (0-0)
+           Carpi FC                v Pro Vercelli             1-0 (1-0)
+           AS Cittadella           v Virtus Lanciano          2-3 (1-2)
+           Frosinone Calcio        v Calcio Catania           1-0 (0-0)
+           Delfino Pescara         v Virtus Entella           4-0 (1-0)
+           Spezia Calcio           v AC Perugia Calcio        2-0 (1-0)
+           Trapani Calcio          v Latina Calcio            1-0 (0-0)
+           Vicenza Calcio          v Bologna FC               0-0
+  Mon Oct/6
+    20.30  Ternana Calcio          v AS Avellino              2-2 (1-0)
+
+
+» Matchday 8
+  Sat Oct/11
+    18.00  Pro Vercelli            v Spezia Calcio            1-0 (0-0)
+    20.30  Modena FC               v Brescia Calcio           1-1 (0-1)
+  Sun Oct/12
+    12.30  Calcio Catania          v FC Bari 1908             2-3 (1-2)
+    15.00  AS Avellino             v Carpi FC                 1-0 (1-0)
+           FC Crotone              v Delfino Pescara          1-4 (0-2)
+           Latina Calcio           v Bologna FC               1-2 (0-2)
+           AS Livorno              v Trapani Calcio           6-0 (3-0)
+           Virtus Lanciano         v Vicenza Calcio           4-0 (1-0)
+    20.30  AC Perugia Calcio       v Frosinone Calcio         0-1 (0-0)
+  Mon Oct/13
+    20.30  AS Varese 1910          v AS Cittadella            2-2 (2-0)
+  Tue Nov/4
+    18.00  Virtus Entella          v Ternana Calcio           2-1 (1-0)
+
+
+» Matchday 9
+  Fri Oct/17
+    20.30  Vicenza Calcio          v Delfino Pescara          2-1 (1-0)
+  Sat Oct/18
+    15.00  Bologna FC              v AS Varese 1910           3-0 (1-0)
+           Brescia Calcio          v Pro Vercelli             2-1 (0-0)
+           Carpi FC                v Latina Calcio            2-1 (2-1)
+           Frosinone Calcio        v Modena FC                2-0 (0-0)
+           Spezia Calcio           v Calcio Catania           3-0 (2-0)
+           Ternana Calcio          v AS Livorno               0-4 (0-2)
+           Trapani Calcio          v FC Crotone               3-1 (1-0)
+           Virtus Lanciano         v AC Perugia Calcio        1-1 (0-0)
+  Sun Oct/19
+    18.00  FC Bari 1908            v AS Avellino              4-2 (2-1)
+  Mon Oct/20
+    20.30  AS Cittadella           v Virtus Entella           0-1 (0-1)
+
+
+» Matchday 10
+  Fri Oct/24
+    19.00  Ternana Calcio          v Trapani Calcio           1-2 (1-1)
+    21.00  Modena FC               v Bologna FC               0-0
+  Sat Oct/25
+    15.00  AS Avellino             v Virtus Lanciano          1-1 (0-0)
+           FC Crotone              v AS Cittadella            2-2 (1-1)
+           Latina Calcio           v Brescia Calcio           1-1 (1-0)
+           AS Livorno              v Spezia Calcio            0-1 (0-0)
+           Delfino Pescara         v Carpi FC                 0-5 (0-2)
+           Pro Vercelli            v AC Perugia Calcio        0-0
+           AS Varese 1910          v FC Bari 1908             2-1 (1-0)
+           Virtus Entella          v Frosinone Calcio         1-0 (0-0)
+           Calcio Catania          v Vicenza Calcio           3-1 (0-0)
+
+
+» Matchday 11
+  Mon Oct/27
+    20.30  Bologna FC              v Trapani Calcio           2-1 (1-1)
+  Tue Oct/28
+    20.30  FC Bari 1908            v Delfino Pescara          1-1 (0-1)
+           Brescia Calcio          v FC Crotone               2-1 (2-1)
+           Carpi FC                v Ternana Calcio           3-1 (3-0)
+           Calcio Catania          v Virtus Entella           5-1 (1-0)
+           AS Cittadella           v AS Livorno               1-1 (0-0)
+           Frosinone Calcio        v AS Varese 1910           1-1 (1-0)
+           AC Perugia Calcio       v AS Avellino              0-0
+           Spezia Calcio           v Latina Calcio            1-1 (0-1)
+           Virtus Lanciano         v Pro Vercelli             2-0 (2-0)
+           Vicenza Calcio          v Modena FC                0-2 (0-1)
+
+
+» Matchday 12
+  Sat Nov/1
+    15.00  AS Avellino             v Calcio Catania           1-0 (1-0)
+           FC Crotone              v AC Perugia Calcio        2-1 (0-1)
+           AS Livorno              v Bologna FC               3-2 (0-0)
+           Delfino Pescara         v Spezia Calcio            1-2 (0-1)
+           Pro Vercelli            v FC Bari 1908             3-0 (2-0)
+           Ternana Calcio          v AS Cittadella            1-1 (1-1)
+           Trapani Calcio          v Brescia Calcio           3-2 (0-1)
+           Virtus Entella          v Virtus Lanciano          0-0
+           Carpi FC                v Vicenza Calcio           1-0 (0-0)
+  Sun Nov/2
+    12.30  Latina Calcio           v Frosinone Calcio         1-4 (0-2)
+    18.00  AS Varese 1910          v Modena FC                2-1 (1-1)
+
+
+» Matchday 13
+  Fri Nov/7
+    20.30  Spezia Calcio           v FC Crotone               2-1 (1-0)
+  Sat Nov/8
+    15.00  Bologna FC              v Carpi FC                 0-0
+           Brescia Calcio          v Delfino Pescara          1-3 (1-0)
+           Calcio Catania          v AS Varese 1910           2-1 (2-0)
+           AS Cittadella           v Latina Calcio            1-1 (1-0)
+           Frosinone Calcio        v Trapani Calcio           4-1 (1-0)
+           Modena FC               v AS Avellino              1-2 (0-2)
+           AC Perugia Calcio       v Virtus Entella           2-1 (2-1)
+           Virtus Lanciano         v AS Livorno               1-0 (0-0)
+           Vicenza Calcio          v Pro Vercelli             2-1 (1-1)
+  Mon Nov/10
+    20.30  FC Bari 1908            v Ternana Calcio           0-1 (0-1)
+
+
+» Matchday 14
+  Sat Nov/15
+    18.00  Carpi FC                v AS Cittadella            5-2 (4-1)
+    20.30  Bologna FC              v Brescia Calcio           1-2 (1-0)
+  Sun Nov/16
+    12.30  Trapani Calcio          v Calcio Catania           2-2 (2-0)
+    15.00  FC Crotone              v FC Bari 1908             3-0 (1-0)
+           Latina Calcio           v Virtus Lanciano          1-0 (0-0)
+           AS Livorno              v Pro Vercelli             3-1 (0-1)
+           Delfino Pescara         v Frosinone Calcio         3-0 (0-0)
+           Ternana Calcio          v Spezia Calcio            0-0
+           AS Varese 1910          v AC Perugia Calcio        1-1 (0-0)
+    18.00  AS Avellino             v Vicenza Calcio           0-1 (0-1)
+  Tue Dec/16
+    20.30  Virtus Entella          v Modena FC                1-1 (1-1)
+
+
+» Matchday 15
+  Fri Nov/21
+    20.30  Frosinone Calcio        v AS Livorno               5-1 (2-1)
+  Sat Nov/22
+    15.00  AS Avellino             v AS Varese 1910           0-0
+           FC Bari 1908            v Trapani Calcio           2-1 (1-0)
+           Brescia Calcio          v Carpi FC                 3-3 (1-1)
+           Modena FC               v Delfino Pescara          2-0 (0-0)
+           AC Perugia Calcio       v Ternana Calcio           2-2 (1-1)
+           Pro Vercelli            v Virtus Entella           2-0 (1-0)
+           Spezia Calcio           v Bologna FC               1-1 (0-0)
+           Virtus Lanciano         v FC Crotone               1-1 (1-1)
+           Vicenza Calcio          v AS Cittadella            1-1 (0-1)
+  Sun Nov/23
+    18.00  Calcio Catania          v Latina Calcio            1-0 (1-0)
+
+
+» Matchday 16
+  Fri Nov/28
+    20.30  Delfino Pescara         v Virtus Lanciano          1-1 (0-0)
+  Sat Nov/29
+    15.00  Carpi FC                v Frosinone Calcio         0-0
+           AS Cittadella           v Brescia Calcio           1-1 (1-1)
+           FC Crotone              v Modena FC                1-4 (0-1)
+           Latina Calcio           v Pro Vercelli             1-1 (0-0)
+           AS Livorno              v AC Perugia Calcio        0-0
+           Ternana Calcio          v Calcio Catania           1-0 (0-0)
+           Trapani Calcio          v Spezia Calcio            3-2 (0-0)
+           Virtus Entella          v AS Avellino              0-0
+           AS Varese 1910          v Vicenza Calcio           2-3 (1-1)
+  Sun Nov/30
+    12.30  Bologna FC              v FC Bari 1908             2-0 (1-0)
+
+
+» Matchday 17
+  Fri Dec/5
+    20.30  Frosinone Calcio        v Ternana Calcio           0-1 (0-1)
+  Sat Dec/6
+    15.00  AS Avellino             v FC Crotone               1-2 (1-1)
+           FC Bari 1908            v Carpi FC                 0-1 (0-0)
+           Calcio Catania          v Bologna FC               2-2 (0-1)
+           AC Perugia Calcio       v Latina Calcio            0-0
+           Pro Vercelli            v Delfino Pescara          0-4 (0-1)
+           Spezia Calcio           v AS Cittadella            0-0
+           AS Varese 1910          v Virtus Entella           2-2 (1-2)
+           Virtus Lanciano         v Trapani Calcio           2-2 (2-1)
+  Mon Dec/8
+    15.00  Modena FC               v AS Livorno               0-0
+    17.30  Vicenza Calcio          v Brescia Calcio           2-0 (1-0)
+
+
+» Matchday 18
+  Fri Dec/12
+    20.30  Trapani Calcio          v AC Perugia Calcio        2-2 (2-0)
+  Sat Dec/13
+    15.00  Bologna FC              v Frosinone Calcio         2-2 (0-1)
+           Brescia Calcio          v Spezia Calcio            0-1 (0-1)
+           Carpi FC                v Modena FC                1-0 (0-0)
+           AS Cittadella           v FC Bari 1908             0-1 (0-0)
+           FC Crotone              v Pro Vercelli             0-1 (0-0)
+           AS Livorno              v Calcio Catania           4-2 (1-1)
+           Delfino Pescara         v AS Avellino              0-0
+           Ternana Calcio          v Virtus Lanciano          0-1 (0-0)
+           Virtus Entella          v Vicenza Calcio           2-1 (1-0)
+  Mon Dec/15
+    20.30  Latina Calcio           v AS Varese 1910           1-0 (0-0)
+
+
+» Matchday 19
+  Fri Dec/19
+    19.00  Virtus Lanciano         v Carpi FC                 1-1 (1-1)
+    21.00  AS Avellino             v Bologna FC               1-0 (0-0)
+  Sat Dec/20
+    15.00  FC Bari 1908            v Latina Calcio            1-0 (0-0)
+           Calcio Catania          v Brescia Calcio           2-2 (1-1)
+           Frosinone Calcio        v AS Cittadella            1-1 (0-0)
+           Modena FC               v Trapani Calcio           2-1 (0-1)
+           AC Perugia Calcio       v Delfino Pescara          2-2 (1-1)
+           Pro Vercelli            v Ternana Calcio           2-1 (0-1)
+           AS Varese 1910          v FC Crotone               1-0 (1-0)
+           Virtus Entella          v AS Livorno               1-1 (0-0)
+           Vicenza Calcio          v Spezia Calcio            1-0 (0-0)
+
+
+» Matchday 20
+  Wed Dec/24
+    12.30  FC Crotone              v Frosinone Calcio         2-0 (1-0)
+    15.00  Bologna FC              v Pro Vercelli             3-0 (2-0)
+           Brescia Calcio          v FC Bari 1908             2-1 (1-0)
+           Carpi FC                v AC Perugia Calcio        4-0 (1-0)
+           AS Cittadella           v Calcio Catania           3-2 (1-0)
+           Latina Calcio           v Virtus Entella           1-1 (1-1)
+           Delfino Pescara         v AS Varese 1910           2-0 (1-0)
+           Spezia Calcio           v Virtus Lanciano          3-3 (3-2)
+           Ternana Calcio          v Modena FC                1-0 (0-0)
+           Trapani Calcio          v AS Avellino              4-1 (1-1)
+           Vicenza Calcio          v AS Livorno               0-0
+
+
+» Matchday 21
+  Sun Dec/28
+    12.30  FC Bari 1908            v Spezia Calcio            0-3 (0-0)
+    15.00  AS Avellino             v Brescia Calcio           2-0 (1-0)
+           Calcio Catania          v Carpi FC                 0-2 (0-0)
+           Modena FC               v Latina Calcio            0-0
+           AC Perugia Calcio       v AS Cittadella            3-1 (1-0)
+           Pro Vercelli            v Trapani Calcio           1-0 (1-0)
+           AS Varese 1910          v Ternana Calcio           2-0 (1-0)
+           Virtus Entella          v FC Crotone               1-1 (1-0)
+           Virtus Lanciano         v Bologna FC               1-2 (0-0)
+           Frosinone Calcio        v Vicenza Calcio           1-0 (0-0)
+    18.00  AS Livorno              v Delfino Pescara          1-2 (1-1)
+
+
+» Matchday 22
+  Sat Jan/17 2015
+    15.00  Pro Vercelli            v AS Avellino              1-1 (0-0)
+           Virtus Lanciano         v Calcio Catania           3-0 (1-0)
+           Ternana Calcio          v FC Crotone               2-1 (1-0)
+           Brescia Calcio          v Frosinone Calcio         3-1 (1-0)
+           AS Cittadella           v Modena FC                1-1 (0-1)
+           Trapani Calcio          v Delfino Pescara          2-4 (1-2)
+           Spezia Calcio           v AS Varese 1910           1-1 (0-0)
+           FC Bari 1908            v Virtus Entella           0-0
+           Latina Calcio           v Vicenza Calcio           0-0
+  Sun Jan/18
+    18.00  Carpi FC                v AS Livorno               1-2 (0-1)
+  Mon Jan/19
+    20.30  Bologna FC              v AC Perugia Calcio        2-1 (1-0)
+
+
+» Matchday 23
+  Fri Jan/23
+    20.30  Calcio Catania          v Pro Vercelli             4-0 (3-0)
+  Sat Jan/24
+    15.00  AC Perugia Calcio       v FC Bari 1908             1-1 (0-1)
+           Virtus Entella          v Bologna FC               1-2 (1-1)
+           AS Livorno              v Brescia Calcio           4-2 (2-1)
+           AS Varese 1910          v Carpi FC                 0-1 (0-1)
+           AS Avellino             v AS Cittadella            1-2 (1-2)
+           FC Crotone              v Latina Calcio            2-1 (1-1)
+           Frosinone Calcio        v Spezia Calcio            1-1 (1-0)
+           Delfino Pescara         v Ternana Calcio           1-2 (1-1)
+           Vicenza Calcio          v Trapani Calcio           3-0 (2-0)
+  Sun Jan/25
+    12.30  Modena FC               v Virtus Lanciano          1-1 (0-0)
+
+
+» Matchday 24
+  Fri Jan/30
+    20.30  FC Bari 1908            v Frosinone Calcio         4-0 (2-0)
+  Sat Jan/31
+    15.00  Carpi FC                v FC Crotone               2-1 (0-1)
+           Latina Calcio           v AS Livorno               3-2 (1-1)
+           Pro Vercelli            v Modena FC                1-1 (1-1)
+           Calcio Catania          v AC Perugia Calcio        2-0 (1-0)
+           Bologna FC              v Delfino Pescara          0-0
+           AS Cittadella           v Trapani Calcio           1-0 (1-0)
+           Virtus Lanciano         v AS Varese 1910           1-2 (0-1)
+           Brescia Calcio          v Virtus Entella           3-0 (1-0)
+           Ternana Calcio          v Vicenza Calcio           0-2 (0-1)
+  Mon Feb/2
+    20.30  Spezia Calcio           v AS Avellino              0-1 (0-1)
+
+
+» Matchday 25
+  Fri Feb/6
+    20.30  Trapani Calcio          v Carpi FC                 0-0
+  Sat Feb/7
+    15.00  AS Livorno              v FC Bari 1908             5-2 (2-0)
+           FC Crotone              v Bologna FC               0-2 (0-1)
+           Delfino Pescara         v AS Cittadella            1-1 (0-1)
+           AS Avellino             v Latina Calcio            1-0 (0-0)
+           AS Varese 1910          v Pro Vercelli             1-1 (0-0)
+           Virtus Entella          v Spezia Calcio            2-0 (0-0)
+           Frosinone Calcio        v Virtus Lanciano          2-1 (0-1)
+           Vicenza Calcio          v AC Perugia Calcio        3-1 (0-1)
+  Sun Feb/8
+    18.00  Ternana Calcio          v Brescia Calcio           2-1 (0-1)
+  Tue Mar/10
+    18.30  Modena FC               v Calcio Catania           0-0
+
+
+» Matchday 26
+  Fri Feb/13
+    20.30  AC Perugia Calcio       v Modena FC                2-0 (1-0)
+  Sat Feb/14
+    15.00  Virtus Lanciano         v Brescia Calcio           2-0 (0-0)
+           Pro Vercelli            v AS Cittadella            0-1 (0-0)
+           AS Avellino             v Frosinone Calcio         3-0 (1-0)
+           AS Varese 1910          v AS Livorno               0-1 (0-0)
+           Latina Calcio           v Delfino Pescara          2-0 (0-0)
+           Carpi FC                v Spezia Calcio            0-0
+           Bologna FC              v Ternana Calcio           0-0
+           Virtus Entella          v Trapani Calcio           1-1 (0-1)
+           FC Bari 1908            v Vicenza Calcio           0-1 (0-0)
+  Mon Feb/16
+    20.30  Calcio Catania          v FC Crotone               1-1 (0-1)
+
+
+» Matchday 27
+  Sat Feb/21
+    15.00  AS Cittadella           v Bologna FC               0-1 (0-1)
+           Ternana Calcio          v Latina Calcio            0-2 (0-1)
+           Spezia Calcio           v Modena FC                3-2 (1-1)
+           Brescia Calcio          v AC Perugia Calcio        1-2 (1-0)
+           Frosinone Calcio        v Pro Vercelli             3-2 (2-0)
+           Trapani Calcio          v AS Varese 1910           0-0
+           Carpi FC                v Virtus Entella           0-0
+           Vicenza Calcio          v FC Crotone               1-0 (0-0)
+    18.00  FC Bari 1908            v Virtus Lanciano          2-0 (2-0)
+  Sun Feb/22
+    12.30  AS Livorno              v AS Avellino              0-1 (0-0)
+    15.00  Delfino Pescara         v Calcio Catania           1-0 (0-0)
+
+
+» Matchday 28
+  Fri Feb/27
+    19.00  Latina Calcio           v Trapani Calcio           1-0 (0-0)
+    21.00  Bologna FC              v Vicenza Calcio           0-2 (0-1)
+  Sat Feb/28
+    15.00  Modena FC               v FC Bari 1908             0-1 (0-1)
+           AS Varese 1910          v Brescia Calcio           1-2 (1-1)
+           Pro Vercelli            v Carpi FC                 0-0
+           Virtus Lanciano         v AS Cittadella            2-2 (2-2)
+           Calcio Catania          v Frosinone Calcio         1-2 (1-0)
+           FC Crotone              v AS Livorno               1-0 (1-0)
+           Virtus Entella          v Delfino Pescara          2-5 (1-3)
+           AC Perugia Calcio       v Spezia Calcio            2-1 (2-0)
+           AS Avellino             v Ternana Calcio           1-1 (1-1)
+
+
+» Matchday 29
+  Tue Mar/3
+    20.30  Carpi FC                v AS Avellino              2-0 (1-0)
+           FC Bari 1908            v Calcio Catania           1-1 (0-0)
+           Delfino Pescara         v FC Crotone               2-1 (0-0)
+           Bologna FC              v Latina Calcio            0-0
+           Trapani Calcio          v AS Livorno               0-0
+           Brescia Calcio          v Modena FC                0-1 (0-1)
+           Frosinone Calcio        v AC Perugia Calcio        2-1 (1-0)
+           Spezia Calcio           v Pro Vercelli             5-2 (2-2)
+           AS Cittadella           v AS Varese 1910           3-0 (3-0)
+           Ternana Calcio          v Virtus Entella           0-1 (0-1)
+           Vicenza Calcio          v Virtus Lanciano          2-2 (0-1)
+
+
+» Matchday 30
+  Sat Mar/7
+    15.00  AS Varese 1910          v Bologna FC               1-3 (1-0)
+           Pro Vercelli            v Brescia Calcio           0-0
+           Latina Calcio           v Carpi FC                 0-1 (0-1)
+           Modena FC               v Frosinone Calcio         1-0 (1-0)
+           Calcio Catania          v Spezia Calcio            2-2 (0-0)
+           AS Livorno              v Ternana Calcio           3-1 (2-1)
+           FC Crotone              v Trapani Calcio           1-0 (0-0)
+           AC Perugia Calcio       v Virtus Lanciano          0-0
+           Delfino Pescara         v Vicenza Calcio           2-2 (0-0)
+    18.00  AS Avellino             v FC Bari 1908             2-0 (1-0)
+  Mon Mar/9
+    20.30  Virtus Entella          v AS Cittadella            2-1 (1-0)
+
+
+» Matchday 31
+  Fri Mar/13
+    20.30  Spezia Calcio           v AS Livorno               3-0 (0-0)
+  Sat Mar/14
+    15.00  Virtus Lanciano         v AS Avellino              1-0 (1-0)
+           AS Cittadella           v FC Crotone               0-0
+           Brescia Calcio          v Latina Calcio            1-2 (0-1)
+           Carpi FC                v Delfino Pescara          1-2 (0-0)
+           AC Perugia Calcio       v Pro Vercelli             3-2 (1-0)
+           Trapani Calcio          v Ternana Calcio           4-2 (3-2)
+           FC Bari 1908            v AS Varese 1910           3-0 (1-0)
+           Frosinone Calcio        v Virtus Entella           3-3 (2-2)
+  Sun Mar/15
+    15.00  Bologna FC              v Modena FC                0-0
+  Mon Mar/16
+    20.30  Vicenza Calcio          v Calcio Catania           0-0
+
+
+» Matchday 32
+  Fri Mar/20
+    20.30  Delfino Pescara         v FC Bari 1908             0-0
+  Sat Mar/21
+    15.00  Trapani Calcio          v Bologna FC               0-0
+           FC Crotone              v Brescia Calcio           2-1 (0-0)
+           Ternana Calcio          v Carpi FC                 0-1 (0-1)
+           Virtus Entella          v Calcio Catania           2-0 (2-0)
+           AS Livorno              v AS Cittadella            0-1 (0-1)
+           AS Avellino             v AC Perugia Calcio        1-2 (1-0)
+           Latina Calcio           v Spezia Calcio            1-2 (0-1)
+           Pro Vercelli            v Virtus Lanciano          2-1 (2-1)
+           Modena FC               v Vicenza Calcio           1-2 (1-1)
+  Mon Mar/23
+    20.30  AS Varese 1910          v Frosinone Calcio         1-4 (1-2)
+
+
+» Matchday 33
+  Sat Mar/28
+    15.00  Bologna FC              v AS Livorno               2-0 (0-0)
+           Spezia Calcio           v Delfino Pescara          2-2 (1-1)
+    18.00  Vicenza Calcio          v Carpi FC                 1-2 (0-2)
+  Sun Mar/29
+    12.30  AC Perugia Calcio       v FC Crotone               0-0
+    15.00  Calcio Catania          v AS Avellino              1-0 (1-0)
+           FC Bari 1908            v Pro Vercelli             1-0 (0-0)
+           AS Cittadella           v Ternana Calcio           0-0
+           Modena FC               v AS Varese 1910           1-1 (0-1)
+           Virtus Lanciano         v Virtus Entella           1-0 (0-0)
+    20.30  Brescia Calcio          v Trapani Calcio           1-1 (0-0)
+  Tue Apr/14
+    18.00  Frosinone Calcio        v Latina Calcio            1-0 (1-0)
+
+
+» Matchday 34
+  Wed Apr/1
+    20.30  Carpi FC                v Bologna FC               3-0 (1-0)
+  Thu Apr/2
+    20.30  Ternana Calcio          v FC Bari 1908             2-0 (0-0)
+           Delfino Pescara         v Brescia Calcio           2-3 (2-1)
+           AS Varese 1910          v Calcio Catania           0-3 (0-2)
+           Latina Calcio           v AS Cittadella            3-2 (0-1)
+           Trapani Calcio          v Frosinone Calcio         3-1 (1-0)
+           AS Avellino             v Modena FC                1-0 (1-0)
+           Virtus Entella          v AC Perugia Calcio        0-2 (0-1)
+           FC Crotone              v Spezia Calcio            2-0 (1-0)
+           AS Livorno              v Virtus Lanciano          1-0 (1-0)
+           Pro Vercelli            v Vicenza Calcio           1-1 (0-0)
+
+
+» Matchday 35
+  Fri Apr/10
+    20.30  Vicenza Calcio          v AS Avellino              1-0 (1-0)
+  Sat Apr/11
+    15.00  Brescia Calcio          v Bologna FC               1-1 (1-1)
+           AS Cittadella           v Carpi FC                 0-1 (0-1)
+           FC Bari 1908            v FC Crotone               1-1 (0-1)
+           Virtus Lanciano         v Latina Calcio            1-1 (0-0)
+           Pro Vercelli            v AS Livorno               3-3 (2-2)
+           Frosinone Calcio        v Delfino Pescara          2-1 (1-0)
+           Spezia Calcio           v Ternana Calcio           0-1 (0-0)
+           Calcio Catania          v Trapani Calcio           4-1 (0-1)
+           Modena FC               v Virtus Entella           2-0 (2-0)
+  Mon Apr/13
+    20.30  AC Perugia Calcio       v AS Varese 1910           2-0 (1-0)
+
+
+» Matchday 36
+  Fri Apr/17
+    20.30  AS Cittadella           v Vicenza Calcio           0-1 (0-0)
+  Sat Apr/18
+    15.00  Trapani Calcio          v FC Bari 1908             1-1 (0-0)
+           Carpi FC                v Brescia Calcio           3-0 (2-0)
+           Delfino Pescara         v Modena FC                1-0 (0-0)
+           Ternana Calcio          v AC Perugia Calcio        0-0
+           Bologna FC              v Spezia Calcio            0-0
+           FC Crotone              v Virtus Lanciano          1-1 (0-0)
+  Sun Apr/19
+    15.00  AS Varese 1910          v AS Avellino              1-1 (0-1)
+           Latina Calcio           v Calcio Catania           1-2 (0-1)
+           AS Livorno              v Frosinone Calcio         0-0
+  Mon Apr/20
+    20.30  Virtus Entella          v Pro Vercelli             0-0
+
+
+» Matchday 37
+  Fri Apr/24
+    19.00  Calcio Catania          v Ternana Calcio           2-0 (1-0)
+    21.00  FC Bari 1908            v Bologna FC               1-1 (1-1)
+  Sat Apr/25
+    15.00  Frosinone Calcio        v Carpi FC                 1-0 (1-0)
+           Brescia Calcio          v AS Cittadella            0-0
+           Modena FC               v FC Crotone               3-0 (2-0)
+           Pro Vercelli            v Latina Calcio            1-1 (0-1)
+           AC Perugia Calcio       v AS Livorno               1-1 (0-1)
+           Virtus Lanciano         v Delfino Pescara          0-1 (0-0)
+           Spezia Calcio           v Trapani Calcio           3-0 (2-0)
+           AS Avellino             v Virtus Entella           1-1 (1-0)
+           Vicenza Calcio          v AS Varese 1910           1-0 (0-0)
+
+
+» Matchday 38
+  Mon Apr/27
+    20.30  Bologna FC              v Calcio Catania           2-0 (1-0)
+  Tue Apr/28
+    20.30  FC Crotone              v AS Avellino              2-0 (1-0)
+           Carpi FC                v FC Bari 1908             0-0
+           Ternana Calcio          v Frosinone Calcio         0-1 (0-1)
+           AS Livorno              v Modena FC                1-1 (0-1)
+           Latina Calcio           v AC Perugia Calcio        0-0
+           Delfino Pescara         v Pro Vercelli             1-0 (1-0)
+           AS Cittadella           v Spezia Calcio            1-3 (1-0)
+           Virtus Entella          v AS Varese 1910           0-1 (0-0)
+           Trapani Calcio          v Virtus Lanciano          1-0 (1-0)
+           Brescia Calcio          v Vicenza Calcio           3-0 (2-0)
+
+
+» Matchday 39
+  Sat May/2
+    15.00  Frosinone Calcio        v Bologna FC               2-1 (2-1)
+           Spezia Calcio           v Brescia Calcio           4-1 (2-1)
+           FC Bari 1908            v AS Cittadella            1-0 (0-0)
+           Pro Vercelli            v FC Crotone               3-2 (2-2)
+           AS Varese 1910          v Latina Calcio            1-2 (1-1)
+           Calcio Catania          v AS Livorno               1-1 (1-0)
+           Virtus Lanciano         v Ternana Calcio           1-1 (1-1)
+           AC Perugia Calcio       v Trapani Calcio           1-0 (1-0)
+           Vicenza Calcio          v Virtus Entella           0-0
+  Sun May/3
+    15.00  AS Avellino             v Delfino Pescara          3-2 (0-1)
+    18.00  Modena FC               v Carpi FC                 1-2 (0-0)
+
+
+» Matchday 40
+  Fri May/8
+    20.30  AS Livorno              v Virtus Entella           2-1 (0-0)
+  Sat May/9
+    15.00  Bologna FC              v AS Avellino              1-1 (0-1)
+           Latina Calcio           v FC Bari 1908             2-0 (1-0)
+           Brescia Calcio          v Calcio Catania           4-2 (2-0)
+           AS Cittadella           v Frosinone Calcio         1-1 (0-1)
+           Trapani Calcio          v Modena FC                3-0 (2-0)
+           Delfino Pescara         v AC Perugia Calcio        2-2 (0-0)
+           Ternana Calcio          v Pro Vercelli             0-1 (0-1)
+           Carpi FC                v Virtus Lanciano          0-0
+           Spezia Calcio           v Vicenza Calcio           0-0
+  Sun May/10
+    18.00  FC Crotone              v AS Varese 1910           1-0 (1-0)
+
+
+» Matchday 41
+  Fri May/15
+    20.30  AC Perugia Calcio       v Carpi FC                 2-0 (2-0)
+  Sat May/16
+    15.00  Pro Vercelli            v Bologna FC               1-1 (0-0)
+           Calcio Catania          v AS Cittadella            2-3 (1-1)
+           Frosinone Calcio        v FC Crotone               3-1 (2-0)
+           Virtus Entella          v Latina Calcio            2-0 (1-0)
+           AS Varese 1910          v Delfino Pescara          2-1 (1-0)
+           Virtus Lanciano         v Spezia Calcio            0-2 (0-1)
+           Modena FC               v Ternana Calcio           1-2 (1-1)
+           AS Avellino             v Trapani Calcio           1-1 (0-0)
+           AS Livorno              v Vicenza Calcio           1-1 (1-0)
+    18.00  FC Bari 1908            v Brescia Calcio           3-2 (2-0)
+
+
+» Matchday 42
+  Fri May/22
+    20.30  Brescia Calcio          v AS Avellino              3-2 (2-1)
+           Spezia Calcio           v FC Bari 1908             1-0 (0-0)
+           Carpi FC                v Calcio Catania           0-0
+           Delfino Pescara         v AS Livorno               3-0 (1-0)
+           Latina Calcio           v Modena FC                1-1 (1-1)
+           AS Cittadella           v AC Perugia Calcio        0-2 (0-0)
+           Trapani Calcio          v Pro Vercelli             2-1 (1-0)
+           Ternana Calcio          v AS Varese 1910           2-0 (1-0)
+           FC Crotone              v Virtus Entella           0-0
+           Bologna FC              v Virtus Lanciano          1-0 (1-0)
+           Vicenza Calcio          v Frosinone Calcio         2-1 (0-0)
+
+
+» Relegation, Final
+  Sat May/30
+    18.30  Virtus Entella          v Modena FC                2-2 (2-1)
+  Sat Jun/6
+    18.30  Modena FC               v Virtus Entella           1-1 (1-1)
+
+
+» Aufstieg, Round 1
+  Tue May/26
+    18.30  AC Perugia Calcio       v Delfino Pescara          1-2 (0-0)
+    21.00  Spezia Calcio           v AS Avellino              1-2 a.e.t. (1-1, 0-1)
+
+
+» Aufstieg, Semifinals
+  Fri May/29
+    18.30  Delfino Pescara         v Vicenza Calcio           1-0 (0-0)
+    21.00  AS Avellino             v Bologna FC               0-1 (0-1)
+  Tue Jun/2
+    18.30  Bologna FC              v AS Avellino              2-3 (1-2)
+    21.00  Vicenza Calcio          v Delfino Pescara          2-2 (1-1)
+
+
+» Aufstieg, Final
+  Fri Jun/5
+    20.30  Delfino Pescara         v Bologna FC               0-0
+  Tue Jun/9
+    20.30  Bologna FC              v Delfino Pescara          1-1 (1-0)

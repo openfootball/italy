@@ -1,0 +1,723 @@
+= Italian Serie B 2013/14
+
+# Date       Fri Aug/23 2013 - Wed Jun/18 2014 (299d)
+# Teams      22
+# Matches    472
+# Stages     Regular Season (462)  Relegation (2)  Aufstieg (8)
+
+
+
+» Matchday 1
+  Fri Aug/23 2013
+    20.30  Reggina Calcio          v AS Bari                  0-0
+  Sat Aug/24
+    20.30  AS Avellino             v Novara Calcio            2-1 (1-0)
+           Brescia Calcio          v Virtus Lanciano          2-2 (1-1)
+           Empoli FC               v Latina Calcio            3-1 (3-0)
+           Modena FC               v US Palermo               1-1 (0-1)
+           Calcio Padova           v Trapani Calcio           0-2 (0-0)
+           Delfino Pescara         v Juve Stabia              3-0 (2-0)
+           AC Siena                v FC Crotone               5-2 (3-0)
+           Spezia Calcio           v AS Cittadella            0-0
+           Ternana Calcio          v Carpi FC                 1-0 (1-0)
+  Mon Aug/26
+    20.30  AC Cesena               v AS Varese 1910           1-0 (0-0)
+
+
+» Matchday 2
+  Sat Aug/31
+    18.00  Novara Calcio           v AC Siena                 2-1 (0-0)
+    20.30  AS Bari                 v Brescia Calcio           0-0
+           AS Cittadella           v Ternana Calcio           2-2 (0-0)
+           FC Crotone              v AC Cesena                1-2 (1-0)
+           Juve Stabia             v Spezia Calcio            1-2 (1-1)
+           Latina Calcio           v AS Avellino              1-1 (0-1)
+           US Palermo              v Empoli FC                1-2 (1-1)
+           AS Varese 1910          v Modena FC                1-1 (0-0)
+           Virtus Lanciano         v Reggina Calcio           1-1 (1-0)
+  Mon Sep/2
+    20.30  Trapani Calcio          v Delfino Pescara          2-2 (1-1)
+  Tue Mar/11 2014
+    15.00  Carpi FC                v Calcio Padova            1-1 (1-0)
+
+
+» Matchday 3
+  Sat Sep/7 2013
+    18.00  Spezia Calcio           v Carpi FC                 0-2 (0-1)
+    20.30  Brescia Calcio          v Novara Calcio            1-1 (1-0)
+  Sun Sep/8
+    15.00  AC Cesena               v Virtus Lanciano          0-1 (0-0)
+           Empoli FC               v Trapani Calcio           1-1 (1-0)
+           Latina Calcio           v AS Varese 1910           0-3 (0-1)
+           Modena FC               v AS Cittadella            2-0 (1-0)
+           Delfino Pescara         v FC Crotone               2-2 (1-1)
+           Reggina Calcio          v Juve Stabia              3-1 (0-0)
+           AC Siena                v AS Bari                  3-2 (3-1)
+    18.00  AS Avellino             v Ternana Calcio           1-0 (0-0)
+    20.30  Calcio Padova           v US Palermo               0-3 (0-2)
+
+
+» Matchday 4
+  Fri Sep/13
+    20.30  US Palermo              v AC Cesena                2-1 (0-0)
+  Sat Sep/14
+    15.00  AS Bari                 v Modena FC                1-0 (0-0)
+           Carpi FC                v Empoli FC                0-2 (0-1)
+           AS Cittadella           v Latina Calcio            0-0
+           FC Crotone              v Spezia Calcio            1-0 (1-0)
+           Juve Stabia             v AC Siena                 2-2 (2-1)
+           Novara Calcio           v Calcio Padova            1-0 (0-0)
+           Trapani Calcio          v Reggina Calcio           4-0 (2-0)
+           AS Varese 1910          v Delfino Pescara          3-2 (1-1)
+           Virtus Lanciano         v AS Avellino              1-0 (1-0)
+  Mon Sep/16
+    20.30  Ternana Calcio          v Brescia Calcio           1-2 (1-1)
+
+
+» Matchday 5
+  Fri Sep/20
+    19.00  Latina Calcio           v Virtus Lanciano          0-0
+    21.00  Spezia Calcio           v US Palermo               1-0 (0-0)
+  Sat Sep/21
+    15.00  AS Avellino             v AS Varese 1910           1-1 (0-1)
+           Brescia Calcio          v FC Crotone               1-2 (0-2)
+           AC Cesena               v Carpi FC                 4-1 (1-0)
+           AS Cittadella           v Juve Stabia              0-2 (0-1)
+           Empoli FC               v Calcio Padova            3-1 (0-1)
+           Modena FC               v Trapani Calcio           3-1 (2-0)
+           Delfino Pescara         v AS Bari                  0-1 (0-1)
+           Reggina Calcio          v Novara Calcio            1-1 (0-1)
+           AC Siena                v Ternana Calcio           1-1 (0-1)
+
+
+» Matchday 6
+  Tue Sep/24
+    20.30  AS Bari                 v US Palermo               2-1 (1-0)
+           Carpi FC                v Brescia Calcio           0-0
+           FC Crotone              v Modena FC                3-1 (2-0)
+           Empoli FC               v AC Siena                 0-0
+           Juve Stabia             v Virtus Lanciano          0-1 (0-1)
+           Novara Calcio           v AS Cittadella            2-2 (2-1)
+           Calcio Padova           v Latina Calcio            0-0
+           Delfino Pescara         v AS Avellino              1-1 (1-0)
+           Ternana Calcio          v Spezia Calcio            1-2 (0-1)
+           Trapani Calcio          v AC Cesena                0-1 (0-1)
+           AS Varese 1910          v Reggina Calcio           1-0 (0-0)
+
+
+» Matchday 7
+  Sat Sep/28
+    15.00  AS Cittadella           v FC Crotone               1-0 (0-0)
+           Latina Calcio           v Brescia Calcio           2-0 (1-0)
+           Modena FC               v Calcio Padova            3-1 (2-0)
+           US Palermo              v Juve Stabia              3-0 (1-0)
+           Reggina Calcio          v Carpi FC                 0-1 (0-0)
+           AC Siena                v Trapani Calcio           2-1 (1-1)
+           Spezia Calcio           v Novara Calcio            0-0
+           AS Varese 1910          v Ternana Calcio           2-1 (0-1)
+           Virtus Lanciano         v AS Bari                  1-0 (0-0)
+  Mon Sep/30
+    19.00  AS Avellino             v Empoli FC                1-0 (1-0)
+    21.00  AC Cesena               v Delfino Pescara          1-1 (0-0)
+
+
+» Matchday 8
+  Fri Oct/4
+    20.30  Calcio Padova           v AS Varese 1910           3-2 (1-2)
+  Sat Oct/5
+    15.00  AS Avellino             v AS Bari                  1-0 (0-0)
+           Brescia Calcio          v US Palermo               1-1 (1-0)
+           Carpi FC                v AS Cittadella            0-1 (0-0)
+           AC Cesena               v AC Siena                 1-1 (0-0)
+           Empoli FC               v Modena FC                2-1 (1-0)
+           Novara Calcio           v Virtus Lanciano          0-3 (0-2)
+           Delfino Pescara         v Spezia Calcio            1-1 (1-0)
+           Ternana Calcio          v Juve Stabia              1-1 (0-0)
+           Trapani Calcio          v Latina Calcio            1-1 (1-1)
+  Mon Oct/7
+    20.30  FC Crotone              v Reggina Calcio           2-0 (1-0)
+
+
+» Matchday 9
+  Sat Oct/12
+    18.00  Spezia Calcio           v Brescia Calcio           2-2 (0-0)
+    20.30  Reggina Calcio          v Empoli FC                2-1 (0-0)
+  Sun Oct/13
+    12.30  AS Cittadella           v Calcio Padova            1-0 (1-0)
+    15.00  AS Bari                 v FC Crotone               1-2 (0-1)
+           Juve Stabia             v AC Cesena                0-2 (0-1)
+           Latina Calcio           v Modena FC                0-0
+           AC Siena                v AS Avellino              3-0 (1-0)
+           AS Varese 1910          v Trapani Calcio           0-0
+           Virtus Lanciano         v Ternana Calcio           1-1 (0-1)
+    20.30  US Palermo              v Delfino Pescara          1-0 (1-0)
+  Mon Oct/14
+    20.30  Carpi FC                v Novara Calcio            1-0 (1-0)
+
+
+» Matchday 10
+  Fri Oct/18
+    20.30  AC Cesena               v AS Bari                  2-1 (2-0)
+  Sat Oct/19
+    15.00  AS Avellino             v Carpi FC                 4-1 (3-0)
+           Brescia Calcio          v AS Cittadella            4-1 (2-0)
+           FC Crotone              v Virtus Lanciano          1-2 (0-0)
+           Empoli FC               v AS Varese 1910           2-0 (1-0)
+           Modena FC               v Reggina Calcio           3-0 (1-0)
+           Calcio Padova           v Juve Stabia              2-1 (1-0)
+           Delfino Pescara         v Latina Calcio            0-1 (0-0)
+           Ternana Calcio          v Novara Calcio            5-0 (2-0)
+           Trapani Calcio          v Spezia Calcio            1-1 (1-0)
+  Mon Oct/21
+    20.30  AC Siena                v US Palermo               2-3 (1-2)
+
+
+» Matchday 11
+  Fri Oct/25
+    20.30  Reggina Calcio          v Delfino Pescara          2-3 (1-0)
+  Sat Oct/26
+    15.00  AS Bari                 v Trapani Calcio           1-1 (0-0)
+           Brescia Calcio          v AC Siena                 2-2 (2-0)
+           Carpi FC                v Latina Calcio            1-1 (0-1)
+           Juve Stabia             v Empoli FC                0-2 (0-0)
+           US Palermo              v AS Varese 1910           0-0
+           Spezia Calcio           v Modena FC                2-1 (1-0)
+           Ternana Calcio          v FC Crotone               2-3 (1-2)
+           Virtus Lanciano         v Calcio Padova            1-0 (0-0)
+  Mon Oct/28
+    20.30  Novara Calcio           v AC Cesena                1-1 (0-1)
+  Tue Oct/29
+    20.30  AS Cittadella           v AS Avellino              1-2 (0-1)
+
+
+» Matchday 12
+  Fri Nov/1
+    12.30  AS Varese 1910          v Juve Stabia              2-2 (1-0)
+    15.00  AC Cesena               v Ternana Calcio           1-1 (0-0)
+           FC Crotone              v Novara Calcio            2-2 (1-1)
+           Latina Calcio           v Reggina Calcio           1-0 (0-0)
+           Calcio Padova           v Spezia Calcio            1-0 (1-0)
+           Delfino Pescara         v Brescia Calcio           3-3 (2-1)
+           Trapani Calcio          v Carpi FC                 0-1 (0-0)
+    18.00  Modena FC               v Virtus Lanciano          1-0 (1-0)
+    20.30  Empoli FC               v AS Bari                  1-1 (1-0)
+  Sat Nov/2
+    15.00  AC Siena                v AS Cittadella            1-1 (0-0)
+  Sun Nov/3
+    12.30  AS Avellino             v US Palermo               0-2 (0-1)
+
+
+» Matchday 13
+  Fri Nov/8
+    20.30  Spezia Calcio           v AC Cesena                2-1 (1-1)
+  Sat Nov/9
+    15.00  AS Bari                 v AS Varese 1910           2-1 (1-0)
+           Brescia Calcio          v AS Avellino              0-2 (0-1)
+           Carpi FC                v FC Crotone               1-2 (1-2)
+           AS Cittadella           v Delfino Pescara          0-1 (0-1)
+           Juve Stabia             v Modena FC                1-1 (1-0)
+           Novara Calcio           v Latina Calcio            2-2 (0-2)
+           US Palermo              v Trapani Calcio           3-0 (0-0)
+           Reggina Calcio          v Calcio Padova            2-1 (0-0)
+           Virtus Lanciano         v AC Siena                 1-1 (1-0)
+  Mon Nov/11
+    20.30  Ternana Calcio          v Empoli FC                1-0 (0-0)
+
+
+» Matchday 14
+  Sat Nov/16
+    18.00  Calcio Padova           v Brescia Calcio           0-0
+    20.30  Reggina Calcio          v US Palermo               0-2 (0-1)
+  Sun Nov/17
+    12.30  Modena FC               v Carpi FC                 2-3 (1-2)
+    15.00  AC Cesena               v AS Cittadella            2-2 (1-1)
+           Empoli FC               v Virtus Lanciano          3-0 (1-0)
+           Latina Calcio           v AS Bari                  1-0 (1-0)
+           Delfino Pescara         v Ternana Calcio           2-1 (1-0)
+           AC Siena                v Spezia Calcio            2-0 (0-0)
+           Trapani Calcio          v Novara Calcio            2-1 (0-1)
+           AS Varese 1910          v FC Crotone               2-0 (1-0)
+    20.30  AS Avellino             v Juve Stabia              2-1 (2-0)
+
+
+» Matchday 15
+  Fri Nov/22
+    20.30  Novara Calcio           v Delfino Pescara          0-0
+  Sat Nov/23
+    15.00  AS Bari                 v Calcio Padova            2-2 (2-1)
+           Brescia Calcio          v AC Cesena                0-0
+           AS Cittadella           v Reggina Calcio           0-0
+           FC Crotone              v AS Avellino              3-2 (3-2)
+           Juve Stabia             v Trapani Calcio           2-3 (1-3)
+           Spezia Calcio           v Empoli FC                1-3 (1-2)
+           Ternana Calcio          v Modena FC                1-1 (1-1)
+           Virtus Lanciano         v AS Varese 1910           2-0 (2-0)
+  Sun Nov/24
+    12.30  US Palermo              v Latina Calcio            1-2 (1-2)
+    15.00  Carpi FC                v AC Siena                 0-1 (0-0)
+
+
+» Matchday 16
+  Fri Nov/29
+    20.30  Empoli FC               v Brescia Calcio           2-2 (0-0)
+  Sat Nov/30
+    15.00  AS Avellino             v AC Cesena                0-0
+           Latina Calcio           v Juve Stabia              1-0 (0-0)
+           Modena FC               v AC Siena                 1-1 (1-0)
+           Calcio Padova           v FC Crotone               0-0
+           US Palermo              v Novara Calcio            2-1 (1-0)
+           Delfino Pescara         v Carpi FC                 4-2 (1-1)
+           Reggina Calcio          v Spezia Calcio            1-2 (1-0)
+           Trapani Calcio          v Virtus Lanciano          1-0 (0-0)
+           AS Varese 1910          v AS Cittadella            2-1 (2-1)
+  Mon Dec/2
+    20.30  AS Bari                 v Ternana Calcio           2-1 (2-1)
+
+
+» Matchday 17
+  Fri Dec/6
+    20.30  AC Cesena               v Calcio Padova            0-1 (0-0)
+  Sat Dec/7
+    15.00  Brescia Calcio          v Reggina Calcio           2-1 (1-0)
+           Carpi FC                v AS Varese 1910           1-0 (1-0)
+           AS Cittadella           v Trapani Calcio           2-2 (0-1)
+           FC Crotone              v Empoli FC                1-1 (1-1)
+           Juve Stabia             v AS Bari                  1-1 (1-0)
+           Novara Calcio           v Modena FC                1-0 (1-0)
+           AC Siena                v Delfino Pescara          1-3 (1-2)
+           Ternana Calcio          v Latina Calcio            1-0 (0-0)
+           Virtus Lanciano         v US Palermo               1-1 (0-0)
+  Mon Dec/9
+    20.30  Spezia Calcio           v AS Avellino              0-0
+
+
+» Matchday 18
+  Fri Dec/13
+    20.30  Reggina Calcio          v AC Siena                 0-2 (0-1)
+  Sat Dec/14
+    15.00  AS Bari                 v Carpi FC                 2-2 (1-1)
+           Empoli FC               v AC Cesena                0-0
+           Juve Stabia             v Novara Calcio            1-2 (0-1)
+           Latina Calcio           v FC Crotone               2-3 (1-0)
+           Modena FC               v Brescia Calcio           0-1 (0-0)
+           Calcio Padova           v Ternana Calcio           1-1 (0-0)
+           US Palermo              v AS Cittadella            3-1 (2-1)
+           Trapani Calcio          v AS Avellino              1-1 (0-0)
+           AS Varese 1910          v Spezia Calcio            4-0 (1-0)
+  Sun Dec/15
+    12.30  Virtus Lanciano         v Delfino Pescara          0-1 (0-1)
+
+
+» Matchday 19
+  Fri Dec/20
+    19.00  Ternana Calcio          v Trapani Calcio           0-2 (0-0)
+    21.00  Delfino Pescara         v Calcio Padova            1-0 (0-0)
+  Sat Dec/21
+    15.00  Brescia Calcio          v AS Varese 1910           4-2 (2-1)
+           Carpi FC                v US Palermo               1-0 (0-0)
+           AC Cesena               v Reggina Calcio           3-1 (1-0)
+           AS Cittadella           v AS Bari                  1-1 (0-0)
+           FC Crotone              v Juve Stabia              1-1 (0-1)
+           Novara Calcio           v Empoli FC                0-1 (0-1)
+           AC Siena                v Latina Calcio            1-0 (1-0)
+           Spezia Calcio           v Virtus Lanciano          2-0 (0-0)
+  Sun Dec/22
+    12.30  AS Avellino             v Modena FC                2-1 (1-0)
+
+
+» Matchday 20
+  Thu Dec/26
+    15.00  AS Bari                 v Spezia Calcio            1-2 (0-0)
+           Empoli FC               v AS Cittadella            0-1 (0-1)
+           Juve Stabia             v Brescia Calcio           1-2 (1-1)
+           Latina Calcio           v AC Cesena                0-0
+           Modena FC               v Delfino Pescara          0-1 (0-1)
+           Calcio Padova           v AC Siena                 2-2 (1-1)
+           US Palermo              v Ternana Calcio           1-0 (0-0)
+           Reggina Calcio          v AS Avellino              1-1 (1-0)
+           Trapani Calcio          v FC Crotone               1-0 (1-0)
+           Virtus Lanciano         v Carpi FC                 1-3 (1-2)
+  Sun Jan/19 2014
+    12.30  AS Varese 1910          v Novara Calcio            1-1 (0-0)
+
+
+» Matchday 21
+  Sun Dec/29 2013
+    12.30  AC Siena                v AS Varese 1910           1-1 (0-0)
+    15.00  AS Avellino             v Calcio Padova            2-1 (1-1)
+           Brescia Calcio          v Trapani Calcio           3-3 (1-1)
+           Carpi FC                v Juve Stabia              1-0 (0-0)
+           AS Cittadella           v Virtus Lanciano          1-2 (0-1)
+           FC Crotone              v US Palermo               1-2 (0-1)
+           Novara Calcio           v AS Bari                  0-1 (0-0)
+           Delfino Pescara         v Empoli FC                1-2 (0-1)
+           Spezia Calcio           v Latina Calcio            1-4 (0-0)
+           Ternana Calcio          v Reggina Calcio           2-1 (0-0)
+    18.00  AC Cesena               v Modena FC                1-1 (1-1)
+
+
+» Matchday 22
+  Fri Jan/24 2014
+    20.30  Trapani Calcio          v Calcio Padova            2-1 (2-0)
+  Sat Jan/25
+    15.00  Novara Calcio           v AS Avellino              2-1 (0-1)
+           Virtus Lanciano         v Brescia Calcio           1-0 (0-0)
+           AS Varese 1910          v AC Cesena                1-3 (1-2)
+           Latina Calcio           v Empoli FC                2-1 (0-0)
+           US Palermo              v Modena FC                0-0
+           Juve Stabia             v Delfino Pescara          2-1 (0-0)
+           AS Bari                 v Reggina Calcio           0-1 (0-1)
+           AS Cittadella           v Spezia Calcio            1-2 (1-0)
+           Carpi FC                v Ternana Calcio           1-2 (1-1)
+  Mon Jan/27
+    20.30  FC Crotone              v AC Siena                 0-0
+
+
+» Matchday 23
+  Fri Jan/31
+    20.30  AS Avellino             v Latina Calcio            1-1 (0-0)
+  Sat Feb/1
+    15.00  Brescia Calcio          v AS Bari                  2-1 (0-1)
+           Calcio Padova           v Carpi FC                 1-4 (1-1)
+           Ternana Calcio          v AS Cittadella            2-1 (2-0)
+           AC Cesena               v FC Crotone               1-0 (0-0)
+           Spezia Calcio           v Juve Stabia              1-1 (0-1)
+           AC Siena                v Novara Calcio            1-0 (1-0)
+           Delfino Pescara         v Trapani Calcio           0-1 (0-0)
+           Modena FC               v AS Varese 1910           4-1 (1-0)
+           Reggina Calcio          v Virtus Lanciano          1-0 (0-0)
+  Mon Feb/3
+    20.30  Empoli FC               v US Palermo               1-1 (0-0)
+
+
+» Matchday 24
+  Fri Feb/7
+    20.30  Virtus Lanciano         v AC Cesena                1-1 (0-1)
+  Sat Feb/8
+    15.00  Ternana Calcio          v AS Avellino              1-1 (0-0)
+           Trapani Calcio          v Empoli FC                0-0
+           AS Varese 1910          v Latina Calcio            0-0
+           AS Cittadella           v Modena FC                0-1 (0-0)
+           US Palermo              v Calcio Padova            1-0 (0-0)
+           FC Crotone              v Delfino Pescara          3-0 (1-0)
+           Juve Stabia             v Reggina Calcio           1-1 (0-0)
+           AS Bari                 v AC Siena                 2-1 (2-0)
+           Carpi FC                v Spezia Calcio            1-1 (0-0)
+  Mon Feb/10
+    20.30  Novara Calcio           v Brescia Calcio           1-2 (0-1)
+
+
+» Matchday 25
+  Sat Feb/15
+    15.00  Empoli FC               v Carpi FC                 1-1 (0-1)
+           Latina Calcio           v AS Cittadella            1-0 (1-0)
+           Spezia Calcio           v FC Crotone               3-1 (3-0)
+           AC Siena                v Juve Stabia              1-0 (0-0)
+           Calcio Padova           v Novara Calcio            1-0 (0-0)
+           AC Cesena               v US Palermo               0-0
+           Brescia Calcio          v Ternana Calcio           1-1 (1-0)
+           Reggina Calcio          v Trapani Calcio           1-1 (0-0)
+           AS Avellino             v Virtus Lanciano          1-3 (0-3)
+    18.00  Delfino Pescara         v AS Varese 1910           1-2 (0-1)
+  Sun Feb/16
+    12.30  Modena FC               v AS Bari                  4-0 (1-0)
+
+
+» Matchday 26
+  Fri Feb/21
+    20.30  FC Crotone              v Brescia Calcio           1-0 (1-0)
+  Sat Feb/22
+    15.00  AS Varese 1910          v AS Avellino              1-1 (0-0)
+           Carpi FC                v AC Cesena                1-2 (1-1)
+           Juve Stabia             v AS Cittadella            1-1 (0-0)
+           Calcio Padova           v Empoli FC                0-1 (0-1)
+           Virtus Lanciano         v Latina Calcio            0-0
+           Trapani Calcio          v Modena FC                2-0 (1-0)
+           AS Bari                 v Delfino Pescara          1-0 (0-0)
+           Novara Calcio           v Reggina Calcio           1-0 (1-0)
+           Ternana Calcio          v AC Siena                 2-2 (0-0)
+    18.00  US Palermo              v Spezia Calcio            1-1 (1-0)
+
+
+» Matchday 27
+  Fri Feb/28
+    20.30  Latina Calcio           v Calcio Padova            3-0 (1-0)
+  Sat Mar/1
+    15.00  US Palermo              v AS Bari                  2-1 (0-0)
+           Brescia Calcio          v Carpi FC                 0-2 (0-2)
+           Modena FC               v FC Crotone               2-0 (1-0)
+           AC Siena                v Empoli FC                1-1 (0-0)
+           Virtus Lanciano         v Juve Stabia              1-0 (0-0)
+           AS Cittadella           v Novara Calcio            2-2 (0-0)
+           Spezia Calcio           v Ternana Calcio           2-2 (1-0)
+           AC Cesena               v Trapani Calcio           2-2 (0-1)
+           Reggina Calcio          v AS Varese 1910           3-4 (2-0)
+    18.00  AS Avellino             v Delfino Pescara          1-1 (0-0)
+
+
+» Matchday 28
+  Fri Mar/7
+    20.30  Empoli FC               v AS Avellino              0-1 (0-0)
+  Sat Mar/8
+    15.00  Delfino Pescara         v AC Cesena                2-0 (1-0)
+           FC Crotone              v AS Cittadella            2-0 (1-0)
+           Brescia Calcio          v Latina Calcio            0-2 (0-2)
+           Calcio Padova           v Modena FC                2-2 (0-2)
+           Carpi FC                v Reggina Calcio           0-3 (0-0)
+           Trapani Calcio          v AC Siena                 0-2 (0-0)
+           Novara Calcio           v Spezia Calcio            2-0 (1-0)
+           Ternana Calcio          v AS Varese 1910           2-0 (1-0)
+           AS Bari                 v Virtus Lanciano          1-0 (1-0)
+  Mon Mar/10
+    20.30  Juve Stabia             v US Palermo               0-3 (0-3)
+
+
+» Matchday 29
+  Fri Mar/14
+    20.30  Spezia Calcio           v Delfino Pescara          0-1 (0-1)
+  Sat Mar/15
+    15.00  AS Bari                 v AS Avellino              1-0 (0-0)
+           US Palermo              v Brescia Calcio           2-0 (1-0)
+           AS Cittadella           v Carpi FC                 1-0 (0-0)
+           Reggina Calcio          v FC Crotone               1-4 (0-0)
+           Modena FC               v Empoli FC                0-0
+           Virtus Lanciano         v Novara Calcio            2-1 (1-0)
+           AS Varese 1910          v Calcio Padova            0-3 (0-1)
+           Juve Stabia             v Ternana Calcio           2-3 (1-2)
+           Latina Calcio           v Trapani Calcio           0-1 (0-0)
+    18.00  AC Siena                v AC Cesena                1-0 (1-0)
+
+
+» Matchday 30
+  Fri Mar/21
+    19.00  Trapani Calcio          v AS Varese 1910           1-1 (1-1)
+    21.00  AS Avellino             v AC Siena                 0-1 (0-0)
+  Sat Mar/22
+    15.00  FC Crotone              v AS Bari                  0-0
+           Novara Calcio           v Carpi FC                 1-0 (0-0)
+           Calcio Padova           v AS Cittadella            0-4 (0-1)
+           AC Cesena               v Juve Stabia              1-0 (0-0)
+           Modena FC               v Latina Calcio            4-0 (0-0)
+           Delfino Pescara         v US Palermo               1-2 (0-1)
+           Empoli FC               v Reggina Calcio           4-0 (4-0)
+           Brescia Calcio          v Spezia Calcio            0-2 (0-1)
+           Ternana Calcio          v Virtus Lanciano          1-1 (1-1)
+
+
+» Matchday 31
+  Tue Mar/25
+    20.30  Carpi FC                v AS Avellino              1-1 (1-1)
+           AS Cittadella           v Brescia Calcio           0-1 (0-0)
+           AS Bari                 v AC Cesena                0-0
+           Virtus Lanciano         v FC Crotone               0-1 (0-0)
+           AS Varese 1910          v Empoli FC                1-0 (0-0)
+           Reggina Calcio          v Modena FC                2-2 (1-0)
+           Juve Stabia             v Calcio Padova            1-1 (1-0)
+           Latina Calcio           v Delfino Pescara          0-2 (0-0)
+           US Palermo              v AC Siena                 1-1 (1-1)
+           Novara Calcio           v Ternana Calcio           1-1 (1-1)
+           Spezia Calcio           v Trapani Calcio           0-1 (0-1)
+
+
+» Matchday 32
+  Sat Mar/29
+    15.00  Trapani Calcio          v AS Bari                  3-4 (2-4)
+           AC Siena                v Brescia Calcio           2-1 (1-0)
+           Latina Calcio           v Carpi FC                 1-0 (1-0)
+           AS Avellino             v AS Cittadella            1-0 (0-0)
+           Empoli FC               v Juve Stabia              2-1 (1-1)
+           AS Varese 1910          v US Palermo               1-2 (1-1)
+           Delfino Pescara         v Reggina Calcio           2-2 (1-1)
+           Modena FC               v Spezia Calcio            0-0
+           Calcio Padova           v Virtus Lanciano          5-1 (1-1)
+    18.00  AC Cesena               v Novara Calcio            2-0 (0-0)
+  Sun Mar/30
+    12.30  FC Crotone              v Ternana Calcio           1-1 (0-1)
+
+
+» Matchday 33
+  Fri Apr/4
+    20.30  US Palermo              v AS Avellino              2-0 (0-0)
+  Sat Apr/5
+    15.00  Ternana Calcio          v AC Cesena                0-2 (0-1)
+           Novara Calcio           v FC Crotone               1-1 (1-0)
+           Reggina Calcio          v Latina Calcio            0-1 (0-0)
+           Virtus Lanciano         v Modena FC                1-3 (0-1)
+           Spezia Calcio           v Calcio Padova            2-2 (0-2)
+           Brescia Calcio          v Delfino Pescara          3-0 (0-0)
+           AS Cittadella           v AC Siena                 1-0 (0-0)
+           Carpi FC                v Trapani Calcio           3-2 (1-1)
+           Juve Stabia             v AS Varese 1910           2-4 (1-2)
+  Sun Apr/6
+    12.30  AS Bari                 v Empoli FC                3-0 (1-0)
+
+
+» Matchday 34
+  Fri Apr/11
+    20.30  AC Cesena               v Spezia Calcio            0-2 (0-0)
+  Sat Apr/12
+    15.00  AS Varese 1910          v AS Bari                  0-1 (0-1)
+           AS Avellino             v Brescia Calcio           0-1 (0-0)
+           FC Crotone              v Carpi FC                 0-0
+           Delfino Pescara         v AS Cittadella            1-1 (1-0)
+           Modena FC               v Juve Stabia              4-2 (2-2)
+           Latina Calcio           v Novara Calcio            4-1 (0-0)
+           Trapani Calcio          v US Palermo               0-1 (0-0)
+           Empoli FC               v Ternana Calcio           1-0 (0-0)
+           AC Siena                v Virtus Lanciano          1-0 (1-0)
+  Sun Apr/13
+    12.30  Calcio Padova           v Reggina Calcio           2-2 (1-1)
+
+
+» Matchday 35
+  Thu Apr/17
+    18.00  FC Crotone              v AS Varese 1910           3-2 (1-1)
+    20.30  Juve Stabia             v AS Avellino              2-2 (1-1)
+           AS Cittadella           v AC Cesena                1-0 (0-0)
+           Virtus Lanciano         v Empoli FC                2-1 (0-1)
+           AS Bari                 v Latina Calcio            0-1 (0-1)
+           Carpi FC                v Modena FC                2-2 (1-0)
+           Brescia Calcio          v Calcio Padova            1-3 (1-2)
+           Ternana Calcio          v Delfino Pescara          1-0 (1-0)
+           US Palermo              v Reggina Calcio           1-0 (1-0)
+           Spezia Calcio           v AC Siena                 1-0 (0-0)
+           Novara Calcio           v Trapani Calcio           3-1 (2-0)
+
+
+» Matchday 36
+  Fri Apr/25
+    15.00  Delfino Pescara         v Novara Calcio            0-0
+    18.00  Modena FC               v Ternana Calcio           3-3 (0-0)
+  Sat Apr/26
+    15.00  Calcio Padova           v AS Bari                  1-2 (0-1)
+           AC Cesena               v Brescia Calcio           0-3 (0-1)
+           AC Siena                v Carpi FC                 0-0
+           Reggina Calcio          v AS Cittadella            0-1 (0-0)
+           AS Avellino             v FC Crotone               2-0 (1-0)
+           Trapani Calcio          v Juve Stabia              3-0 (1-0)
+           Latina Calcio           v US Palermo               1-3 (0-0)
+           Empoli FC               v Spezia Calcio            2-0 (1-0)
+           AS Varese 1910          v Virtus Lanciano          0-1 (0-1)
+
+
+» Matchday 37
+  Fri May/2
+    20.30  Spezia Calcio           v Reggina Calcio           2-1 (1-1)
+  Sat May/3
+    15.00  AC Cesena               v AS Avellino              2-0 (0-0)
+           Ternana Calcio          v AS Bari                  1-3 (1-2)
+           Brescia Calcio          v Empoli FC                1-3 (1-1)
+           Juve Stabia             v Latina Calcio            1-1 (1-0)
+           AC Siena                v Modena FC                1-3 (0-1)
+           FC Crotone              v Calcio Padova            2-1 (1-0)
+           Novara Calcio           v US Palermo               0-1 (0-1)
+           Carpi FC                v Delfino Pescara          2-0 (1-0)
+           AS Cittadella           v AS Varese 1910           5-1 (2-0)
+    18.00  Virtus Lanciano         v Trapani Calcio           2-2 (0-1)
+
+
+» Matchday 38
+  Fri May/9
+    19.00  Calcio Padova           v AC Cesena                0-1 (0-0)
+    21.00  Empoli FC               v FC Crotone               3-1 (2-0)
+  Sat May/10
+    15.00  Reggina Calcio          v Brescia Calcio           1-1 (1-0)
+           AS Varese 1910          v Carpi FC                 0-2 (0-0)
+           Trapani Calcio          v AS Cittadella            1-2 (1-1)
+           AS Bari                 v Juve Stabia              3-0 (1-0)
+           Modena FC               v Novara Calcio            3-1 (1-1)
+           Delfino Pescara         v AC Siena                 1-0 (0-0)
+           AS Avellino             v Spezia Calcio            2-0 (2-0)
+           Latina Calcio           v Ternana Calcio           2-0 (0-0)
+           US Palermo              v Virtus Lanciano          1-1 (1-0)
+
+
+» Matchday 39
+  Tue May/13
+    20.30  Carpi FC                v AS Bari                  1-2 (0-1)
+           AC Cesena               v Empoli FC                1-0 (0-0)
+           Novara Calcio           v Juve Stabia              2-0 (1-0)
+           FC Crotone              v Latina Calcio            0-1 (0-1)
+           Brescia Calcio          v Modena FC                0-1 (0-1)
+           Ternana Calcio          v Calcio Padova            2-1 (1-0)
+           AS Cittadella           v US Palermo               0-2 (0-0)
+           AC Siena                v Reggina Calcio           2-1 (1-0)
+           AS Avellino             v Trapani Calcio           3-3 (2-1)
+           Spezia Calcio           v AS Varese 1910           2-1 (2-1)
+           Delfino Pescara         v Virtus Lanciano          2-2 (1-1)
+
+
+» Matchday 40
+  Sat May/17
+    15.00  Modena FC               v AS Avellino              1-0 (0-0)
+           AS Varese 1910          v Brescia Calcio           1-2 (1-0)
+           US Palermo              v Carpi FC                 1-2 (1-1)
+           Reggina Calcio          v AC Cesena                1-2 (1-1)
+           Juve Stabia             v FC Crotone               2-2 (1-1)
+           Empoli FC               v Novara Calcio            3-1 (2-1)
+           Calcio Padova           v Delfino Pescara          2-1 (1-0)
+           Virtus Lanciano         v Spezia Calcio            2-2 (0-0)
+           Trapani Calcio          v Ternana Calcio           2-1 (1-0)
+  Mon May/19
+    19.00  AS Bari                 v AS Cittadella            1-0 (0-0)
+    21.00  Latina Calcio           v AC Siena                 0-3 (0-1)
+
+
+» Matchday 41
+  Sat May/24
+    18.00  Novara Calcio           v AS Varese 1910           0-0
+  Sun May/25
+    18.00  Delfino Pescara         v Modena FC                2-2 (1-0)
+    20.30  Spezia Calcio           v AS Bari                  2-0 (1-0)
+           AS Cittadella           v Empoli FC                2-2 (2-2)
+           Brescia Calcio          v Juve Stabia              4-1 (2-0)
+           AC Cesena               v Latina Calcio            1-3 (0-1)
+           AC Siena                v Calcio Padova            2-0 (1-0)
+           Ternana Calcio          v US Palermo               1-2 (1-2)
+           AS Avellino             v Reggina Calcio           3-0 (1-0)
+           FC Crotone              v Trapani Calcio           2-1 (1-1)
+           Carpi FC                v Virtus Lanciano          2-2 (2-0)
+
+
+» Matchday 42
+  Fri May/30
+    20.30  Calcio Padova           v AS Avellino              2-1 (2-1)
+           Trapani Calcio          v Brescia Calcio           0-1 (0-0)
+           Juve Stabia             v Carpi FC                 0-2 (0-2)
+           Modena FC               v AC Cesena                0-0
+           Virtus Lanciano         v AS Cittadella            0-0
+           US Palermo              v FC Crotone               0-0
+           AS Bari                 v Novara Calcio            4-1 (0-0)
+           Empoli FC               v Delfino Pescara          2-0 (0-0)
+           AS Varese 1910          v AC Siena                 2-0 (0-0)
+           Latina Calcio           v Spezia Calcio            0-0
+           Reggina Calcio          v Ternana Calcio           1-2 (1-1)
+
+
+» Relegation, Final
+  Fri Jun/6
+    20.30  Novara Calcio           v AS Varese 1910           0-2 (0-1)
+  Fri Jun/13
+    20.30  AS Varese 1910          v Novara Calcio            2-2 (1-0)
+
+
+» Aufstieg, Round 1
+  Tue Jun/3
+    18.00  FC Crotone              v AS Bari                  0-3 (0-1)
+    20.30  Modena FC               v Spezia Calcio            1-0 (0-0)
+
+
+» Aufstieg, Semifinals
+  Sun Jun/8
+    18.00  AS Bari                 v Latina Calcio            2-2 (0-1)
+    20.30  Modena FC               v AC Cesena                0-1 (0-1)
+  Wed Jun/11
+    18.00  AC Cesena               v Modena FC                1-1 (0-0)
+    20.30  Latina Calcio           v AS Bari                  2-2 (0-0)
+
+
+» Aufstieg, Final
+  Sun Jun/15
+    20.30  AC Cesena               v Latina Calcio            2-1 (1-0)
+  Wed Jun/18
+    20.30  Latina Calcio           v AC Cesena                1-2 (1-0)

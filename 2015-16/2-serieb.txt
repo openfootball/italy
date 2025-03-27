@@ -1,0 +1,753 @@
+= Italian Serie B 2015/16
+
+# Date       Sat Sep/5 2015 - Thu Jun/9 2016 (278d)
+# Teams      22
+# Matches    472
+# Stages     Regular Season (462)  Relegation (2)  Aufstieg (8)
+
+
+
+» Matchday 1
+  Sat Sep/5 2015
+    20.30  AC Cesena               v Brescia Calcio           2-0 (2-0)
+  Sun Sep/6
+    15.00  AS Livorno              v Delfino Pescara          4-0 (3-0)
+           Modena FC               v Vicenza Calcio           0-1 (0-0)
+           Novara Calcio           v Latina Calcio            1-1 (1-0)
+           AC Perugia Calcio       v Como Calcio              2-0 (1-0)
+           Pro Vercelli            v Virtus Lanciano          2-1 (1-0)
+           US Salernitana 1919     v US Avellino              3-1 (1-1)
+           Trapani Calcio          v Ternana Calcio           3-0 (1-0)
+    17.30  FC Bari 1908            v Spezia Calcio            4-3 (2-2)
+  Mon Sep/7
+    20.30  Cagliari Calcio         v FC Crotone               4-0 (1-0)
+  Tue Sep/15
+    18.00  Ascoli Picchio FC       v Virtus Entella           1-0 (1-0)
+
+
+» Matchday 2
+  Fri Sep/11
+    20.30  Delfino Pescara         v AC Perugia Calcio        2-1 (1-0)
+  Sat Sep/12
+    15.00  US Avellino             v Modena FC                2-0 (0-0)
+           Brescia Calcio          v US Salernitana 1919      2-2 (0-1)
+           Como Calcio             v AS Livorno               1-2 (1-1)
+           FC Crotone              v Novara Calcio            2-1 (0-1)
+           Ternana Calcio          v Cagliari Calcio          1-1 (0-1)
+           Virtus Lanciano         v Ascoli Picchio FC        2-0 (1-0)
+           Vicenza Calcio          v FC Bari 1908             0-0
+           Virtus Entella          v AC Cesena                2-1 (1-1)
+  Sun Sep/13
+    17.30  Spezia Calcio           v Pro Vercelli             1-1 (1-1)
+  Mon Sep/14
+    20.30  Latina Calcio           v Trapani Calcio           1-1 (0-0)
+
+
+» Matchday 3
+  Fri Sep/18
+    19.00  Modena FC               v Ternana Calcio           1-0 (0-0)
+    21.00  AS Livorno              v Brescia Calcio           3-1 (1-1)
+  Sat Sep/19
+    15.00  FC Bari 1908            v Delfino Pescara          0-0
+           Cagliari Calcio         v US Avellino              2-1 (1-0)
+           Novara Calcio           v Virtus Entella           1-0 (0-0)
+           AC Perugia Calcio       v FC Crotone               0-0
+           Pro Vercelli            v Latina Calcio            1-1 (0-1)
+           US Salernitana 1919     v Spezia Calcio            0-2 (0-1)
+           Trapani Calcio          v Virtus Lanciano          1-1 (1-0)
+           Vicenza Calcio          v Como Calcio              3-3 (2-2)
+           Ascoli Picchio FC       v AC Cesena                1-3 (0-0)
+
+
+» Matchday 4
+  Mon Sep/21
+    20.30  Ternana Calcio          v AS Livorno               2-3 (2-1)
+  Tue Sep/22
+    20.30  US Avellino             v Novara Calcio            0-0
+           Brescia Calcio          v Pro Vercelli             2-0 (1-0)
+           AC Cesena               v Modena FC                2-0 (1-0)
+           Como Calcio             v Trapani Calcio           0-0
+           FC Crotone              v FC Bari 1908             4-1 (2-1)
+           Latina Calcio           v Ascoli Picchio FC        1-0 (1-0)
+           Delfino Pescara         v US Salernitana 1919      1-1 (1-0)
+           Spezia Calcio           v AC Perugia Calcio        1-0 (1-0)
+           Virtus Lanciano         v Vicenza Calcio           0-0
+           Virtus Entella          v Cagliari Calcio          1-3 (1-1)
+
+
+» Matchday 5
+  Sat Sep/26
+    15.00  Cagliari Calcio         v Latina Calcio            3-2 (2-1)
+           AS Livorno              v Spezia Calcio            1-2 (0-1)
+           Modena FC               v Virtus Lanciano          1-0 (0-0)
+           AC Perugia Calcio       v AC Cesena                0-0
+           Pro Vercelli            v FC Crotone               0-2 (0-1)
+           US Salernitana 1919     v Ternana Calcio           2-1 (0-0)
+           Trapani Calcio          v Virtus Entella           4-2 (2-1)
+           Vicenza Calcio          v Delfino Pescara          2-2 (0-0)
+           Ascoli Picchio FC       v Brescia Calcio           0-0
+  Sun Sep/27
+    17.30  FC Bari 1908            v US Avellino              2-1 (1-1)
+  Mon Sep/28
+    20.30  Novara Calcio           v Como Calcio              0-2 (0-0)
+
+
+» Matchday 6
+  Fri Oct/2
+    20.30  FC Crotone              v US Salernitana 1919      4-0 (2-0)
+  Sat Oct/3
+    15.00  US Avellino             v Vicenza Calcio           1-4 (1-3)
+           Brescia Calcio          v Modena FC                2-2 (2-1)
+           AC Cesena               v AS Livorno               1-0 (0-0)
+           Como Calcio             v Ascoli Picchio FC        0-4 (0-2)
+           Latina Calcio           v FC Bari 1908             1-2 (1-0)
+           Delfino Pescara         v Cagliari Calcio          1-0 (0-0)
+           Ternana Calcio          v Novara Calcio            2-0 (0-0)
+           Virtus Lanciano         v Spezia Calcio            0-0
+           Virtus Entella          v Pro Vercelli             1-0 (1-0)
+  Mon Oct/5
+    20.30  Trapani Calcio          v AC Perugia Calcio        0-0
+
+
+» Matchday 7
+  Sat Oct/10
+    15.00  Vicenza Calcio          v FC Crotone               0-0
+    20.30  Pro Vercelli            v Novara Calcio            0-1 (0-1)
+  Sun Oct/11
+    12.30  Cagliari Calcio         v AC Cesena                3-1 (1-0)
+    15.00  FC Bari 1908            v Virtus Lanciano          1-0 (1-0)
+           Como Calcio             v Brescia Calcio           1-3 (1-2)
+           AS Livorno              v US Avellino              1-1 (0-1)
+           Modena FC               v Latina Calcio            0-2 (0-0)
+           AC Perugia Calcio       v Virtus Entella           0-0
+           US Salernitana 1919     v Trapani Calcio           0-1 (0-1)
+           Spezia Calcio           v Ternana Calcio           1-0 (1-0)
+    20.30  Ascoli Picchio FC       v Delfino Pescara          3-1 (0-0)
+
+
+» Matchday 8
+  Fri Oct/16
+    20.30  US Avellino             v Brescia Calcio           3-3 (1-1)
+  Sat Oct/17
+    15.00  FC Crotone              v AS Livorno               3-0 (1-0)
+           Modena FC               v Ascoli Picchio FC        2-1 (0-0)
+           Novara Calcio           v Cagliari Calcio          1-0 (1-0)
+           Pro Vercelli            v Vicenza Calcio           2-1 (2-0)
+           Ternana Calcio          v FC Bari 1908             3-0 (3-0)
+           Trapani Calcio          v Delfino Pescara          0-3 (0-2)
+           Virtus Lanciano         v Como Calcio              1-0 (0-0)
+           Virtus Entella          v US Salernitana 1919      1-0 (1-0)
+  Sun Oct/18
+    17.30  Latina Calcio           v AC Perugia Calcio        2-1 (2-1)
+  Mon Oct/19
+    20.30  AC Cesena               v Spezia Calcio            5-1 (1-1)
+
+
+» Matchday 9
+  Fri Oct/23
+    19.00  Delfino Pescara         v Pro Vercelli             1-0 (0-0)
+    21.00  Vicenza Calcio          v Novara Calcio            0-2 (0-1)
+  Sat Oct/24
+    15.00  FC Bari 1908            v Virtus Entella           0-0
+           Brescia Calcio          v Virtus Lanciano          2-1 (1-1)
+           Cagliari Calcio         v Trapani Calcio           4-1 (3-0)
+           Como Calcio             v Latina Calcio            1-1 (0-0)
+           AS Livorno              v Modena FC                2-0 (0-0)
+           US Salernitana 1919     v AC Cesena                1-1 (1-0)
+           Spezia Calcio           v US Avellino              1-1 (0-1)
+           Ternana Calcio          v AC Perugia Calcio        0-1 (0-0)
+           Ascoli Picchio FC       v FC Crotone               0-1 (0-1)
+
+
+» Matchday 10
+  Tue Oct/27
+    20.30  US Avellino             v Ascoli Picchio FC        3-0 (2-0)
+           AC Cesena               v Como Calcio              3-1 (2-0)
+           FC Crotone              v Brescia Calcio           1-1 (1-0)
+           Latina Calcio           v Ternana Calcio           1-2 (0-0)
+           Modena FC               v Spezia Calcio            1-1 (0-1)
+           AC Perugia Calcio       v Cagliari Calcio          0-0
+           Pro Vercelli            v FC Bari 1908             0-1 (0-0)
+           Trapani Calcio          v Vicenza Calcio           1-2 (0-2)
+           Virtus Lanciano         v US Salernitana 1919      2-2 (1-2)
+           Virtus Entella          v AS Livorno               0-0
+  Tue Nov/3
+    18.30  Novara Calcio           v Delfino Pescara          1-0 (0-0)
+
+
+» Matchday 11
+  Sat Oct/31
+    15.00  FC Bari 1908            v Novara Calcio            1-1 (0-1)
+           Brescia Calcio          v Latina Calcio            1-0 (0-0)
+           AC Cesena               v Virtus Lanciano          2-0 (1-0)
+           Como Calcio             v Modena FC                1-1 (0-0)
+           AS Livorno              v Trapani Calcio           2-0 (1-0)
+           Delfino Pescara         v FC Crotone               4-1 (2-0)
+           US Salernitana 1919     v AC Perugia Calcio        1-1 (1-0)
+           Ternana Calcio          v US Avellino              0-3 (0-1)
+           Ascoli Picchio FC       v Pro Vercelli             0-1 (0-0)
+  Sun Nov/1
+    17.30  Spezia Calcio           v Virtus Entella           0-0
+  Mon Nov/2
+    20.30  Cagliari Calcio         v Vicenza Calcio           2-0 (1-0)
+
+
+» Matchday 12
+  Fri Nov/6
+    20.30  FC Bari 1908            v US Salernitana 1919      2-1 (1-0)
+  Sat Nov/7
+    15.00  Cagliari Calcio         v Modena FC                2-1 (2-1)
+           Latina Calcio           v AC Cesena                1-0 (0-0)
+           Novara Calcio           v Brescia Calcio           4-0 (1-0)
+           Delfino Pescara         v Ternana Calcio           1-2 (1-1)
+           Pro Vercelli            v AS Livorno               1-0 (1-0)
+           Trapani Calcio          v Spezia Calcio            5-1 (3-1)
+           Vicenza Calcio          v Ascoli Picchio FC        3-0 (3-0)
+           Virtus Entella          v Como Calcio              2-2 (1-2)
+  Sun Nov/8
+    17.30  AC Perugia Calcio       v Virtus Lanciano          2-0 (1-0)
+  Mon Nov/9
+    20.30  FC Crotone              v US Avellino              3-1 (1-0)
+
+
+» Matchday 13
+  Sat Nov/14
+    15.00  AS Livorno              v Vicenza Calcio           2-2 (0-0)
+    20.30  Modena FC               v Pro Vercelli             1-0 (0-0)
+  Sun Nov/15
+    12.30  Spezia Calcio           v Cagliari Calcio          0-3 (0-1)
+    15.00  US Avellino             v Latina Calcio            3-1 (2-1)
+           Brescia Calcio          v Trapani Calcio           3-0 (3-0)
+           Como Calcio             v Delfino Pescara          0-2 (0-2)
+           US Salernitana 1919     v Novara Calcio            1-0 (0-0)
+           Ternana Calcio          v Virtus Entella           1-2 (0-2)
+           Virtus Lanciano         v FC Crotone               1-1 (0-1)
+           Ascoli Picchio FC       v AC Perugia Calcio        1-0 (0-0)
+    20.30  AC Cesena               v FC Bari 1908             0-2 (0-1)
+
+
+» Matchday 14
+  Fri Nov/20
+    20.30  Delfino Pescara         v US Avellino              3-2 (1-0)
+  Sat Nov/21
+    15.00  FC Crotone              v Ternana Calcio           3-0 (0-0)
+           Latina Calcio           v US Salernitana 1919      2-2 (1-0)
+           Novara Calcio           v Spezia Calcio            1-0 (1-0)
+           AC Perugia Calcio       v Brescia Calcio           4-0 (2-0)
+           Pro Vercelli            v Como Calcio              2-0 (2-0)
+           Trapani Calcio          v Modena FC                2-1 (1-0)
+           Vicenza Calcio          v AC Cesena                1-1 (1-1)
+           Virtus Entella          v Virtus Lanciano          1-1 (0-1)
+  Sun Nov/22
+    17.30  FC Bari 1908            v AS Livorno               1-0 (0-0)
+  Mon Nov/23
+    20.30  Cagliari Calcio         v Ascoli Picchio FC        3-0 (2-0)
+
+
+» Matchday 15
+  Fri Nov/27
+    19.00  Spezia Calcio           v FC Crotone               0-1 (0-1)
+    21.00  AC Cesena               v Delfino Pescara          1-0 (1-0)
+           US Salernitana 1919     v Pro Vercelli             1-2 (0-1)
+  Sat Nov/28
+    15.00  US Avellino             v AC Perugia Calcio        1-2 (1-0)
+           Brescia Calcio          v Cagliari Calcio          4-0 (0-0)
+           Como Calcio             v FC Bari 1908             1-1 (0-0)
+           AS Livorno              v Novara Calcio            0-1 (0-1)
+           Modena FC               v Virtus Entella           0-1 (0-0)
+           Ternana Calcio          v Vicenza Calcio           2-0 (1-0)
+           Virtus Lanciano         v Latina Calcio            2-1 (1-1)
+  Sun Nov/29
+    17.30  Ascoli Picchio FC       v Trapani Calcio           0-0
+
+
+» Matchday 16
+  Fri Dec/4
+    19.00  Virtus Entella          v Brescia Calcio           0-0
+    21.00  AC Perugia Calcio       v Modena FC                1-0 (1-0)
+  Sat Dec/5
+    15.00  FC Bari 1908            v Ascoli Picchio FC        3-0 (1-0)
+           FC Crotone              v AC Cesena                2-0 (0-0)
+           Latina Calcio           v AS Livorno               3-1 (2-1)
+           Novara Calcio           v Virtus Lanciano          4-1 (0-0)
+           Pro Vercelli            v Ternana Calcio           1-2 (1-1)
+           Trapani Calcio          v US Avellino              2-1 (1-0)
+           Delfino Pescara         v Spezia Calcio            2-2 (0-0)
+  Sun Dec/6
+    15.00  Vicenza Calcio          v US Salernitana 1919      0-0
+    17.30  Cagliari Calcio         v Como Calcio              1-1 (0-0)
+
+
+» Matchday 17
+  Tue Dec/8
+    15.00  US Avellino             v Pro Vercelli             1-0 (0-0)
+           AC Cesena               v Trapani Calcio           0-0
+           Modena FC               v FC Bari 1908             2-1 (2-0)
+           AC Perugia Calcio       v Novara Calcio            1-4 (0-1)
+           Virtus Entella          v Latina Calcio            1-0 (0-0)
+           Ascoli Picchio FC       v Ternana Calcio           1-0 (1-0)
+    18.30  Brescia Calcio          v Delfino Pescara          2-0 (2-0)
+  Wed Dec/9
+    18.30  Como Calcio             v FC Crotone               0-1 (0-0)
+           AS Livorno              v US Salernitana 1919      0-0
+           Spezia Calcio           v Vicenza Calcio           1-0 (1-0)
+           Virtus Lanciano         v Cagliari Calcio          1-3 (0-2)
+
+
+» Matchday 18
+  Sat Dec/12
+    15.00  US Avellino             v Virtus Lanciano          3-2 (0-1)
+           AS Livorno              v Cagliari Calcio          1-1 (0-1)
+           Delfino Pescara         v Virtus Entella           2-0 (1-0)
+           Pro Vercelli            v AC Cesena                2-0 (2-0)
+           US Salernitana 1919     v Ascoli Picchio FC        2-0 (1-0)
+           Spezia Calcio           v Latina Calcio            2-1 (1-1)
+           Ternana Calcio          v Como Calcio              4-0 (2-0)
+           Vicenza Calcio          v Brescia Calcio           1-2 (0-2)
+  Sun Dec/13
+    12.30  FC Bari 1908            v AC Perugia Calcio        1-0 (0-0)
+    20.30  FC Crotone              v Modena FC                1-0 (0-0)
+  Mon Dec/14
+    20.30  Novara Calcio           v Trapani Calcio           4-1 (0-0)
+
+
+» Matchday 19
+  Fri Dec/18
+    19.00  Modena FC               v US Salernitana 1919      2-0 (2-0)
+    21.00  AC Perugia Calcio       v AS Livorno               4-1 (0-1)
+  Sat Dec/19
+    15.00  Brescia Calcio          v Spezia Calcio            1-1 (0-1)
+           AC Cesena               v Ternana Calcio           4-0 (1-0)
+           Como Calcio             v US Avellino              0-1 (0-0)
+           Latina Calcio           v FC Crotone               2-2 (1-0)
+           Trapani Calcio          v Pro Vercelli             1-1 (1-0)
+           Virtus Lanciano         v Delfino Pescara          1-2 (0-1)
+           Virtus Entella          v Vicenza Calcio           4-1 (1-1)
+           Ascoli Picchio FC       v Novara Calcio            1-3 (0-2)
+    18.00  Cagliari Calcio         v FC Bari 1908             2-1 (2-1)
+
+
+» Matchday 20
+  Tue Dec/22
+    20.30  US Avellino             v Virtus Entella           2-0 (1-0)
+  Wed Dec/23
+    20.30  FC Bari 1908            v Brescia Calcio           1-2 (1-0)
+           FC Crotone              v Trapani Calcio           0-0
+           AS Livorno              v Ascoli Picchio FC        1-3 (0-2)
+           Novara Calcio           v AC Cesena                0-0
+           Delfino Pescara         v Modena FC                1-0 (0-0)
+           Pro Vercelli            v AC Perugia Calcio        0-1 (0-1)
+           Spezia Calcio           v Como Calcio              1-1 (0-0)
+           Ternana Calcio          v Virtus Lanciano          1-1 (0-0)
+           Vicenza Calcio          v Latina Calcio            1-1 (0-1)
+  Thu Dec/24
+    13.00  US Salernitana 1919     v Cagliari Calcio          0-2 (0-1)
+
+
+» Matchday 21
+  Sun Dec/27
+    12.30  Latina Calcio           v Delfino Pescara          0-1 (0-0)
+    15.00  Brescia Calcio          v Ternana Calcio           0-0
+           Cagliari Calcio         v Pro Vercelli             3-0 (2-0)
+           AC Cesena               v US Avellino              1-2 (1-0)
+           Como Calcio             v US Salernitana 1919      2-1 (1-1)
+           Modena FC               v Novara Calcio            3-0 (1-0)
+           Trapani Calcio          v FC Bari 1908             1-0 (0-0)
+           Virtus Lanciano         v AS Livorno               2-1 (0-0)
+           Virtus Entella          v FC Crotone               1-2 (1-2)
+           Ascoli Picchio FC       v Spezia Calcio            3-0 (0-0)
+  Tue Jan/19 2016
+    20.30  AC Perugia Calcio       v Vicenza Calcio           0-1 (0-0)
+
+
+» Matchday 22
+  Fri Jan/15
+    20.30  Spezia Calcio           v FC Bari 1908             0-0
+  Sat Jan/16
+    15.00  Delfino Pescara         v AS Livorno               2-1 (0-0)
+           Vicenza Calcio          v Modena FC                2-1 (0-1)
+           Latina Calcio           v Novara Calcio            1-0 (1-0)
+           Como Calcio             v AC Perugia Calcio        1-0 (1-0)
+           Virtus Lanciano         v Pro Vercelli             1-0 (0-0)
+           US Avellino             v US Salernitana 1919      1-0 (0-0)
+           Ternana Calcio          v Trapani Calcio           1-0 (0-0)
+  Sun Jan/17
+    17.30  Brescia Calcio          v AC Cesena                2-1 (0-1)
+  Mon Jan/18
+    20.30  FC Crotone              v Cagliari Calcio          3-1 (2-1)
+           Virtus Entella          v Ascoli Picchio FC        4-0 (4-0)
+
+
+» Matchday 23
+  Fri Jan/22
+    20.30  US Salernitana 1919     v Brescia Calcio           3-0 (1-0)
+  Sat Jan/23
+    15.00  Modena FC               v US Avellino              1-1 (0-0)
+           Novara Calcio           v FC Crotone               0-1 (0-1)
+           Trapani Calcio          v Latina Calcio            1-2 (1-1)
+           Pro Vercelli            v Spezia Calcio            0-1 (0-0)
+           Cagliari Calcio         v Ternana Calcio           1-0 (0-0)
+           Ascoli Picchio FC       v Virtus Lanciano          1-0 (0-0)
+           FC Bari 1908            v Vicenza Calcio           2-1 (1-0)
+           AC Cesena               v Virtus Entella           2-0 (1-0)
+  Sun Jan/24
+    17.30  AC Perugia Calcio       v Delfino Pescara          0-4 (0-1)
+  Mon Jan/25
+    20.30  AS Livorno              v Como Calcio              1-1 (0-0)
+
+
+» Matchday 24
+  Fri Jan/29
+    20.30  US Avellino             v Cagliari Calcio          1-2 (1-1)
+  Sat Jan/30
+    15.00  Delfino Pescara         v FC Bari 1908             3-1 (1-0)
+           Brescia Calcio          v AS Livorno               1-3 (1-1)
+           Ternana Calcio          v Modena FC                2-1 (1-1)
+           FC Crotone              v AC Perugia Calcio        1-2 (1-0)
+           Latina Calcio           v Pro Vercelli             1-0 (0-0)
+           Virtus Lanciano         v Trapani Calcio           0-3 (0-1)
+           Como Calcio             v Vicenza Calcio           1-1 (0-0)
+           AC Cesena               v Ascoli Picchio FC        3-0 (2-0)
+  Sun Jan/31
+    17.30  Virtus Entella          v Novara Calcio            1-0 (0-0)
+  Mon Feb/1
+    20.30  Spezia Calcio           v US Salernitana 1919      3-1 (0-0)
+
+
+» Matchday 25
+  Fri Feb/5
+    20.30  FC Bari 1908            v FC Crotone               2-3 (0-1)
+  Sat Feb/6
+    15.00  Novara Calcio           v US Avellino              4-1 (4-0)
+           Pro Vercelli            v Brescia Calcio           2-1 (1-1)
+           Ascoli Picchio FC       v Latina Calcio            0-0
+           US Salernitana 1919     v Delfino Pescara          2-2 (1-1)
+           AC Perugia Calcio       v Spezia Calcio            0-0
+           AS Livorno              v Ternana Calcio           1-0 (0-0)
+           Vicenza Calcio          v Virtus Lanciano          0-2 (0-0)
+           Cagliari Calcio         v Virtus Entella           1-0 (0-0)
+  Sun Feb/7
+    17.30  Modena FC               v AC Cesena                0-0
+  Mon Feb/8
+    20.30  Trapani Calcio          v Como Calcio              2-2 (0-1)
+
+
+» Matchday 26
+  Fri Feb/12
+    20.30  Delfino Pescara         v Vicenza Calcio           1-1 (0-0)
+  Sat Feb/13
+    15.00  US Avellino             v FC Bari 1908             1-1 (0-1)
+           Latina Calcio           v Cagliari Calcio          1-3 (0-0)
+           Virtus Lanciano         v Modena FC                2-1 (0-1)
+           Como Calcio             v Novara Calcio            1-1 (0-0)
+           AC Cesena               v AC Perugia Calcio        2-1 (0-0)
+           FC Crotone              v Pro Vercelli             1-1 (0-1)
+           Ternana Calcio          v US Salernitana 1919      4-0 (3-0)
+           Virtus Entella          v Trapani Calcio           4-0 (1-0)
+  Sun Feb/14
+    17.30  Spezia Calcio           v AS Livorno               3-0 (2-0)
+  Mon Feb/15
+    20.30  Brescia Calcio          v Ascoli Picchio FC        2-2 (1-1)
+
+
+» Matchday 27
+  Fri Feb/19
+    20.30  FC Bari 1908            v Latina Calcio            0-0
+  Sat Feb/20
+    15.00  Vicenza Calcio          v US Avellino              0-0
+           Modena FC               v Brescia Calcio           1-0 (0-0)
+           AS Livorno              v AC Cesena                1-1 (1-0)
+           Ascoli Picchio FC       v Como Calcio              1-0 (0-0)
+           Cagliari Calcio         v Delfino Pescara          2-1 (0-1)
+           Novara Calcio           v Ternana Calcio           1-2 (0-1)
+           Spezia Calcio           v Virtus Lanciano          2-0 (1-0)
+           Pro Vercelli            v Virtus Entella           2-3 (2-0)
+  Sun Feb/21
+    12.30  US Salernitana 1919     v FC Crotone               1-1 (1-1)
+  Mon Feb/22
+    20.30  AC Perugia Calcio       v Trapani Calcio           0-2 (0-0)
+
+
+» Matchday 28
+  Fri Feb/26
+    19.00  Novara Calcio           v Pro Vercelli             1-1 (1-1)
+    21.00  AC Cesena               v Cagliari Calcio          2-0 (0-0)
+  Sat Feb/27
+    15.00  Virtus Lanciano         v FC Bari 1908             1-0 (0-0)
+           Brescia Calcio          v Como Calcio              2-1 (1-0)
+           US Avellino             v AS Livorno               2-1 (1-0)
+           Latina Calcio           v Modena FC                0-1 (0-1)
+           Virtus Entella          v AC Perugia Calcio        2-1 (1-0)
+           Trapani Calcio          v US Salernitana 1919      1-1 (0-0)
+           Ternana Calcio          v Spezia Calcio            1-2 (0-1)
+           FC Crotone              v Vicenza Calcio           2-0 (1-0)
+           Delfino Pescara         v Ascoli Picchio FC        2-2 (0-1)
+
+
+» Matchday 29
+  Mon Feb/29
+    20.30  Cagliari Calcio         v Novara Calcio            0-1 (0-1)
+  Tue Mar/1
+    20.30  Brescia Calcio          v US Avellino              1-0 (1-0)
+           Spezia Calcio           v AC Cesena                1-1 (0-1)
+           AS Livorno              v FC Crotone               0-0
+           AC Perugia Calcio       v Latina Calcio            2-0 (1-0)
+           Ascoli Picchio FC       v Modena FC                2-1 (1-1)
+           Vicenza Calcio          v Pro Vercelli             1-1 (1-1)
+           FC Bari 1908            v Ternana Calcio           4-0 (1-0)
+           Delfino Pescara         v Trapani Calcio           1-2 (0-1)
+           Como Calcio             v Virtus Lanciano          1-1 (1-0)
+           US Salernitana 1919     v Virtus Entella           2-2 (1-1)
+
+
+» Matchday 30
+  Sat Mar/5
+    15.00  Virtus Entella          v FC Bari 1908             2-0 (0-0)
+           Virtus Lanciano         v Brescia Calcio           1-0 (1-0)
+           Trapani Calcio          v Cagliari Calcio          2-2 (2-0)
+           Latina Calcio           v Como Calcio              1-1 (0-0)
+           US Avellino             v Spezia Calcio            0-1 (0-0)
+           AC Perugia Calcio       v Ternana Calcio           1-0 (0-0)
+           Novara Calcio           v Vicenza Calcio           4-0 (0-0)
+           FC Crotone              v Ascoli Picchio FC        2-0 (1-0)
+    17.00  Pro Vercelli            v Delfino Pescara          5-2 (2-0)
+  Sun Mar/6
+    17.30  Modena FC               v AS Livorno               1-0 (1-0)
+  Mon Mar/7
+    20.30  AC Cesena               v US Salernitana 1919      1-2 (1-1)
+
+
+» Matchday 31
+  Fri Mar/11
+    20.30  Brescia Calcio          v FC Crotone               3-0 (1-0)
+  Sat Mar/12
+    15.00  Ascoli Picchio FC       v US Avellino              3-4 (3-2)
+           Como Calcio             v AC Cesena                1-3 (1-0)
+           Ternana Calcio          v Latina Calcio            0-0
+           Spezia Calcio           v Modena FC                2-0 (1-0)
+           Delfino Pescara         v Novara Calcio            1-2 (1-1)
+           FC Bari 1908            v Pro Vercelli             6-2 (2-0)
+           US Salernitana 1919     v Virtus Lanciano          1-3 (0-0)
+           AS Livorno              v Virtus Entella           0-0
+  Sun Mar/13
+    17.30  Vicenza Calcio          v Trapani Calcio           1-2 (1-2)
+  Mon Mar/14
+    20.30  Cagliari Calcio         v AC Perugia Calcio        0-2 (0-1)
+
+
+» Matchday 32
+  Fri Mar/18
+    20.30  Virtus Entella          v Spezia Calcio            2-2 (1-0)
+  Sat Mar/19
+    15.00  Novara Calcio           v FC Bari 1908             1-2 (1-0)
+           Latina Calcio           v Brescia Calcio           2-2 (1-0)
+           Vicenza Calcio          v Cagliari Calcio          0-2 (0-0)
+           Virtus Lanciano         v AC Cesena                2-0 (1-0)
+           Modena FC               v Como Calcio              1-2 (0-0)
+           Trapani Calcio          v AS Livorno               1-0 (0-0)
+           AC Perugia Calcio       v US Salernitana 1919      1-1 (1-0)
+           Pro Vercelli            v Ascoli Picchio FC        1-1 (1-1)
+  Sun Mar/20
+    17.30  FC Crotone              v Delfino Pescara          4-2 (3-1)
+  Mon Mar/21
+    20.30  US Avellino             v Ternana Calcio           0-2 (0-0)
+
+
+» Matchday 33
+  Sat Mar/26
+    15.00  Modena FC               v Cagliari Calcio          1-2 (0-0)
+           US Avellino             v FC Crotone               0-0
+           AC Cesena               v Latina Calcio            3-0 (1-0)
+           Virtus Lanciano         v AC Perugia Calcio        0-1 (0-0)
+           Ternana Calcio          v Delfino Pescara          1-0 (0-0)
+           AS Livorno              v Pro Vercelli             0-1 (0-0)
+           Spezia Calcio           v Trapani Calcio           1-2 (1-0)
+           Ascoli Picchio FC       v Vicenza Calcio           1-2 (1-2)
+           Como Calcio             v Virtus Entella           1-1 (0-1)
+    18.00  Brescia Calcio          v Novara Calcio            0-0
+    20.30  US Salernitana 1919     v FC Bari 1908             3-4 (1-1)
+
+
+» Matchday 34
+  Fri Apr/1
+    20.30  FC Crotone              v Virtus Lanciano          1-0 (0-0)
+  Sat Apr/2
+    15.00  Latina Calcio           v US Avellino              3-0 (2-0)
+           Trapani Calcio          v Brescia Calcio           3-0 (1-0)
+           Delfino Pescara         v Como Calcio              2-1 (2-0)
+           Vicenza Calcio          v AS Livorno               2-0 (1-0)
+           Pro Vercelli            v Modena FC                1-1 (0-0)
+           Cagliari Calcio         v Spezia Calcio            1-2 (0-0)
+           Virtus Entella          v Ternana Calcio           2-2 (1-0)
+           AC Perugia Calcio       v Ascoli Picchio FC        0-2 (0-1)
+  Sun Apr/3
+    17.30  Novara Calcio           v US Salernitana 1919      1-1 (0-0)
+  Mon Apr/4
+    20.30  FC Bari 1908            v AC Cesena                0-0
+
+
+» Matchday 35
+  Fri Apr/8
+    20.30  US Avellino             v Delfino Pescara          1-3 (0-1)
+  Sat Apr/9
+    15.00  AS Livorno              v FC Bari 1908             1-2 (0-0)
+           Ascoli Picchio FC       v Cagliari Calcio          2-1 (2-0)
+           Ternana Calcio          v FC Crotone               1-2 (0-1)
+           US Salernitana 1919     v Latina Calcio            3-2 (2-2)
+           Spezia Calcio           v Novara Calcio            1-0 (1-0)
+           Modena FC               v Trapani Calcio           1-4 (1-0)
+           AC Cesena               v Vicenza Calcio           1-1 (0-1)
+           Virtus Lanciano         v Virtus Entella           1-2 (1-2)
+  Sun Apr/10
+    17.30  Como Calcio             v Pro Vercelli             1-1 (1-1)
+  Mon Apr/11
+    20.30  Brescia Calcio          v AC Perugia Calcio        2-2 (1-2)
+
+
+» Matchday 36
+  Fri Apr/15
+    19.00  FC Crotone              v Spezia Calcio            0-0
+    21.00  Delfino Pescara         v AC Cesena                1-0 (0-0)
+  Sat Apr/16
+    15.00  AC Perugia Calcio       v US Avellino              2-0 (1-0)
+           Cagliari Calcio         v Brescia Calcio           6-0 (3-0)
+           FC Bari 1908            v Como Calcio              3-0 (0-0)
+           Novara Calcio           v AS Livorno               2-1 (1-0)
+           Virtus Entella          v Modena FC                1-0 (1-0)
+           Pro Vercelli            v US Salernitana 1919      1-1 (0-1)
+           Vicenza Calcio          v Ternana Calcio           2-1 (1-0)
+           Latina Calcio           v Virtus Lanciano          2-2 (1-0)
+           Trapani Calcio          v Ascoli Picchio FC        4-3 (2-2)
+
+
+» Matchday 37
+  Mon Apr/18
+    20.30  AC Cesena               v FC Crotone               2-1 (2-0)
+  Tue Apr/19
+    20.30  Ascoli Picchio FC       v FC Bari 1908             0-1 (0-1)
+           Como Calcio             v Cagliari Calcio          1-1 (0-1)
+           AS Livorno              v Latina Calcio            1-0 (1-0)
+           Virtus Lanciano         v Novara Calcio            2-1 (2-1)
+           Modena FC               v AC Perugia Calcio        3-0 (2-0)
+           Ternana Calcio          v Pro Vercelli             2-2 (0-0)
+           US Avellino             v Trapani Calcio           1-3 (0-1)
+           US Salernitana 1919     v Vicenza Calcio           0-0
+           Brescia Calcio          v Virtus Entella           2-0 (1-0)
+           Spezia Calcio           v Delfino Pescara          0-1 (0-1)
+
+
+» Matchday 38
+  Sat Apr/23
+    15.00  Pro Vercelli            v US Avellino              1-1 (0-0)
+           Delfino Pescara         v Brescia Calcio           2-1 (0-1)
+           Trapani Calcio          v AC Cesena                2-1 (1-0)
+           FC Crotone              v Como Calcio              2-0 (2-0)
+           FC Bari 1908            v Modena FC                1-1 (0-0)
+           Cagliari Calcio         v Virtus Lanciano          1-1 (1-1)
+           Ternana Calcio          v Ascoli Picchio FC        1-3 (0-1)
+    18.00  Vicenza Calcio          v Spezia Calcio            0-3 (0-2)
+  Sun Apr/24
+    15.00  US Salernitana 1919     v AS Livorno               3-1 (2-1)
+    17.30  Latina Calcio           v Virtus Entella           0-1 (0-1)
+  Mon Apr/25
+    20.30  Novara Calcio           v AC Perugia Calcio        2-2 (1-1)
+
+
+» Matchday 39
+  Fri Apr/29
+    20.30  Modena FC               v FC Crotone               1-1 (1-1)
+  Sat Apr/30
+    15.00  Virtus Lanciano         v US Avellino              1-2 (1-2)
+           AC Perugia Calcio       v FC Bari 1908             0-0
+           Cagliari Calcio         v AS Livorno               2-2 (1-0)
+           Trapani Calcio          v Novara Calcio            0-0
+           Virtus Entella          v Delfino Pescara          0-0
+           Ascoli Picchio FC       v US Salernitana 1919      2-2 (2-1)
+           Latina Calcio           v Spezia Calcio            0-0
+           Brescia Calcio          v Vicenza Calcio           0-1 (0-0)
+  Sun May/1
+    17.30  Como Calcio             v Ternana Calcio           1-2 (1-1)
+  Mon May/2
+    20.30  AC Cesena               v Pro Vercelli             2-1 (1-0)
+
+
+» Matchday 40
+  Fri May/6
+    20.30  FC Bari 1908            v Cagliari Calcio          0-3 (0-1)
+  Sat May/7
+    15.00  Ternana Calcio          v AC Cesena                1-1 (1-1)
+           US Avellino             v Como Calcio              1-1 (1-1)
+           FC Crotone              v Latina Calcio            1-1 (1-1)
+           US Salernitana 1919     v Modena FC                0-0
+           AS Livorno              v AC Perugia Calcio        1-1 (1-0)
+           Pro Vercelli            v Trapani Calcio           1-1 (0-0)
+           Vicenza Calcio          v Virtus Entella           2-1 (0-1)
+           Novara Calcio           v Ascoli Picchio FC        2-0 (1-0)
+  Sun May/8
+    17.30  Delfino Pescara         v Virtus Lanciano          4-0 (2-0)
+  Mon May/9
+    20.30  Spezia Calcio           v Brescia Calcio           2-1 (1-0)
+
+
+» Matchday 41
+  Fri May/13
+    20.30  AC Perugia Calcio       v Pro Vercelli             1-2 (0-1)
+  Sat May/14
+    15.00  Virtus Entella          v US Avellino              4-0 (3-0)
+           Brescia Calcio          v FC Bari 1908             2-3 (1-2)
+           Trapani Calcio          v FC Crotone               3-0 (1-0)
+           Ascoli Picchio FC       v AS Livorno               1-3 (0-0)
+           AC Cesena               v Novara Calcio            1-0 (1-0)
+           Modena FC               v Delfino Pescara          2-5 (1-1)
+           Cagliari Calcio         v US Salernitana 1919      3-0 (0-0)
+           Virtus Lanciano         v Ternana Calcio           1-1 (1-0)
+           Latina Calcio           v Vicenza Calcio           2-1 (1-0)
+  Sun May/15
+    17.30  Como Calcio             v Spezia Calcio            4-0 (3-0)
+
+
+» Matchday 42
+  Fri May/20
+    20.30  Ternana Calcio          v Brescia Calcio           3-2 (2-1)
+           Pro Vercelli            v Cagliari Calcio          1-2 (1-1)
+           US Avellino             v AC Cesena                1-2 (1-1)
+           US Salernitana 1919     v Como Calcio              1-0 (1-0)
+           Delfino Pescara         v Latina Calcio            1-1 (1-0)
+           Novara Calcio           v Modena FC                4-0 (1-0)
+           Vicenza Calcio          v AC Perugia Calcio        0-0
+           FC Bari 1908            v Trapani Calcio           1-2 (0-1)
+           AS Livorno              v Virtus Lanciano          2-2 (2-0)
+           FC Crotone              v Virtus Entella           1-0 (1-0)
+           Spezia Calcio           v Ascoli Picchio FC        0-0
+
+
+» Relegation, Final
+  Sat Jun/4
+    20.30  Virtus Lanciano         v US Salernitana 1919      1-4 (1-2)
+  Wed Jun/8
+    20.30  US Salernitana 1919     v Virtus Lanciano          1-0 (1-0)
+
+
+» Aufstieg, Round 1
+  Tue May/24
+    20.30  AC Cesena               v Spezia Calcio            1-2 (0-1)
+  Wed May/25
+    20.30  FC Bari 1908            v Novara Calcio            3-4 a.e.t. (3-3, 0-2)
+
+
+» Aufstieg, Semifinals
+  Sat May/28
+    18.30  Spezia Calcio           v Trapani Calcio           0-1 (0-0)
+  Sun May/29
+    18.30  Novara Calcio           v Delfino Pescara          0-2 (0-1)
+  Tue May/31
+    20.30  Trapani Calcio          v Spezia Calcio            2-0 (0-0)
+  Wed Jun/1
+    20.30  Delfino Pescara         v Novara Calcio            4-2 (2-1)
+
+
+» Aufstieg, Final
+  Sun Jun/5
+    20.30  Delfino Pescara         v Trapani Calcio           2-0 (0-0)
+  Thu Jun/9
+    20.30  Trapani Calcio          v Delfino Pescara          1-1 (1-0)

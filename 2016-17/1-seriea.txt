@@ -1,0 +1,601 @@
+= Italian Serie A 2016/17
+
+# Date       Sat Aug/20 2016 - Sun May/28 2017 (281d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Sat Aug/20 2016
+    18.00  AS Roma                 v Udinese Calcio           4-0 (0-0)
+    20.45  Juventus                v ACF Fiorentina           2-1 (1-0)
+  Sun Aug/21
+    18.00  AC Milan                v Torino FC                3-2 (1-0)
+    20.45  Atalanta                v Lazio Roma               3-4 (0-3)
+           Bologna FC              v FC Crotone               1-0 (0-0)
+           Chievo Verona           v Inter                    2-0 (0-0)
+           Empoli FC               v Sampdoria                0-1 (0-1)
+           Genoa CFC               v Cagliari Calcio          3-1 (0-0)
+           US Palermo              v Sassuolo Calcio          0-1 (0-1)
+           Delfino Pescara         v SSC Napoli               2-2 (2-0)
+
+
+» Matchday 2
+  Sat Aug/27
+    18.00  Lazio Roma              v Juventus                 0-1 (0-0)
+    20.45  SSC Napoli              v AC Milan                 4-2 (2-0)
+  Sun Aug/28
+    18.00  Inter                   v US Palermo               1-1 (0-0)
+    20.45  Cagliari Calcio         v AS Roma                  2-2 (0-1)
+           FC Crotone              v Genoa CFC                1-3 (1-0)
+           ACF Fiorentina          v Chievo Verona            1-0 (1-0)
+           Sampdoria               v Atalanta                 2-1 (2-1)
+           Sassuolo Calcio         v Delfino Pescara          0-3    [awarded]
+           Torino FC               v Bologna FC               5-1 (2-1)
+           Udinese Calcio          v Empoli FC                2-0 (1-0)
+
+
+» Matchday 3
+  Sat Sep/10
+    18.00  Juventus                v Sassuolo Calcio          3-1 (3-1)
+    20.45  US Palermo              v SSC Napoli               0-3 (0-0)
+  Sun Sep/11
+    12.30  Bologna FC              v Cagliari Calcio          2-1 (1-0)
+    15.00  Atalanta                v Torino FC                2-1 (0-0)
+           Chievo Verona           v Lazio Roma               1-1 (0-0)
+           AC Milan                v Udinese Calcio           0-1 (0-0)
+           AS Roma                 v Sampdoria                3-2 (1-2)
+    20.45  Delfino Pescara         v Inter                    1-2 (0-0)
+  Mon Sep/12
+    20.45  Empoli FC               v FC Crotone               2-1 (1-1)
+  Thu Dec/15
+    20.00  Genoa CFC               v ACF Fiorentina           1-0 (1-0)
+
+
+» Matchday 4
+  Fri Sep/16
+    20.45  Sampdoria               v AC Milan                 0-1 (0-0)
+  Sat Sep/17
+    18.00  Lazio Roma              v Delfino Pescara          3-0 (0-0)
+    20.45  SSC Napoli              v Bologna FC               3-1 (1-0)
+  Sun Sep/18
+    12.30  Udinese Calcio          v Chievo Verona            1-2 (1-0)
+    15.00  Cagliari Calcio         v Atalanta                 3-0 (1-0)
+           FC Crotone              v US Palermo               1-1 (1-0)
+           Sassuolo Calcio         v Genoa CFC                2-0 (0-0)
+           Torino FC               v Empoli FC                0-0
+    18.00  Inter                   v Juventus                 2-1 (0-0)
+    20.45  ACF Fiorentina          v AS Roma                  1-0 (0-0)
+
+
+» Matchday 5
+  Tue Sep/20
+    20.45  AC Milan                v Lazio Roma               2-0 (1-0)
+  Wed Sep/21
+    18.30  Bologna FC              v Sampdoria                2-0 (1-0)
+    20.45  Atalanta                v US Palermo               0-1 (0-0)
+           Chievo Verona           v Sassuolo Calcio          2-1 (2-1)
+           Empoli FC               v Inter                    0-2 (0-2)
+           Genoa CFC               v SSC Napoli               0-0
+           Juventus                v Cagliari Calcio          4-0 (3-0)
+           Delfino Pescara         v Torino FC                0-0
+           AS Roma                 v FC Crotone               4-0 (2-0)
+           Udinese Calcio          v ACF Fiorentina           2-2 (2-1)
+
+
+» Matchday 6
+  Sat Sep/24
+    18.00  US Palermo              v Juventus                 0-1 (0-0)
+    20.45  SSC Napoli              v Chievo Verona            2-0 (2-0)
+  Sun Sep/25
+    12.30  Torino FC               v AS Roma                  3-1 (1-0)
+    15.00  Genoa CFC               v Delfino Pescara          1-1 (0-0)
+           Inter                   v Bologna FC               1-1 (1-1)
+           Lazio Roma              v Empoli FC                2-0 (1-0)
+           Sassuolo Calcio         v Udinese Calcio           1-0 (1-0)
+    20.45  ACF Fiorentina          v AC Milan                 0-0
+  Mon Sep/26
+    19.00  FC Crotone              v Atalanta                 1-3 (0-3)
+    21.00  Cagliari Calcio         v Sampdoria                2-1 (1-0)
+
+
+» Matchday 7
+  Sat Oct/1
+    18.00  Delfino Pescara         v Chievo Verona            0-2 (0-0)
+    20.45  Udinese Calcio          v Lazio Roma               0-3 (0-1)
+  Sun Oct/2
+    12.30  Empoli FC               v Juventus                 0-3 (0-0)
+    15.00  Atalanta                v SSC Napoli               1-0 (1-0)
+           Bologna FC              v Genoa CFC                0-1 (0-0)
+           Cagliari Calcio         v FC Crotone               2-1 (1-0)
+           Sampdoria               v US Palermo               1-1 (0-0)
+    18.00  AC Milan                v Sassuolo Calcio          4-3 (1-1)
+           Torino FC               v ACF Fiorentina           2-1 (1-0)
+    20.45  AS Roma                 v Inter                    2-1 (1-0)
+
+
+» Matchday 8
+  Sat Oct/15
+    15.00  SSC Napoli              v AS Roma                  1-3 (0-1)
+    18.00  Delfino Pescara         v Sampdoria                1-1 (1-1)
+    20.45  Juventus                v Udinese Calcio           2-1 (1-1)
+  Sun Oct/16
+    12.30  ACF Fiorentina          v Atalanta                 0-0
+    15.00  Genoa CFC               v Empoli FC                0-0
+           Inter                   v Cagliari Calcio          1-2 (0-0)
+           Lazio Roma              v Bologna FC               1-1 (0-1)
+           Sassuolo Calcio         v FC Crotone               2-1 (0-1)
+    20.45  Chievo Verona           v AC Milan                 1-3 (0-1)
+  Mon Oct/17
+    20.45  US Palermo              v Torino FC                1-4 (1-3)
+
+
+» Matchday 9
+  Sat Oct/22
+    18.00  Sampdoria               v Genoa CFC                2-1 (1-1)
+    20.45  AC Milan                v Juventus                 1-0 (0-0)
+  Sun Oct/23
+    12.30  Udinese Calcio          v Delfino Pescara          3-1 (1-0)
+    15.00  Atalanta                v Inter                    2-1 (1-0)
+           Cagliari Calcio         v ACF Fiorentina           3-5 (1-4)
+           FC Crotone              v SSC Napoli               1-2 (0-2)
+           Empoli FC               v Chievo Verona            0-0
+           Torino FC               v Lazio Roma               2-2 (1-0)
+    18.00  Bologna FC              v Sassuolo Calcio          1-1 (1-0)
+    20.45  AS Roma                 v US Palermo               4-1 (1-0)
+
+
+» Matchday 10
+  Tue Oct/25
+    20.45  Genoa CFC               v AC Milan                 3-0 (1-0)
+  Wed Oct/26
+    20.45  Chievo Verona           v Bologna FC               1-1 (0-0)
+           ACF Fiorentina          v FC Crotone               1-1 (0-1)
+           Inter                   v Torino FC                2-1 (1-0)
+           Juventus                v Sampdoria                4-1 (2-0)
+           Lazio Roma              v Cagliari Calcio          4-1 (3-0)
+           SSC Napoli              v Empoli FC                2-0 (0-0)
+           Delfino Pescara         v Atalanta                 0-1 (0-0)
+           Sassuolo Calcio         v AS Roma                  1-3 (1-0)
+  Thu Oct/27
+    20.45  US Palermo              v Udinese Calcio           1-3 (1-1)
+
+
+» Matchday 11
+  Sat Oct/29
+    18.00  Bologna FC              v ACF Fiorentina           0-1 (0-1)
+    20.45  Juventus                v SSC Napoli               2-1 (0-0)
+  Sun Oct/30
+    12.30  Atalanta                v Genoa CFC                3-0 (2-0)
+    15.00  FC Crotone              v Chievo Verona            2-0 (1-0)
+           Empoli FC               v AS Roma                  0-0
+           Lazio Roma              v Sassuolo Calcio          2-1 (0-0)
+           AC Milan                v Delfino Pescara          1-0 (0-0)
+    20.45  Sampdoria               v Inter                    1-0 (1-0)
+  Mon Oct/31
+    19.00  Udinese Calcio          v Torino FC                2-2 (0-1)
+    21.00  Cagliari Calcio         v US Palermo               2-1 (0-0)
+
+
+» Matchday 12
+  Sat Nov/5
+    18.00  Torino FC               v Cagliari Calcio          5-1 (3-1)
+    20.45  SSC Napoli              v Lazio Roma               1-1 (0-0)
+  Sun Nov/6
+    12.30  Delfino Pescara         v Empoli FC                0-4 (0-3)
+    15.00  Chievo Verona           v Juventus                 1-2 (0-0)
+           Genoa CFC               v Udinese Calcio           1-1 (1-1)
+           US Palermo              v AC Milan                 1-2 (0-1)
+           Sassuolo Calcio         v Atalanta                 0-3 (0-3)
+    18.00  ACF Fiorentina          v Sampdoria                1-1 (1-0)
+           Inter                   v FC Crotone               3-0 (0-0)
+    20.45  AS Roma                 v Bologna FC               3-0 (1-0)
+
+
+» Matchday 13
+  Sat Nov/19
+    15.00  Chievo Verona           v Cagliari Calcio          1-0 (0-0)
+    18.00  Udinese Calcio          v SSC Napoli               1-2 (0-0)
+    20.45  Juventus                v Delfino Pescara          3-0 (1-0)
+  Sun Nov/20
+    12.30  Sampdoria               v Sassuolo Calcio          3-2 (0-0)
+    15.00  Atalanta                v AS Roma                  2-1 (0-1)
+           Bologna FC              v US Palermo               3-1 (1-1)
+           FC Crotone              v Torino FC                0-2 (0-0)
+           Empoli FC               v ACF Fiorentina           0-4 (0-1)
+           Lazio Roma              v Genoa CFC                3-1 (1-0)
+    20.45  AC Milan                v Inter                    2-2 (1-0)
+
+
+» Matchday 14
+  Sat Nov/26
+    18.00  Torino FC               v Chievo Verona            2-1 (2-0)
+    20.45  Empoli FC               v AC Milan                 1-4 (1-1)
+  Sun Nov/27
+    12.30  US Palermo              v Lazio Roma               0-1 (0-1)
+    15.00  Bologna FC              v Atalanta                 0-2 (0-1)
+           Cagliari Calcio         v Udinese Calcio           2-1 (1-0)
+           FC Crotone              v Sampdoria                1-1 (1-0)
+           Genoa CFC               v Juventus                 3-1 (3-0)
+    20.45  AS Roma                 v Delfino Pescara          3-2 (2-0)
+  Mon Nov/28
+    19.00  SSC Napoli              v Sassuolo Calcio          1-1 (1-0)
+    21.00  Inter                   v ACF Fiorentina           4-2 (3-1)
+
+
+» Matchday 15
+  Fri Dec/2
+    20.45  SSC Napoli              v Inter                    3-0 (2-0)
+  Sat Dec/3
+    20.45  Juventus                v Atalanta                 3-1 (2-0)
+  Sun Dec/4
+    12.30  AC Milan                v FC Crotone               2-1 (1-1)
+    15.00  Lazio Roma              v AS Roma                  0-2 (0-0)
+           Delfino Pescara         v Cagliari Calcio          1-1 (0-1)
+           Sampdoria               v Torino FC                2-0 (0-0)
+           Sassuolo Calcio         v Empoli FC                3-0 (2-0)
+    20.45  ACF Fiorentina          v US Palermo               2-1 (1-0)
+  Mon Dec/5
+    19.00  Chievo Verona           v Genoa CFC                0-0
+    21.00  Udinese Calcio          v Bologna FC               1-0 (0-0)
+
+
+» Matchday 16
+  Sat Dec/10
+    18.00  FC Crotone              v Delfino Pescara          2-1 (1-0)
+    20.45  Sampdoria               v Lazio Roma               1-2 (0-2)
+  Sun Dec/11
+    12.30  Cagliari Calcio         v SSC Napoli               0-5 (0-2)
+    15.00  Atalanta                v Udinese Calcio           1-3 (0-1)
+           Bologna FC              v Empoli FC                0-0
+           US Palermo              v Chievo Verona            0-2 (0-1)
+           Torino FC               v Juventus                 1-3 (1-1)
+    20.45  Inter                   v Genoa CFC                2-0 (1-0)
+  Mon Dec/12
+    19.00  ACF Fiorentina          v Sassuolo Calcio          2-1 (2-0)
+    21.00  AS Roma                 v AC Milan                 1-0 (0-0)
+
+
+» Matchday 17
+  Sat Dec/17
+    15.00  Empoli FC               v Cagliari Calcio          2-0 (1-0)
+    18.00  AC Milan                v Atalanta                 0-0
+    20.45  Juventus                v AS Roma                  1-0 (1-0)
+  Sun Dec/18
+    12.30  Sassuolo Calcio         v Inter                    0-1 (0-0)
+    15.00  Chievo Verona           v Sampdoria                2-1 (2-0)
+           SSC Napoli              v Torino FC                5-3 (3-0)
+           Delfino Pescara         v Bologna FC               0-3 (0-2)
+           Udinese Calcio          v FC Crotone               2-0 (1-0)
+    20.45  Genoa CFC               v US Palermo               3-4 (1-1)
+           Lazio Roma              v ACF Fiorentina           3-1 (2-0)
+
+
+» Matchday 18
+  Tue Dec/20
+    20.45  Atalanta                v Empoli FC                2-1 (0-0)
+  Wed Dec/21
+    20.45  Inter                   v Lazio Roma               3-0 (0-0)
+  Thu Dec/22
+    20.45  Cagliari Calcio         v Sassuolo Calcio          4-3 (1-2)
+           ACF Fiorentina          v SSC Napoli               3-3 (0-1)
+           US Palermo              v Delfino Pescara          1-1 (1-0)
+           AS Roma                 v Chievo Verona            3-1 (1-1)
+           Sampdoria               v Udinese Calcio           0-0
+           Torino FC               v Genoa CFC                1-0 (0-0)
+  Wed Feb/8 2017
+    18.00  FC Crotone              v Juventus                 0-2 (0-0)
+    20.45  Bologna FC              v AC Milan                 0-1 (0-0)
+
+
+» Matchday 19
+  Sat Jan/7
+    18.00  Empoli FC               v US Palermo               1-0 (0-0)
+    20.45  SSC Napoli              v Sampdoria                2-1 (0-1)
+  Sun Jan/8
+    12.30  Udinese Calcio          v Inter                    1-2 (1-1)
+    15.00  Chievo Verona           v Atalanta                 1-4 (0-3)
+           Genoa CFC               v AS Roma                  0-1 (0-1)
+           Lazio Roma              v FC Crotone               1-0 (0-0)
+           Sassuolo Calcio         v Torino FC                0-0
+    18.00  AC Milan                v Cagliari Calcio          1-0 (0-0)
+    20.45  Juventus                v Bologna FC               3-0 (2-0)
+  Wed Feb/1
+    20.45  Delfino Pescara         v ACF Fiorentina           1-2 (1-0)
+
+
+» Matchday 20
+  Sat Jan/14
+    18.00  FC Crotone              v Bologna FC               0-1 (0-0)
+    20.45  Inter                   v Chievo Verona            3-1 (0-1)
+  Sun Jan/15
+    12.30  Cagliari Calcio         v Genoa CFC                4-1 (2-1)
+    15.00  Lazio Roma              v Atalanta                 2-1 (1-1)
+           Sampdoria               v Empoli FC                0-0
+           Sassuolo Calcio         v US Palermo               4-1 (2-1)
+           SSC Napoli              v Delfino Pescara          3-1 (0-0)
+           Udinese Calcio          v AS Roma                  0-1 (0-1)
+    20.45  ACF Fiorentina          v Juventus                 2-1 (1-0)
+  Mon Jan/16
+    20.45  Torino FC               v AC Milan                 2-2 (2-0)
+
+
+» Matchday 21
+  Sat Jan/21
+    18.00  Chievo Verona           v ACF Fiorentina           0-3 (0-1)
+    20.45  AC Milan                v SSC Napoli               1-2 (1-2)
+  Sun Jan/22
+    12.30  Juventus                v Lazio Roma               2-0 (2-0)
+    15.00  Genoa CFC               v FC Crotone               2-2 (1-0)
+           US Palermo              v Inter                    0-1 (0-0)
+           Delfino Pescara         v Sassuolo Calcio          1-3 (0-1)
+           Bologna FC              v Torino FC                2-0 (1-0)
+           Empoli FC               v Udinese Calcio           1-0 (0-0)
+    18.00  Atalanta                v Sampdoria                1-0 (0-0)
+    20.45  AS Roma                 v Cagliari Calcio          1-0 (0-0)
+
+
+» Matchday 22
+  Sat Jan/28
+    18.00  Lazio Roma              v Chievo Verona            0-1 (0-0)
+    20.45  Inter                   v Delfino Pescara          3-0 (2-0)
+  Sun Jan/29
+    12.30  Torino FC               v Atalanta                 1-1 (1-0)
+    15.00  Cagliari Calcio         v Bologna FC               1-1 (0-0)
+           FC Crotone              v Empoli FC                4-1 (1-1)
+           ACF Fiorentina          v Genoa CFC                3-3 (1-0)
+           Sassuolo Calcio         v Juventus                 0-2 (0-2)
+           Udinese Calcio          v AC Milan                 2-1 (1-1)
+           Sampdoria               v AS Roma                  3-2 (1-1)
+    20.45  SSC Napoli              v US Palermo               1-1 (0-1)
+
+
+» Matchday 23
+  Sat Feb/4
+    20.45  Bologna FC              v SSC Napoli               1-7 (1-4)
+  Sun Feb/5
+    12.30  AC Milan                v Sampdoria                0-1 (0-0)
+    15.00  Atalanta                v Cagliari Calcio          2-0 (2-0)
+           Delfino Pescara         v Lazio Roma               2-6 (2-2)
+           Genoa CFC               v Sassuolo Calcio          0-1 (0-1)
+           Empoli FC               v Torino FC                1-1 (1-1)
+           Chievo Verona           v Udinese Calcio           0-0
+    18.00  US Palermo              v FC Crotone               1-0 (1-0)
+    20.45  Juventus                v Inter                    1-0 (1-0)
+  Tue Feb/7
+    20.45  AS Roma                 v ACF Fiorentina           4-0 (1-0)
+
+
+» Matchday 24
+  Fri Feb/10
+    20.45  SSC Napoli              v Genoa CFC                2-0 (0-0)
+  Sat Feb/11
+    20.45  ACF Fiorentina          v Udinese Calcio           3-0 (1-0)
+  Sun Feb/12
+    12.30  FC Crotone              v AS Roma                  0-2 (0-1)
+    15.00  US Palermo              v Atalanta                 1-3 (1-2)
+           Sassuolo Calcio         v Chievo Verona            1-3 (1-1)
+           Inter                   v Empoli FC                2-0 (1-0)
+           Torino FC               v Delfino Pescara          5-3 (3-0)
+    18.00  Sampdoria               v Bologna FC               3-1 (0-1)
+    20.45  Cagliari Calcio         v Juventus                 0-2 (0-1)
+  Mon Feb/13
+    20.45  Lazio Roma              v AC Milan                 1-1 (1-0)
+
+
+» Matchday 25
+  Fri Feb/17
+    20.45  Juventus                v US Palermo               4-1 (2-0)
+  Sat Feb/18
+    18.00  Atalanta                v FC Crotone               1-0 (0-0)
+    20.45  Empoli FC               v Lazio Roma               1-2 (0-0)
+  Sun Feb/19
+    12.30  Bologna FC              v Inter                    0-1 (0-0)
+    15.00  Sampdoria               v Cagliari Calcio          1-1 (1-1)
+           Delfino Pescara         v Genoa CFC                5-0 (3-0)
+           Chievo Verona           v SSC Napoli               1-3 (0-2)
+           Udinese Calcio          v Sassuolo Calcio          1-2 (1-0)
+    18.00  AS Roma                 v Torino FC                4-1 (2-0)
+    20.45  AC Milan                v ACF Fiorentina           2-1 (2-1)
+
+
+» Matchday 26
+  Sat Feb/25
+    18.00  SSC Napoli              v Atalanta                 0-2 (0-1)
+    20.45  Juventus                v Empoli FC                2-0 (0-0)
+  Sun Feb/26
+    12.30  US Palermo              v Sampdoria                1-1 (1-0)
+    15.00  Genoa CFC               v Bologna FC               1-1 (0-0)
+           FC Crotone              v Cagliari Calcio          1-2 (1-1)
+           Sassuolo Calcio         v AC Milan                 0-1 (0-1)
+           Chievo Verona           v Delfino Pescara          2-0 (1-0)
+           Lazio Roma              v Udinese Calcio           1-0 (0-0)
+    20.45  Inter                   v AS Roma                  1-3 (0-1)
+  Mon Feb/27
+    20.45  ACF Fiorentina          v Torino FC                2-2 (2-0)
+
+
+» Matchday 27
+  Sat Mar/4
+    15.00  AS Roma                 v SSC Napoli               1-2 (0-1)
+    18.00  Sampdoria               v Delfino Pescara          3-1 (1-1)
+    20.45  AC Milan                v Chievo Verona            3-1 (1-1)
+  Sun Mar/5
+    12.30  Atalanta                v ACF Fiorentina           0-0
+    15.00  Empoli FC               v Genoa CFC                0-2 (0-0)
+           Cagliari Calcio         v Inter                    1-5 (1-2)
+           Udinese Calcio          v Juventus                 1-1 (1-0)
+           Torino FC               v US Palermo               3-1 (0-1)
+           FC Crotone              v Sassuolo Calcio          0-0
+    20.45  Bologna FC              v Lazio Roma               0-2 (0-1)
+
+
+» Matchday 28
+  Fri Mar/10
+    20.45  Juventus                v AC Milan                 2-1 (1-1)
+  Sat Mar/11
+    20.45  Genoa CFC               v Sampdoria                0-1 (0-0)
+  Sun Mar/12
+    12.30  Sassuolo Calcio         v Bologna FC               0-1 (0-0)
+    15.00  Inter                   v Atalanta                 7-1 (5-1)
+           ACF Fiorentina          v Cagliari Calcio          1-0 (0-0)
+           SSC Napoli              v FC Crotone               3-0 (1-0)
+           Chievo Verona           v Empoli FC                4-0 (2-0)
+           Delfino Pescara         v Udinese Calcio           1-3 (0-1)
+    20.45  US Palermo              v AS Roma                  0-3 (0-1)
+  Mon Mar/13
+    20.45  Lazio Roma              v Torino FC                3-1 (0-0)
+
+
+» Matchday 29
+  Sat Mar/18
+    18.00  Torino FC               v Inter                    2-2 (1-1)
+    20.45  AC Milan                v Genoa CFC                1-0 (1-0)
+  Sun Mar/19
+    12.30  Empoli FC               v SSC Napoli               2-3 (0-3)
+    15.00  Bologna FC              v Chievo Verona            4-1 (0-1)
+           FC Crotone              v ACF Fiorentina           0-1 (0-0)
+           Sampdoria               v Juventus                 0-1 (0-1)
+           Cagliari Calcio         v Lazio Roma               0-0
+           Atalanta                v Delfino Pescara          3-0 (1-0)
+    18.00  Udinese Calcio          v US Palermo               4-1 (1-1)
+    20.45  AS Roma                 v Sassuolo Calcio          3-1 (2-1)
+
+
+» Matchday 30
+  Sat Apr/1
+    18.00  Sassuolo Calcio         v Lazio Roma               1-2 (1-1)
+    20.45  AS Roma                 v Empoli FC                2-0 (1-0)
+  Sun Apr/2
+    12.30  Torino FC               v Udinese Calcio           2-2 (0-0)
+    15.00  Genoa CFC               v Atalanta                 0-5 (0-2)
+           ACF Fiorentina          v Bologna FC               1-0 (0-0)
+           US Palermo              v Cagliari Calcio          1-3 (1-0)
+           Chievo Verona           v FC Crotone               1-2 (0-0)
+           Delfino Pescara         v AC Milan                 1-1 (1-1)
+    20.45  SSC Napoli              v Juventus                 1-1 (0-1)
+  Mon Apr/3
+    20.45  Inter                   v Sampdoria                1-2 (1-0)
+
+
+» Matchday 31
+  Sat Apr/8
+    15.00  Empoli FC               v Delfino Pescara          1-1 (1-1)
+    18.00  Atalanta                v Sassuolo Calcio          1-1 (0-1)
+    20.45  Juventus                v Chievo Verona            2-0 (1-0)
+  Sun Apr/9
+    12.50  Sampdoria               v ACF Fiorentina           2-2 (1-0)
+    15.00  Udinese Calcio          v Genoa CFC                3-0 (2-0)
+           FC Crotone              v Inter                    2-1 (2-0)
+           AC Milan                v US Palermo               4-0 (3-0)
+           Bologna FC              v AS Roma                  0-3 (0-2)
+           Cagliari Calcio         v Torino FC                2-3 (1-2)
+    20.45  Lazio Roma              v SSC Napoli               0-3 (0-1)
+
+
+» Matchday 32
+  Sat Apr/15
+    12.30  Inter                   v AC Milan                 2-2 (2-0)
+    15.00  AS Roma                 v Atalanta                 1-1 (0-1)
+           US Palermo              v Bologna FC               0-0
+           Cagliari Calcio         v Chievo Verona            4-0 (3-0)
+           Torino FC               v FC Crotone               1-1 (0-0)
+           ACF Fiorentina          v Empoli FC                1-2 (0-1)
+           Delfino Pescara         v Juventus                 0-2 (0-2)
+           Genoa CFC               v Lazio Roma               2-2 (1-1)
+    18.00  Sassuolo Calcio         v Sampdoria                2-1 (0-1)
+    20.45  SSC Napoli              v Udinese Calcio           3-0 (0-0)
+
+
+» Matchday 33
+  Sat Apr/22
+    18.00  Atalanta                v Bologna FC               3-2 (2-1)
+    20.45  ACF Fiorentina          v Inter                    5-4 (1-2)
+  Sun Apr/23
+    12.30  Sassuolo Calcio         v SSC Napoli               2-2 (0-0)
+    15.00  Udinese Calcio          v Cagliari Calcio          2-1 (0-0)
+           Sampdoria               v FC Crotone               1-2 (1-0)
+           AC Milan                v Empoli FC                1-2 (0-1)
+           Lazio Roma              v US Palermo               6-2 (5-0)
+           Chievo Verona           v Torino FC                1-3 (0-0)
+    20.45  Juventus                v Genoa CFC                4-0 (3-0)
+  Mon Apr/24
+    20.45  Delfino Pescara         v AS Roma                  1-4 (0-2)
+
+
+» Matchday 34
+  Fri Apr/28
+    20.45  Atalanta                v Juventus                 2-2 (1-0)
+  Sat Apr/29
+    20.45  Torino FC               v Sampdoria                1-1 (0-1)
+  Sun Apr/30
+    12.30  AS Roma                 v Lazio Roma               1-3 (1-1)
+    15.00  Genoa CFC               v Chievo Verona            1-2 (1-0)
+           US Palermo              v ACF Fiorentina           2-0 (1-0)
+           FC Crotone              v AC Milan                 1-1 (1-0)
+           Cagliari Calcio         v Delfino Pescara          1-0 (1-0)
+           Empoli FC               v Sassuolo Calcio          1-3 (1-2)
+           Bologna FC              v Udinese Calcio           4-0 (2-0)
+    20.45  Inter                   v SSC Napoli               0-1 (0-1)
+
+
+» Matchday 35
+  Sat May/6
+    18.00  SSC Napoli              v Cagliari Calcio          3-1 (1-0)
+    20.45  Juventus                v Torino FC                1-1 (0-0)
+  Sun May/7
+    12.30  Udinese Calcio          v Atalanta                 1-1 (0-1)
+    15.00  Empoli FC               v Bologna FC               3-1 (2-1)
+           Delfino Pescara         v FC Crotone               0-1 (0-0)
+           Sassuolo Calcio         v ACF Fiorentina           2-2 (0-1)
+           Genoa CFC               v Inter                    1-0 (0-0)
+           Chievo Verona           v US Palermo               1-1 (0-0)
+           Lazio Roma              v Sampdoria                7-3 (5-1)
+    20.45  AC Milan                v AS Roma                  1-4 (0-2)
+
+
+» Matchday 36
+  Sat May/13
+    18.00  ACF Fiorentina          v Lazio Roma               3-2 (0-0)
+    20.45  Atalanta                v AC Milan                 1-1 (1-0)
+  Sun May/14
+    12.30  Inter                   v Sassuolo Calcio          1-2 (0-1)
+    15.00  Sampdoria               v Chievo Verona            1-1 (1-0)
+           Cagliari Calcio         v Empoli FC                3-2 (3-0)
+           US Palermo              v Genoa CFC                1-0 (1-0)
+           Torino FC               v SSC Napoli               0-5 (0-1)
+           Bologna FC              v Delfino Pescara          3-1 (1-1)
+           FC Crotone              v Udinese Calcio           1-0 (1-0)
+    20.45  AS Roma                 v Juventus                 3-1 (1-1)
+
+
+» Matchday 37
+  Sat May/20
+    18.00  Chievo Verona           v AS Roma                  3-5 (2-2)
+    20.45  SSC Napoli              v ACF Fiorentina           4-1 (2-0)
+  Sun May/21
+    15.00  Empoli FC               v Atalanta                 0-1 (0-1)
+           AC Milan                v Bologna FC               3-0 (0-0)
+           Sassuolo Calcio         v Cagliari Calcio          6-2 (4-1)
+           Juventus                v FC Crotone               3-0 (2-0)
+           Udinese Calcio          v Sampdoria                1-1 (1-0)
+           Genoa CFC               v Torino FC                2-1 (1-0)
+    20.45  Lazio Roma              v Inter                    1-3 (1-2)
+  Mon May/22
+    20.45  Delfino Pescara         v US Palermo               2-0 (1-0)
+
+
+» Matchday 38
+  Sat May/27
+    18.00  Atalanta                v Chievo Verona            1-0 (0-0)
+           Bologna FC              v Juventus                 1-2 (0-0)
+  Sun May/28
+    15.00  Cagliari Calcio         v AC Milan                 2-1 (1-0)
+    18.00  AS Roma                 v Genoa CFC                3-2 (1-1)
+           Sampdoria               v SSC Napoli               2-4 (0-2)
+    20.45  US Palermo              v Empoli FC                2-1 (0-0)
+           FC Crotone              v Lazio Roma               3-1 (2-1)
+           ACF Fiorentina          v Delfino Pescara          2-2 (0-1)
+           Torino FC               v Sassuolo Calcio          5-3 (3-2)
+           Inter                   v Udinese Calcio           5-2 (3-0)

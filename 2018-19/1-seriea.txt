@@ -1,0 +1,614 @@
+= Italian Serie A 2018/19
+
+# Date       Sat Aug/18 2018 - Sun May/26 2019 (281d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Sat Aug/18 2018
+    18.00  Chievo Verona           v Juventus                 2-3 (1-1)
+    20.30  Lazio Roma              v SSC Napoli               1-2 (1-1)
+  Sun Aug/19
+    18.00  Torino FC               v AS Roma                  0-1 (0-0)
+    20.30  Bologna FC              v SPAL 2013 Ferrara        0-1 (0-0)
+           Empoli FC               v Cagliari Calcio          2-0 (1-0)
+           Parma Calcio 1913       v Udinese Calcio           2-2 (1-0)
+           Sassuolo Calcio         v Inter                    1-0 (1-0)
+  Mon Aug/20
+    20.30  Atalanta                v Frosinone Calcio         4-0 (1-0)
+  Wed Sep/19
+    19.00  Sampdoria               v ACF Fiorentina           1-1 (0-1)
+  Wed Oct/31
+    20.30  AC Milan                v Genoa CFC                2-1 (1-0)
+
+
+» Matchday 2
+  Sat Aug/25
+    18.00  Juventus                v Lazio Roma               2-0 (1-0)
+    20.30  SSC Napoli              v AC Milan                 3-2 (0-1)
+  Sun Aug/26
+    18.00  SPAL 2013 Ferrara       v Parma Calcio 1913        1-0 (0-0)
+    20.30  Cagliari Calcio         v Sassuolo Calcio          2-2 (1-0)
+           ACF Fiorentina          v Chievo Verona            6-1 (2-0)
+           Frosinone Calcio        v Bologna FC               0-0
+           Genoa CFC               v Empoli FC                2-1 (2-0)
+           Inter                   v Torino FC                2-2 (2-0)
+           Udinese Calcio          v Sampdoria                1-0 (1-0)
+  Mon Aug/27
+    20.30  AS Roma                 v Atalanta                 3-3 (1-3)
+
+
+» Matchday 3
+  Fri Aug/31
+    20.30  AC Milan                v AS Roma                  2-1 (1-0)
+  Sat Sep/1
+    18.00  Bologna FC              v Inter                    0-3 (0-0)
+    20.30  Parma Calcio 1913       v Juventus                 1-2 (1-1)
+  Sun Sep/2
+    18.00  ACF Fiorentina          v Udinese Calcio           1-0 (0-0)
+    20.30  Atalanta                v Cagliari Calcio          0-1 (0-1)
+           Chievo Verona           v Empoli FC                0-0
+           Lazio Roma              v Frosinone Calcio         1-0 (0-0)
+           Sampdoria               v SSC Napoli               3-0 (2-0)
+           Sassuolo Calcio         v Genoa CFC                5-3 (4-1)
+           Torino FC               v SPAL 2013 Ferrara        1-0 (0-0)
+
+
+» Matchday 4
+  Sat Sep/15
+    15.00  Inter                   v Parma Calcio 1913        0-1 (0-0)
+    18.00  SSC Napoli              v ACF Fiorentina           1-0 (0-0)
+    20.30  Frosinone Calcio        v Sampdoria                0-5 (0-1)
+  Sun Sep/16
+    12.30  AS Roma                 v Chievo Verona            2-2 (2-0)
+    15.00  Genoa CFC               v Bologna FC               1-0 (0-0)
+           Juventus                v Sassuolo Calcio          2-1 (0-0)
+           Udinese Calcio          v Torino FC                1-1 (1-0)
+    18.00  Empoli FC               v Lazio Roma               0-1 (0-0)
+    20.30  Cagliari Calcio         v AC Milan                 1-1 (1-0)
+  Mon Sep/17
+    20.30  SPAL 2013 Ferrara       v Atalanta                 2-0 (0-0)
+
+
+» Matchday 5
+  Fri Sep/21
+    20.30  Sassuolo Calcio         v Empoli FC                3-1 (1-1)
+  Sat Sep/22
+    15.00  Parma Calcio 1913       v Cagliari Calcio          2-0 (1-0)
+    18.00  ACF Fiorentina          v SPAL 2013 Ferrara        3-0 (2-0)
+    20.30  Sampdoria               v Inter                    0-1 (0-0)
+  Sun Sep/23
+    12.30  Torino FC               v SSC Napoli               1-3 (0-2)
+    15.00  Bologna FC              v AS Roma                  2-0 (1-0)
+           Chievo Verona           v Udinese Calcio           0-2 (0-0)
+           Lazio Roma              v Genoa CFC                4-1 (2-0)
+    18.00  AC Milan                v Atalanta                 2-2 (1-0)
+    20.30  Frosinone Calcio        v Juventus                 0-2 (0-0)
+
+
+» Matchday 6
+  Tue Sep/25
+    21.00  Inter                   v ACF Fiorentina           2-1 (1-0)
+  Wed Sep/26
+    19.00  Udinese Calcio          v Lazio Roma               1-2 (0-0)
+    21.00  Atalanta                v Torino FC                0-0
+           Cagliari Calcio         v Sampdoria                0-0
+           Genoa CFC               v Chievo Verona            2-0 (1-0)
+           Juventus                v Bologna FC               2-0 (2-0)
+           SSC Napoli              v Parma Calcio 1913        3-0 (1-0)
+           AS Roma                 v Frosinone Calcio         4-0 (3-0)
+  Thu Sep/27
+    19.00  SPAL 2013 Ferrara       v Sassuolo Calcio          0-2 (0-0)
+    21.00  Empoli FC               v AC Milan                 1-1 (0-1)
+
+
+» Matchday 7
+  Sat Sep/29
+    15.00  AS Roma                 v Lazio Roma               3-1 (1-0)
+    18.00  Juventus                v SSC Napoli               3-1 (1-1)
+    20.30  Inter                   v Cagliari Calcio          2-0 (1-0)
+  Sun Sep/30
+    12.30  Bologna FC              v Udinese Calcio           2-1 (1-1)
+    15.00  Chievo Verona           v Torino FC                0-1 (0-0)
+           ACF Fiorentina          v Atalanta                 2-0 (0-0)
+           Frosinone Calcio        v Genoa CFC                1-2 (1-2)
+    18.00  Parma Calcio 1913       v Empoli FC                1-0 (1-0)
+    20.30  Sassuolo Calcio         v AC Milan                 1-4 (0-1)
+  Mon Oct/1
+    20.30  Sampdoria               v SPAL 2013 Ferrara        2-1 (1-1)
+
+
+» Matchday 8
+  Fri Oct/5
+    20.30  Torino FC               v Frosinone Calcio         3-2 (1-0)
+  Sat Oct/6
+    15.00  Cagliari Calcio         v Bologna FC               2-0 (1-0)
+    18.00  Udinese Calcio          v Juventus                 0-2 (0-2)
+    20.30  Empoli FC               v AS Roma                  0-2 (0-1)
+  Sun Oct/7
+    12.30  Genoa CFC               v Parma Calcio 1913        1-3 (1-3)
+    15.00  Atalanta                v Sampdoria                0-1 (0-0)
+           Lazio Roma              v ACF Fiorentina           1-0 (1-0)
+           AC Milan                v Chievo Verona            3-1 (2-0)
+    18.00  SSC Napoli              v Sassuolo Calcio          2-0 (1-0)
+    20.30  SPAL 2013 Ferrara       v Inter                    1-2 (0-1)
+
+
+» Matchday 9
+  Sat Oct/20
+    15.00  AS Roma                 v SPAL 2013 Ferrara        0-2 (0-1)
+    18.00  Juventus                v Genoa CFC                1-1 (1-0)
+    20.30  Udinese Calcio          v SSC Napoli               0-3 (0-1)
+  Sun Oct/21
+    12.30  Frosinone Calcio        v Empoli FC                3-3 (1-1)
+    15.00  Bologna FC              v Torino FC                2-2 (0-1)
+           Chievo Verona           v Atalanta                 1-5 (0-2)
+           Parma Calcio 1913       v Lazio Roma               0-2 (0-0)
+    18.00  ACF Fiorentina          v Cagliari Calcio          1-1 (0-0)
+    20.30  Inter                   v AC Milan                 1-0 (0-0)
+  Mon Oct/22
+    20.30  Sampdoria               v Sassuolo Calcio          0-0
+
+
+» Matchday 10
+  Sat Oct/27
+    15.00  Atalanta                v Parma Calcio 1913        3-0 (0-0)
+    18.00  Empoli FC               v Juventus                 1-2 (1-0)
+    20.30  Torino FC               v ACF Fiorentina           1-1 (1-1)
+  Sun Oct/28
+    12.30  Sassuolo Calcio         v Bologna FC               2-2 (1-1)
+    15.00  Cagliari Calcio         v Chievo Verona            2-1 (1-0)
+           Genoa CFC               v Udinese Calcio           2-2 (1-0)
+           SPAL 2013 Ferrara       v Frosinone Calcio         0-3 (0-1)
+    18.00  AC Milan                v Sampdoria                3-2 (2-2)
+    20.30  SSC Napoli              v AS Roma                  1-1 (0-1)
+  Mon Oct/29
+    20.30  Lazio Roma              v Inter                    0-3 (0-2)
+
+
+» Matchday 11
+  Fri Nov/2
+    20.30  SSC Napoli              v Empoli FC                5-1 (2-0)
+  Sat Nov/3
+    15.00  Inter                   v Genoa CFC                5-0 (2-0)
+    18.00  ACF Fiorentina          v AS Roma                  1-1 (1-0)
+    20.30  Juventus                v Cagliari Calcio          3-1 (2-1)
+  Sun Nov/4
+    12.30  Lazio Roma              v SPAL 2013 Ferrara        4-1 (2-1)
+    15.00  Chievo Verona           v Sassuolo Calcio          0-2 (0-1)
+           Parma Calcio 1913       v Frosinone Calcio         0-0
+           Sampdoria               v Torino FC                1-4 (0-2)
+    18.00  Bologna FC              v Atalanta                 1-2 (1-0)
+    20.30  Udinese Calcio          v AC Milan                 0-1 (0-0)
+
+
+» Matchday 12
+  Fri Nov/9
+    20.30  Frosinone Calcio        v ACF Fiorentina           1-1 (0-0)
+  Sat Nov/10
+    15.00  Torino FC               v Parma Calcio 1913        1-2 (1-2)
+    18.00  SPAL 2013 Ferrara       v Cagliari Calcio          2-2 (1-0)
+    20.30  Genoa CFC               v SSC Napoli               1-2 (1-0)
+  Sun Nov/11
+    12.30  Atalanta                v Inter                    4-1 (1-0)
+    15.00  Chievo Verona           v Bologna FC               2-2 (2-1)
+           Empoli FC               v Udinese Calcio           2-1 (1-0)
+           AS Roma                 v Sampdoria                4-1 (1-0)
+    18.00  Sassuolo Calcio         v Lazio Roma               1-1 (1-1)
+    20.30  AC Milan                v Juventus                 0-2 (0-1)
+
+
+» Matchday 13
+  Sat Nov/24
+    15.00  Udinese Calcio          v AS Roma                  1-0 (0-0)
+    18.00  Juventus                v SPAL 2013 Ferrara        2-0 (1-0)
+    20.30  Inter                   v Frosinone Calcio         3-0 (1-0)
+  Sun Nov/25
+    12.30  Parma Calcio 1913       v Sassuolo Calcio          2-1 (2-1)
+    15.00  Bologna FC              v ACF Fiorentina           0-0
+           Empoli FC               v Atalanta                 3-2 (1-2)
+           SSC Napoli              v Chievo Verona            0-0
+    18.00  Lazio Roma              v AC Milan                 1-1 (0-0)
+    20.30  Genoa CFC               v Sampdoria                1-1 (1-1)
+  Mon Nov/26
+    20.30  Cagliari Calcio         v Torino FC                0-0
+
+
+» Matchday 14
+  Sat Dec/1
+    15.00  SPAL 2013 Ferrara       v Empoli FC                2-2 (1-2)
+    18.00  ACF Fiorentina          v Juventus                 0-3 (0-1)
+    20.30  Sampdoria               v Bologna FC               4-1 (3-1)
+  Sun Dec/2
+    12.30  AC Milan                v Parma Calcio 1913        2-1 (0-0)
+    15.00  Frosinone Calcio        v Cagliari Calcio          1-1 (1-0)
+           Sassuolo Calcio         v Udinese Calcio           0-0
+           Torino FC               v Genoa CFC                2-1 (2-1)
+    18.00  Chievo Verona           v Lazio Roma               1-1 (1-0)
+    20.30  AS Roma                 v Inter                    2-2 (0-1)
+  Mon Dec/3
+    20.30  Atalanta                v SSC Napoli               1-2 (0-1)
+
+
+» Matchday 15
+  Fri Dec/7
+    20.30  Juventus                v Inter                    1-0 (0-0)
+  Sat Dec/8
+    15.00  SSC Napoli              v Frosinone Calcio         4-0 (2-0)
+    18.00  Cagliari Calcio         v AS Roma                  2-2 (0-2)
+    20.30  Lazio Roma              v Sampdoria                2-2 (0-1)
+  Sun Dec/9
+    12.30  Sassuolo Calcio         v ACF Fiorentina           3-3 (0-0)
+    15.00  Empoli FC               v Bologna FC               2-1 (1-1)
+           Parma Calcio 1913       v Chievo Verona            1-1 (0-0)
+           Udinese Calcio          v Atalanta                 1-3 (1-1)
+    18.00  Genoa CFC               v SPAL 2013 Ferrara        1-1 (1-1)
+    20.30  AC Milan                v Torino FC                0-0
+
+
+» Matchday 16
+  Sat Dec/15
+    18.00  Inter                   v Udinese Calcio           1-0 (0-0)
+    20.30  Torino FC               v Juventus                 0-1 (0-0)
+  Sun Dec/16
+    12.30  SPAL 2013 Ferrara       v Chievo Verona            0-0
+    15.00  ACF Fiorentina          v Empoli FC                3-1 (1-1)
+           Frosinone Calcio        v Sassuolo Calcio          0-2 (0-1)
+           Sampdoria               v Parma Calcio 1913        2-0 (0-0)
+    18.00  Cagliari Calcio         v SSC Napoli               0-1 (0-0)
+    20.30  AS Roma                 v Genoa CFC                3-2 (2-2)
+  Mon Dec/17
+    20.30  Atalanta                v Lazio Roma               1-0 (1-0)
+  Tue Dec/18
+    20.30  Bologna FC              v AC Milan                 0-0
+
+
+» Matchday 17
+  Sat Dec/22
+    12.30  Lazio Roma              v Cagliari Calcio          3-1 (2-0)
+    15.00  Empoli FC               v Sampdoria                2-4 (1-1)
+           Genoa CFC               v Atalanta                 3-1 (1-0)
+           AC Milan                v ACF Fiorentina           0-1 (0-0)
+           SSC Napoli              v SPAL 2013 Ferrara        1-0 (1-0)
+           Sassuolo Calcio         v Torino FC                1-1 (0-0)
+           Udinese Calcio          v Frosinone Calcio         1-1 (1-0)
+    18.00  Chievo Verona           v Inter                    1-1 (0-1)
+           Parma Calcio 1913       v Bologna FC               0-0
+    20.30  Juventus                v AS Roma                  1-0 (1-0)
+
+
+» Matchday 18
+  Wed Dec/26
+    12.30  Frosinone Calcio        v AC Milan                 0-0
+    15.00  Atalanta                v Juventus                 2-2 (1-1)
+           Bologna FC              v Lazio Roma               0-2 (0-1)
+           Cagliari Calcio         v Genoa CFC                1-0 (1-0)
+           ACF Fiorentina          v Parma Calcio 1913        0-1 (0-1)
+           Sampdoria               v Chievo Verona            2-0 (0-0)
+    18.00  AS Roma                 v Sassuolo Calcio          3-1 (2-0)
+           SPAL 2013 Ferrara       v Udinese Calcio           0-0
+           Torino FC               v Empoli FC                3-0 (1-0)
+    20.30  Inter                   v SSC Napoli               1-0 (0-0)
+
+
+» Matchday 19
+  Sat Dec/29
+    12.30  Juventus                v Sampdoria                2-1 (1-1)
+    15.00  Chievo Verona           v Frosinone Calcio         1-0 (0-0)
+           Empoli FC               v Inter                    0-1 (0-0)
+           Genoa CFC               v ACF Fiorentina           0-0
+           Lazio Roma              v Torino FC                1-1 (0-1)
+           Parma Calcio 1913       v AS Roma                  0-2 (0-0)
+           Sassuolo Calcio         v Atalanta                 2-6 (0-2)
+           Udinese Calcio          v Cagliari Calcio          2-0 (1-0)
+    18.00  SSC Napoli              v Bologna FC               3-2 (1-1)
+    20.30  AC Milan                v SPAL 2013 Ferrara        2-1 (1-1)
+
+
+» Matchday 20
+  Sat Jan/19 2019
+    15.00  AS Roma                 v Torino FC                3-2 (2-0)
+    18.00  Udinese Calcio          v Parma Calcio 1913        1-2 (0-1)
+    20.30  Inter                   v Sassuolo Calcio          0-0
+  Sun Jan/20
+    12.30  Frosinone Calcio        v Atalanta                 0-5 (0-2)
+    15.00  SPAL 2013 Ferrara       v Bologna FC               1-1 (0-1)
+           ACF Fiorentina          v Sampdoria                3-3 (1-1)
+    18.00  Cagliari Calcio         v Empoli FC                2-2 (1-0)
+    20.30  SSC Napoli              v Lazio Roma               2-1 (2-0)
+  Mon Jan/21
+    15.00  Genoa CFC               v AC Milan                 0-2 (0-0)
+    20.30  Juventus                v Chievo Verona            3-0 (2-0)
+
+
+» Matchday 21
+  Sat Jan/26
+    15.00  Sassuolo Calcio         v Cagliari Calcio          3-0 (2-0)
+    18.00  Sampdoria               v Udinese Calcio           4-0 (1-0)
+    20.30  AC Milan                v SSC Napoli               0-0
+  Sun Jan/27
+    12.30  Chievo Verona           v ACF Fiorentina           3-4 (1-2)
+    15.00  Bologna FC              v Frosinone Calcio         0-4 (0-2)
+           Atalanta                v AS Roma                  3-3 (1-3)
+           Parma Calcio 1913       v SPAL 2013 Ferrara        2-3 (1-0)
+    18.00  Torino FC               v Inter                    1-0 (1-0)
+    20.30  Lazio Roma              v Juventus                 1-2 (0-0)
+  Mon Jan/28
+    20.30  Empoli FC               v Genoa CFC                1-3 (0-1)
+
+
+» Matchday 22
+  Sat Feb/2
+    15.00  Empoli FC               v Chievo Verona            2-2 (1-2)
+    18.00  SSC Napoli              v Sampdoria                3-0 (2-0)
+    20.30  Juventus                v Parma Calcio 1913        3-3 (1-0)
+  Sun Feb/3
+    12.30  SPAL 2013 Ferrara       v Torino FC                0-0
+    15.00  Udinese Calcio          v ACF Fiorentina           1-1 (0-0)
+           Genoa CFC               v Sassuolo Calcio          1-1 (1-1)
+    18.00  Inter                   v Bologna FC               0-1 (0-1)
+    20.30  AS Roma                 v AC Milan                 1-1 (0-1)
+  Mon Feb/4
+    19.00  Frosinone Calcio        v Lazio Roma               0-1 (0-1)
+    21.00  Cagliari Calcio         v Atalanta                 0-1 (0-0)
+
+
+» Matchday 23
+  Thu Feb/7
+    20.30  Lazio Roma              v Empoli FC                1-0 (1-0)
+  Fri Feb/8
+    20.30  Chievo Verona           v AS Roma                  0-3 (0-2)
+  Sat Feb/9
+    18.00  ACF Fiorentina          v SSC Napoli               0-0
+    20.30  Parma Calcio 1913       v Inter                    0-1 (0-0)
+  Sun Feb/10
+    12.30  Bologna FC              v Genoa CFC                1-1 (1-1)
+    15.00  Sampdoria               v Frosinone Calcio         0-1 (0-1)
+           Atalanta                v SPAL 2013 Ferrara        2-1 (0-1)
+           Torino FC               v Udinese Calcio           1-0 (1-0)
+    18.00  Sassuolo Calcio         v Juventus                 0-3 (0-1)
+    20.30  AC Milan                v Cagliari Calcio          3-0 (2-0)
+
+
+» Matchday 24
+  Fri Feb/15
+    20.30  Juventus                v Frosinone Calcio         3-0 (2-0)
+  Sat Feb/16
+    18.00  Cagliari Calcio         v Parma Calcio 1913        2-1 (0-1)
+    20.30  Atalanta                v AC Milan                 1-3 (1-1)
+  Sun Feb/17
+    12.30  SPAL 2013 Ferrara       v ACF Fiorentina           1-4 (1-1)
+    15.00  Udinese Calcio          v Chievo Verona            1-0 (0-0)
+           Genoa CFC               v Lazio Roma               2-1 (0-1)
+           Empoli FC               v Sassuolo Calcio          3-0 (2-0)
+    18.00  Inter                   v Sampdoria                2-1 (0-0)
+    20.30  SSC Napoli              v Torino FC                0-0
+  Mon Feb/18
+    20.30  AS Roma                 v Bologna FC               2-1 (0-0)
+
+
+» Matchday 25
+  Fri Feb/22
+    20.30  AC Milan                v Empoli FC                3-0 (0-0)
+  Sat Feb/23
+    15.00  Torino FC               v Atalanta                 2-0 (1-0)
+    20.30  Frosinone Calcio        v AS Roma                  2-3 (1-2)
+  Sun Feb/24
+    12.30  Sampdoria               v Cagliari Calcio          1-0 (0-0)
+    15.00  Chievo Verona           v Genoa CFC                0-0
+           Bologna FC              v Juventus                 0-1 (0-0)
+           Sassuolo Calcio         v SPAL 2013 Ferrara        1-1 (1-0)
+    18.00  Parma Calcio 1913       v SSC Napoli               0-4 (0-2)
+    20.30  ACF Fiorentina          v Inter                    3-3 (1-2)
+  Wed Apr/17
+    19.00  Lazio Roma              v Udinese Calcio           2-0 (2-0)
+
+
+» Matchday 26
+  Fri Mar/1
+    20.30  Cagliari Calcio         v Inter                    2-1 (2-1)
+  Sat Mar/2
+    15.00  Empoli FC               v Parma Calcio 1913        3-3 (1-2)
+    18.00  AC Milan                v Sassuolo Calcio          1-0 (1-0)
+    20.30  Lazio Roma              v AS Roma                  3-0 (1-0)
+  Sun Mar/3
+    12.30  Torino FC               v Chievo Verona            3-0 (0-0)
+    15.00  Udinese Calcio          v Bologna FC               2-1 (1-1)
+           Genoa CFC               v Frosinone Calcio         0-0
+           SPAL 2013 Ferrara       v Sampdoria                1-2 (0-2)
+    18.00  Atalanta                v ACF Fiorentina           3-1 (2-1)
+    20.30  SSC Napoli              v Juventus                 1-2 (0-2)
+
+
+» Matchday 27
+  Fri Mar/8
+    20.30  Juventus                v Udinese Calcio           4-1 (2-0)
+  Sat Mar/9
+    18.00  Parma Calcio 1913       v Genoa CFC                1-0 (0-0)
+    20.30  Chievo Verona           v AC Milan                 1-2 (1-1)
+  Sun Mar/10
+    12.30  Bologna FC              v Cagliari Calcio          2-0 (1-0)
+    15.00  Sampdoria               v Atalanta                 1-2 (0-0)
+           Inter                   v SPAL 2013 Ferrara        2-0 (0-0)
+           Frosinone Calcio        v Torino FC                1-2 (1-0)
+    18.00  Sassuolo Calcio         v SSC Napoli               1-1 (0-0)
+    20.30  ACF Fiorentina          v Lazio Roma               1-1 (0-1)
+  Mon Mar/11
+    20.30  AS Roma                 v Empoli FC                2-1 (2-1)
+
+
+» Matchday 28
+  Fri Mar/15
+    20.30  Cagliari Calcio         v ACF Fiorentina           2-1 (0-0)
+  Sat Mar/16
+    15.00  Sassuolo Calcio         v Sampdoria                3-5 (1-3)
+    18.00  SPAL 2013 Ferrara       v AS Roma                  2-1 (1-0)
+    20.30  Torino FC               v Bologna FC               2-3 (1-2)
+  Sun Mar/17
+    12.30  Genoa CFC               v Juventus                 2-0 (0-0)
+    15.00  Atalanta                v Chievo Verona            1-1 (0-1)
+           Empoli FC               v Frosinone Calcio         2-1 (2-0)
+           Lazio Roma              v Parma Calcio 1913        4-1 (4-0)
+    18.00  SSC Napoli              v Udinese Calcio           4-2 (2-2)
+    20.30  AC Milan                v Inter                    2-3 (0-1)
+
+
+» Matchday 29
+  Fri Mar/29
+    20.30  Chievo Verona           v Cagliari Calcio          0-3 (0-3)
+  Sat Mar/30
+    15.00  Udinese Calcio          v Genoa CFC                2-0 (1-0)
+    18.00  Juventus                v Empoli FC                1-0 (0-0)
+    20.30  Sampdoria               v AC Milan                 1-0 (1-0)
+  Sun Mar/31
+    12.30  Parma Calcio 1913       v Atalanta                 1-3 (1-1)
+    15.00  AS Roma                 v SSC Napoli               1-4 (1-1)
+           Frosinone Calcio        v SPAL 2013 Ferrara        0-1 (0-1)
+           ACF Fiorentina          v Torino FC                1-1 (1-1)
+    18.00  Bologna FC              v Sassuolo Calcio          2-1 (0-0)
+    20.30  Inter                   v Lazio Roma               0-1 (0-1)
+
+
+» Matchday 30
+  Tue Apr/2
+    19.00  AC Milan                v Udinese Calcio           1-1 (1-0)
+    21.00  Cagliari Calcio         v Juventus                 0-2 (0-1)
+  Wed Apr/3
+    19.00  Empoli FC               v SSC Napoli               2-1 (1-1)
+    21.00  AS Roma                 v ACF Fiorentina           2-2 (1-1)
+           Genoa CFC               v Inter                    0-4 (0-2)
+           SPAL 2013 Ferrara       v Lazio Roma               1-0 (0-0)
+           Frosinone Calcio        v Parma Calcio 1913        3-2 (2-1)
+           Torino FC               v Sampdoria                2-1 (2-0)
+  Thu Apr/4
+    19.00  Sassuolo Calcio         v Chievo Verona            4-0 (2-0)
+    21.00  Atalanta                v Bologna FC               4-1 (4-0)
+
+
+» Matchday 31
+  Sat Apr/6
+    15.00  Parma Calcio 1913       v Torino FC                0-0
+    18.00  Juventus                v AC Milan                 2-1 (0-1)
+    20.30  Sampdoria               v AS Roma                  0-1 (0-0)
+  Sun Apr/7
+    12.30  ACF Fiorentina          v Frosinone Calcio         0-1 (0-0)
+    15.00  Udinese Calcio          v Empoli FC                3-2 (3-2)
+           Cagliari Calcio         v SPAL 2013 Ferrara        2-1 (1-1)
+    18.00  Inter                   v Atalanta                 0-0
+           Lazio Roma              v Sassuolo Calcio          2-2 (0-0)
+    20.30  SSC Napoli              v Genoa CFC                1-1 (1-1)
+  Mon Apr/8
+    20.30  Bologna FC              v Chievo Verona            3-0 (0-0)
+
+
+» Matchday 32
+  Sat Apr/13
+    15.00  SPAL 2013 Ferrara       v Juventus                 2-1 (0-1)
+    18.00  AS Roma                 v Udinese Calcio           1-0 (0-0)
+    20.30  AC Milan                v Lazio Roma               1-0 (0-0)
+  Sun Apr/14
+    12.30  Torino FC               v Cagliari Calcio          1-1 (0-0)
+    15.00  ACF Fiorentina          v Bologna FC               0-0
+           Sampdoria               v Genoa CFC                2-0 (1-0)
+           Sassuolo Calcio         v Parma Calcio 1913        0-0
+    18.00  Chievo Verona           v SSC Napoli               1-3 (0-1)
+    20.30  Frosinone Calcio        v Inter                    1-3 (0-2)
+  Mon Apr/15
+    20.30  Atalanta                v Empoli FC                0-0
+
+
+» Matchday 33
+  Sat Apr/20
+    12.30  Parma Calcio 1913       v AC Milan                 1-1 (0-0)
+    15.00  Lazio Roma              v Chievo Verona            1-2 (0-0)
+           Cagliari Calcio         v Frosinone Calcio         1-0 (1-0)
+           Bologna FC              v Sampdoria                3-0 (0-0)
+           Udinese Calcio          v Sassuolo Calcio          1-1 (0-1)
+           Empoli FC               v SPAL 2013 Ferrara        2-4 (1-2)
+           Genoa CFC               v Torino FC                0-1 (0-0)
+    18.00  Juventus                v ACF Fiorentina           2-1 (1-1)
+    20.30  Inter                   v AS Roma                  1-1 (0-1)
+  Mon Apr/22
+    19.00  SSC Napoli              v Atalanta                 1-2 (1-0)
+
+
+» Matchday 34
+  Sat Apr/27
+    15.00  Bologna FC              v Empoli FC                3-1 (0-1)
+    18.00  AS Roma                 v Cagliari Calcio          3-0 (2-0)
+    20.30  Inter                   v Juventus                 1-1 (1-0)
+  Sun Apr/28
+    12.30  Frosinone Calcio        v SSC Napoli               0-2 (0-1)
+    15.00  SPAL 2013 Ferrara       v Genoa CFC                1-1 (1-0)
+           Chievo Verona           v Parma Calcio 1913        1-1 (0-1)
+    18.00  Sampdoria               v Lazio Roma               1-2 (0-2)
+    20.30  Torino FC               v AC Milan                 2-0 (0-0)
+  Mon Apr/29
+    19.00  Atalanta                v Udinese Calcio           2-0 (0-0)
+    21.00  ACF Fiorentina          v Sassuolo Calcio          0-1 (0-1)
+
+
+» Matchday 35
+  Fri May/3
+    20.30  Juventus                v Torino FC                1-1 (0-1)
+  Sat May/4
+    18.00  Chievo Verona           v SPAL 2013 Ferrara        0-4 (0-1)
+    20.30  Udinese Calcio          v Inter                    0-0
+  Sun May/5
+    12.30  Empoli FC               v ACF Fiorentina           1-0 (0-0)
+    15.00  Lazio Roma              v Atalanta                 1-3 (1-1)
+           Sassuolo Calcio         v Frosinone Calcio         2-2 (0-2)
+           Parma Calcio 1913       v Sampdoria                3-3 (1-2)
+    18.00  Genoa CFC               v AS Roma                  1-1 (0-0)
+    20.30  SSC Napoli              v Cagliari Calcio          2-1 (0-0)
+  Mon May/6
+    20.30  AC Milan                v Bologna FC               2-1 (1-0)
+
+
+» Matchday 36
+  Sat May/11
+    15.00  Atalanta                v Genoa CFC                2-1 (0-0)
+    18.00  Cagliari Calcio         v Lazio Roma               1-2 (0-1)
+    20.30  ACF Fiorentina          v AC Milan                 0-1 (0-1)
+  Sun May/12
+    12.30  Torino FC               v Sassuolo Calcio          3-2 (0-1)
+    15.00  Sampdoria               v Empoli FC                1-2 (0-0)
+           Frosinone Calcio        v Udinese Calcio           1-3 (0-3)
+    18.00  SPAL 2013 Ferrara       v SSC Napoli               1-2 (0-0)
+    20.30  AS Roma                 v Juventus                 2-0 (0-0)
+  Mon May/13
+    19.00  Bologna FC              v Parma Calcio 1913        4-1 (0-0)
+    21.00  Inter                   v Chievo Verona            2-0 (1-0)
+
+
+» Matchday 37
+  Sat May/18
+    15.00  Udinese Calcio          v SPAL 2013 Ferrara        3-2 (3-0)
+    18.00  Genoa CFC               v Cagliari Calcio          1-1 (0-1)
+    20.30  Sassuolo Calcio         v AS Roma                  0-0
+  Sun May/19
+    12.30  Chievo Verona           v Sampdoria                0-0
+    15.00  Parma Calcio 1913       v ACF Fiorentina           1-0 (0-0)
+           Empoli FC               v Torino FC                4-1 (1-0)
+    18.00  AC Milan                v Frosinone Calcio         2-0 (0-0)
+    20.30  Juventus                v Atalanta                 1-1 (0-1)
+           SSC Napoli              v Inter                    4-1 (1-0)
+  Mon May/20
+    20.30  Lazio Roma              v Bologna FC               3-3 (1-0)
+
+
+» Matchday 38
+  Sat May/25
+    18.00  Frosinone Calcio        v Chievo Verona            0-0
+    20.30  Bologna FC              v SSC Napoli               3-2 (2-0)
+  Sun May/26
+    15.00  Torino FC               v Lazio Roma               3-1 (0-0)
+    18.00  Sampdoria               v Juventus                 2-0 (0-0)
+    20.30  Inter                   v Empoli FC                2-1 (0-0)
+           ACF Fiorentina          v Genoa CFC                0-0
+           SPAL 2013 Ferrara       v AC Milan                 2-3 (1-2)
+           AS Roma                 v Parma Calcio 1913        2-1 (1-0)
+           Atalanta                v Sassuolo Calcio          3-1 (1-1)
+           Cagliari Calcio         v Udinese Calcio           1-2 (1-0)
