@@ -500,18 +500,18 @@
 
 » Matchday 30
   Sat Mar/29
-    15.00  Como 1907               v Empoli FC
-           Venezia FC              v Bologna FC 1909
-    18.00  Juventus FC             v Genoa CFC
-    20.45  US Lecce                v AS Roma
+    15.00  Como 1907               v Empoli FC                1-1 (0-0)
+           Venezia FC              v Bologna FC 1909          0-1 (0-0)
+    18.00  Juventus FC             v Genoa CFC                1-0 (1-0)
+    20.45  US Lecce                v AS Roma                  0-1 (0-0)
   Sun Mar/30
-    12.30  Cagliari Calcio         v AC Monza
-    15.00  ACF Fiorentina          v Atalanta BC
-    18.00  FC Internazionale Milano v Udinese Calcio
-    20.45  SSC Napoli              v AC Milan
+    12.30  Cagliari Calcio         v AC Monza                 3-0 (0-0)
+    15.00  ACF Fiorentina          v Atalanta BC              1-0 (1-0)
+    18.00  FC Internazionale Milano v Udinese Calcio           2-1 (2-0)
+    20.45  SSC Napoli              v AC Milan                 2-1 (2-0)
   Mon Mar/31
-    18.30  Hellas Verona FC        v Parma Calcio 1913
-    20.45  SS Lazio                v Torino FC
+    18.30  Hellas Verona FC        v Parma Calcio 1913        0-0
+    20.45  SS Lazio                v Torino FC                1-1 (0-0)
 
 
 » Matchday 31
