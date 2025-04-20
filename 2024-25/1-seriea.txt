@@ -528,33 +528,33 @@
     18.00  Atalanta BC             v SS Lazio                 0-1 (0-0)
     20.45  AS Roma                 v Juventus FC              1-1 (0-1)
   Mon Apr/7
-    20.45  Bologna FC 1909         v SSC Napoli
+    20.45  Bologna FC 1909         v SSC Napoli               1-1 (0-1)
 
 
 » Matchday 32
   Fri Apr/11
-    20.45  Udinese Calcio          v AC Milan
+    20.45  Udinese Calcio          v AC Milan                 0-4 (0-2)
   Sat Apr/12
-    15.00  Venezia FC              v AC Monza
-    18.00  FC Internazionale Milano v Cagliari Calcio
-    20.45  Juventus FC             v US Lecce
+    15.00  Venezia FC              v AC Monza                 1-0 (0-0)
+    18.00  FC Internazionale Milano v Cagliari Calcio          3-1 (2-0)
+    20.45  Juventus FC             v US Lecce                 2-1 (2-0)
   Sun Apr/13
-    12.30  Atalanta BC             v Bologna FC 1909
-    15.00  ACF Fiorentina          v Parma Calcio 1913
-           Hellas Verona FC        v Genoa CFC
-    18.00  Como 1907               v Torino FC
-    20.45  SS Lazio                v AS Roma
+    12.30  Atalanta BC             v Bologna FC 1909          2-0 (2-0)
+    15.00  ACF Fiorentina          v Parma Calcio 1913        0-0
+           Hellas Verona FC        v Genoa CFC                0-0
+    18.00  Como 1907               v Torino FC                1-1 (1-0)
+    20.45  SS Lazio                v AS Roma                  1-1 (0-0)
   Mon Apr/14
-    20.45  SSC Napoli              v Empoli FC
+    20.45  SSC Napoli              v Empoli FC                3-0 (1-0)
 
 
 » Matchday 33
   Sat Apr/19
-    15.00  US Lecce                v Como 1907
-    18.00  AC Monza                v SSC Napoli
-    20.45  AS Roma                 v Hellas Verona FC
+    15.00  US Lecce                v Como 1907                0-3 (0-1)
+    18.00  AC Monza                v SSC Napoli               0-1 (0-0)
+    20.45  AS Roma                 v Hellas Verona FC         1-0 (1-0)
   Sun Apr/20
-    15.00  Empoli FC               v Venezia FC
+    15.00  Empoli FC               v Venezia FC               2-2 (0-0)
     18.00  Bologna FC 1909         v FC Internazionale Milano
     20.45  AC Milan                v Atalanta BC
   Mon Apr/21
@@ -565,36 +565,41 @@
 
 
 » Matchday 34
+  Fri Apr/25
+    18.45  Atalanta BC             v US Lecce
+  Sat Apr/26
+    15.00  Como 1907               v Genoa CFC
+    18.00  FC Internazionale Milano v AS Roma
+    20.45  SS Lazio                v Parma Calcio 1913
   Sun Apr/27
-    15.00  Atalanta BC             v US Lecce
-           Como 1907               v Genoa CFC
-           ACF Fiorentina          v Empoli FC
-           Hellas Verona FC        v Cagliari Calcio
-           FC Internazionale Milano v AS Roma
-           Juventus FC             v AC Monza
-           SS Lazio                v Parma Calcio 1913
-           SSC Napoli              v Torino FC
-           Udinese Calcio          v Bologna FC 1909
-           Venezia FC              v AC Milan
+    12.30  Venezia FC              v AC Milan
+    15.00  ACF Fiorentina          v Empoli FC
+    18.00  Juventus FC             v AC Monza
+    20.45  SSC Napoli              v Torino FC
+  Mon Apr/28
+    18.30  Udinese Calcio          v Bologna FC 1909
+    20.45  Hellas Verona FC        v Cagliari Calcio
 
 
 » Matchday 35
-  Sun May/4
-           Bologna FC 1909         v Juventus FC
-           Cagliari Calcio         v Udinese Calcio
-           Empoli FC               v SS Lazio
-           Genoa CFC               v AC Milan
-           FC Internazionale Milano v Hellas Verona FC
-           US Lecce                v SSC Napoli
-           AC Monza                v Atalanta BC
+  Sat May/3
+    15.00  Cagliari Calcio         v Udinese Calcio
            Parma Calcio 1913       v Como 1907
-           AS Roma                 v ACF Fiorentina
+    18.00  US Lecce                v SSC Napoli
+    20.45  FC Internazionale Milano v Hellas Verona FC
+  Sun May/4
+    12.30  Empoli FC               v SS Lazio
+    15.00  AC Monza                v Atalanta BC
            Torino FC               v Venezia FC
+    18.00  AS Roma                 v ACF Fiorentina
+    20.45  Bologna FC 1909         v Juventus FC
+  Mon May/5
+    20.45  Genoa CFC               v AC Milan
 
 
 » Matchday 36
   Sun May/11
-           Atalanta BC             v AS Roma
+    15.00  Atalanta BC             v AS Roma
            Como 1907               v Cagliari Calcio
            Empoli FC               v Parma Calcio 1913
            Hellas Verona FC        v US Lecce
