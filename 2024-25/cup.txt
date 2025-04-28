@@ -1,6 +1,6 @@
 = Coppa Italia 2024/25
 
-# Date       Sat Aug/3 2024 - Thu May/15 2025 (285d)
+# Date       Sat Aug/3 2024 - Wed May/14 2025 (284d)
 # Teams      44
 # Matches    45
 
@@ -82,14 +82,15 @@
 
 » Semifinals
   Tue Apr/1
-    21.00  Empoli FC               v Bologna FC
+    21.00  Empoli FC               v Bologna FC               0-3 (0-2)
   Wed Apr/2
-    21.00  AC Milan                v Inter
+    21.00  AC Milan                v Inter                    1-1 (0-0)
   Wed Apr/23
-           Bologna FC              v Empoli FC
-           Inter                   v AC Milan
+    21.00  Inter                   v AC Milan                 0-3 (0-1)
+  Thu Apr/24
+    21.00  Bologna FC              v Empoli FC                2-1 (1-1)
 
 
 » Final
-  Thu May/15
-           N.N.                    v N.N.
+  Wed May/14
+    21.00  Bologna FC              v AC Milan

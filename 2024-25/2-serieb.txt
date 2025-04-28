@@ -1,6 +1,6 @@
 = Italian Serie B 2024/25
 
-# Date       Fri Aug/16 2024 - Fri May/9 2025 (266d)
+# Date       Fri Aug/16 2024 - Tue May/13 2025 (270d)
 # Teams      20
 # Matches    380
 
@@ -480,112 +480,112 @@
 
 » Matchday 31
   Fri Mar/28
-    20.30  Spezia Calcio           v Brescia Calcio
+    20.30  Spezia Calcio           v Brescia Calcio           0-1 (0-1)
   Sat Mar/29
-    15.00  Cosenza Calcio          v Pisa SC
-           Mantova 1911 SSD        v FC Südtirol
-           Modena FC               v US Catanzaro
-           Sampdoria               v Frosinone Calcio
-    17.15  US Cremonese            v AS Cittadella
-    19.30  Sassuolo Calcio         v AC Reggiana 1919
+    15.00  Cosenza Calcio          v Pisa SC                  0-3 (0-3)
+           Mantova 1911 SSD        v FC Südtirol              2-0 (2-0)
+           Modena FC               v US Catanzaro             2-1 (1-0)
+           Sampdoria               v Frosinone Calcio         0-3 (0-0)
+    17.15  US Cremonese            v AS Cittadella            2-2 (0-1)
+    19.30  Sassuolo Calcio         v AC Reggiana 1919         5-1 (4-1)
   Sun Mar/30
-    15.00  Carrarese Calcio        v SSC Bari
-           Cesena FC               v Juve Stabia
-    17.15  US Salernitana 1919     v Palermo FC
+    15.00  Carrarese Calcio        v SSC Bari                 2-1 (1-1)
+           Cesena FC               v Juve Stabia              1-2 (0-1)
+    17.15  US Salernitana 1919     v Palermo FC               1-2 (0-2)
 
 
 » Matchday 32
   Fri Apr/4
-    20.30  AC Reggiana 1919        v US Cremonese
+    20.30  AC Reggiana 1919        v US Cremonese             1-2 (1-1)
   Sat Apr/5
-    15.00  Brescia Calcio          v Mantova 1911 SSD
-           AS Cittadella           v Carrarese Calcio
-           Frosinone Calcio        v Cosenza Calcio
-           FC Südtirol             v Cesena FC
-    17.15  Pisa SC                 v Modena FC
-    19.30  Juve Stabia             v US Salernitana 1919
+    15.00  Brescia Calcio          v Mantova 1911 SSD         1-2 (1-0)
+           AS Cittadella           v Carrarese Calcio         0-0
+           Frosinone Calcio        v Cosenza Calcio           2-2 (1-2)
+           FC Südtirol             v Cesena FC                1-1 (1-0)
+    17.15  Pisa SC                 v Modena FC                1-2 (0-1)
+    19.30  Juve Stabia             v US Salernitana 1919      1-0 (0-0)
   Sun Apr/6
-    15.00  US Catanzaro            v SSC Bari
-           Palermo FC              v Sassuolo Calcio
-    17.15  Spezia Calcio           v Sampdoria
+    15.00  US Catanzaro            v SSC Bari                 3-3 (1-1)
+           Palermo FC              v Sassuolo Calcio          5-3 (3-0)
+    17.15  Spezia Calcio           v Sampdoria                2-0 (0-0)
 
 
 » Matchday 33
   Fri Apr/11
-    20.30  SSC Bari                v Palermo FC
+    20.30  SSC Bari                v Palermo FC               2-1 (1-1)
   Sat Apr/12
-    15.00  Carrarese Calcio        v US Catanzaro
-           Cosenza Calcio          v Brescia Calcio
-           AC Reggiana 1919        v Pisa SC
-           US Salernitana 1919     v FC Südtirol
-    17.15  Sampdoria               v AS Cittadella
-    19.30  Modena FC               v Sassuolo Calcio
+    15.00  Carrarese Calcio        v US Catanzaro             2-2 (1-0)
+           Cosenza Calcio          v Brescia Calcio           1-1 (0-1)
+           AC Reggiana 1919        v Pisa SC                  0-2 (0-2)
+           US Salernitana 1919     v FC Südtirol              2-1 (0-0)
+    17.15  Sampdoria               v AS Cittadella            1-0 (0-0)
+    19.30  Modena FC               v Sassuolo Calcio          1-3 (0-1)
   Sun Apr/13
-    15.00  Cesena FC               v Frosinone Calcio
-           US Cremonese            v Juve Stabia
-    17.15  Mantova 1911 SSD        v Spezia Calcio
+    15.00  Cesena FC               v Frosinone Calcio         1-1 (1-0)
+           US Cremonese            v Juve Stabia              1-1 (0-0)
+    17.15  Mantova 1911 SSD        v Spezia Calcio            2-2 (0-1)
 
 
 » Matchday 34
-  Mon Apr/21
-    12.30  FC Südtirol             v SSC Bari
-    15.00  Brescia Calcio          v AC Reggiana 1919
+  Tue May/13
+    20.30  Brescia Calcio          v AC Reggiana 1919
            AS Cittadella           v US Salernitana 1919
            Juve Stabia             v Sampdoria
            Mantova 1911 SSD        v US Catanzaro
+           Modena FC               v Cesena FC
            Palermo FC              v Carrarese Calcio
+           Pisa SC                 v US Cremonese
            Sassuolo Calcio         v Frosinone Calcio
            Spezia Calcio           v Cosenza Calcio
-    17.30  Modena FC               v Cesena FC
-    20.30  Pisa SC                 v US Cremonese
+           FC Südtirol             v SSC Bari
 
 
 » Matchday 35
   Fri Apr/25
-    12.30  Frosinone Calcio        v Spezia Calcio
-    15.00  SSC Bari                v Modena FC
-           Brescia Calcio          v Pisa SC
-           Carrarese Calcio        v Sampdoria
-           AC Reggiana 1919        v AS Cittadella
-           US Salernitana 1919     v Cosenza Calcio
-    18.00  US Cremonese            v Mantova 1911 SSD
-    20.30  Cesena FC               v Sassuolo Calcio
-  Sat Apr/26
-    15.00  FC Südtirol             v Juve Stabia
-    17.15  US Catanzaro            v Palermo FC
+    12.30  Frosinone Calcio        v Spezia Calcio            2-2 (2-1)
+    15.00  SSC Bari                v Modena FC                1-2 (1-2)
+           Brescia Calcio          v Pisa SC                  1-2 (0-1)
+           Carrarese Calcio        v Sampdoria                1-0 (1-0)
+           AC Reggiana 1919        v AS Cittadella            2-1 (0-0)
+           US Salernitana 1919     v Cosenza Calcio           3-1 (0-0)
+    18.00  US Cremonese            v Mantova 1911 SSD         4-2 (1-1)
+    20.30  Cesena FC               v Sassuolo Calcio          0-2 (0-1)
+  Sun Apr/27
+    15.00  US Catanzaro            v Palermo FC               1-3 (0-2)
+           FC Südtirol             v Juve Stabia              2-0 (1-0)
 
 
 » Matchday 36
   Thu May/1
-           AS Cittadella           v Brescia Calcio
-           Cosenza Calcio          v SSC Bari
-           Juve Stabia             v US Catanzaro
+    12.30  Juve Stabia             v US Catanzaro
+    15.00  Cosenza Calcio          v SSC Bari
            Mantova 1911 SSD        v Cesena FC
            Modena FC               v AC Reggiana 1919
            Palermo FC              v FC Südtirol
            Pisa SC                 v Frosinone Calcio
            Sampdoria               v US Cremonese
-           Sassuolo Calcio         v Carrarese Calcio
            Spezia Calcio           v US Salernitana 1919
+    17.15  AS Cittadella           v Brescia Calcio
+    19.30  Sassuolo Calcio         v Carrarese Calcio
 
 
 » Matchday 37
   Sun May/4
-           SSC Bari                v Pisa SC
+    15.00  SSC Bari                v Pisa SC
            Brescia Calcio          v Juve Stabia
            Carrarese Calcio        v Modena FC
            US Catanzaro            v Sampdoria
            Cesena FC               v Palermo FC
-           US Cremonese            v Sassuolo Calcio
            Frosinone Calcio        v AS Cittadella
            AC Reggiana 1919        v Spezia Calcio
            US Salernitana 1919     v Mantova 1911 SSD
            FC Südtirol             v Cosenza Calcio
+    19.30  US Cremonese            v Sassuolo Calcio
 
 
 » Matchday 38
   Fri May/9
-           AS Cittadella           v SSC Bari
+    20.30  AS Cittadella           v SSC Bari
            Cosenza Calcio          v Cesena FC
            Juve Stabia             v AC Reggiana 1919
            Mantova 1911 SSD        v Carrarese Calcio
