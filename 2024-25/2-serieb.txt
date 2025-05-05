@@ -557,30 +557,30 @@
 
 » Matchday 36
   Thu May/1
-    12.30  Juve Stabia             v US Catanzaro
-    15.00  Cosenza Calcio          v SSC Bari
-           Mantova 1911 SSD        v Cesena FC
-           Modena FC               v AC Reggiana 1919
-           Palermo FC              v FC Südtirol
-           Pisa SC                 v Frosinone Calcio
-           Sampdoria               v US Cremonese
-           Spezia Calcio           v US Salernitana 1919
-    17.15  AS Cittadella           v Brescia Calcio
-    19.30  Sassuolo Calcio         v Carrarese Calcio
+    12.30  Juve Stabia             v US Catanzaro             2-0 (2-0)
+    15.00  Cosenza Calcio          v SSC Bari                 1-0 (1-0)
+           Mantova 1911 SSD        v Cesena FC                3-0 (1-0)
+           Modena FC               v AC Reggiana 1919         2-3 (2-1)
+           Palermo FC              v FC Südtirol              1-2 (1-0)
+           Pisa SC                 v Frosinone Calcio         1-0 (0-0)
+           Sampdoria               v US Cremonese             0-0
+           Spezia Calcio           v US Salernitana 1919      2-0 (1-0)
+    17.15  AS Cittadella           v Brescia Calcio           0-1 (0-1)
+    19.30  Sassuolo Calcio         v Carrarese Calcio         2-0 (1-0)
 
 
 » Matchday 37
   Sun May/4
-    15.00  SSC Bari                v Pisa SC
-           Brescia Calcio          v Juve Stabia
-           Carrarese Calcio        v Modena FC
-           US Catanzaro            v Sampdoria
-           Cesena FC               v Palermo FC
-           Frosinone Calcio        v AS Cittadella
-           AC Reggiana 1919        v Spezia Calcio
-           US Salernitana 1919     v Mantova 1911 SSD
-           FC Südtirol             v Cosenza Calcio
-    19.30  US Cremonese            v Sassuolo Calcio
+    15.00  SSC Bari                v Pisa SC                  1-0 (1-0)
+           Brescia Calcio          v Juve Stabia              0-0
+           Carrarese Calcio        v Modena FC                2-1 (1-0)
+           US Catanzaro            v Sampdoria                2-2 (1-1)
+           Cesena FC               v Palermo FC               2-1 (1-1)
+           Frosinone Calcio        v AS Cittadella            1-1 (1-0)
+           AC Reggiana 1919        v Spezia Calcio            2-1 (1-1)
+           US Salernitana 1919     v Mantova 1911 SSD         2-0 (1-0)
+           FC Südtirol             v Cosenza Calcio           2-1 (1-1)
+    19.30  US Cremonese            v Sassuolo Calcio          1-1 (1-1)
 
 
 » Matchday 38
