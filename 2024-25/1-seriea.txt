@@ -593,23 +593,23 @@
     18.00  AS Roma                 v ACF Fiorentina           1-0 (1-0)
     20.45  Bologna FC 1909         v Juventus FC              1-1 (0-1)
   Mon May/5
-    20.45  Genoa CFC               v AC Milan
+    20.45  Genoa CFC               v AC Milan                 1-2 (0-0)
 
 
 » Matchday 36
   Fri May/9
-    20.45  AC Milan                v Bologna FC 1909
+    20.45  AC Milan                v Bologna FC 1909          3-1 (0-0)
   Sat May/10
-    15.00  Como 1907               v Cagliari Calcio
-    18.00  SS Lazio                v Juventus FC
-    20.45  Empoli FC               v Parma Calcio 1913
+    15.00  Como 1907               v Cagliari Calcio          3-1 (2-1)
+    18.00  SS Lazio                v Juventus FC              1-1 (0-0)
+    20.45  Empoli FC               v Parma Calcio 1913        2-1 (1-0)
   Sun May/11
-    12.30  Udinese Calcio          v AC Monza
-    15.00  Hellas Verona FC        v US Lecce
-    18.00  Torino FC               v FC Internazionale Milano
-    20.45  SSC Napoli              v Genoa CFC
+    12.30  Udinese Calcio          v AC Monza                 1-2 (0-0)
+    15.00  Hellas Verona FC        v US Lecce                 1-1 (1-1)
+    18.00  Torino FC               v FC Internazionale Milano  0-2 (0-1)
+    20.45  SSC Napoli              v Genoa CFC                2-2 (1-1)
   Mon May/12
-    18.30  Venezia FC              v ACF Fiorentina
+    18.30  Venezia FC              v ACF Fiorentina           2-1 (0-0)
     20.45  Atalanta BC             v AS Roma
 
 
