@@ -588,7 +588,7 @@
     18.00  US Lecce                v SSC Napoli               0-1 (0-1)
     20.45  FC Internazionale Milano v Hellas Verona FC         1-0 (1-0)
   Sun May/4
-    12.30  Empoli FC               v SS Lazio                 0-1 (0-1)
+    12.30  Empoli FC               v SS Lazio                 1-1 (0-1)
     15.00  AC Monza                v Atalanta BC              0-4 (0-2)
     18.00  AS Roma                 v ACF Fiorentina           1-0 (1-0)
     20.45  Bologna FC 1909         v Juventus FC              1-1 (0-1)
@@ -597,8 +597,6 @@
 
 
 » Matchday 36
-  Fri May/9
-    20.45  AC Milan                v Bologna FC 1909          3-1 (0-0)
   Sat May/10
     15.00  Como 1907               v Cagliari Calcio          3-1 (2-1)
     18.00  SS Lazio                v Juventus FC              1-1 (0-0)
@@ -606,25 +604,27 @@
   Sun May/11
     12.30  Udinese Calcio          v AC Monza                 1-2 (0-0)
     15.00  Hellas Verona FC        v US Lecce                 1-1 (1-1)
+           AC Milan                v Bologna FC 1909          3-1 (0-0)
     18.00  Torino FC               v FC Internazionale Milano  0-2 (0-1)
     20.45  SSC Napoli              v Genoa CFC                2-2 (1-1)
   Mon May/12
     18.30  Venezia FC              v ACF Fiorentina           2-1 (0-0)
-    20.45  Atalanta BC             v AS Roma
+    20.45  Atalanta BC             v AS Roma                  2-1 (1-1)
 
 
 » Matchday 37
+  Sat May/17
+    20.45  Genoa CFC               v Atalanta BC              2-3 (1-0)
   Sun May/18
-    15.00  Cagliari Calcio         v Venezia FC
-           ACF Fiorentina          v Bologna FC 1909
-           Genoa CFC               v Atalanta BC
-           Hellas Verona FC        v Como 1907
-           FC Internazionale Milano v SS Lazio
-           Juventus FC             v Udinese Calcio
-           US Lecce                v Torino FC
-           AC Monza                v Empoli FC
-           Parma Calcio 1913       v SSC Napoli
-           AS Roma                 v AC Milan
+    20.45  Cagliari Calcio         v Venezia FC               3-0 (2-0)
+           ACF Fiorentina          v Bologna FC 1909          3-2 (1-0)
+           Hellas Verona FC        v Como 1907                1-1 (0-1)
+           FC Internazionale Milano v SS Lazio                 2-2 (1-0)
+           Juventus FC             v Udinese Calcio           2-0 (0-0)
+           US Lecce                v Torino FC                1-0 (0-0)
+           AC Monza                v Empoli FC                1-3 (1-0)
+           Parma Calcio 1913       v SSC Napoli               0-0
+           AS Roma                 v AC Milan                 3-1 (1-1)
 
 
 » Matchday 38
