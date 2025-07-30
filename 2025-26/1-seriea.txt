@@ -1,0 +1,544 @@
+= Italian Serie A 2025/26
+
+# Date       Sat Aug/23 2025 - Sun May/24 2026 (274d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Sat Aug/23 2025
+    18.30  Genoa CFC               v US Lecce
+           Sassuolo Calcio         v SSC Napoli
+    20.45  AC Milan                v US Cremonese
+           AS Roma                 v Bologna FC
+  Sun Aug/24
+    18.30  Cagliari Calcio         v ACF Fiorentina
+           Como 1907               v Lazio Roma
+    20.45  Atalanta                v Pisa SC
+           Juventus                v Parma Calcio 1913
+  Mon Aug/25
+    18.30  Udinese Calcio          v Hellas Verona
+    20.45  Inter                   v Torino FC
+
+
+» Matchday 2
+  Fri Aug/29
+    18.30  US Cremonese            v Sassuolo Calcio
+    20.45  US Lecce                v AC Milan
+  Sat Aug/30
+    18.30  Bologna FC              v Como 1907
+           Parma Calcio 1913       v Atalanta
+    20.45  Pisa SC                 v AS Roma
+           SSC Napoli              v Cagliari Calcio
+  Sun Aug/31
+    18.30  Genoa CFC               v Juventus
+           Torino FC               v ACF Fiorentina
+    20.45  Inter                   v Udinese Calcio
+           Lazio Roma              v Hellas Verona
+
+
+» Matchday 3
+  Sat Sep/13
+    15.00  Cagliari Calcio         v Parma Calcio 1913
+    18.00  Juventus                v Inter
+    20.45  ACF Fiorentina          v SSC Napoli
+  Sun Sep/14
+    12.30  AS Roma                 v Torino FC
+    15.00  Atalanta                v US Lecce
+           Pisa SC                 v Udinese Calcio
+    18.00  Sassuolo Calcio         v Lazio Roma
+    20.45  AC Milan                v Bologna FC
+  Mon Sep/15
+    18.30  Hellas Verona           v US Cremonese
+    20.45  Como 1907               v Genoa CFC
+
+
+» Matchday 4
+  Sun Sep/21
+           ACF Fiorentina          v Como 1907
+           Bologna FC              v Genoa CFC
+           Torino FC               v Atalanta
+           Hellas Verona           v Juventus
+           Inter                   v Sassuolo Calcio
+           Lazio Roma              v AS Roma
+           SSC Napoli              v Pisa SC
+           Udinese Calcio          v AC Milan
+           US Cremonese            v Parma Calcio 1913
+           US Lecce                v Cagliari Calcio
+
+
+» Matchday 5
+  Sun Sep/28
+           AC Milan                v SSC Napoli
+           AS Roma                 v Hellas Verona
+           Cagliari Calcio         v Inter
+           Genoa CFC               v Lazio Roma
+           Como 1907               v US Cremonese
+           Juventus                v Atalanta
+           Parma Calcio 1913       v Torino FC
+           Pisa SC                 v ACF Fiorentina
+           Sassuolo Calcio         v Udinese Calcio
+           US Lecce                v Bologna FC
+
+
+» Matchday 6
+  Sun Oct/5
+           ACF Fiorentina          v AS Roma
+           Atalanta                v Como 1907
+           Bologna FC              v Pisa SC
+           Hellas Verona           v Sassuolo Calcio
+           Inter                   v US Cremonese
+           Juventus                v AC Milan
+           Lazio Roma              v Torino FC
+           Parma Calcio 1913       v US Lecce
+           SSC Napoli              v Genoa CFC
+           Udinese Calcio          v Cagliari Calcio
+
+
+» Matchday 7
+  Sun Oct/19
+           AC Milan                v ACF Fiorentina
+           AS Roma                 v Inter
+           Atalanta                v Lazio Roma
+           Cagliari Calcio         v Bologna FC
+           Genoa CFC               v Parma Calcio 1913
+           Como 1907               v Juventus
+           Torino FC               v SSC Napoli
+           Pisa SC                 v Hellas Verona
+           US Cremonese            v Udinese Calcio
+           US Lecce                v Sassuolo Calcio
+
+
+» Matchday 8
+  Sun Oct/26
+           ACF Fiorentina          v Bologna FC
+           AC Milan                v Pisa SC
+           Torino FC               v Genoa CFC
+           Hellas Verona           v Cagliari Calcio
+           Lazio Roma              v Juventus
+           Parma Calcio 1913       v Como 1907
+           Sassuolo Calcio         v AS Roma
+           SSC Napoli              v Inter
+           Udinese Calcio          v US Lecce
+           US Cremonese            v Atalanta
+
+
+» Matchday 9
+  Wed Oct/29
+           AS Roma                 v Parma Calcio 1913
+           Atalanta                v AC Milan
+           Cagliari Calcio         v Sassuolo Calcio
+           Genoa CFC               v US Cremonese
+           Como 1907               v Hellas Verona
+           Bologna FC              v Torino FC
+           Inter                   v ACF Fiorentina
+           Juventus                v Udinese Calcio
+           Pisa SC                 v Lazio Roma
+           US Lecce                v SSC Napoli
+
+
+» Matchday 10
+  Sun Nov/2
+           ACF Fiorentina          v US Lecce
+           AC Milan                v AS Roma
+           Torino FC               v Pisa SC
+           Hellas Verona           v Inter
+           Lazio Roma              v Cagliari Calcio
+           Parma Calcio 1913       v Bologna FC
+           Sassuolo Calcio         v Genoa CFC
+           SSC Napoli              v Como 1907
+           Udinese Calcio          v Atalanta
+           US Cremonese            v Juventus
+
+
+» Matchday 11
+  Sun Nov/9
+           AS Roma                 v Udinese Calcio
+           Atalanta                v Sassuolo Calcio
+           Genoa CFC               v ACF Fiorentina
+           Como 1907               v Cagliari Calcio
+           Bologna FC              v SSC Napoli
+           Inter                   v Lazio Roma
+           Juventus                v Torino FC
+           Parma Calcio 1913       v AC Milan
+           Pisa SC                 v US Cremonese
+           US Lecce                v Hellas Verona
+
+
+» Matchday 12
+  Sun Nov/23
+           ACF Fiorentina          v Juventus
+           Cagliari Calcio         v Genoa CFC
+           Torino FC               v Como 1907
+           Hellas Verona           v Parma Calcio 1913
+           Inter                   v AC Milan
+           Lazio Roma              v US Lecce
+           Sassuolo Calcio         v Pisa SC
+           SSC Napoli              v Atalanta
+           Udinese Calcio          v Bologna FC
+           US Cremonese            v AS Roma
+
+
+» Matchday 13
+  Sun Nov/30
+           AC Milan                v Lazio Roma
+           AS Roma                 v SSC Napoli
+           Atalanta                v ACF Fiorentina
+           Genoa CFC               v Hellas Verona
+           Como 1907               v Sassuolo Calcio
+           Bologna FC              v US Cremonese
+           Juventus                v Cagliari Calcio
+           Parma Calcio 1913       v Udinese Calcio
+           Pisa SC                 v Inter
+           US Lecce                v Torino FC
+
+
+» Matchday 14
+  Sun Dec/7
+           Cagliari Calcio         v AS Roma
+           Torino FC               v AC Milan
+           Hellas Verona           v Atalanta
+           Inter                   v Como 1907
+           Lazio Roma              v Bologna FC
+           Pisa SC                 v Parma Calcio 1913
+           Sassuolo Calcio         v ACF Fiorentina
+           SSC Napoli              v Juventus
+           Udinese Calcio          v Genoa CFC
+           US Cremonese            v US Lecce
+
+
+» Matchday 15
+  Sun Dec/14
+           ACF Fiorentina          v Hellas Verona
+           AC Milan                v Sassuolo Calcio
+           AS Roma                 v Como 1907
+           Atalanta                v Cagliari Calcio
+           Genoa CFC               v Inter
+           Bologna FC              v Juventus
+           Torino FC               v US Cremonese
+           Parma Calcio 1913       v Lazio Roma
+           Udinese Calcio          v SSC Napoli
+           US Lecce                v Pisa SC
+
+
+» Matchday 16
+  Sun Dec/21
+           ACF Fiorentina          v Udinese Calcio
+           Cagliari Calcio         v Pisa SC
+           Genoa CFC               v Atalanta
+           Como 1907               v AC Milan
+           Hellas Verona           v Bologna FC
+           Inter                   v US Lecce
+           Juventus                v AS Roma
+           Lazio Roma              v US Cremonese
+           Sassuolo Calcio         v Torino FC
+           SSC Napoli              v Parma Calcio 1913
+
+
+» Matchday 17
+  Sun Dec/28
+           AC Milan                v Hellas Verona
+           AS Roma                 v Genoa CFC
+           Atalanta                v Inter
+           Bologna FC              v Sassuolo Calcio
+           Torino FC               v Cagliari Calcio
+           Parma Calcio 1913       v ACF Fiorentina
+           Pisa SC                 v Juventus
+           Udinese Calcio          v Lazio Roma
+           US Cremonese            v SSC Napoli
+           US Lecce                v Como 1907
+
+
+» Matchday 18
+  Sat Jan/3 2026
+           ACF Fiorentina          v US Cremonese
+           Atalanta                v AS Roma
+           Cagliari Calcio         v AC Milan
+           Genoa CFC               v Pisa SC
+           Como 1907               v Udinese Calcio
+           Hellas Verona           v Torino FC
+           Inter                   v Bologna FC
+           Juventus                v US Lecce
+           Lazio Roma              v SSC Napoli
+           Sassuolo Calcio         v Parma Calcio 1913
+
+
+» Matchday 19
+  Tue Jan/6
+           AC Milan                v Genoa CFC
+           Bologna FC              v Atalanta
+           Torino FC               v Udinese Calcio
+           Lazio Roma              v ACF Fiorentina
+           Parma Calcio 1913       v Inter
+           Pisa SC                 v Como 1907
+           Sassuolo Calcio         v Juventus
+           SSC Napoli              v Hellas Verona
+           US Cremonese            v Cagliari Calcio
+           US Lecce                v AS Roma
+
+
+» Matchday 20
+  Sun Jan/11
+           ACF Fiorentina          v AC Milan
+           AS Roma                 v Sassuolo Calcio
+           Atalanta                v Torino FC
+           Genoa CFC               v Cagliari Calcio
+           Como 1907               v Bologna FC
+           Hellas Verona           v Lazio Roma
+           Inter                   v SSC Napoli
+           Juventus                v US Cremonese
+           Udinese Calcio          v Pisa SC
+           US Lecce                v Parma Calcio 1913
+
+
+» Matchday 21
+  Sun Jan/18
+           AC Milan                v US Lecce
+           Cagliari Calcio         v Juventus
+           Bologna FC              v ACF Fiorentina
+           Torino FC               v AS Roma
+           Lazio Roma              v Como 1907
+           Parma Calcio 1913       v Genoa CFC
+           Pisa SC                 v Atalanta
+           SSC Napoli              v Sassuolo Calcio
+           Udinese Calcio          v Inter
+           US Cremonese            v Hellas Verona
+
+
+» Matchday 22
+  Sun Jan/25
+           ACF Fiorentina          v Cagliari Calcio
+           AS Roma                 v AC Milan
+           Atalanta                v Parma Calcio 1913
+           Genoa CFC               v Bologna FC
+           Como 1907               v Torino FC
+           Hellas Verona           v Udinese Calcio
+           Inter                   v Pisa SC
+           Juventus                v SSC Napoli
+           Sassuolo Calcio         v US Cremonese
+           US Lecce                v Lazio Roma
+
+
+» Matchday 23
+  Sun Feb/1
+           Cagliari Calcio         v Hellas Verona
+           Como 1907               v Atalanta
+           Bologna FC              v AC Milan
+           Torino FC               v US Lecce
+           Lazio Roma              v Genoa CFC
+           Parma Calcio 1913       v Juventus
+           Pisa SC                 v Sassuolo Calcio
+           SSC Napoli              v ACF Fiorentina
+           Udinese Calcio          v AS Roma
+           US Cremonese            v Inter
+
+
+» Matchday 24
+  Sun Feb/8
+           ACF Fiorentina          v Torino FC
+           AC Milan                v Como 1907
+           AS Roma                 v Cagliari Calcio
+           Atalanta                v US Cremonese
+           Genoa CFC               v SSC Napoli
+           Bologna FC              v Parma Calcio 1913
+           Hellas Verona           v Pisa SC
+           Juventus                v Lazio Roma
+           Sassuolo Calcio         v Inter
+           US Lecce                v Udinese Calcio
+
+
+» Matchday 25
+  Sun Feb/15
+           Cagliari Calcio         v US Lecce
+           Como 1907               v ACF Fiorentina
+           Torino FC               v Bologna FC
+           Inter                   v Juventus
+           Lazio Roma              v Atalanta
+           Parma Calcio 1913       v Hellas Verona
+           Pisa SC                 v AC Milan
+           SSC Napoli              v AS Roma
+           Udinese Calcio          v Sassuolo Calcio
+           US Cremonese            v Genoa CFC
+
+
+» Matchday 26
+  Sun Feb/22
+           ACF Fiorentina          v Pisa SC
+           AC Milan                v Parma Calcio 1913
+           AS Roma                 v US Cremonese
+           Atalanta                v SSC Napoli
+           Cagliari Calcio         v Lazio Roma
+           Genoa CFC               v Torino FC
+           Bologna FC              v Udinese Calcio
+           Juventus                v Como 1907
+           Sassuolo Calcio         v Hellas Verona
+           US Lecce                v Inter
+
+
+» Matchday 27
+  Sun Mar/1
+           AS Roma                 v Juventus
+           Como 1907               v US Lecce
+           Torino FC               v Lazio Roma
+           Hellas Verona           v SSC Napoli
+           Inter                   v Genoa CFC
+           Parma Calcio 1913       v Cagliari Calcio
+           Pisa SC                 v Bologna FC
+           Sassuolo Calcio         v Atalanta
+           Udinese Calcio          v ACF Fiorentina
+           US Cremonese            v AC Milan
+
+
+» Matchday 28
+  Sun Mar/8
+           ACF Fiorentina          v Parma Calcio 1913
+           AC Milan                v Inter
+           Atalanta                v Udinese Calcio
+           Cagliari Calcio         v Como 1907
+           Genoa CFC               v AS Roma
+           Bologna FC              v Hellas Verona
+           Juventus                v Pisa SC
+           Lazio Roma              v Sassuolo Calcio
+           SSC Napoli              v Torino FC
+           US Lecce                v US Cremonese
+
+
+» Matchday 29
+  Sun Mar/15
+           Como 1907               v AS Roma
+           Torino FC               v Parma Calcio 1913
+           Hellas Verona           v Genoa CFC
+           Inter                   v Atalanta
+           Lazio Roma              v AC Milan
+           Pisa SC                 v Cagliari Calcio
+           Sassuolo Calcio         v Bologna FC
+           SSC Napoli              v US Lecce
+           Udinese Calcio          v Juventus
+           US Cremonese            v ACF Fiorentina
+
+
+» Matchday 30
+  Sun Mar/22
+           ACF Fiorentina          v Inter
+           AC Milan                v Torino FC
+           AS Roma                 v US Lecce
+           Atalanta                v Hellas Verona
+           Cagliari Calcio         v SSC Napoli
+           Genoa CFC               v Udinese Calcio
+           Como 1907               v Pisa SC
+           Bologna FC              v Lazio Roma
+           Juventus                v Sassuolo Calcio
+           Parma Calcio 1913       v US Cremonese
+
+
+» Matchday 31
+  Sat Apr/4
+           Hellas Verona           v ACF Fiorentina
+           Inter                   v AS Roma
+           Juventus                v Genoa CFC
+           Lazio Roma              v Parma Calcio 1913
+           Pisa SC                 v Torino FC
+           Sassuolo Calcio         v Cagliari Calcio
+           SSC Napoli              v AC Milan
+           Udinese Calcio          v Como 1907
+           US Cremonese            v Bologna FC
+           US Lecce                v Atalanta
+
+
+» Matchday 32
+  Sun Apr/12
+           ACF Fiorentina          v Lazio Roma
+           AC Milan                v Udinese Calcio
+           AS Roma                 v Pisa SC
+           Atalanta                v Juventus
+           Cagliari Calcio         v US Cremonese
+           Genoa CFC               v Sassuolo Calcio
+           Como 1907               v Inter
+           Bologna FC              v US Lecce
+           Torino FC               v Hellas Verona
+           Parma Calcio 1913       v SSC Napoli
+
+
+» Matchday 33
+  Sun Apr/19
+           AS Roma                 v Atalanta
+           Hellas Verona           v AC Milan
+           Inter                   v Cagliari Calcio
+           Juventus                v Bologna FC
+           Pisa SC                 v Genoa CFC
+           Sassuolo Calcio         v Como 1907
+           SSC Napoli              v Lazio Roma
+           Udinese Calcio          v Parma Calcio 1913
+           US Cremonese            v Torino FC
+           US Lecce                v ACF Fiorentina
+
+
+» Matchday 34
+  Sun Apr/26
+           ACF Fiorentina          v Sassuolo Calcio
+           AC Milan                v Juventus
+           Cagliari Calcio         v Atalanta
+           Genoa CFC               v Como 1907
+           Bologna FC              v AS Roma
+           Torino FC               v Inter
+           Hellas Verona           v US Lecce
+           Lazio Roma              v Udinese Calcio
+           Parma Calcio 1913       v Pisa SC
+           SSC Napoli              v US Cremonese
+
+
+» Matchday 35
+  Sun May/3
+           AS Roma                 v ACF Fiorentina
+           Atalanta                v Genoa CFC
+           Como 1907               v SSC Napoli
+           Bologna FC              v Cagliari Calcio
+           Inter                   v Parma Calcio 1913
+           Juventus                v Hellas Verona
+           Pisa SC                 v US Lecce
+           Sassuolo Calcio         v AC Milan
+           Udinese Calcio          v Torino FC
+           US Cremonese            v Lazio Roma
+
+
+» Matchday 36
+  Sun May/10
+           ACF Fiorentina          v Genoa CFC
+           AC Milan                v Atalanta
+           Cagliari Calcio         v Udinese Calcio
+           Torino FC               v Sassuolo Calcio
+           Hellas Verona           v Como 1907
+           Lazio Roma              v Inter
+           Parma Calcio 1913       v AS Roma
+           SSC Napoli              v Bologna FC
+           US Cremonese            v Pisa SC
+           US Lecce                v Juventus
+
+
+» Matchday 37
+  Sun May/17
+           AS Roma                 v Lazio Roma
+           Atalanta                v Bologna FC
+           Cagliari Calcio         v Torino FC
+           Genoa CFC               v AC Milan
+           Como 1907               v Parma Calcio 1913
+           Inter                   v Hellas Verona
+           Juventus                v ACF Fiorentina
+           Pisa SC                 v SSC Napoli
+           Sassuolo Calcio         v US Lecce
+           Udinese Calcio          v US Cremonese
+
+
+» Matchday 38
+  Sun May/24
+           ACF Fiorentina          v Atalanta
+           AC Milan                v Cagliari Calcio
+           Bologna FC              v Inter
+           Torino FC               v Juventus
+           Hellas Verona           v AS Roma
+           Lazio Roma              v Pisa SC
+           Parma Calcio 1913       v Sassuolo Calcio
+           SSC Napoli              v Udinese Calcio
+           US Cremonese            v Como 1907
+           US Lecce                v Genoa CFC
