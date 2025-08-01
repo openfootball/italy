@@ -1,6 +1,538 @@
 = Italian Serie B 2025/26
 
-# Teams      0
-# Matches    0
+# Date       Sat Aug/23 2025 - Sat May/9 2026 (259d)
+# Teams      20
+# Matches    380
 
 
+
+» Matchday 1
+  Sat Aug/23 2025
+           US Catanzaro            v FC Südtirol
+           Empoli FC               v Calcio Padova
+           Virtus Entella          v Juve Stabia
+           Frosinone Calcio        v US Avellino
+           AC Monza                v Mantova 1911 SSD
+           Palermo FC              v AC Reggiana 1919
+           Delfino Pescara         v Cesena FC
+           Sampdoria               v Modena FC
+           Spezia Calcio           v Carrarese Calcio
+           Venezia FC              v SSC Bari
+
+
+» Matchday 2
+  Sat Aug/30
+           SSC Bari                v AC Monza
+           Carrarese Calcio        v Calcio Padova
+           Cesena FC               v Virtus Entella
+           Juve Stabia             v Venezia FC
+           Mantova 1911 SSD        v Delfino Pescara
+           Modena FC               v US Avellino
+           Palermo FC              v Frosinone Calcio
+           AC Reggiana 1919        v Empoli FC
+           Spezia Calcio           v US Catanzaro
+           FC Südtirol             v Sampdoria
+
+
+» Matchday 3
+  Sat Sep/13
+           US Avellino             v AC Monza
+           US Catanzaro            v Carrarese Calcio
+           Empoli FC               v Spezia Calcio
+           Virtus Entella          v Mantova 1911 SSD
+           Juve Stabia             v AC Reggiana 1919
+           Modena FC               v SSC Bari
+           Calcio Padova           v Frosinone Calcio
+           Delfino Pescara         v Venezia FC
+           Sampdoria               v Cesena FC
+           FC Südtirol             v Palermo FC
+
+
+» Matchday 4
+  Sat Sep/20
+           Carrarese Calcio        v US Avellino
+           Frosinone Calcio        v FC Südtirol
+           Mantova 1911 SSD        v Modena FC
+           AC Monza                v Sampdoria
+           Calcio Padova           v Virtus Entella
+           Palermo FC              v SSC Bari
+           Delfino Pescara         v Empoli FC
+           AC Reggiana 1919        v US Catanzaro
+           Spezia Calcio           v Juve Stabia
+           Venezia FC              v Cesena FC
+
+
+» Matchday 5
+  Sat Sep/27
+           US Avellino             v Virtus Entella
+           SSC Bari                v Sampdoria
+           US Catanzaro            v Juve Stabia
+           Cesena FC               v Palermo FC
+           Empoli FC               v Carrarese Calcio
+           Mantova 1911 SSD        v Frosinone Calcio
+           Modena FC               v Delfino Pescara
+           AC Monza                v Calcio Padova
+           FC Südtirol             v AC Reggiana 1919
+           Venezia FC              v Spezia Calcio
+
+
+» Matchday 6
+  Tue Sep/30
+           Carrarese Calcio        v Modena FC
+           Empoli FC               v AC Monza
+           Virtus Entella          v SSC Bari
+           Frosinone Calcio        v Cesena FC
+           Juve Stabia             v Mantova 1911 SSD
+           Calcio Padova           v US Avellino
+           Palermo FC              v Venezia FC
+           Delfino Pescara         v FC Südtirol
+           AC Reggiana 1919        v Spezia Calcio
+           Sampdoria               v US Catanzaro
+
+
+» Matchday 7
+  Sat Oct/4
+           US Avellino             v Mantova 1911 SSD
+           SSC Bari                v Calcio Padova
+           Carrarese Calcio        v Juve Stabia
+           Cesena FC               v AC Reggiana 1919
+           Modena FC               v Virtus Entella
+           AC Monza                v US Catanzaro
+           Sampdoria               v Delfino Pescara
+           Spezia Calcio           v Palermo FC
+           FC Südtirol             v Empoli FC
+           Venezia FC              v Frosinone Calcio
+
+
+» Matchday 8
+  Sat Oct/18
+           US Catanzaro            v Calcio Padova
+           Empoli FC               v Venezia FC
+           Virtus Entella          v Sampdoria
+           Frosinone Calcio        v AC Monza
+           Juve Stabia             v US Avellino
+           Mantova 1911 SSD        v FC Südtirol
+           Palermo FC              v Modena FC
+           Delfino Pescara         v Carrarese Calcio
+           AC Reggiana 1919        v SSC Bari
+           Spezia Calcio           v Cesena FC
+
+
+» Matchday 9
+  Sat Oct/25
+           US Avellino             v Spezia Calcio
+           SSC Bari                v Mantova 1911 SSD
+           Carrarese Calcio        v Venezia FC
+           US Catanzaro            v Palermo FC
+           Virtus Entella          v Delfino Pescara
+           Modena FC               v Empoli FC
+           AC Monza                v AC Reggiana 1919
+           Calcio Padova           v Juve Stabia
+           Sampdoria               v Frosinone Calcio
+           FC Südtirol             v Cesena FC
+
+
+» Matchday 10
+  Tue Oct/28
+           Cesena FC               v Carrarese Calcio
+           Empoli FC               v Sampdoria
+           Frosinone Calcio        v Virtus Entella
+           Juve Stabia             v SSC Bari
+           Mantova 1911 SSD        v US Catanzaro
+           Palermo FC              v AC Monza
+           Delfino Pescara         v US Avellino
+           AC Reggiana 1919        v Modena FC
+           Spezia Calcio           v Calcio Padova
+           Venezia FC              v FC Südtirol
+
+
+» Matchday 11
+  Sat Nov/1
+           US Avellino             v AC Reggiana 1919
+           SSC Bari                v Cesena FC
+           Carrarese Calcio        v Frosinone Calcio
+           US Catanzaro            v Venezia FC
+           Virtus Entella          v Empoli FC
+           Modena FC               v Juve Stabia
+           AC Monza                v Spezia Calcio
+           Calcio Padova           v FC Südtirol
+           Palermo FC              v Delfino Pescara
+           Sampdoria               v Mantova 1911 SSD
+
+
+» Matchday 12
+  Sat Nov/8
+           Cesena FC               v US Avellino
+           Empoli FC               v US Catanzaro
+           Frosinone Calcio        v Modena FC
+           Juve Stabia             v Palermo FC
+           Mantova 1911 SSD        v Calcio Padova
+           Delfino Pescara         v AC Monza
+           AC Reggiana 1919        v Virtus Entella
+           Spezia Calcio           v SSC Bari
+           FC Südtirol             v Carrarese Calcio
+           Venezia FC              v Sampdoria
+
+
+» Matchday 13
+  Sat Nov/22
+           US Avellino             v Empoli FC
+           SSC Bari                v Frosinone Calcio
+           Carrarese Calcio        v AC Reggiana 1919
+           US Catanzaro            v Delfino Pescara
+           Virtus Entella          v Palermo FC
+           Mantova 1911 SSD        v Spezia Calcio
+           Modena FC               v FC Südtirol
+           AC Monza                v Cesena FC
+           Calcio Padova           v Venezia FC
+           Sampdoria               v Juve Stabia
+
+
+» Matchday 14
+  Sat Nov/29
+           US Catanzaro            v Virtus Entella
+           Cesena FC               v Modena FC
+           Empoli FC               v SSC Bari
+           Juve Stabia             v AC Monza
+           Palermo FC              v Carrarese Calcio
+           Delfino Pescara         v Calcio Padova
+           AC Reggiana 1919        v Frosinone Calcio
+           Spezia Calcio           v Sampdoria
+           FC Südtirol             v US Avellino
+           Venezia FC              v Mantova 1911 SSD
+
+
+» Matchday 15
+  Mon Dec/8
+           US Avellino             v Venezia FC
+           SSC Bari                v Delfino Pescara
+           Empoli FC               v Palermo FC
+           Virtus Entella          v Spezia Calcio
+           Frosinone Calcio        v Juve Stabia
+           Mantova 1911 SSD        v AC Reggiana 1919
+           Modena FC               v US Catanzaro
+           AC Monza                v FC Südtirol
+           Calcio Padova           v Cesena FC
+           Sampdoria               v Carrarese Calcio
+
+
+» Matchday 16
+  Sat Dec/13
+           Carrarese Calcio        v Virtus Entella
+           US Catanzaro            v US Avellino
+           Cesena FC               v Mantova 1911 SSD
+           Juve Stabia             v Empoli FC
+           Palermo FC              v Sampdoria
+           Delfino Pescara         v Frosinone Calcio
+           AC Reggiana 1919        v Calcio Padova
+           Spezia Calcio           v Modena FC
+           FC Südtirol             v SSC Bari
+           Venezia FC              v AC Monza
+
+
+» Matchday 17
+  Sat Dec/20
+           US Avellino             v Palermo FC
+           SSC Bari                v US Catanzaro
+           Cesena FC               v Juve Stabia
+           Virtus Entella          v FC Südtirol
+           Frosinone Calcio        v Spezia Calcio
+           Mantova 1911 SSD        v Empoli FC
+           Modena FC               v Venezia FC
+           AC Monza                v Carrarese Calcio
+           Calcio Padova           v Sampdoria
+           Delfino Pescara         v AC Reggiana 1919
+
+
+» Matchday 18
+  Sat Dec/27
+           SSC Bari                v US Avellino
+           Carrarese Calcio        v Mantova 1911 SSD
+           US Catanzaro            v Cesena FC
+           Empoli FC               v Frosinone Calcio
+           Juve Stabia             v FC Südtirol
+           Modena FC               v AC Monza
+           Palermo FC              v Calcio Padova
+           Sampdoria               v AC Reggiana 1919
+           Spezia Calcio           v Delfino Pescara
+           Venezia FC              v Virtus Entella
+
+
+» Matchday 19
+  Sat Jan/10 2026
+           US Avellino             v Sampdoria
+           Carrarese Calcio        v SSC Bari
+           Cesena FC               v Empoli FC
+           Virtus Entella          v AC Monza
+           Frosinone Calcio        v US Catanzaro
+           Juve Stabia             v Delfino Pescara
+           Mantova 1911 SSD        v Palermo FC
+           Calcio Padova           v Modena FC
+           AC Reggiana 1919        v Venezia FC
+           FC Südtirol             v Spezia Calcio
+
+
+» Matchday 20
+  Sat Jan/17
+           US Avellino             v Carrarese Calcio
+           SSC Bari                v Juve Stabia
+           Empoli FC               v FC Südtirol
+           AC Monza                v Frosinone Calcio
+           Calcio Padova           v Mantova 1911 SSD
+           Palermo FC              v Spezia Calcio
+           Delfino Pescara         v Modena FC
+           AC Reggiana 1919        v Cesena FC
+           Sampdoria               v Virtus Entella
+           Venezia FC              v US Catanzaro
+
+
+» Matchday 21
+  Sat Jan/24
+           Carrarese Calcio        v Empoli FC
+           US Catanzaro            v Sampdoria
+           Cesena FC               v SSC Bari
+           Frosinone Calcio        v AC Reggiana 1919
+           Juve Stabia             v Virtus Entella
+           Mantova 1911 SSD        v Venezia FC
+           Modena FC               v Palermo FC
+           AC Monza                v Delfino Pescara
+           Spezia Calcio           v US Avellino
+           FC Südtirol             v Calcio Padova
+
+
+» Matchday 22
+  Sat Jan/31
+           US Avellino             v Cesena FC
+           SSC Bari                v Palermo FC
+           Empoli FC               v Modena FC
+           Virtus Entella          v Frosinone Calcio
+           Calcio Padova           v AC Monza
+           Delfino Pescara         v Mantova 1911 SSD
+           AC Reggiana 1919        v Juve Stabia
+           Sampdoria               v Spezia Calcio
+           FC Südtirol             v US Catanzaro
+           Venezia FC              v Carrarese Calcio
+
+
+» Matchday 23
+  Sat Feb/7
+           Carrarese Calcio        v FC Südtirol
+           US Catanzaro            v AC Reggiana 1919
+           Cesena FC               v Delfino Pescara
+           Frosinone Calcio        v Venezia FC
+           Juve Stabia             v Calcio Padova
+           Mantova 1911 SSD        v SSC Bari
+           Modena FC               v Sampdoria
+           AC Monza                v US Avellino
+           Palermo FC              v Empoli FC
+           Spezia Calcio           v Virtus Entella
+
+
+» Matchday 24
+  Tue Feb/10
+           US Avellino             v Frosinone Calcio
+           SSC Bari                v Spezia Calcio
+           Empoli FC               v Juve Stabia
+           Virtus Entella          v Cesena FC
+           Calcio Padova           v Carrarese Calcio
+           Delfino Pescara         v US Catanzaro
+           AC Reggiana 1919        v Mantova 1911 SSD
+           Sampdoria               v Palermo FC
+           FC Südtirol             v AC Monza
+           Venezia FC              v Modena FC
+
+
+» Matchday 25
+  Sat Feb/14
+           US Avellino             v Delfino Pescara
+           SSC Bari                v FC Südtirol
+           US Catanzaro            v Mantova 1911 SSD
+           Cesena FC               v Venezia FC
+           Empoli FC               v AC Reggiana 1919
+           Modena FC               v Carrarese Calcio
+           AC Monza                v Juve Stabia
+           Palermo FC              v Virtus Entella
+           Sampdoria               v Calcio Padova
+           Spezia Calcio           v Frosinone Calcio
+
+
+» Matchday 26
+  Sat Feb/21
+           Carrarese Calcio        v AC Monza
+           Cesena FC               v Spezia Calcio
+           Virtus Entella          v US Catanzaro
+           Frosinone Calcio        v Empoli FC
+           Juve Stabia             v Modena FC
+           Mantova 1911 SSD        v Sampdoria
+           Calcio Padova           v SSC Bari
+           Palermo FC              v FC Südtirol
+           AC Reggiana 1919        v US Avellino
+           Venezia FC              v Delfino Pescara
+
+
+» Matchday 27
+  Sat Feb/28
+           US Avellino             v Juve Stabia
+           US Catanzaro            v Frosinone Calcio
+           Empoli FC               v Cesena FC
+           Mantova 1911 SSD        v Carrarese Calcio
+           Modena FC               v Calcio Padova
+           AC Monza                v Virtus Entella
+           Delfino Pescara         v Palermo FC
+           Sampdoria               v SSC Bari
+           Spezia Calcio           v AC Reggiana 1919
+           FC Südtirol             v Venezia FC
+
+
+» Matchday 28
+  Tue Mar/3
+           SSC Bari                v Empoli FC
+           Carrarese Calcio        v US Catanzaro
+           Cesena FC               v AC Monza
+           Virtus Entella          v Modena FC
+           Frosinone Calcio        v Delfino Pescara
+           Juve Stabia             v Sampdoria
+           Calcio Padova           v Spezia Calcio
+           Palermo FC              v Mantova 1911 SSD
+           AC Reggiana 1919        v FC Südtirol
+           Venezia FC              v US Avellino
+
+
+» Matchday 29
+  Sat Mar/7
+           US Avellino             v Calcio Padova
+           Carrarese Calcio        v Palermo FC
+           US Catanzaro            v Empoli FC
+           Frosinone Calcio        v Sampdoria
+           Mantova 1911 SSD        v Juve Stabia
+           Modena FC               v Cesena FC
+           Delfino Pescara         v SSC Bari
+           Spezia Calcio           v AC Monza
+           FC Südtirol             v Virtus Entella
+           Venezia FC              v AC Reggiana 1919
+
+
+» Matchday 30
+  Sat Mar/14
+           SSC Bari                v AC Reggiana 1919
+           Cesena FC               v Frosinone Calcio
+           Empoli FC               v Mantova 1911 SSD
+           Virtus Entella          v US Avellino
+           Juve Stabia             v Carrarese Calcio
+           Modena FC               v Spezia Calcio
+           AC Monza                v Palermo FC
+           Calcio Padova           v US Catanzaro
+           Sampdoria               v Venezia FC
+           FC Südtirol             v Delfino Pescara
+
+
+» Matchday 31
+  Tue Mar/17
+           US Avellino             v FC Südtirol
+           Carrarese Calcio        v Sampdoria
+           US Catanzaro            v Modena FC
+           Frosinone Calcio        v SSC Bari
+           Mantova 1911 SSD        v Cesena FC
+           Palermo FC              v Juve Stabia
+           Delfino Pescara         v Virtus Entella
+           AC Reggiana 1919        v AC Monza
+           Spezia Calcio           v Empoli FC
+           Venezia FC              v Calcio Padova
+
+
+» Matchday 32
+  Sat Mar/21
+           SSC Bari                v Carrarese Calcio
+           Cesena FC               v US Catanzaro
+           Empoli FC               v Delfino Pescara
+           Virtus Entella          v AC Reggiana 1919
+           Juve Stabia             v Spezia Calcio
+           Modena FC               v Mantova 1911 SSD
+           AC Monza                v Venezia FC
+           Calcio Padova           v Palermo FC
+           Sampdoria               v US Avellino
+           FC Südtirol             v Frosinone Calcio
+
+
+» Matchday 33
+  Mon Apr/6
+           SSC Bari                v Modena FC
+           Carrarese Calcio        v Spezia Calcio
+           US Catanzaro            v AC Monza
+           Cesena FC               v FC Südtirol
+           Frosinone Calcio        v Calcio Padova
+           Mantova 1911 SSD        v Virtus Entella
+           Palermo FC              v US Avellino
+           AC Reggiana 1919        v Delfino Pescara
+           Sampdoria               v Empoli FC
+           Venezia FC              v Juve Stabia
+
+
+» Matchday 34
+  Sat Apr/11
+           US Avellino             v US Catanzaro
+           Virtus Entella          v Venezia FC
+           Frosinone Calcio        v Palermo FC
+           Juve Stabia             v Cesena FC
+           AC Monza                v SSC Bari
+           Calcio Padova           v Empoli FC
+           Delfino Pescara         v Sampdoria
+           AC Reggiana 1919        v Carrarese Calcio
+           Spezia Calcio           v Mantova 1911 SSD
+           FC Südtirol             v Modena FC
+
+
+» Matchday 35
+  Sat Apr/18
+           SSC Bari                v Venezia FC
+           Carrarese Calcio        v Delfino Pescara
+           Empoli FC               v Virtus Entella
+           Juve Stabia             v US Catanzaro
+           Mantova 1911 SSD        v US Avellino
+           Modena FC               v Frosinone Calcio
+           Calcio Padova           v AC Reggiana 1919
+           Palermo FC              v Cesena FC
+           Sampdoria               v AC Monza
+           Spezia Calcio           v FC Südtirol
+
+
+» Matchday 36
+  Sat Apr/25
+           US Avellino             v SSC Bari
+           US Catanzaro            v Spezia Calcio
+           Cesena FC               v Sampdoria
+           Virtus Entella          v Calcio Padova
+           Frosinone Calcio        v Carrarese Calcio
+           AC Monza                v Modena FC
+           Delfino Pescara         v Juve Stabia
+           AC Reggiana 1919        v Palermo FC
+           FC Südtirol             v Mantova 1911 SSD
+           Venezia FC              v Empoli FC
+
+
+» Matchday 37
+  Fri May/1
+           SSC Bari                v Virtus Entella
+           Carrarese Calcio        v Cesena FC
+           Empoli FC               v US Avellino
+           Juve Stabia             v Frosinone Calcio
+           Mantova 1911 SSD        v AC Monza
+           Modena FC               v AC Reggiana 1919
+           Calcio Padova           v Delfino Pescara
+           Palermo FC              v US Catanzaro
+           Sampdoria               v FC Südtirol
+           Spezia Calcio           v Venezia FC
+
+
+» Matchday 38
+  Sat May/9
+           US Avellino             v Modena FC
+           US Catanzaro            v SSC Bari
+           Cesena FC               v Calcio Padova
+           Virtus Entella          v Carrarese Calcio
+           Frosinone Calcio        v Mantova 1911 SSD
+           AC Monza                v Empoli FC
+           Delfino Pescara         v Spezia Calcio
+           AC Reggiana 1919        v Sampdoria
+           FC Südtirol             v Juve Stabia
+           Venezia FC              v Palermo FC
