@@ -630,15 +630,15 @@
 
 » Matchday 38
   Fri May/23
-    20.45  Como 1907               v FC Internazionale Milano
-           SSC Napoli              v Cagliari Calcio
+    20.45  Como 1907               v FC Internazionale Milano  0-2 (0-1)
+           SSC Napoli              v Cagliari Calcio          2-0 (1-0)
   Sat May/24
-    18.00  Bologna FC 1909         v Genoa CFC
-    20.45  AC Milan                v AC Monza
+    18.00  Bologna FC 1909         v Genoa CFC                1-3 (0-3)
+    20.45  AC Milan                v AC Monza                 2-0 (0-0)
   Sun May/25
-    20.45  Atalanta BC             v Parma Calcio 1913
-           Empoli FC               v Hellas Verona FC
-           SS Lazio                v US Lecce
-           Torino FC               v AS Roma
-           Udinese Calcio          v ACF Fiorentina
-           Venezia FC              v Juventus FC
+    20.45  Atalanta BC             v Parma Calcio 1913        2-3 (2-0)
+           Empoli FC               v Hellas Verona FC         1-2 (1-1)
+           SS Lazio                v US Lecce                 0-1 (0-1)
+           Torino FC               v AS Roma                  0-2 (0-1)
+           Udinese Calcio          v ACF Fiorentina           2-3 (1-0)
+           Venezia FC              v Juventus FC              2-3 (1-2)
