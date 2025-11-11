@@ -169,18 +169,18 @@
 
 » Matchday 11
   Fri Nov/7
-    20.45  AC Pisa 1909            v US Cremonese
+    20.45  AC Pisa 1909            v US Cremonese             1-0 (0-0)
   Sat Nov/8
-    15.00  Como 1907               v Cagliari Calcio
-           US Lecce                v Hellas Verona FC
-    18.00  Juventus FC             v Torino FC
-    20.45  Parma Calcio 1913       v AC Milan
+    15.00  Como 1907               v Cagliari Calcio          0-0
+           US Lecce                v Hellas Verona FC         0-0
+    18.00  Juventus FC             v Torino FC                0-0
+    20.45  Parma Calcio 1913       v AC Milan                 2-2 (1-2)
   Sun Nov/9
-    12.30  Atalanta BC             v US Sassuolo Calcio
-    15.00  Genoa CFC               v ACF Fiorentina
-           Bologna FC 1909         v SSC Napoli
-    18.00  AS Roma                 v Udinese Calcio
-    20.45  FC Internazionale Milano v SS Lazio
+    12.30  Atalanta BC             v US Sassuolo Calcio       0-3 (0-1)
+    15.00  Genoa CFC               v ACF Fiorentina           2-2 (1-1)
+           Bologna FC 1909         v SSC Napoli               2-0 (0-0)
+    18.00  AS Roma                 v Udinese Calcio           2-0 (1-0)
+    20.45  FC Internazionale Milano v SS Lazio                 2-0 (1-0)
 
 
 » Matchday 12
