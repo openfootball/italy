@@ -33,12 +33,13 @@ Juventus FC |Juventus Football Club | Juventus Torino, JUV
 -->
 
 ```
-1^ Giornata
+= Serie A 
 
-[24.8.]
+▪ Matchday 1
+Fri Aug 24
   Hellas Verona  2-1  AC Milan
   Sampdoria      0-1  Juventus
-[25.8.]
+Sat Aug 25
   Inter          2-0  Genoa CFC
   AS Livorno     0-2  AS Roma
   SSC Napoli     3-0  Bologna FC
@@ -94,4 +95,5 @@ That's it.
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
+
 
