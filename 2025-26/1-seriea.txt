@@ -185,256 +185,276 @@
 
 » Matchday 12
   Sat Nov/22
-    15.00  Cagliari Calcio         v Genoa CFC
-           Udinese Calcio          v Bologna FC 1909
-    18.00  ACF Fiorentina          v Juventus FC
-    20.45  SSC Napoli              v Atalanta BC
+    15.00  Cagliari Calcio         v Genoa CFC                3-3 (2-2)
+           Udinese Calcio          v Bologna FC 1909          0-3 (0-0)
+    18.00  ACF Fiorentina          v Juventus FC              1-1 (0-1)
+    20.45  SSC Napoli              v Atalanta BC              3-1 (3-0)
   Sun Nov/23
-    12.30  Hellas Verona FC        v Parma Calcio 1913
-    15.00  US Cremonese            v AS Roma
-    18.00  SS Lazio                v US Lecce
-    20.45  FC Internazionale Milano v AC Milan
+    12.30  Hellas Verona FC        v Parma Calcio 1913        1-2 (0-1)
+    15.00  US Cremonese            v AS Roma                  1-3 (0-1)
+    18.00  SS Lazio                v US Lecce                 2-0 (1-0)
+    20.45  FC Internazionale Milano v AC Milan                 0-1 (0-0)
   Mon Nov/24
-    18.30  Torino FC               v Como 1907
-    20.45  US Sassuolo Calcio      v AC Pisa 1909
+    18.30  Torino FC               v Como 1907                1-5 (1-1)
+    20.45  US Sassuolo Calcio      v AC Pisa 1909             2-2 (1-1)
 
 
 » Matchday 13
   Fri Nov/28
-    20.45  Como 1907               v US Sassuolo Calcio
+    20.45  Como 1907               v US Sassuolo Calcio       2-0 (1-0)
   Sat Nov/29
-    15.00  Genoa CFC               v Hellas Verona FC
-           Parma Calcio 1913       v Udinese Calcio
-    18.00  Juventus FC             v Cagliari Calcio
-    20.45  AC Milan                v SS Lazio
+    15.00  Genoa CFC               v Hellas Verona FC         2-1 (1-1)
+           Parma Calcio 1913       v Udinese Calcio           0-2 (0-1)
+    18.00  Juventus FC             v Cagliari Calcio          2-1 (2-1)
+    20.45  AC Milan                v SS Lazio                 1-0 (0-0)
   Sun Nov/30
-    12.30  US Lecce                v Torino FC
-    15.00  AC Pisa 1909            v FC Internazionale Milano
-    18.00  Atalanta BC             v ACF Fiorentina
-    20.45  AS Roma                 v SSC Napoli
+    12.30  US Lecce                v Torino FC                2-1 (2-0)
+    15.00  AC Pisa 1909            v FC Internazionale Milano  0-2 (0-0)
+    18.00  Atalanta BC             v ACF Fiorentina           2-0 (1-0)
+    20.45  AS Roma                 v SSC Napoli               0-1 (0-1)
   Mon Dec/1
-    20.45  Bologna FC 1909         v US Cremonese
+    20.45  Bologna FC 1909         v US Cremonese             1-3 (1-2)
 
 
 » Matchday 14
   Sat Dec/6
-    15.00  US Sassuolo Calcio      v ACF Fiorentina
-    18.00  FC Internazionale Milano v Como 1907
-    20.45  Hellas Verona FC        v Atalanta BC
+    15.00  US Sassuolo Calcio      v ACF Fiorentina           3-1 (2-1)
+    18.00  FC Internazionale Milano v Como 1907                4-0 (1-0)
+    20.45  Hellas Verona FC        v Atalanta BC              3-1 (2-0)
   Sun Dec/7
-    12.30  US Cremonese            v US Lecce
-    15.00  Cagliari Calcio         v AS Roma
-    18.00  SS Lazio                v Bologna FC 1909
-    20.45  SSC Napoli              v Juventus FC
+    12.30  US Cremonese            v US Lecce                 2-0 (0-0)
+    15.00  Cagliari Calcio         v AS Roma                  1-0 (0-0)
+    18.00  SS Lazio                v Bologna FC 1909          1-1 (1-1)
+    20.45  SSC Napoli              v Juventus FC              2-1 (1-0)
   Mon Dec/8
-    15.00  AC Pisa 1909            v Parma Calcio 1913
-    18.00  Udinese Calcio          v Genoa CFC
-    20.45  Torino FC               v AC Milan
+    15.00  AC Pisa 1909            v Parma Calcio 1913        0-1 (0-1)
+    18.00  Udinese Calcio          v Genoa CFC                1-2 (0-1)
+    20.45  Torino FC               v AC Milan                 2-3 (2-1)
 
 
 » Matchday 15
   Fri Dec/12
-    20.45  US Lecce                v AC Pisa 1909
+    20.45  US Lecce                v AC Pisa 1909             1-0 (0-0)
   Sat Dec/13
-    15.00  Torino FC               v US Cremonese
-    18.00  Parma Calcio 1913       v SS Lazio
-    20.45  Atalanta BC             v Cagliari Calcio
+    15.00  Torino FC               v US Cremonese             1-0 (1-0)
+    18.00  Parma Calcio 1913       v SS Lazio                 0-1 (0-0)
+    20.45  Atalanta BC             v Cagliari Calcio          2-1 (1-0)
   Sun Dec/14
-    12.30  AC Milan                v US Sassuolo Calcio
-    15.00  ACF Fiorentina          v Hellas Verona FC
-           Udinese Calcio          v SSC Napoli
-    18.00  Genoa CFC               v FC Internazionale Milano
-    20.45  Bologna FC 1909         v Juventus FC
+    12.30  AC Milan                v US Sassuolo Calcio       2-2 (1-1)
+    15.00  ACF Fiorentina          v Hellas Verona FC         1-2 (0-1)
+           Udinese Calcio          v SSC Napoli               1-0 (0-0)
+    18.00  Genoa CFC               v FC Internazionale Milano  1-2 (0-2)
+    20.45  Bologna FC 1909         v Juventus FC              0-1 (0-0)
   Mon Dec/15
-    20.45  AS Roma                 v Como 1907
+    20.45  AS Roma                 v Como 1907                1-0 (0-0)
 
 
 » Matchday 16
   Sat Dec/20
-    18.00  SS Lazio                v US Cremonese
-    20.45  Juventus FC             v AS Roma
+    18.00  SS Lazio                v US Cremonese             0-0
+    20.45  Juventus FC             v AS Roma                  2-1 (1-0)
   Sun Dec/21
-    12.30  Cagliari Calcio         v AC Pisa 1909
-    15.00  US Sassuolo Calcio      v Torino FC
-    18.00  ACF Fiorentina          v Udinese Calcio
-    20.45  Genoa CFC               v Atalanta BC
+    12.30  Cagliari Calcio         v AC Pisa 1909             2-2 (0-1)
+    15.00  US Sassuolo Calcio      v Torino FC                0-1 (0-0)
+    18.00  ACF Fiorentina          v Udinese Calcio           5-1 (3-0)
+    20.45  Genoa CFC               v Atalanta BC              0-1 (0-0)
 
 
 » Matchday 17
   Sat Dec/27
-    12.30  Parma Calcio 1913       v ACF Fiorentina
-    15.00  Torino FC               v Cagliari Calcio
-           US Lecce                v Como 1907
-    18.00  Udinese Calcio          v SS Lazio
-    20.45  AC Pisa 1909            v Juventus FC
+    12.30  Parma Calcio 1913       v ACF Fiorentina           1-0 (0-0)
+    15.00  Torino FC               v Cagliari Calcio          1-2 (1-1)
+           US Lecce                v Como 1907                0-3 (0-1)
+    18.00  Udinese Calcio          v SS Lazio                 1-1 (0-0)
+    20.45  AC Pisa 1909            v Juventus FC              0-2 (0-0)
   Sun Dec/28
-    12.30  AC Milan                v Hellas Verona FC
-    15.00  US Cremonese            v SSC Napoli
-    18.00  Bologna FC 1909         v US Sassuolo Calcio
-    20.45  Atalanta BC             v FC Internazionale Milano
+    12.30  AC Milan                v Hellas Verona FC         3-0 (1-0)
+    15.00  US Cremonese            v SSC Napoli               0-2 (0-2)
+    18.00  Bologna FC 1909         v US Sassuolo Calcio       1-1 (0-0)
+    20.45  Atalanta BC             v FC Internazionale Milano  0-1 (0-0)
   Mon Dec/29
-    20.45  AS Roma                 v Genoa CFC
+    20.45  AS Roma                 v Genoa CFC                3-1 (3-0)
 
 
 » Matchday 18
   Fri Jan/2 2026
-    20.45  Cagliari Calcio         v AC Milan
+    20.45  Cagliari Calcio         v AC Milan                 0-1 (0-0)
   Sat Jan/3
-    12.30  Como 1907               v Udinese Calcio
-    15.00  Genoa CFC               v AC Pisa 1909
-           US Sassuolo Calcio      v Parma Calcio 1913
-    18.00  Juventus FC             v US Lecce
-    20.45  Atalanta BC             v AS Roma
+    12.30  Como 1907               v Udinese Calcio           1-0 (1-0)
+    15.00  Genoa CFC               v AC Pisa 1909             1-1 (1-1)
+           US Sassuolo Calcio      v Parma Calcio 1913        1-1 (1-1)
+    18.00  Juventus FC             v US Lecce                 1-1 (0-1)
+    20.45  Atalanta BC             v AS Roma                  1-0 (1-0)
   Sun Jan/4
-    12.30  SS Lazio                v SSC Napoli
-    15.00  ACF Fiorentina          v US Cremonese
-    18.00  Hellas Verona FC        v Torino FC
-    20.45  FC Internazionale Milano v Bologna FC 1909
+    12.30  SS Lazio                v SSC Napoli               0-2 (0-2)
+    15.00  ACF Fiorentina          v US Cremonese             1-0 (0-0)
+    18.00  Hellas Verona FC        v Torino FC                0-3 (0-1)
+    20.45  FC Internazionale Milano v Bologna FC 1909          3-1 (1-0)
 
 
 » Matchday 19
   Tue Jan/6
-    15.00  AC Pisa 1909            v Como 1907
-    18.00  US Lecce                v AS Roma
-    20.45  US Sassuolo Calcio      v Juventus FC
+    15.00  AC Pisa 1909            v Como 1907                0-3 (0-0)
+    18.00  US Lecce                v AS Roma                  0-2 (0-1)
+    20.45  US Sassuolo Calcio      v Juventus FC              0-3 (0-1)
   Wed Jan/7
-    18.30  Bologna FC 1909         v Atalanta BC
-           SSC Napoli              v Hellas Verona FC
-    20.45  Torino FC               v Udinese Calcio
-           SS Lazio                v ACF Fiorentina
-           Parma Calcio 1913       v FC Internazionale Milano
+    18.30  Bologna FC 1909         v Atalanta BC              0-2 (0-1)
+           SSC Napoli              v Hellas Verona FC         2-2 (0-2)
+    20.45  Torino FC               v Udinese Calcio           1-2 (0-0)
+           SS Lazio                v ACF Fiorentina           2-2 (0-0)
+           Parma Calcio 1913       v FC Internazionale Milano  0-2 (0-1)
   Thu Jan/8
-    18.30  US Cremonese            v Cagliari Calcio
-    20.45  AC Milan                v Genoa CFC
+    18.30  US Cremonese            v Cagliari Calcio          2-2 (2-0)
+    20.45  AC Milan                v Genoa CFC                1-1 (0-1)
 
 
 » Matchday 20
   Sat Jan/10
-    15.00  Como 1907               v Bologna FC 1909
-           Udinese Calcio          v AC Pisa 1909
-    18.00  AS Roma                 v US Sassuolo Calcio
-    20.45  Atalanta BC             v Torino FC
+    15.00  Como 1907               v Bologna FC 1909          1-1 (0-0)
+           Udinese Calcio          v AC Pisa 1909             2-2 (2-1)
+    18.00  AS Roma                 v US Sassuolo Calcio       2-0 (0-0)
+    20.45  Atalanta BC             v Torino FC                2-0 (1-0)
   Sun Jan/11
-    12.30  US Lecce                v Parma Calcio 1913
-    15.00  ACF Fiorentina          v AC Milan
-    18.00  Hellas Verona FC        v SS Lazio
-    20.45  FC Internazionale Milano v SSC Napoli
+    12.30  US Lecce                v Parma Calcio 1913        1-2 (1-0)
+    15.00  ACF Fiorentina          v AC Milan                 1-1 (0-0)
+    18.00  Hellas Verona FC        v SS Lazio                 0-1 (0-0)
+    20.45  FC Internazionale Milano v SSC Napoli               2-2 (1-1)
   Mon Jan/12
-    18.30  Genoa CFC               v Cagliari Calcio
-    20.45  Juventus FC             v US Cremonese
+    18.30  Genoa CFC               v Cagliari Calcio          3-0 (1-0)
+    20.45  Juventus FC             v US Cremonese             5-0 (3-0)
 
 
 » Matchday 16
   Wed Jan/14
-    18.30  SSC Napoli              v Parma Calcio 1913
-    20.45  FC Internazionale Milano v US Lecce
+    18.30  SSC Napoli              v Parma Calcio 1913        0-0
+    20.45  FC Internazionale Milano v US Lecce                 1-0 (0-0)
   Thu Jan/15
-    18.30  Hellas Verona FC        v Bologna FC 1909
-    20.45  Como 1907               v AC Milan
+    18.30  Hellas Verona FC        v Bologna FC 1909          2-3 (1-3)
+    20.45  Como 1907               v AC Milan                 1-3 (1-1)
 
 
 » Matchday 21
   Fri Jan/16
-    20.45  AC Pisa 1909            v Atalanta BC
+    20.45  AC Pisa 1909            v Atalanta BC              1-1 (0-0)
   Sat Jan/17
-    15.00  Udinese Calcio          v FC Internazionale Milano
-    18.00  SSC Napoli              v US Sassuolo Calcio
-    20.45  Cagliari Calcio         v Juventus FC
+    15.00  Udinese Calcio          v FC Internazionale Milano  0-1 (0-1)
+    18.00  SSC Napoli              v US Sassuolo Calcio       1-0 (1-0)
+    20.45  Cagliari Calcio         v Juventus FC              1-0 (0-0)
   Sun Jan/18
-    12.30  Parma Calcio 1913       v Genoa CFC
-    15.00  Bologna FC 1909         v ACF Fiorentina
-    18.00  Torino FC               v AS Roma
-    20.45  AC Milan                v US Lecce
+    12.30  Parma Calcio 1913       v Genoa CFC                0-0
+    15.00  Bologna FC 1909         v ACF Fiorentina           1-2 (0-2)
+    18.00  Torino FC               v AS Roma                  0-2 (0-1)
+    20.45  AC Milan                v US Lecce                 1-0 (0-0)
   Mon Jan/19
-    18.30  US Cremonese            v Hellas Verona FC
-    20.45  SS Lazio                v Como 1907
+    18.30  US Cremonese            v Hellas Verona FC         0-0
+    20.45  SS Lazio                v Como 1907                0-3 (0-2)
 
 
 » Matchday 22
   Fri Jan/23
-    20.45  FC Internazionale Milano v AC Pisa 1909
+    20.45  FC Internazionale Milano v AC Pisa 1909             6-2 (3-2)
   Sat Jan/24
-    15.00  Como 1907               v Torino FC
-    18.00  ACF Fiorentina          v Cagliari Calcio
-    20.45  US Lecce                v SS Lazio
+    15.00  Como 1907               v Torino FC                6-0 (2-0)
+    18.00  ACF Fiorentina          v Cagliari Calcio          1-2 (0-1)
+    20.45  US Lecce                v SS Lazio                 0-0
   Sun Jan/25
-    12.30  US Sassuolo Calcio      v US Cremonese
-    15.00  Atalanta BC             v Parma Calcio 1913
-           Genoa CFC               v Bologna FC 1909
-    18.00  Juventus FC             v SSC Napoli
-    20.45  AS Roma                 v AC Milan
+    12.30  US Sassuolo Calcio      v US Cremonese             1-0 (1-0)
+    15.00  Atalanta BC             v Parma Calcio 1913        4-0 (2-0)
+           Genoa CFC               v Bologna FC 1909          3-2 (0-1)
+    18.00  Juventus FC             v SSC Napoli               3-0 (1-0)
+    20.45  AS Roma                 v AC Milan                 1-1 (0-0)
   Mon Jan/26
-    20.45  Hellas Verona FC        v Udinese Calcio
+    20.45  Hellas Verona FC        v Udinese Calcio           1-3 (1-1)
 
 
 » Matchday 23
+  Fri Jan/30
+    20.45  SS Lazio                v Genoa CFC                3-2 (0-0)
+  Sat Jan/31
+    15.00  AC Pisa 1909            v US Sassuolo Calcio       1-3 (0-2)
+    18.00  SSC Napoli              v ACF Fiorentina           2-1 (1-0)
+    20.45  Cagliari Calcio         v Hellas Verona FC         4-0 (2-0)
   Sun Feb/1
-           Cagliari Calcio         v Hellas Verona FC
-           Como 1907               v Atalanta BC
-           Bologna FC 1909         v AC Milan
-           Torino FC               v US Lecce
-           SS Lazio                v Genoa CFC
-           Parma Calcio 1913       v Juventus FC
-           AC Pisa 1909            v US Sassuolo Calcio
-           SSC Napoli              v ACF Fiorentina
-           Udinese Calcio          v AS Roma
-           US Cremonese            v FC Internazionale Milano
+    12.30  Torino FC               v US Lecce                 1-0 (1-0)
+    15.00  Como 1907               v Atalanta BC              0-0
+    18.00  US Cremonese            v FC Internazionale Milano  0-2 (0-2)
+    20.45  Parma Calcio 1913       v Juventus FC              1-4 (0-2)
+  Mon Feb/2
+    20.45  Udinese Calcio          v AS Roma                  1-0 (0-0)
+  Tue Feb/3
+    20.45  Bologna FC 1909         v AC Milan                 0-3 (0-2)
 
 
 » Matchday 24
+  Fri Feb/6
+    20.45  Hellas Verona FC        v AC Pisa 1909             0-0
+  Sat Feb/7
+    18.00  Genoa CFC               v SSC Napoli               2-3 (1-2)
+    20.45  ACF Fiorentina          v Torino FC                2-2 (0-1)
   Sun Feb/8
-           ACF Fiorentina          v Torino FC
-           AC Milan                v Como 1907
-           AS Roma                 v Cagliari Calcio
-           Atalanta BC             v US Cremonese
-           Genoa CFC               v SSC Napoli
-           Bologna FC 1909         v Parma Calcio 1913
-           Hellas Verona FC        v AC Pisa 1909
-           Juventus FC             v SS Lazio
-           US Sassuolo Calcio      v FC Internazionale Milano
-           US Lecce                v Udinese Calcio
+    12.30  Bologna FC 1909         v Parma Calcio 1913        0-1 (0-0)
+    15.00  US Lecce                v Udinese Calcio           2-1 (1-1)
+    18.00  US Sassuolo Calcio      v FC Internazionale Milano  0-5 (0-2)
+    20.45  Juventus FC             v SS Lazio                 2-2 (0-1)
+  Mon Feb/9
+    18.30  Atalanta BC             v US Cremonese             2-1 (2-0)
+    20.45  AS Roma                 v Cagliari Calcio          2-0 (1-0)
 
 
 » Matchday 25
+  Fri Feb/13
+    20.45  AC Pisa 1909            v AC Milan                 1-2 (0-1)
+  Sat Feb/14
+    15.00  Como 1907               v ACF Fiorentina           1-2 (0-1)
+    18.00  SS Lazio                v Atalanta BC              0-2 (0-1)
+    20.45  FC Internazionale Milano v Juventus FC              3-2 (1-1)
   Sun Feb/15
-           Cagliari Calcio         v US Lecce
-           Como 1907               v ACF Fiorentina
-           Torino FC               v Bologna FC 1909
-           FC Internazionale Milano v Juventus FC
-           SS Lazio                v Atalanta BC
-           Parma Calcio 1913       v Hellas Verona FC
-           AC Pisa 1909            v AC Milan
-           SSC Napoli              v AS Roma
-           Udinese Calcio          v US Sassuolo Calcio
-           US Cremonese            v Genoa CFC
+    12.30  Udinese Calcio          v US Sassuolo Calcio       1-2 (1-0)
+    15.00  Parma Calcio 1913       v Hellas Verona FC         2-1 (1-1)
+           US Cremonese            v Genoa CFC                0-0
+    18.00  Torino FC               v Bologna FC 1909          1-2 (0-0)
+    20.45  SSC Napoli              v AS Roma                  2-2 (1-1)
+  Mon Feb/16
+    20.45  Cagliari Calcio         v US Lecce                 0-2 (0-0)
+
+
+» Matchday 24
+  Wed Feb/18
+    20.45  AC Milan                v Como 1907
 
 
 » Matchday 26
+  Fri Feb/20
+    20.45  US Sassuolo Calcio      v Hellas Verona FC
+  Sat Feb/21
+    15.00  Juventus FC             v Como 1907
+    18.00  US Lecce                v FC Internazionale Milano
+    20.45  Cagliari Calcio         v SS Lazio
   Sun Feb/22
-           ACF Fiorentina          v AC Pisa 1909
-           AC Milan                v Parma Calcio 1913
-           AS Roma                 v US Cremonese
-           Atalanta BC             v SSC Napoli
-           Cagliari Calcio         v SS Lazio
-           Genoa CFC               v Torino FC
-           Bologna FC 1909         v Udinese Calcio
-           Juventus FC             v Como 1907
-           US Sassuolo Calcio      v Hellas Verona FC
-           US Lecce                v FC Internazionale Milano
+    12.30  Genoa CFC               v Torino FC
+    15.00  Atalanta BC             v SSC Napoli
+    18.00  AC Milan                v Parma Calcio 1913
+    20.45  AS Roma                 v US Cremonese
+  Mon Feb/23
+    18.30  ACF Fiorentina          v AC Pisa 1909
+    20.45  Bologna FC 1909         v Udinese Calcio
 
 
 » Matchday 27
+  Fri Feb/27
+    20.45  Parma Calcio 1913       v Cagliari Calcio
+  Sat Feb/28
+    15.00  Como 1907               v US Lecce
+    18.00  Hellas Verona FC        v SSC Napoli
+    20.45  FC Internazionale Milano v Genoa CFC
   Sun Mar/1
-           AS Roma                 v Juventus FC
-           Como 1907               v US Lecce
-           Torino FC               v SS Lazio
-           Hellas Verona FC        v SSC Napoli
-           FC Internazionale Milano v Genoa CFC
-           Parma Calcio 1913       v Cagliari Calcio
-           AC Pisa 1909            v Bologna FC 1909
-           US Sassuolo Calcio      v Atalanta BC
-           Udinese Calcio          v ACF Fiorentina
-           US Cremonese            v AC Milan
+    12.30  US Cremonese            v AC Milan
+    15.00  US Sassuolo Calcio      v Atalanta BC
+    18.00  Torino FC               v SS Lazio
+    20.45  AS Roma                 v Juventus FC
+  Mon Mar/2
+    18.30  AC Pisa 1909            v Bologna FC 1909
+    20.45  Udinese Calcio          v ACF Fiorentina
 
 
 » Matchday 28
