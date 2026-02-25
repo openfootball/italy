@@ -420,24 +420,24 @@
 
 » Matchday 24
   Wed Feb/18
-    20.45  AC Milan                v Como 1907
+    20.45  AC Milan                v Como 1907                1-1 (0-1)
 
 
 » Matchday 26
   Fri Feb/20
-    20.45  US Sassuolo Calcio      v Hellas Verona FC
+    20.45  US Sassuolo Calcio      v Hellas Verona FC         3-0 (2-0)
   Sat Feb/21
-    15.00  Juventus FC             v Como 1907
-    18.00  US Lecce                v FC Internazionale Milano
-    20.45  Cagliari Calcio         v SS Lazio
+    15.00  Juventus FC             v Como 1907                0-2 (0-1)
+    18.00  US Lecce                v FC Internazionale Milano  0-2 (0-0)
+    20.45  Cagliari Calcio         v SS Lazio                 0-0
   Sun Feb/22
-    12.30  Genoa CFC               v Torino FC
-    15.00  Atalanta BC             v SSC Napoli
-    18.00  AC Milan                v Parma Calcio 1913
-    20.45  AS Roma                 v US Cremonese
+    12.30  Genoa CFC               v Torino FC                3-0 (2-0)
+    15.00  Atalanta BC             v SSC Napoli               2-1 (0-1)
+    18.00  AC Milan                v Parma Calcio 1913        0-1 (0-0)
+    20.45  AS Roma                 v US Cremonese             3-0 (0-0)
   Mon Feb/23
-    18.30  ACF Fiorentina          v AC Pisa 1909
-    20.45  Bologna FC 1909         v Udinese Calcio
+    18.30  ACF Fiorentina          v AC Pisa 1909             1-0 (1-0)
+    20.45  Bologna FC 1909         v Udinese Calcio           1-0 (0-0)
 
 
 » Matchday 27
