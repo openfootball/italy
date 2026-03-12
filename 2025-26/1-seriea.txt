@@ -459,19 +459,19 @@
 
 » Matchday 28
   Fri Mar/6
-    20.45  SSC Napoli              v Torino FC
+    20.45  SSC Napoli              v Torino FC                2-1 (1-0)
   Sat Mar/7
-    15.00  Cagliari Calcio         v Como 1907
-    18.00  Atalanta BC             v Udinese Calcio
-    20.45  Juventus FC             v AC Pisa 1909
+    15.00  Cagliari Calcio         v Como 1907                1-2 (0-1)
+    18.00  Atalanta BC             v Udinese Calcio           2-2 (0-1)
+    20.45  Juventus FC             v AC Pisa 1909             4-0 (0-0)
   Sun Mar/8
-    12.30  US Lecce                v US Cremonese
-    15.00  Bologna FC 1909         v Hellas Verona FC
-           ACF Fiorentina          v Parma Calcio 1913
-    18.00  Genoa CFC               v AS Roma
-    20.45  AC Milan                v FC Internazionale Milano
+    12.30  US Lecce                v US Cremonese             2-1 (2-0)
+    15.00  Bologna FC 1909         v Hellas Verona FC         1-2 (0-0)
+           ACF Fiorentina          v Parma Calcio 1913        0-0
+    18.00  Genoa CFC               v AS Roma                  2-1 (0-0)
+    20.45  AC Milan                v FC Internazionale Milano  1-0 (1-0)
   Mon Mar/9
-    20.45  SS Lazio                v US Sassuolo Calcio
+    20.45  SS Lazio                v US Sassuolo Calcio       2-1 (1-1)
 
 
 » Matchday 29
@@ -509,16 +509,18 @@
 
 » Matchday 31
   Sat Apr/4
-           Hellas Verona FC        v ACF Fiorentina
-           FC Internazionale Milano v AS Roma
-           Juventus FC             v Genoa CFC
-           SS Lazio                v Parma Calcio 1913
-           AC Pisa 1909            v Torino FC
-           US Sassuolo Calcio      v Cagliari Calcio
-           SSC Napoli              v AC Milan
-           Udinese Calcio          v Como 1907
-           US Cremonese            v Bologna FC 1909
+    15.00  US Sassuolo Calcio      v Cagliari Calcio
            US Lecce                v Atalanta BC
+    18.00  Hellas Verona FC        v ACF Fiorentina
+    20.45  SS Lazio                v Parma Calcio 1913
+  Sun Apr/5
+    15.00  US Cremonese            v Bologna FC 1909
+    18.00  AC Pisa 1909            v Torino FC
+    20.45  FC Internazionale Milano v AS Roma
+  Mon Apr/6
+    15.00  Udinese Calcio          v Como 1907
+    18.00  Juventus FC             v Genoa CFC
+    20.45  SSC Napoli              v AC Milan
 
 
 » Matchday 32
