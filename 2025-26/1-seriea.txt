@@ -509,18 +509,18 @@
 
 » Matchday 31
   Sat Apr/4
-    15.00  US Sassuolo Calcio      v Cagliari Calcio
-    18.00  Hellas Verona FC        v ACF Fiorentina
-    20.45  SS Lazio                v Parma Calcio 1913
+    15.00  US Sassuolo Calcio      v Cagliari Calcio          2-1 (0-1)
+    18.00  Hellas Verona FC        v ACF Fiorentina           0-1 (0-0)
+    20.45  SS Lazio                v Parma Calcio 1913        1-1 (0-1)
   Sun Apr/5
-    15.00  US Cremonese            v Bologna FC 1909
-    18.00  AC Pisa 1909            v Torino FC
-    20.45  FC Internazionale Milano v AS Roma
+    15.00  US Cremonese            v Bologna FC 1909          1-2 (0-2)
+    18.00  AC Pisa 1909            v Torino FC                0-1 (0-0)
+    20.45  FC Internazionale Milano v AS Roma                  5-2 (2-1)
   Mon Apr/6
-    12.30  Udinese Calcio          v Como 1907
-    15.00  US Lecce                v Atalanta BC
-    18.00  Juventus FC             v Genoa CFC
-    20.45  SSC Napoli              v AC Milan
+    12.30  Udinese Calcio          v Como 1907                0-0
+    15.00  US Lecce                v Atalanta BC              0-3 (0-1)
+    18.00  Juventus FC             v Genoa CFC                2-0 (2-0)
+    20.45  SSC Napoli              v AC Milan                 1-0 (0-0)
 
 
 » Matchday 32
