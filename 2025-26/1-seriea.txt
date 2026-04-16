@@ -525,19 +525,19 @@
 
 » Matchday 32
   Fri Apr/10
-    20.45  AS Roma                 v AC Pisa 1909
+    20.45  AS Roma                 v AC Pisa 1909             3-0 (2-0)
   Sat Apr/11
-    15.00  Cagliari Calcio         v US Cremonese
-           Torino FC               v Hellas Verona FC
-    18.00  AC Milan                v Udinese Calcio
-    20.45  Atalanta BC             v Juventus FC
+    15.00  Cagliari Calcio         v US Cremonese             1-0 (0-0)
+           Torino FC               v Hellas Verona FC         2-1 (1-1)
+    18.00  AC Milan                v Udinese Calcio           0-3 (0-2)
+    20.45  Atalanta BC             v Juventus FC              0-1 (0-0)
   Sun Apr/12
-    12.30  Genoa CFC               v US Sassuolo Calcio
-    15.00  Parma Calcio 1913       v SSC Napoli
-    18.00  Bologna FC 1909         v US Lecce
-    20.45  Como 1907               v FC Internazionale Milano
+    12.30  Genoa CFC               v US Sassuolo Calcio       2-1 (1-0)
+    15.00  Parma Calcio 1913       v SSC Napoli               1-1 (1-0)
+    18.00  Bologna FC 1909         v US Lecce                 2-0 (1-0)
+    20.45  Como 1907               v FC Internazionale Milano  3-4 (2-1)
   Mon Apr/13
-    20.45  ACF Fiorentina          v SS Lazio
+    20.45  ACF Fiorentina          v SS Lazio                 1-0 (1-0)
 
 
 » Matchday 33
