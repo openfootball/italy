@@ -559,19 +559,19 @@
 
 » Matchday 34
   Fri Apr/24
-    20.45  SSC Napoli              v US Cremonese
+    20.45  SSC Napoli              v US Cremonese             4-0 (3-0)
   Sat Apr/25
-    15.00  Parma Calcio 1913       v AC Pisa 1909
-    18.00  Bologna FC 1909         v AS Roma
-    20.45  Hellas Verona FC        v US Lecce
+    15.00  Parma Calcio 1913       v AC Pisa 1909             1-0 (0-0)
+    18.00  Bologna FC 1909         v AS Roma                  0-2 (0-2)
+    20.45  Hellas Verona FC        v US Lecce                 1-0 (0-0)
   Sun Apr/26
-    12.30  ACF Fiorentina          v US Sassuolo Calcio
-    15.00  Genoa CFC               v Como 1907
-    18.00  Torino FC               v FC Internazionale Milano
-    20.45  AC Milan                v Juventus FC
+    12.30  ACF Fiorentina          v US Sassuolo Calcio       0-0
+    15.00  Genoa CFC               v Como 1907                0-2 (0-1)
+    18.00  Torino FC               v FC Internazionale Milano  2-2 (0-1)
+    20.45  AC Milan                v Juventus FC              0-0
   Mon Apr/27
-    18.30  Cagliari Calcio         v Atalanta BC
-    20.45  SS Lazio                v Udinese Calcio
+    18.30  Cagliari Calcio         v Atalanta BC              3-2 (2-2)
+    20.45  SS Lazio                v Udinese Calcio           3-3 (0-1)
 
 
 » Matchday 35
@@ -592,17 +592,20 @@
 
 
 » Matchday 36
+  Fri May/8
+    20.45  Torino FC               v US Sassuolo Calcio
+  Sat May/9
+    15.00  Cagliari Calcio         v Udinese Calcio
+    18.00  SS Lazio                v FC Internazionale Milano
+    20.45  US Lecce                v Juventus FC
   Sun May/10
-           ACF Fiorentina          v Genoa CFC
-           AC Milan                v Atalanta BC
-           Cagliari Calcio         v Udinese Calcio
-           Torino FC               v US Sassuolo Calcio
-           Hellas Verona FC        v Como 1907
-           SS Lazio                v FC Internazionale Milano
-           Parma Calcio 1913       v AS Roma
-           SSC Napoli              v Bologna FC 1909
+    12.30  Hellas Verona FC        v Como 1907
+    15.00  ACF Fiorentina          v Genoa CFC
            US Cremonese            v AC Pisa 1909
-           US Lecce                v Juventus FC
+    18.00  Parma Calcio 1913       v AS Roma
+    20.45  AC Milan                v Atalanta BC
+  Mon May/11
+    20.45  SSC Napoli              v Bologna FC 1909
 
 
 » Matchday 37
