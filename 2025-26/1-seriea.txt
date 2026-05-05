@@ -549,7 +549,7 @@
     18.00  SSC Napoli              v SS Lazio                 0-2 (0-1)
     20.45  AS Roma                 v Atalanta BC              1-1 (1-1)
   Sun Apr/19
-    12.30  US Cremonese            v Torino FC                0-0
+    12.30  US Cremonese            v Torino FC                1-0 (0-0)
     15.00  Hellas Verona FC        v AC Milan                 0-1 (0-1)
     18.00  AC Pisa 1909            v Genoa CFC                1-2 (1-1)
     20.45  Juventus FC             v Bologna FC 1909          2-0 (1-0)
@@ -576,19 +576,19 @@
 
 » Matchday 35
   Fri May/1
-    20.45  AC Pisa 1909            v US Lecce
+    20.45  AC Pisa 1909            v US Lecce                 1-2 (0-0)
   Sat May/2
-    15.00  Udinese Calcio          v Torino FC
-    18.00  Como 1907               v SSC Napoli
-    20.45  Atalanta BC             v Genoa CFC
+    15.00  Udinese Calcio          v Torino FC                2-0 (1-0)
+    18.00  Como 1907               v SSC Napoli               0-0
+    20.45  Atalanta BC             v Genoa CFC                0-0
   Sun May/3
-    12.30  Bologna FC 1909         v Cagliari Calcio
-    15.00  US Sassuolo Calcio      v AC Milan
-    18.00  Juventus FC             v Hellas Verona FC
-    20.45  FC Internazionale Milano v Parma Calcio 1913
+    12.30  Bologna FC 1909         v Cagliari Calcio          0-0
+    15.00  US Sassuolo Calcio      v AC Milan                 2-0 (1-0)
+    18.00  Juventus FC             v Hellas Verona FC         1-1 (0-1)
+    20.45  FC Internazionale Milano v Parma Calcio 1913        2-0 (1-0)
   Mon May/4
-    18.30  US Cremonese            v SS Lazio
-    20.45  AS Roma                 v ACF Fiorentina
+    18.30  US Cremonese            v SS Lazio                 1-2 (1-0)
+    20.45  AS Roma                 v ACF Fiorentina           4-0 (3-0)
 
 
 » Matchday 36
