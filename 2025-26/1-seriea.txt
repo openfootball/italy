@@ -623,14 +623,16 @@
 
 
 » Matchday 38
+  Fri May/22
+    20.45  ACF Fiorentina          v Atalanta BC
+  Sat May/23
+    18.00  Bologna FC 1909         v FC Internazionale Milano
+    20.45  SS Lazio                v AC Pisa 1909
   Sun May/24
-    15.00  ACF Fiorentina          v Atalanta BC
-           AC Milan                v Cagliari Calcio
-           Bologna FC 1909         v FC Internazionale Milano
+    15.00  Parma Calcio 1913       v US Sassuolo Calcio
+    18.00  SSC Napoli              v Udinese Calcio
+    20.45  AC Milan                v Cagliari Calcio
            Torino FC               v Juventus FC
            Hellas Verona FC        v AS Roma
-           SS Lazio                v AC Pisa 1909
-           Parma Calcio 1913       v US Sassuolo Calcio
-           SSC Napoli              v Udinese Calcio
            US Cremonese            v Como 1907
            US Lecce                v Genoa CFC
