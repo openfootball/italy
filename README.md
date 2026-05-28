@@ -4,8 +4,9 @@
 
 A free open public domain football database & schema
 for use in any (programming) language
-(e.g. uses datasets in plain text).
+ using datasets in the Football.TXT format.
 More [`football.db` Project Site »](http://openfootball.github.io)
+
 
 
 ## Intro
@@ -33,7 +34,7 @@ Juventus FC |Juventus Football Club | Juventus Torino, JUV
 -->
 
 ```
-= Serie A 
+= Serie A
 
 ▪ Matchday 1
 Fri Aug 24
@@ -47,8 +48,15 @@ Sat Aug 25
 ```
 
 
-## Build Your Own `italy.db` Copy
+## Build Your Own `italy.db` Database or `italy.json/.csv` Datasets
 
+
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
+
+
+
+<!--
 Use the `sportdb` command line tool to build your own `italy.db` copy
 from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
 
@@ -87,7 +95,7 @@ This will
 - read in all datasets in plain text (`.txt`)
 
 That's it.
-
+-->
 
 
 
@@ -95,5 +103,3 @@ That's it.
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
-
-

@@ -1,6 +1,6 @@
 = Italian Serie B 2020/21
 
-# Date       Fri Sep/25 2020 - Thu May/27 2021 (244d)
+# Date       Fri Sep 25 2020 - Thu May 27 2021 (244d)
 # Teams      20
 # Matches    388
 # Stages     Regular Season (380)  Aufstieg (8)
@@ -8,54 +8,54 @@
 
 # Regular Season
 
-Matchday 1
-[Fri Sep/25]
-  16.45  AC Monza                 0-0  SPAL 2013 Ferrara
-[Sat Sep/26]
-  14.00  Brescia Calcio           1-1 (1-1)  Ascoli Calcio
+▪ Matchday 1
+Fri Sep 25
+  16:45  AC Monza                 0-0  SPAL 2013 Ferrara
+Sat Sep 26
+  14:00  Brescia Calcio           1-1 (1-1)  Ascoli Calcio
          Cosenza Calcio           0-0  Virtus Entella
          Delfino Pescara          0-0  Chievo Verona
          Frosinone Calcio         0-2 (0-1)  Empoli FC
          US Lecce                 0-0  Pordenone Calcio
          US Salernitana 1919      1-1 (0-0)  Reggina 1914
-  16.00  Venezia FC               1-0 (1-0)  L.R. Vicenza Virtus
-[Sun Sep/27]
-  21.00  AC Reggiana 1919         2-2 (1-2)  AC Pisa
-  15.00  US Cremonese             0-2 (0-1)  AS Cittadella
+  16:00  Venezia FC               1-0 (1-0)  L.R. Vicenza Virtus
+Sun Sep 27
+  21:00  AC Reggiana 1919         2-2 (1-2)  AC Pisa
+  15:00  US Cremonese             0-2 (0-1)  AS Cittadella
 
 
-Matchday 2
-[Sat Oct/3]
-  14.15  Chievo Verona            1-2 (1-1)  US Salernitana 1919
-  16.15  Ascoli Calcio            0-2 (0-0)  US Lecce
+▪ Matchday 2
+Sat Oct 3
+  14:15  Chievo Verona            1-2 (1-1)  US Salernitana 1919
+  16:15  Ascoli Calcio            0-2 (0-0)  US Lecce
          Empoli FC                0-0  AC Monza
          Venezia FC               0-2 (0-0)  Frosinone Calcio
          Reggina 1914             3-1 (3-0)  Delfino Pescara
          SPAL 2013 Ferrara        1-1 (0-0)  Cosenza Calcio
          Virtus Entella           0-2 (0-1)  AC Reggiana 1919
-  18.15  L.R. Vicenza Virtus      1-1 (0-0)  Pordenone Calcio
-[Sun Oct/4]
-  21.00  AS Cittadella            3-0 (0-0)  Brescia Calcio
-  15.00  AC Pisa                  1-1 (1-1)  US Cremonese
+  18:15  L.R. Vicenza Virtus      1-1 (0-0)  Pordenone Calcio
+Sun Oct 4
+  21:00  AS Cittadella            3-0 (0-0)  Brescia Calcio
+  15:00  AC Pisa                  1-1 (1-1)  US Cremonese
 
 
-Matchday 3
-[Fri Oct/16]
-  21.00  Brescia Calcio           3-0 (1-0)  US Lecce
-[Sat Oct/17]
-  14.00  Pordenone Calcio         3-3 (2-1)  SPAL 2013 Ferrara
+▪ Matchday 3
+Fri Oct 16
+  21:00  Brescia Calcio           3-0 (1-0)  US Lecce
+Sat Oct 17
+  14:00  Pordenone Calcio         3-3 (2-1)  SPAL 2013 Ferrara
          AC Reggiana 1919         0-1 (0-1)  Chievo Verona
          US Cremonese             0-0  Venezia FC
          US Salernitana 1919      4-1 (1-0)  AC Pisa
-  15.00  Virtus Entella           1-1 (0-0)  Reggina 1914
-  16.00  Delfino Pescara          1-2 (1-1)  Empoli FC
-  18.00  Frosinone Calcio         1-0 (0-0)  Ascoli Calcio
-  14.00  Cosenza Calcio           1-1 (1-1)  AS Cittadella
+  15:00  Virtus Entella           1-1 (0-0)  Reggina 1914
+  16:00  Delfino Pescara          1-2 (1-1)  Empoli FC
+  18:00  Frosinone Calcio         1-0 (0-0)  Ascoli Calcio
+  14:00  Cosenza Calcio           1-1 (1-1)  AS Cittadella
 
 
-Matchday 4
-[Tue Oct/20]
-  21.00  Reggina 1914             0-0  Cosenza Calcio
+▪ Matchday 4
+Tue Oct 20
+  21:00  Reggina 1914             0-0  Cosenza Calcio
          AC Pisa                  1-1 (0-0)  AC Monza
          AS Cittadella            2-0 (1-0)  Pordenone Calcio
          Ascoli Calcio            2-1 (2-0)  AC Reggiana 1919
@@ -64,147 +64,147 @@ Matchday 4
          Venezia FC               4-0 (1-0)  Delfino Pescara
          Frosinone Calcio         0-0  Virtus Entella
          L.R. Vicenza Virtus      1-1 (1-1)  US Salernitana 1919
-[Wed Oct/21]
-  19.00  US Lecce                 2-2 (0-2)  US Cremonese
+Wed Oct 21
+  19:00  US Lecce                 2-2 (0-2)  US Cremonese
 
 
-Matchday 5
-[Fri Oct/23]
-  21.00  Empoli FC                3-1 (1-1)  AC Pisa
-[Sat Oct/24]
-  16.00  Delfino Pescara          0-2 (0-1)  Frosinone Calcio
-  14.00  Pordenone Calcio         2-2 (0-1)  Reggina 1914
+▪ Matchday 5
+Fri Oct 23
+  21:00  Empoli FC                3-1 (1-1)  AC Pisa
+Sat Oct 24
+  16:00  Delfino Pescara          0-2 (0-1)  Frosinone Calcio
+  14:00  Pordenone Calcio         2-2 (0-1)  Reggina 1914
          SPAL 2013 Ferrara        3-2 (1-1)  L.R. Vicenza Virtus
          AC Monza                 1-2 (1-0)  Chievo Verona
          US Salernitana 1919      1-0 (0-0)  Ascoli Calcio
-[Sun Oct/25]
-  16.00  Cosenza Calcio           1-1 (0-1)  US Lecce
+Sun Oct 25
+  16:00  Cosenza Calcio           1-1 (0-1)  US Lecce
 
 
-Matchday 6
-[Sat Oct/31]
-  16.00  L.R. Vicenza Virtus      4-4 (2-2)  AC Pisa
+▪ Matchday 6
+Sat Oct 31
+  16:00  L.R. Vicenza Virtus      4-4 (2-2)  AC Pisa
          Chievo Verona            2-0 (1-0)  Cosenza Calcio
          Brescia Calcio           2-2 (0-0)  Virtus Entella
          Ascoli Calcio            0-1 (0-1)  Pordenone Calcio
   US Salernitana 1919      3-0  AC Reggiana 1919         [awarded]
-  14.00  AS Cittadella            1-2 (1-2)  AC Monza
-[Sun Nov/1]
-  15.00  Reggina 1914             0-1 (0-1)  SPAL 2013 Ferrara
-  21.00  Frosinone Calcio         1-0 (1-0)  US Cremonese
-  14.00  Venezia FC               2-0 (1-0)  Empoli FC
-[Mon Nov/2]
-  21.00  US Lecce                 3-1 (1-0)  Delfino Pescara
+  14:00  AS Cittadella            1-2 (1-2)  AC Monza
+Sun Nov 1
+  15:00  Reggina 1914             0-1 (0-1)  SPAL 2013 Ferrara
+  21:00  Frosinone Calcio         1-0 (1-0)  US Cremonese
+  14:00  Venezia FC               2-0 (1-0)  Empoli FC
+Mon Nov 2
+  21:00  US Lecce                 3-1 (1-0)  Delfino Pescara
 
 
-Matchday 7
-[Fri Nov/6]
-  21.00  SPAL 2013 Ferrara        2-0 (2-0)  US Salernitana 1919
-[Sat Nov/7]
-  14.00  AC Monza                 2-0 (0-0)  Frosinone Calcio
+▪ Matchday 7
+Fri Nov 6
+  21:00  SPAL 2013 Ferrara        2-0 (2-0)  US Salernitana 1919
+Sat Nov 7
+  14:00  AC Monza                 2-0 (0-0)  Frosinone Calcio
          Pordenone Calcio         1-1 (0-0)  Chievo Verona
          Cosenza Calcio           1-2 (0-1)  Brescia Calcio
-  19.00  US Cremonese             0-1 (0-0)  L.R. Vicenza Virtus
-  16.00  Empoli FC                3-0 (0-0)  Reggina 1914
-[Sun Nov/8]
-  17.00  AC Reggiana 1919         2-1 (1-1)  Venezia FC
-  15.00  Delfino Pescara          3-1 (3-0)  AS Cittadella
-  21.00  Virtus Entella           1-5 (0-1)  US Lecce
+  19:00  US Cremonese             0-1 (0-0)  L.R. Vicenza Virtus
+  16:00  Empoli FC                3-0 (0-0)  Reggina 1914
+Sun Nov 8
+  17:00  AC Reggiana 1919         2-1 (1-1)  Venezia FC
+  15:00  Delfino Pescara          3-1 (3-0)  AS Cittadella
+  21:00  Virtus Entella           1-5 (0-1)  US Lecce
 
 
-Matchday 5
-[Sat Nov/14]
-  15.00  Virtus Entella           0-2 (0-0)  Venezia FC
+▪ Matchday 5
+Sat Nov 14
+  15:00  Virtus Entella           0-2 (0-0)  Venezia FC
 
 
-Matchday 8
-[Fri Nov/20]
-  21.00  Frosinone Calcio         0-2 (0-0)  Cosenza Calcio
-[Sat Nov/21]
-  14.00  Pordenone Calcio         1-1 (1-0)  AC Monza
+▪ Matchday 8
+Fri Nov 20
+  21:00  Frosinone Calcio         0-2 (0-0)  Cosenza Calcio
+Sat Nov 21
+  14:00  Pordenone Calcio         1-1 (1-0)  AC Monza
          Brescia Calcio           2-2 (1-1)  Venezia FC
          SPAL 2013 Ferrara        2-0 (1-0)  Delfino Pescara
          US Lecce                 7-1 (3-0)  AC Reggiana 1919
          AS Cittadella            2-2 (1-0)  Empoli FC
-[Sun Nov/22]
-  21.00  Reggina 1914             1-2 (1-0)  AC Pisa
-  15.00  Ascoli Calcio            1-1 (0-0)  Virtus Entella
-[Mon Nov/23]
-  21.00  US Salernitana 1919      2-1 (1-1)  US Cremonese
+Sun Nov 22
+  21:00  Reggina 1914             1-2 (1-0)  AC Pisa
+  15:00  Ascoli Calcio            1-1 (0-0)  Virtus Entella
+Mon Nov 23
+  21:00  US Salernitana 1919      2-1 (1-1)  US Cremonese
 
 
-Matchday 9
-[Fri Nov/27]
-  21.00  Chievo Verona            1-2 (1-1)  US Lecce
-[Sat Nov/28]
-  14.00  Empoli FC                2-2 (0-1)  L.R. Vicenza Virtus
+▪ Matchday 9
+Fri Nov 27
+  21:00  Chievo Verona            1-2 (1-1)  US Lecce
+Sat Nov 28
+  14:00  Empoli FC                2-2 (0-1)  L.R. Vicenza Virtus
          Delfino Pescara          0-2 (0-1)  Pordenone Calcio
-  16.00  AC Monza                 1-0 (0-0)  Reggina 1914
-  14.00  Brescia Calcio           1-2 (1-1)  Frosinone Calcio
+  16:00  AC Monza                 1-0 (0-0)  Reggina 1914
+  14:00  Brescia Calcio           1-2 (1-1)  Frosinone Calcio
          Venezia FC               2-1 (0-1)  Ascoli Calcio
          AC Pisa                  1-4 (0-2)  AS Cittadella
-[Sun Nov/29]
-  21.00  Cosenza Calcio           0-1 (0-0)  US Salernitana 1919
-  15.00  AC Reggiana 1919         1-1 (1-0)  US Cremonese
-[Mon Nov/30]
-  21.00  Virtus Entella           0-1 (0-0)  SPAL 2013 Ferrara
+Sun Nov 29
+  21:00  Cosenza Calcio           0-1 (0-0)  US Salernitana 1919
+  15:00  AC Reggiana 1919         1-1 (1-0)  US Cremonese
+Mon Nov 30
+  21:00  Virtus Entella           0-1 (0-0)  SPAL 2013 Ferrara
 
 
-Matchday 3
-[Wed Dec/2]
-  18.00  AC Monza                 1-1 (1-0)  L.R. Vicenza Virtus
+▪ Matchday 3
+Wed Dec 2
+  18:00  AC Monza                 1-1 (1-0)  L.R. Vicenza Virtus
 
 
-Matchday 10
-[Fri Dec/4]
-  21.00  Ascoli Calcio            0-2 (0-2)  Delfino Pescara
-[Sat Dec/5]
-  14.00  US Salernitana 1919      1-0 (0-0)  AS Cittadella
-  15.30  Reggina 1914             2-1 (0-0)  Brescia Calcio
-  14.00  US Lecce                 2-2 (1-2)  Venezia FC
+▪ Matchday 10
+Fri Dec 4
+  21:00  Ascoli Calcio            0-2 (0-2)  Delfino Pescara
+Sat Dec 5
+  14:00  US Salernitana 1919      1-0 (0-0)  AS Cittadella
+  15:30  Reggina 1914             2-1 (0-0)  Brescia Calcio
+  14:00  US Lecce                 2-2 (1-2)  Venezia FC
          US Cremonese             2-1 (2-0)  Virtus Entella
          Frosinone Calcio         3-2 (1-2)  Chievo Verona
          SPAL 2013 Ferrara        4-0 (2-0)  AC Pisa
-[Sun Dec/6]
-  15.00  AC Reggiana 1919         3-0 (0-0)  AC Monza
-  21.00  L.R. Vicenza Virtus      1-1 (0-0)  Cosenza Calcio
-[Mon Dec/7]
-  21.00  Pordenone Calcio         0-0  Empoli FC
+Sun Dec 6
+  15:00  AC Reggiana 1919         3-0 (0-0)  AC Monza
+  21:00  L.R. Vicenza Virtus      1-1 (0-0)  Cosenza Calcio
+Mon Dec 7
+  21:00  Pordenone Calcio         0-0  Empoli FC
 
 
-Matchday 5
-[Tue Dec/8]
-  15.00  US Cremonese             2-2 (1-1)  Brescia Calcio
+▪ Matchday 5
+Tue Dec 8
+  15:00  US Cremonese             2-2 (1-1)  Brescia Calcio
 
 
-Matchday 7
-[Tue Dec/8]
-  17.00  AC Pisa                  2-1 (0-0)  Ascoli Calcio
+▪ Matchday 7
+Tue Dec 8
+  17:00  AC Pisa                  2-1 (0-0)  Ascoli Calcio
 
 
-Matchday 11
-[Fri Dec/11]
-  19.00  Venezia FC               0-2 (0-0)  AC Monza
-  21.00  Chievo Verona            3-0 (1-0)  Reggina 1914
-[Sat Dec/12]
-  18.00  AS Cittadella            2-0 (0-0)  SPAL 2013 Ferrara
-  14.00  AC Pisa                  1-0 (0-0)  Pordenone Calcio
+▪ Matchday 11
+Fri Dec 11
+  19:00  Venezia FC               0-2 (0-0)  AC Monza
+  21:00  Chievo Verona            3-0 (1-0)  Reggina 1914
+Sat Dec 12
+  18:00  AS Cittadella            2-0 (0-0)  SPAL 2013 Ferrara
+  14:00  AC Pisa                  1-0 (0-0)  Pordenone Calcio
          Virtus Entella           2-5 (1-0)  Empoli FC
          Brescia Calcio           3-1 (2-1)  US Salernitana 1919
          Cosenza Calcio           0-1 (0-0)  AC Reggiana 1919
          US Cremonese             3-3 (2-2)  Ascoli Calcio
          US Lecce                 2-2 (1-1)  Frosinone Calcio
-  16.00  Delfino Pescara          2-3 (1-2)  L.R. Vicenza Virtus
+  16:00  Delfino Pescara          2-3 (1-2)  L.R. Vicenza Virtus
 
 
-Matchday 12
-[Mon Dec/14]
-  21.00  Reggina 1914             1-2 (1-0)  Venezia FC
-[Tue Dec/15]
-  21.00  Pordenone Calcio         1-1 (1-0)  Brescia Calcio
+▪ Matchday 12
+Mon Dec 14
+  21:00  Reggina 1914             1-2 (1-0)  Venezia FC
+Tue Dec 15
+  21:00  Pordenone Calcio         1-1 (1-0)  Brescia Calcio
          US Salernitana 1919      1-1 (1-0)  US Lecce
-  18.30  AC Reggiana 1919         1-2 (0-0)  Frosinone Calcio
-  21.00  AC Pisa                  0-0  Delfino Pescara
+  18:30  AC Reggiana 1919         1-2 (0-0)  Frosinone Calcio
+  21:00  AC Pisa                  0-0  Delfino Pescara
          AS Cittadella            3-0 (0-0)  L.R. Vicenza Virtus
          Ascoli Calcio            0-3 (0-1)  Cosenza Calcio
          Empoli FC                1-0 (1-0)  US Cremonese
@@ -212,26 +212,26 @@ Matchday 12
          SPAL 2013 Ferrara        0-0  Chievo Verona
 
 
-Matchday 13
-[Fri Dec/18]
-  19.00  Virtus Entella           0-1 (0-1)  Pordenone Calcio
-  21.00  Frosinone Calcio         0-0  US Salernitana 1919
-[Sat Dec/19]
-  21.30  Reggina 1914             1-3 (1-1)  AS Cittadella
-  14.00  L.R. Vicenza Virtus      2-1 (1-0)  Ascoli Calcio
+▪ Matchday 13
+Fri Dec 18
+  19:00  Virtus Entella           0-1 (0-1)  Pordenone Calcio
+  21:00  Frosinone Calcio         0-0  US Salernitana 1919
+Sat Dec 19
+  21:30  Reggina 1914             1-3 (1-1)  AS Cittadella
+  14:00  L.R. Vicenza Virtus      2-1 (1-0)  Ascoli Calcio
          Brescia Calcio           3-1 (2-1)  AC Reggiana 1919
          Chievo Verona            1-1 (1-0)  Empoli FC
-  16.00  Delfino Pescara          3-2 (1-1)  AC Monza
-  14.00  US Cremonese             1-0 (1-0)  Cosenza Calcio
+  16:00  Delfino Pescara          3-2 (1-1)  AC Monza
+  14:00  US Cremonese             1-0 (1-0)  Cosenza Calcio
          US Lecce                 0-3 (0-2)  AC Pisa
-  18.00  Venezia FC               0-0  SPAL 2013 Ferrara
+  18:00  Venezia FC               0-0  SPAL 2013 Ferrara
 
 
-Matchday 14
-[Mon Dec/21]
-  21.00  US Salernitana 1919      2-1 (0-1)  Virtus Entella
-[Tue Dec/22]
-  19.00  L.R. Vicenza Virtus      1-1 (0-1)  Reggina 1914
+▪ Matchday 14
+Mon Dec 21
+  21:00  US Salernitana 1919      2-1 (0-1)  Virtus Entella
+Tue Dec 22
+  19:00  L.R. Vicenza Virtus      1-1 (0-1)  Reggina 1914
          AC Monza                 2-0 (1-0)  Ascoli Calcio
          AC Pisa                  2-2 (1-0)  Chievo Verona
          AS Cittadella            1-0 (1-0)  Frosinone Calcio
@@ -239,355 +239,355 @@ Matchday 14
          Delfino Pescara          1-1 (0-1)  Brescia Calcio
          SPAL 2013 Ferrara        1-0 (0-0)  US Lecce
          Pordenone Calcio         1-2 (0-0)  US Cremonese
-  21.00  Empoli FC                0-0  AC Reggiana 1919
+  21:00  Empoli FC                0-0  AC Reggiana 1919
 
 
-Matchday 15
-[Sun Dec/27]
-  21.00  US Cremonese             0-2 (0-1)  AC Monza
-  15.00  Cosenza Calcio           1-1 (1-0)  AC Pisa
-  12.30  AC Reggiana 1919         0-1 (0-0)  Reggina 1914
-  15.00  Ascoli Calcio            2-0 (1-0)  SPAL 2013 Ferrara
-  18.00  Brescia Calcio           1-3 (1-2)  Empoli FC
-  15.00  Venezia FC               1-2 (0-2)  US Salernitana 1919
+▪ Matchday 15
+Sun Dec 27
+  21:00  US Cremonese             0-2 (0-1)  AC Monza
+  15:00  Cosenza Calcio           1-1 (1-0)  AC Pisa
+  12:30  AC Reggiana 1919         0-1 (0-0)  Reggina 1914
+  15:00  Ascoli Calcio            2-0 (1-0)  SPAL 2013 Ferrara
+  18:00  Brescia Calcio           1-3 (1-2)  Empoli FC
+  15:00  Venezia FC               1-2 (0-2)  US Salernitana 1919
          Frosinone Calcio         1-1 (0-0)  Pordenone Calcio
          US Lecce                 2-1 (0-1)  L.R. Vicenza Virtus
          Virtus Entella           3-0 (2-0)  Delfino Pescara
 
 
-Matchday 16
-[Wed Dec/30]
-  15.00  Reggina 1914             1-0 (1-0)  US Cremonese
-  18.00  SPAL 2013 Ferrara        2-3 (1-0)  Brescia Calcio
+▪ Matchday 16
+Wed Dec 30
+  15:00  Reggina 1914             1-0 (1-0)  US Cremonese
+  18:00  SPAL 2013 Ferrara        2-3 (1-0)  Brescia Calcio
          L.R. Vicenza Virtus      0-1 (0-0)  Virtus Entella
-  15.00  AS Cittadella            2-2 (1-2)  US Lecce
+  15:00  AS Cittadella            2-2 (1-2)  US Lecce
          Delfino Pescara          0-0  Cosenza Calcio
          Pordenone Calcio         3-0 (2-0)  AC Reggiana 1919
-  21.00  Chievo Verona            1-1 (0-1)  Venezia FC
-  16.00  AC Monza                 3-0 (2-0)  US Salernitana 1919
-  18.00  Empoli FC                1-1 (0-1)  Ascoli Calcio
+  21:00  Chievo Verona            1-1 (0-1)  Venezia FC
+  16:00  AC Monza                 3-0 (2-0)  US Salernitana 1919
+  18:00  Empoli FC                1-1 (0-1)  Ascoli Calcio
 
 
-Matchday 17
-[Mon Jan/4]
-  21.00  Brescia Calcio           0-3 (0-2)  L.R. Vicenza Virtus
-  16.00  US Lecce                 0-0  AC Monza
-  18.00  Virtus Entella           1-0 (1-0)  AS Cittadella
+▪ Matchday 17
+Mon Jan 4
+  21:00  Brescia Calcio           0-3 (0-2)  L.R. Vicenza Virtus
+  16:00  US Lecce                 0-0  AC Monza
+  18:00  Virtus Entella           1-0 (1-0)  AS Cittadella
          US Salernitana 1919      0-2 (0-0)  Pordenone Calcio
-  15.00  Cosenza Calcio           0-2 (0-1)  Empoli FC
+  15:00  Cosenza Calcio           0-2 (0-1)  Empoli FC
          Venezia FC               1-1 (0-1)  AC Pisa
-  18.00  US Cremonese             0-2 (0-1)  Chievo Verona
-  17.00  Ascoli Calcio            2-1 (0-1)  Reggina 1914
-  18.00  Frosinone Calcio         1-2 (1-1)  SPAL 2013 Ferrara
+  18:00  US Cremonese             0-2 (0-1)  Chievo Verona
+  17:00  Ascoli Calcio            2-1 (0-1)  Reggina 1914
+  18:00  Frosinone Calcio         1-2 (1-1)  SPAL 2013 Ferrara
          AC Reggiana 1919         0-1 (0-0)  Delfino Pescara
 
 
-Matchday 5
-[Sat Jan/9]
-  14.00  AC Reggiana 1919         0-2 (0-1)  AS Cittadella
+▪ Matchday 5
+Sat Jan 9
+  14:00  AC Reggiana 1919         0-2 (0-1)  AS Cittadella
 
 
-Matchday 18
-[Fri Jan/15]
-  19.00  Chievo Verona            2-1 (0-0)  Virtus Entella
-  21.00  L.R. Vicenza Virtus      0-0  Frosinone Calcio
-[Sat Jan/16]
-  16.00  Reggina 1914             0-1 (0-1)  US Lecce
-  14.00  Pordenone Calcio         2-0 (1-0)  Venezia FC
+▪ Matchday 18
+Fri Jan 15
+  19:00  Chievo Verona            2-1 (0-0)  Virtus Entella
+  21:00  L.R. Vicenza Virtus      0-0  Frosinone Calcio
+Sat Jan 16
+  16:00  Reggina 1914             0-1 (0-1)  US Lecce
+  14:00  Pordenone Calcio         2-0 (1-0)  Venezia FC
          AC Monza                 2-2 (2-1)  Cosenza Calcio
          AC Pisa                  1-0 (1-0)  Brescia Calcio
          AS Cittadella            1-0 (0-0)  Ascoli Calcio
-[Sun Jan/17]
-  15.00  Delfino Pescara          0-2 (0-0)  US Cremonese
-  21.00  Empoli FC                5-0 (4-0)  US Salernitana 1919
-[Mon Jan/18]
-  21.00  SPAL 2013 Ferrara        2-0 (1-0)  AC Reggiana 1919
+Sun Jan 17
+  15:00  Delfino Pescara          0-2 (0-0)  US Cremonese
+  21:00  Empoli FC                5-0 (4-0)  US Salernitana 1919
+Mon Jan 18
+  21:00  SPAL 2013 Ferrara        2-0 (1-0)  AC Reggiana 1919
 
 
-Matchday 8
-[Tue Jan/19]
-  19.00  L.R. Vicenza Virtus      1-1 (1-0)  Chievo Verona
+▪ Matchday 8
+Tue Jan 19
+  19:00  L.R. Vicenza Virtus      1-1 (1-0)  Chievo Verona
 
 
-Matchday 19
-[Fri Jan/22]
-  21.00  Virtus Entella           2-1 (1-1)  AC Pisa
-[Sat Jan/23]
-  16.00  US Salernitana 1919      2-0 (2-0)  Delfino Pescara
-  14.00  Frosinone Calcio         1-1 (0-1)  Reggina 1914
+▪ Matchday 19
+Fri Jan 22
+  21:00  Virtus Entella           2-1 (1-1)  AC Pisa
+Sat Jan 23
+  16:00  US Salernitana 1919      2-0 (2-0)  Delfino Pescara
+  14:00  Frosinone Calcio         1-1 (0-1)  Reggina 1914
          Ascoli Calcio            0-0  Chievo Verona
          Cosenza Calcio           0-0  Pordenone Calcio
          Venezia FC               1-0 (1-0)  AS Cittadella
          AC Reggiana 1919         2-1 (1-0)  L.R. Vicenza Virtus
-[Sun Jan/24]
-  21.00  US Cremonese             1-1 (0-0)  SPAL 2013 Ferrara
-  15.00  US Lecce                 2-2 (0-1)  Empoli FC
-[Mon Jan/25]
-  21.00  Brescia Calcio           0-1 (0-0)  AC Monza
+Sun Jan 24
+  21:00  US Cremonese             1-1 (0-0)  SPAL 2013 Ferrara
+  15:00  US Lecce                 2-2 (0-1)  Empoli FC
+Mon Jan 25
+  21:00  Brescia Calcio           0-1 (0-0)  AC Monza
 
 
-Matchday 15
-[Wed Jan/27]
-  19.00  Chievo Verona            2-1 (1-0)  AS Cittadella
+▪ Matchday 15
+Wed Jan 27
+  19:00  Chievo Verona            2-1 (1-0)  AS Cittadella
 
 
-Matchday 20
-[Fri Jan/29]
-  21.00  L.R. Vicenza Virtus      0-0  Venezia FC
-[Sat Jan/30]
-  16.00  AC Pisa                  1-0 (1-0)  AC Reggiana 1919
-  14.00  Ascoli Calcio            2-1 (0-1)  Brescia Calcio
+▪ Matchday 20
+Fri Jan 29
+  21:00  L.R. Vicenza Virtus      0-0  Venezia FC
+Sat Jan 30
+  16:00  AC Pisa                  1-0 (1-0)  AC Reggiana 1919
+  14:00  Ascoli Calcio            2-1 (0-1)  Brescia Calcio
          Empoli FC                3-1 (2-1)  Frosinone Calcio
          Pordenone Calcio         1-1 (1-1)  US Lecce
          Virtus Entella           1-2 (1-0)  Cosenza Calcio
-[Sun Jan/31]
-  15.00  Chievo Verona            3-1 (1-1)  Delfino Pescara
-  16.00  SPAL 2013 Ferrara        1-1 (1-1)  AC Monza
-  21.00  AS Cittadella            1-1 (0-1)  US Cremonese
-[Mon Feb/1]
-  21.00  Reggina 1914             0-0  US Salernitana 1919
+Sun Jan 31
+  15:00  Chievo Verona            3-1 (1-1)  Delfino Pescara
+  16:00  SPAL 2013 Ferrara        1-1 (1-1)  AC Monza
+  21:00  AS Cittadella            1-1 (0-1)  US Cremonese
+Mon Feb 1
+  21:00  Reggina 1914             0-0  US Salernitana 1919
 
 
-Matchday 16
-[Tue Feb/2]
-  14.00  AC Pisa                  0-0  Frosinone Calcio
+▪ Matchday 16
+Tue Feb 2
+  14:00  AC Pisa                  0-0  Frosinone Calcio
 
 
-Matchday 21
-[Fri Feb/5]
-  21.00  US Lecce                 1-2 (1-1)  Ascoli Calcio
-[Sat Feb/6]
-  14.00  Brescia Calcio           3-3 (3-0)  AS Cittadella
+▪ Matchday 21
+Fri Feb 5
+  21:00  US Lecce                 1-2 (1-1)  Ascoli Calcio
+Sat Feb 6
+  14:00  Brescia Calcio           3-3 (3-0)  AS Cittadella
          Cosenza Calcio           1-1 (1-0)  SPAL 2013 Ferrara
          Delfino Pescara          0-2 (0-0)  Reggina 1914
          Frosinone Calcio         1-2 (0-1)  Venezia FC
          US Cremonese             2-1 (2-1)  AC Pisa
          US Salernitana 1919      1-1 (1-0)  Chievo Verona
-  16.00  AC Monza                 1-1 (0-1)  Empoli FC
-  18.00  Pordenone Calcio         1-2 (0-1)  L.R. Vicenza Virtus
-[Sun Feb/7]
-  21.00  AC Reggiana 1919         2-1 (0-0)  Virtus Entella
+  16:00  AC Monza                 1-1 (0-1)  Empoli FC
+  18:00  Pordenone Calcio         1-2 (0-1)  L.R. Vicenza Virtus
+Sun Feb 7
+  21:00  AC Reggiana 1919         2-1 (0-0)  Virtus Entella
 
 
-Matchday 22
-[Tue Feb/9]
-  19.00  AC Pisa                  2-2 (0-0)  US Salernitana 1919
+▪ Matchday 22
+Tue Feb 9
+  19:00  AC Pisa                  2-2 (0-0)  US Salernitana 1919
          AS Cittadella            1-1 (1-0)  Cosenza Calcio
          Empoli FC                2-2 (0-0)  Delfino Pescara
          Venezia FC               3-1 (1-0)  US Cremonese
          L.R. Vicenza Virtus      1-2 (0-0)  AC Monza
          SPAL 2013 Ferrara        1-3 (1-1)  Pordenone Calcio
          US Lecce                 2-2 (0-0)  Brescia Calcio
-  21.00  Ascoli Calcio            1-1 (0-0)  Frosinone Calcio
-[Wed Feb/10]
-  19.00  Reggina 1914             1-0 (1-0)  Virtus Entella
-  21.00  Chievo Verona            1-0 (0-0)  AC Reggiana 1919
+  21:00  Ascoli Calcio            1-1 (0-0)  Frosinone Calcio
+Wed Feb 10
+  19:00  Reggina 1914             1-0 (1-0)  Virtus Entella
+  21:00  Chievo Verona            1-0 (0-0)  AC Reggiana 1919
 
 
-Matchday 23
-[Fri Feb/12]
-  21.00  AC Monza                 0-2 (0-2)  AC Pisa
-[Sat Feb/13]
-  12.00  US Salernitana 1919      1-1 (0-0)  L.R. Vicenza Virtus
-  14.00  Delfino Pescara          0-2 (0-1)  Venezia FC
+▪ Matchday 23
+Fri Feb 12
+  21:00  AC Monza                 0-2 (0-2)  AC Pisa
+Sat Feb 13
+  12:00  US Salernitana 1919      1-1 (0-0)  L.R. Vicenza Virtus
+  14:00  Delfino Pescara          0-2 (0-1)  Venezia FC
          Pordenone Calcio         0-1 (0-1)  AS Cittadella
          US Cremonese             1-2 (1-1)  US Lecce
-  16.00  SPAL 2013 Ferrara        1-1 (0-1)  Empoli FC
-[Sun Feb/14]
-  17.00  AC Reggiana 1919         1-0 (0-0)  Ascoli Calcio
-  18.00  Brescia Calcio           1-0 (1-0)  Chievo Verona
-  15.00  Virtus Entella           2-3 (1-2)  Frosinone Calcio
-[Mon Feb/15]
-  21.00  Cosenza Calcio           2-2 (1-2)  Reggina 1914
+  16:00  SPAL 2013 Ferrara        1-1 (0-1)  Empoli FC
+Sun Feb 14
+  17:00  AC Reggiana 1919         1-0 (0-0)  Ascoli Calcio
+  18:00  Brescia Calcio           1-0 (1-0)  Chievo Verona
+  15:00  Virtus Entella           2-3 (1-2)  Frosinone Calcio
+Mon Feb 15
+  21:00  Cosenza Calcio           2-2 (1-2)  Reggina 1914
 
 
-Matchday 24
-[Fri Feb/19]
-  21.00  Frosinone Calcio         0-0  Delfino Pescara
-[Sat Feb/20]
-  14.00  AS Cittadella            0-3 (0-2)  AC Reggiana 1919
+▪ Matchday 24
+Fri Feb 19
+  21:00  Frosinone Calcio         0-0  Delfino Pescara
+Sat Feb 20
+  14:00  AS Cittadella            0-3 (0-2)  AC Reggiana 1919
          Ascoli Calcio            0-2 (0-2)  US Salernitana 1919
          Brescia Calcio           1-2 (1-0)  US Cremonese
          Venezia FC               3-2 (1-2)  Virtus Entella
          L.R. Vicenza Virtus      2-2 (0-2)  SPAL 2013 Ferrara
-  16.00  Chievo Verona            0-1 (0-0)  AC Monza
-  18.00  AC Pisa                  1-1 (1-0)  Empoli FC
-[Sun Feb/21]
-  21.00  US Lecce                 3-1 (1-1)  Cosenza Calcio
-  15.00  Reggina 1914             1-0 (0-0)  Pordenone Calcio
+  16:00  Chievo Verona            0-1 (0-0)  AC Monza
+  18:00  AC Pisa                  1-1 (1-0)  Empoli FC
+Sun Feb 21
+  21:00  US Lecce                 3-1 (1-1)  Cosenza Calcio
+  15:00  Reggina 1914             1-0 (0-0)  Pordenone Calcio
 
 
-Matchday 25
-[Fri Feb/26]
-  21.00  Empoli FC                1-1 (0-1)  Venezia FC
-  19.00  AC Reggiana 1919         0-0  US Salernitana 1919
-[Sat Feb/27]
-  14.00  AC Pisa                  2-2 (0-2)  L.R. Vicenza Virtus
+▪ Matchday 25
+Fri Feb 26
+  21:00  Empoli FC                1-1 (0-1)  Venezia FC
+  19:00  AC Reggiana 1919         0-0  US Salernitana 1919
+Sat Feb 27
+  14:00  AC Pisa                  2-2 (0-2)  L.R. Vicenza Virtus
          Cosenza Calcio           1-0 (1-0)  Chievo Verona
          Delfino Pescara          1-1 (0-1)  US Lecce
          Pordenone Calcio         1-1 (1-0)  Ascoli Calcio
          SPAL 2013 Ferrara        1-4 (0-2)  Reggina 1914
          US Cremonese             4-0 (2-0)  Frosinone Calcio
-  16.00  AC Monza                 0-0  AS Cittadella
-  18.00  Virtus Entella           1-1 (0-1)  Brescia Calcio
+  16:00  AC Monza                 0-0  AS Cittadella
+  18:00  Virtus Entella           1-1 (0-1)  Brescia Calcio
 
 
-Matchday 26
-[Mon Mar/1]
-  21.00  Venezia FC               2-1 (1-1)  AC Reggiana 1919
-[Tue Mar/2]
-  17.00  Frosinone Calcio         2-2 (1-2)  AC Monza
-  19.00  AS Cittadella            0-1 (0-0)  Delfino Pescara
+▪ Matchday 26
+Mon Mar 1
+  21:00  Venezia FC               2-1 (1-1)  AC Reggiana 1919
+Tue Mar 2
+  17:00  Frosinone Calcio         2-2 (1-2)  AC Monza
+  19:00  AS Cittadella            0-1 (0-0)  Delfino Pescara
          Ascoli Calcio            0-2 (0-2)  AC Pisa
          Brescia Calcio           2-0 (0-0)  Cosenza Calcio
          Chievo Verona            3-0 (2-0)  Pordenone Calcio
          Reggina 1914             0-3 (0-1)  Empoli FC
          US Lecce                 0-0  Virtus Entella
          US Salernitana 1919      0-0  SPAL 2013 Ferrara
-  21.00  L.R. Vicenza Virtus      3-1 (2-0)  US Cremonese
+  21:00  L.R. Vicenza Virtus      3-1 (2-0)  US Cremonese
 
 
-Matchday 27
-[Sat Mar/6]
-  14.00  AC Pisa                  0-0  Reggina 1914
+▪ Matchday 27
+Sat Mar 6
+  14:00  AC Pisa                  0-0  Reggina 1914
          Cosenza Calcio           1-2 (1-1)  Frosinone Calcio
          Delfino Pescara          0-1 (0-1)  SPAL 2013 Ferrara
          US Cremonese             0-1 (0-1)  US Salernitana 1919
          Virtus Entella           0-0  Ascoli Calcio
-  16.00  Venezia FC               0-1 (0-1)  Brescia Calcio
-  18.00  AC Monza                 2-0 (1-0)  Pordenone Calcio
-[Sun Mar/7]
-  21.00  AC Reggiana 1919         0-4 (0-3)  US Lecce
-  15.00  Empoli FC                1-1 (1-0)  AS Cittadella
-[Mon Mar/8]
-  19.00  Chievo Verona            1-2 (0-2)  L.R. Vicenza Virtus
+  16:00  Venezia FC               0-1 (0-1)  Brescia Calcio
+  18:00  AC Monza                 2-0 (1-0)  Pordenone Calcio
+Sun Mar 7
+  21:00  AC Reggiana 1919         0-4 (0-3)  US Lecce
+  15:00  Empoli FC                1-1 (1-0)  AS Cittadella
+Mon Mar 8
+  19:00  Chievo Verona            1-2 (0-2)  L.R. Vicenza Virtus
 
 
-Matchday 28
-[Fri Mar/12]
-  19.00  AS Cittadella            2-0 (2-0)  AC Pisa
-  21.00  SPAL 2013 Ferrara        0-0  Virtus Entella
-[Sat Mar/13]
-  14.00  Ascoli Calcio            1-1 (0-0)  Venezia FC
+▪ Matchday 28
+Fri Mar 12
+  19:00  AS Cittadella            2-0 (2-0)  AC Pisa
+  21:00  SPAL 2013 Ferrara        0-0  Virtus Entella
+Sat Mar 13
+  14:00  Ascoli Calcio            1-1 (0-0)  Venezia FC
          Frosinone Calcio         0-1 (0-0)  Brescia Calcio
          Pordenone Calcio         0-0  Delfino Pescara
          Reggina 1914             1-0 (0-0)  AC Monza
          US Cremonese             3-0 (1-0)  AC Reggiana 1919
          US Lecce                 4-2 (4-1)  Chievo Verona
-  16.00  US Salernitana 1919      0-0  Cosenza Calcio
-  18.00  L.R. Vicenza Virtus      0-2 (0-1)  Empoli FC
+  16:00  US Salernitana 1919      0-0  Cosenza Calcio
+  18:00  L.R. Vicenza Virtus      0-2 (0-1)  Empoli FC
 
 
-Matchday 29
-[Mon Mar/15]
-  21.00  AC Pisa                  3-0 (1-0)  SPAL 2013 Ferrara
-[Tue Mar/16]
-  16.00  Virtus Entella           0-2 (0-0)  US Cremonese
-  17.00  Cosenza Calcio           1-1 (1-0)  L.R. Vicenza Virtus
+▪ Matchday 29
+Mon Mar 15
+  21:00  AC Pisa                  3-0 (1-0)  SPAL 2013 Ferrara
+Tue Mar 16
+  16:00  Virtus Entella           0-2 (0-0)  US Cremonese
+  17:00  Cosenza Calcio           1-1 (1-0)  L.R. Vicenza Virtus
          Venezia FC               2-3 (1-1)  US Lecce
-  19.00  AS Cittadella            0-0  US Salernitana 1919
+  19:00  AS Cittadella            0-0  US Salernitana 1919
          Brescia Calcio           1-0 (0-0)  Reggina 1914
          Chievo Verona            0-0  Frosinone Calcio
          Empoli FC                1-0 (0-0)  Pordenone Calcio
          AC Monza                 2-0 (1-0)  AC Reggiana 1919
-  21.00  Delfino Pescara          2-3 (1-1)  Ascoli Calcio
+  21:00  Delfino Pescara          2-3 (1-1)  Ascoli Calcio
 
 
-Matchday 30
-[Fri Mar/19]
-  21.00  Ascoli Calcio            0-0  US Cremonese
-[Sat Mar/20]
-  14.00  Empoli FC                1-0 (1-0)  Virtus Entella
+▪ Matchday 30
+Fri Mar 19
+  21:00  Ascoli Calcio            0-0  US Cremonese
+Sat Mar 20
+  14:00  Empoli FC                1-0 (1-0)  Virtus Entella
          Frosinone Calcio         0-3 (0-0)  US Lecce
          L.R. Vicenza Virtus      1-0 (0-0)  Delfino Pescara
          AC Reggiana 1919         1-1 (0-1)  Cosenza Calcio
-  16.00  AC Monza                 1-4 (0-2)  Venezia FC
-  18.00  SPAL 2013 Ferrara        1-0 (0-0)  AS Cittadella
-[Sun Mar/21]
-  21.00  US Salernitana 1919      1-0 (1-0)  Brescia Calcio
-  15.00  Reggina 1914             1-1 (0-0)  Chievo Verona
+  16:00  AC Monza                 1-4 (0-2)  Venezia FC
+  18:00  SPAL 2013 Ferrara        1-0 (0-0)  AS Cittadella
+Sun Mar 21
+  21:00  US Salernitana 1919      1-0 (1-0)  Brescia Calcio
+  15:00  Reggina 1914             1-1 (0-0)  Chievo Verona
 
 
-Matchday 31
-[Fri Apr/2]
-  19.00  US Lecce                 2-0 (1-0)  US Salernitana 1919
-  15.00  Cosenza Calcio           2-1 (1-1)  Ascoli Calcio
-  17.00  Delfino Pescara          3-1 (1-0)  AC Pisa
+▪ Matchday 31
+Fri Apr 2
+  19:00  US Lecce                 2-0 (1-0)  US Salernitana 1919
+  15:00  Cosenza Calcio           2-1 (1-1)  Ascoli Calcio
+  17:00  Delfino Pescara          3-1 (1-0)  AC Pisa
          Frosinone Calcio         0-0  AC Reggiana 1919
-  19.00  Brescia Calcio           4-1 (3-1)  Pordenone Calcio
+  19:00  Brescia Calcio           4-1 (3-1)  Pordenone Calcio
          Chievo Verona            1-1 (0-0)  SPAL 2013 Ferrara
          Venezia FC               0-2 (0-0)  Reggina 1914
          L.R. Vicenza Virtus      1-0 (1-0)  AS Cittadella
          Virtus Entella           1-1 (0-0)  AC Monza
 
 
-Matchday 32
-[Mon Apr/5]
-  21.00  US Salernitana 1919      1-0 (0-0)  Frosinone Calcio
-  19.00  SPAL 2013 Ferrara        1-1 (1-1)  Venezia FC
-  12.30  Pordenone Calcio         3-0 (2-0)  Virtus Entella
-  15.00  AC Pisa                  0-1 (0-0)  US Lecce
+▪ Matchday 32
+Mon Apr 5
+  21:00  US Salernitana 1919      1-0 (0-0)  Frosinone Calcio
+  19:00  SPAL 2013 Ferrara        1-1 (1-1)  Venezia FC
+  12:30  Pordenone Calcio         3-0 (2-0)  Virtus Entella
+  15:00  AC Pisa                  0-1 (0-0)  US Lecce
          AS Cittadella            1-1 (0-0)  Reggina 1914
          Ascoli Calcio            2-1 (0-0)  L.R. Vicenza Virtus
          Cosenza Calcio           0-1 (0-1)  US Cremonese
          AC Monza                 1-1 (1-0)  Delfino Pescara
-  17.00  AC Reggiana 1919         2-2 (0-1)  Brescia Calcio
+  17:00  AC Reggiana 1919         2-2 (0-1)  Brescia Calcio
 
 
-Matchday 33
-[Fri Apr/9]
-  21.00  AC Reggiana 1919         0-1 (0-1)  Empoli FC
-[Sat Apr/10]
-  14.00  Virtus Entella           0-3 (0-2)  US Salernitana 1919
-  16.00  Frosinone Calcio         1-1 (0-1)  AS Cittadella
-  14.00  Ascoli Calcio            1-0 (0-0)  AC Monza
+▪ Matchday 33
+Fri Apr 9
+  21:00  AC Reggiana 1919         0-1 (0-1)  Empoli FC
+Sat Apr 10
+  14:00  Virtus Entella           0-3 (0-2)  US Salernitana 1919
+  16:00  Frosinone Calcio         1-1 (0-1)  AS Cittadella
+  14:00  Ascoli Calcio            1-0 (0-0)  AC Monza
          US Lecce                 1-2 (1-1)  SPAL 2013 Ferrara
          US Cremonese             2-1 (1-1)  Pordenone Calcio
          Brescia Calcio           1-1 (1-0)  Delfino Pescara
-[Sun Apr/11]
-  19.00  Venezia FC               3-0 (1-0)  Cosenza Calcio
-  15.00  Reggina 1914             3-0 (2-0)  L.R. Vicenza Virtus
-[Mon Apr/12]
-  19.00  Chievo Verona            2-0 (1-0)  AC Pisa
+Sun Apr 11
+  19:00  Venezia FC               3-0 (1-0)  Cosenza Calcio
+  15:00  Reggina 1914             3-0 (2-0)  L.R. Vicenza Virtus
+Mon Apr 12
+  19:00  Chievo Verona            2-0 (1-0)  AC Pisa
 
 
-Matchday 31
-[Tue Apr/13]
-  16.00  US Cremonese             2-2 (1-1)  Empoli FC
+▪ Matchday 31
+Tue Apr 13
+  16:00  US Cremonese             2-2 (1-1)  Empoli FC
 
 
-Matchday 34
-[Fri Apr/16]
-  21.00  SPAL 2013 Ferrara        1-2 (1-1)  Ascoli Calcio
-[Sat Apr/17]
-  16.00  AS Cittadella            1-0 (0-0)  Chievo Verona
-  14.00  Reggina 1914             2-1 (1-1)  AC Reggiana 1919
+▪ Matchday 34
+Fri Apr 16
+  21:00  SPAL 2013 Ferrara        1-2 (1-1)  Ascoli Calcio
+Sat Apr 17
+  16:00  AS Cittadella            1-0 (0-0)  Chievo Verona
+  14:00  Reggina 1914             2-1 (1-1)  AC Reggiana 1919
          AC Pisa                  3-0 (0-0)  Cosenza Calcio
          Empoli FC                4-2 (3-1)  Brescia Calcio
          L.R. Vicenza Virtus      1-2 (0-0)  US Lecce
          US Salernitana 1919      2-1 (0-1)  Venezia FC
          AC Monza                 2-1 (2-0)  US Cremonese
-  18.00  Pordenone Calcio         2-0 (2-0)  Frosinone Calcio
+  18:00  Pordenone Calcio         2-0 (2-0)  Frosinone Calcio
 
 
-Matchday 30
-[Sat Apr/24]
-  16.00  Pordenone Calcio         2-2 (1-2)  AC Pisa
+▪ Matchday 30
+Sat Apr 24
+  16:00  Pordenone Calcio         2-2 (1-2)  AC Pisa
 
 
-Matchday 32
-[Tue Apr/27]
-  16.00  Empoli FC                2-2 (1-0)  Chievo Verona
+▪ Matchday 32
+Tue Apr 27
+  16:00  Empoli FC                2-2 (1-0)  Chievo Verona
 
 
-Matchday 34
-[Tue Apr/27]
-  14.00  Delfino Pescara          1-1 (0-1)  Virtus Entella
+▪ Matchday 34
+Tue Apr 27
+  14:00  Delfino Pescara          1-1 (0-1)  Virtus Entella
 
 
-Matchday 35
-[Sat May/1]
-  14.00  Ascoli Calcio            2-0 (1-0)  Empoli FC
+▪ Matchday 35
+Sat May 1
+  14:00  Ascoli Calcio            2-0 (1-0)  Empoli FC
          Brescia Calcio           3-1 (1-0)  SPAL 2013 Ferrara
          Cosenza Calcio           3-0 (3-0)  Delfino Pescara
          Venezia FC               3-1 (1-0)  Chievo Verona
@@ -599,9 +599,9 @@ Matchday 35
          Virtus Entella           1-2 (0-1)  L.R. Vicenza Virtus
 
 
-Matchday 36
-[Tue May/4]
-  14.00  AC Pisa                  2-2 (2-0)  Venezia FC
+▪ Matchday 36
+Tue May 4
+  14:00  AC Pisa                  2-2 (2-0)  Venezia FC
          AS Cittadella            1-0 (0-0)  Virtus Entella
          Chievo Verona            1-1 (1-0)  US Cremonese
          Delfino Pescara          1-0 (1-0)  AC Reggiana 1919
@@ -613,9 +613,9 @@ Matchday 36
          AC Monza                 1-0 (1-0)  US Lecce
 
 
-Matchday 37
-[Fri May/7]
-  14.00  Ascoli Calcio            2-0 (2-0)  AS Cittadella
+▪ Matchday 37
+Fri May 7
+  14:00  Ascoli Calcio            2-0 (2-0)  AS Cittadella
          Brescia Calcio           4-3 (1-1)  AC Pisa
          Cosenza Calcio           0-3 (0-0)  AC Monza
          Venezia FC               0-0  Pordenone Calcio
@@ -627,9 +627,9 @@ Matchday 37
          Virtus Entella           1-3 (1-2)  Chievo Verona
 
 
-Matchday 38
-[Mon May/10]
-  14.00  AC Pisa                  3-2 (1-1)  Virtus Entella
+▪ Matchday 38
+Mon May 10
+  14:00  AC Pisa                  3-2 (1-1)  Virtus Entella
          AS Cittadella            1-1 (0-1)  Venezia FC
          Chievo Verona            3-0 (1-0)  Ascoli Calcio
          Delfino Pescara          0-3 (0-0)  US Salernitana 1919
@@ -643,23 +643,23 @@ Matchday 38
 
 == Aufstieg
 
-Round 1
-[Thu May/13]
-  21.00  Venezia FC               3-2 a.e.t. (1-1, 0-1)  Chievo Verona
-  18.00  AS Cittadella            1-0 (1-0)  Brescia Calcio
+▪ Round 1
+Thu May 13
+  21:00  Venezia FC               3-2 a.e.t. (1-1, 0-1)  Chievo Verona
+  18:00  AS Cittadella            1-0 (1-0)  Brescia Calcio
 
 
-Semifinals
-[Mon May/17]
-  20.45  Venezia FC               1-0 (0-0)  US Lecce
-  18.30  AS Cittadella            3-0 (2-0)  AC Monza
-[Thu May/20]
-  20.45  AC Monza                 2-0 (0-0)  AS Cittadella
-  18.30  US Lecce                 1-1 (0-1)  Venezia FC
+▪ Semifinals
+Mon May 17
+  20:45  Venezia FC               1-0 (0-0)  US Lecce
+  18:30  AS Cittadella            3-0 (2-0)  AC Monza
+Thu May 20
+  20:45  AC Monza                 2-0 (0-0)  AS Cittadella
+  18:30  US Lecce                 1-1 (0-1)  Venezia FC
 
 
-Final
-[Sun May/23]
-  21.15  AS Cittadella            0-1 (0-0)  Venezia FC
-[Thu May/27]
-  21.15  Venezia FC               1-1 (0-1)  AS Cittadella
+▪ Final
+Sun May 23
+  21:15  AS Cittadella            0-1 (0-0)  Venezia FC
+Thu May 27
+  21:15  Venezia FC               1-1 (0-1)  AS Cittadella

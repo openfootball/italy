@@ -1,96 +1,96 @@
 = Coppa Italia 2024/25
 
-# Date       Sat Aug/3 2024 - Wed May/14 2025 (284d)
+# Date       Sat Aug 3 2024 - Wed May 14 2025 (284d)
 # Teams      44
 # Matches    45
 
 
 
-» Preliminary round
-  Sat Aug/3 2024
-    18.00  Carrarese Calcio        v Calcio Catania           2-1 (0-0)
-    20.30  SEF Torres 1903         v Mantova 1911 SSD         1-2 (0-2)
-  Sun Aug/4
-    20.30  Cesena FC               v Calcio Padova            3-1 (2-0)
-    20.45  US Avellino             v Juve Stabia              3-1 (2-1)
+▪ Preliminary round
+  Sat Aug 3 2024
+    18:00  Carrarese Calcio        v Calcio Catania           2-1 (0-0)
+    20:30  SEF Torres 1903         v Mantova 1911 SSD         1-2 (0-2)
+  Sun Aug 4
+    20:30  Cesena FC               v Calcio Padova            3-1 (2-0)
+    20:45  US Avellino             v Juve Stabia              3-1 (2-1)
 
 
-» Round 1
-  Fri Aug/9
-    18.00  Sassuolo Calcio         v AS Cittadella            2-1 (1-0)
-    18.30  Udinese Calcio          v US Avellino              4-0 (1-0)
-    20.45  Genoa CFC               v AC Reggiana 1919         1-0 (0-0)
-    21.15  AC Monza                v FC Südtirol              9-8 pen. (0-0)
-  Sat Aug/10
-    18.00  US Cremonese            v SSC Bari                 5-4 pen. (1-1, 0-0)
-    18.30  Hellas Verona           v Cesena FC                1-2 (0-1)
-    20.45  Empoli FC               v US Catanzaro             4-1 (1-1)
-    21.15  SSC Napoli              v Modena FC                4-3 pen. (0-0)
-  Sun Aug/11
-    18.00  Brescia Calcio          v Venezia FC               3-1 (1-0)
-    18.30  Parma Calcio 1913       v Palermo FC               0-1 (0-1)
-    20.45  Sampdoria               v Como 1907                4-3 pen. (1-1, 1-1)
-    21.15  Torino FC               v Cosenza Calcio           2-0 (1-0)
-  Mon Aug/12
-    18.00  Frosinone Calcio        v Pisa SC                  0-3 (0-2)
-    18.30  US Lecce                v Mantova 1911 SSD         2-1 (1-0)
-    20.45  US Salernitana 1919     v Spezia Calcio            5-4 pen. (3-3, 0-2)
-    21.15  Cagliari Calcio         v Carrarese Calcio         3-1 (2-0)
+▪ Round 1
+  Fri Aug 9
+    18:00  Sassuolo Calcio         v AS Cittadella            2-1 (1-0)
+    18:30  Udinese Calcio          v US Avellino              4-0 (1-0)
+    20:45  Genoa CFC               v AC Reggiana 1919         1-0 (0-0)
+    21:15  AC Monza                v FC Südtirol              9-8 pen. (0-0)
+  Sat Aug 10
+    18:00  US Cremonese            v SSC Bari                 5-4 pen. (1-1, 0-0)
+    18:30  Hellas Verona           v Cesena FC                1-2 (0-1)
+    20:45  Empoli FC               v US Catanzaro             4-1 (1-1)
+    21:15  SSC Napoli              v Modena FC                4-3 pen. (0-0)
+  Sun Aug 11
+    18:00  Brescia Calcio          v Venezia FC               3-1 (1-0)
+    18:30  Parma Calcio 1913       v Palermo FC               0-1 (0-1)
+    20:45  Sampdoria               v Como 1907                4-3 pen. (1-1, 1-1)
+    21:15  Torino FC               v Cosenza Calcio           2-0 (1-0)
+  Mon Aug 12
+    18:00  Frosinone Calcio        v Pisa SC                  0-3 (0-2)
+    18:30  US Lecce                v Mantova 1911 SSD         2-1 (1-0)
+    20:45  US Salernitana 1919     v Spezia Calcio            5-4 pen. (3-3, 0-2)
+    21:15  Cagliari Calcio         v Carrarese Calcio         3-1 (2-0)
 
 
-» Round 2
-  Tue Sep/24
-    16.00  US Lecce                v Sassuolo Calcio          0-2 (0-1)
-    18.30  Cagliari Calcio         v US Cremonese             1-0 (0-0)
-    21.00  Torino FC               v Empoli FC                1-2 (0-1)
-  Wed Sep/25
-    16.00  Pisa SC                 v Cesena FC                0-1 (0-0)
-    18.30  Udinese Calcio          v US Salernitana 1919      3-1 (2-1)
-    21.00  Genoa CFC               v Sampdoria                5-6 pen. (1-1, 1-0)
-  Thu Sep/26
-    18.30  AC Monza                v Brescia Calcio           3-1 (3-0)
-    21.00  SSC Napoli              v Palermo FC               5-0 (3-0)
+▪ Round 2
+  Tue Sep 24
+    16:00  US Lecce                v Sassuolo Calcio          0-2 (0-1)
+    18:30  Cagliari Calcio         v US Cremonese             1-0 (0-0)
+    21:00  Torino FC               v Empoli FC                1-2 (0-1)
+  Wed Sep 25
+    16:00  Pisa SC                 v Cesena FC                0-1 (0-0)
+    18:30  Udinese Calcio          v US Salernitana 1919      3-1 (2-1)
+    21:00  Genoa CFC               v Sampdoria                5-6 pen. (1-1, 1-0)
+  Thu Sep 26
+    18:30  AC Monza                v Brescia Calcio           3-1 (3-0)
+    21:00  SSC Napoli              v Palermo FC               5-0 (3-0)
 
 
-» Round of 16
-  Tue Dec/3
-    18.30  Bologna FC              v AC Monza                 4-0 (2-0)
-    21.00  AC Milan                v Sassuolo Calcio          6-1 (4-0)
-  Wed Dec/4
-    21.00  ACF Fiorentina          v Empoli FC                3-4 pen. (2-2, 0-1)
-  Thu Dec/5
-    21.00  Lazio Roma              v SSC Napoli               3-1 (2-1)
-  Tue Dec/17
-    21.00  Juventus                v Cagliari Calcio          4-0 (1-0)
-  Wed Dec/18
-    18.30  Atalanta                v Cesena FC                6-1 (4-0)
-    21.00  AS Roma                 v Sampdoria                4-1 (3-0)
-  Thu Dec/19
-    21.00  Inter                   v Udinese Calcio           2-0 (2-0)
+▪ Round of 16
+  Tue Dec 3
+    18:30  Bologna FC              v AC Monza                 4-0 (2-0)
+    21:00  AC Milan                v Sassuolo Calcio          6-1 (4-0)
+  Wed Dec 4
+    21:00  ACF Fiorentina          v Empoli FC                3-4 pen. (2-2, 0-1)
+  Thu Dec 5
+    21:00  Lazio Roma              v SSC Napoli               3-1 (2-1)
+  Tue Dec 17
+    21:00  Juventus                v Cagliari Calcio          4-0 (1-0)
+  Wed Dec 18
+    18:30  Atalanta                v Cesena FC                6-1 (4-0)
+    21:00  AS Roma                 v Sampdoria                4-1 (3-0)
+  Thu Dec 19
+    21:00  Inter                   v Udinese Calcio           2-0 (2-0)
 
 
-» Quarterfinals
-  Tue Feb/4 2025
-    21.00  Atalanta                v Bologna FC               0-1 (0-0)
-  Wed Feb/5
-    21.00  AC Milan                v AS Roma                  3-1 (2-0)
-  Tue Feb/25
-    21.00  Inter                   v Lazio Roma               2-0 (1-0)
-  Wed Feb/26
-    21.00  Juventus                v Empoli FC                2-4 pen. (1-1, 0-1)
+▪ Quarterfinals
+  Tue Feb 4 2025
+    21:00  Atalanta                v Bologna FC               0-1 (0-0)
+  Wed Feb 5
+    21:00  AC Milan                v AS Roma                  3-1 (2-0)
+  Tue Feb 25
+    21:00  Inter                   v Lazio Roma               2-0 (1-0)
+  Wed Feb 26
+    21:00  Juventus                v Empoli FC                2-4 pen. (1-1, 0-1)
 
 
-» Semifinals
-  Tue Apr/1
-    21.00  Empoli FC               v Bologna FC               0-3 (0-2)
-  Wed Apr/2
-    21.00  AC Milan                v Inter                    1-1 (0-0)
-  Wed Apr/23
-    21.00  Inter                   v AC Milan                 0-3 (0-1)
-  Thu Apr/24
-    21.00  Bologna FC              v Empoli FC                2-1 (1-1)
+▪ Semifinals
+  Tue Apr 1
+    21:00  Empoli FC               v Bologna FC               0-3 (0-2)
+  Wed Apr 2
+    21:00  AC Milan                v Inter                    1-1 (0-0)
+  Wed Apr 23
+    21:00  Inter                   v AC Milan                 0-3 (0-1)
+  Thu Apr 24
+    21:00  Bologna FC              v Empoli FC                2-1 (1-1)
 
 
-» Final
-  Wed May/14
-    21.00  AC Milan                v Bologna FC               0-1 (0-0)
+▪ Final
+  Wed May 14
+    21:00  AC Milan                v Bologna FC               0-1 (0-0)
