@@ -1,638 +1,1077 @@
-= Italian Serie A 2025/26
-
-# Date       Sat Aug 23 2025 - Sun May 24 2026 (274d)
-# Teams      20
-# Matches    380
-
-
-
-▪ Matchday 1
-  Sat Aug 23 2025
-    18:30  Genoa CFC               v US Lecce                 0-0
-           US Sassuolo Calcio      v SSC Napoli               0-2 (0-1)
-    20:45  AC Milan                v US Cremonese             1-2 (1-1)
-           AS Roma                 v Bologna FC 1909          1-0 (0-0)
-  Sun Aug 24
-    18:30  Cagliari Calcio         v ACF Fiorentina           1-1 (0-0)
-           Como 1907               v SS Lazio                 2-0 (0-0)
-    20:45  Atalanta BC             v AC Pisa 1909             1-1 (0-1)
-           Juventus FC             v Parma Calcio 1913        2-0 (0-0)
-  Mon Aug 25
-    18:30  Udinese Calcio          v Hellas Verona FC         1-1 (0-0)
-    20:45  FC Internazionale Milano v Torino FC                5-0 (2-0)
-
-
-▪ Matchday 2
-  Fri Aug 29
-    18:30  US Cremonese            v US Sassuolo Calcio       3-2 (2-0)
-    20:45  US Lecce                v AC Milan                 0-2 (0-0)
-  Sat Aug 30
-    18:30  Bologna FC 1909         v Como 1907                1-0 (0-0)
-           Parma Calcio 1913       v Atalanta BC              1-1 (0-0)
-    20:45  SSC Napoli              v Cagliari Calcio          1-0 (0-0)
-           AC Pisa 1909            v AS Roma                  0-1 (0-0)
-  Sun Aug 31
-    18:30  Genoa CFC               v Juventus FC              0-1 (0-0)
-           Torino FC               v ACF Fiorentina           0-0
-    20:45  FC Internazionale Milano v Udinese Calcio           1-2 (1-2)
-           SS Lazio                v Hellas Verona FC         4-0 (3-0)
-
-
-▪ Matchday 3
-  Sat Sep 13
-    15:00  Cagliari Calcio         v Parma Calcio 1913        2-0 (1-0)
-    18:00  Juventus FC             v FC Internazionale Milano  4-3 (2-1)
-    20:45  ACF Fiorentina          v SSC Napoli               1-3 (0-2)
-  Sun Sep 14
-    12:30  AS Roma                 v Torino FC                0-1 (0-0)
-    15:00  Atalanta BC             v US Lecce                 4-1 (1-0)
-           AC Pisa 1909            v Udinese Calcio           0-1 (0-1)
-    18:00  US Sassuolo Calcio      v SS Lazio                 1-0 (0-0)
-    20:45  AC Milan                v Bologna FC 1909          1-0 (0-0)
-  Mon Sep 15
-    18:30  Hellas Verona FC        v US Cremonese             0-0
-    20:45  Como 1907               v Genoa CFC                1-1 (1-0)
-
-
-▪ Matchday 4
-  Fri Sep 19
-    20:45  US Lecce                v Cagliari Calcio          1-2 (1-1)
-  Sat Sep 20
-    15:00  Bologna FC 1909         v Genoa CFC                2-1 (0-0)
-    18:00  Hellas Verona FC        v Juventus FC              1-1 (1-1)
-    20:45  Udinese Calcio          v AC Milan                 0-3 (0-1)
-  Sun Sep 21
-    12:30  SS Lazio                v AS Roma                  0-1 (0-1)
-    15:00  Torino FC               v Atalanta BC              0-3 (0-3)
-           US Cremonese            v Parma Calcio 1913        0-0
-    18:00  ACF Fiorentina          v Como 1907                1-2 (1-0)
-    20:45  FC Internazionale Milano v US Sassuolo Calcio       2-1 (1-0)
-  Mon Sep 22
-    20:45  SSC Napoli              v AC Pisa 1909             3-2 (1-0)
-
-
-▪ Matchday 5
-  Sat Sep 27
-    15:00  Como 1907               v US Cremonese             1-1 (1-0)
-    18:00  Juventus FC             v Atalanta BC              1-1 (0-1)
-    20:45  Cagliari Calcio         v FC Internazionale Milano  0-2 (0-1)
-  Sun Sep 28
-    12:30  US Sassuolo Calcio      v Udinese Calcio           3-1 (2-0)
-    15:00  AS Roma                 v Hellas Verona FC         2-0 (1-0)
-           AC Pisa 1909            v ACF Fiorentina           0-0
-    18:00  US Lecce                v Bologna FC 1909          2-2 (1-1)
-    20:45  AC Milan                v SSC Napoli               2-1 (2-0)
-  Mon Sep 29
-    18:30  Parma Calcio 1913       v Torino FC                2-1 (1-0)
-    20:45  Genoa CFC               v SS Lazio                 0-3 (0-2)
-
-
-▪ Matchday 6
-  Fri Oct 3
-    20:45  Hellas Verona FC        v US Sassuolo Calcio       0-1 (0-0)
-  Sat Oct 4
-    15:00  SS Lazio                v Torino FC                3-3 (2-1)
-           Parma Calcio 1913       v US Lecce                 0-1 (0-1)
-    18:00  FC Internazionale Milano v US Cremonese             4-1 (2-0)
-    20:45  Atalanta BC             v Como 1907                1-1 (1-1)
-  Sun Oct 5
-    12:30  Udinese Calcio          v Cagliari Calcio          1-1 (0-1)
-    15:00  ACF Fiorentina          v AS Roma                  1-2 (1-2)
-           Bologna FC 1909         v AC Pisa 1909             4-0 (3-0)
-    18:00  SSC Napoli              v Genoa CFC                2-1 (0-1)
-    20:45  Juventus FC             v AC Milan                 0-0
-
-
-▪ Matchday 7
-  Sat Oct 18
-    15:00  AC Pisa 1909            v Hellas Verona FC         0-0
-           US Lecce                v US Sassuolo Calcio       0-0
-    18:00  Torino FC               v SSC Napoli               1-0 (1-0)
-    20:45  AS Roma                 v FC Internazionale Milano  0-1 (0-1)
-  Sun Oct 19
-    12:30  Como 1907               v Juventus FC              2-0 (1-0)
-    15:00  Cagliari Calcio         v Bologna FC 1909          0-2 (0-1)
-           Genoa CFC               v Parma Calcio 1913        0-0
-    18:00  Atalanta BC             v SS Lazio                 0-0
-    20:45  AC Milan                v ACF Fiorentina           2-1 (0-0)
-  Mon Oct 20
-    20:45  US Cremonese            v Udinese Calcio           1-1 (1-0)
-
-
-▪ Matchday 8
-  Fri Oct 24
-    20:45  AC Milan                v AC Pisa 1909             2-2 (1-0)
-  Sat Oct 25
-    15:00  Parma Calcio 1913       v Como 1907                0-0
-           Udinese Calcio          v US Lecce                 3-2 (2-0)
-    18:00  SSC Napoli              v FC Internazionale Milano  3-1 (1-0)
-    20:45  US Cremonese            v Atalanta BC              1-1 (0-0)
-  Sun Oct 26
-    12:30  Torino FC               v Genoa CFC                2-1 (0-1)
-    15:00  Hellas Verona FC        v Cagliari Calcio          2-2 (1-0)
-           US Sassuolo Calcio      v AS Roma                  0-1 (0-1)
-    18:00  ACF Fiorentina          v Bologna FC 1909          2-2 (0-1)
-    20:45  SS Lazio                v Juventus FC              1-0 (1-0)
-
-
-▪ Matchday 9
-  Tue Oct 28
-    18:30  US Lecce                v SSC Napoli               0-1 (0-0)
-    20:45  Atalanta BC             v AC Milan                 1-1 (1-1)
-  Wed Oct 29
-    18:30  AS Roma                 v Parma Calcio 1913        2-1 (0-0)
-           Como 1907               v Hellas Verona FC         3-1 (1-1)
-           Juventus FC             v Udinese Calcio           3-1 (1-1)
-    20:45  Genoa CFC               v US Cremonese             0-2 (0-1)
-           Bologna FC 1909         v Torino FC                0-0
-           FC Internazionale Milano v ACF Fiorentina           3-0 (0-0)
-  Thu Oct 30
-    18:30  Cagliari Calcio         v US Sassuolo Calcio       1-2 (0-0)
-    20:45  AC Pisa 1909            v SS Lazio                 0-0
-
-
-▪ Matchday 10
-  Sat Nov 1
-    15:00  Udinese Calcio          v Atalanta BC              1-0 (1-0)
-    18:00  SSC Napoli              v Como 1907                0-0
-    20:45  US Cremonese            v Juventus FC              1-2 (0-1)
-  Sun Nov 2
-    12:30  Hellas Verona FC        v FC Internazionale Milano  1-2 (1-1)
-    15:00  ACF Fiorentina          v US Lecce                 0-1 (0-1)
-           Torino FC               v AC Pisa 1909             2-2 (2-2)
-    18:00  Parma Calcio 1913       v Bologna FC 1909          1-3 (1-1)
-    20:45  AC Milan                v AS Roma                  1-0 (1-0)
-  Mon Nov 3
-    18:30  US Sassuolo Calcio      v Genoa CFC                1-2 (0-1)
-    20:45  SS Lazio                v Cagliari Calcio          2-0 (0-0)
-
-
-▪ Matchday 11
-  Fri Nov 7
-    20:45  AC Pisa 1909            v US Cremonese             1-0 (0-0)
-  Sat Nov 8
-    15:00  Como 1907               v Cagliari Calcio          0-0
-           US Lecce                v Hellas Verona FC         0-0
-    18:00  Juventus FC             v Torino FC                0-0
-    20:45  Parma Calcio 1913       v AC Milan                 2-2 (1-2)
-  Sun Nov 9
-    12:30  Atalanta BC             v US Sassuolo Calcio       0-3 (0-1)
-    15:00  Genoa CFC               v ACF Fiorentina           2-2 (1-1)
-           Bologna FC 1909         v SSC Napoli               2-0 (0-0)
-    18:00  AS Roma                 v Udinese Calcio           2-0 (1-0)
-    20:45  FC Internazionale Milano v SS Lazio                 2-0 (1-0)
-
-
-▪ Matchday 12
-  Sat Nov 22
-    15:00  Cagliari Calcio         v Genoa CFC                3-3 (2-2)
-           Udinese Calcio          v Bologna FC 1909          0-3 (0-0)
-    18:00  ACF Fiorentina          v Juventus FC              1-1 (0-1)
-    20:45  SSC Napoli              v Atalanta BC              3-1 (3-0)
-  Sun Nov 23
-    12:30  Hellas Verona FC        v Parma Calcio 1913        1-2 (0-1)
-    15:00  US Cremonese            v AS Roma                  1-3 (0-1)
-    18:00  SS Lazio                v US Lecce                 2-0 (1-0)
-    20:45  FC Internazionale Milano v AC Milan                 0-1 (0-0)
-  Mon Nov 24
-    18:30  Torino FC               v Como 1907                1-5 (1-1)
-    20:45  US Sassuolo Calcio      v AC Pisa 1909             2-2 (1-1)
-
-
-▪ Matchday 13
-  Fri Nov 28
-    20:45  Como 1907               v US Sassuolo Calcio       2-0 (1-0)
-  Sat Nov 29
-    15:00  Genoa CFC               v Hellas Verona FC         2-1 (1-1)
-           Parma Calcio 1913       v Udinese Calcio           0-2 (0-1)
-    18:00  Juventus FC             v Cagliari Calcio          2-1 (2-1)
-    20:45  AC Milan                v SS Lazio                 1-0 (0-0)
-  Sun Nov 30
-    12:30  US Lecce                v Torino FC                2-1 (2-0)
-    15:00  AC Pisa 1909            v FC Internazionale Milano  0-2 (0-0)
-    18:00  Atalanta BC             v ACF Fiorentina           2-0 (1-0)
-    20:45  AS Roma                 v SSC Napoli               0-1 (0-1)
-  Mon Dec 1
-    20:45  Bologna FC 1909         v US Cremonese             1-3 (1-2)
-
-
-▪ Matchday 14
-  Sat Dec 6
-    15:00  US Sassuolo Calcio      v ACF Fiorentina           3-1 (2-1)
-    18:00  FC Internazionale Milano v Como 1907                4-0 (1-0)
-    20:45  Hellas Verona FC        v Atalanta BC              3-1 (2-0)
-  Sun Dec 7
-    12:30  US Cremonese            v US Lecce                 2-0 (0-0)
-    15:00  Cagliari Calcio         v AS Roma                  1-0 (0-0)
-    18:00  SS Lazio                v Bologna FC 1909          1-1 (1-1)
-    20:45  SSC Napoli              v Juventus FC              2-1 (1-0)
-  Mon Dec 8
-    15:00  AC Pisa 1909            v Parma Calcio 1913        0-1 (0-1)
-    18:00  Udinese Calcio          v Genoa CFC                1-2 (0-1)
-    20:45  Torino FC               v AC Milan                 2-3 (2-1)
-
-
-▪ Matchday 15
-  Fri Dec 12
-    20:45  US Lecce                v AC Pisa 1909             1-0 (0-0)
-  Sat Dec 13
-    15:00  Torino FC               v US Cremonese             1-0 (1-0)
-    18:00  Parma Calcio 1913       v SS Lazio                 0-1 (0-0)
-    20:45  Atalanta BC             v Cagliari Calcio          2-1 (1-0)
-  Sun Dec 14
-    12:30  AC Milan                v US Sassuolo Calcio       2-2 (1-1)
-    15:00  ACF Fiorentina          v Hellas Verona FC         1-2 (0-1)
-           Udinese Calcio          v SSC Napoli               1-0 (0-0)
-    18:00  Genoa CFC               v FC Internazionale Milano  1-2 (0-2)
-    20:45  Bologna FC 1909         v Juventus FC              0-1 (0-0)
-  Mon Dec 15
-    20:45  AS Roma                 v Como 1907                1-0 (0-0)
-
-
-▪ Matchday 16
-  Sat Dec 20
-    18:00  SS Lazio                v US Cremonese             0-0
-    20:45  Juventus FC             v AS Roma                  2-1 (1-0)
-  Sun Dec 21
-    12:30  Cagliari Calcio         v AC Pisa 1909             2-2 (0-1)
-    15:00  US Sassuolo Calcio      v Torino FC                0-1 (0-0)
-    18:00  ACF Fiorentina          v Udinese Calcio           5-1 (3-0)
-    20:45  Genoa CFC               v Atalanta BC              0-1 (0-0)
-
-
-▪ Matchday 17
-  Sat Dec 27
-    12:30  Parma Calcio 1913       v ACF Fiorentina           1-0 (0-0)
-    15:00  Torino FC               v Cagliari Calcio          1-2 (1-1)
-           US Lecce                v Como 1907                0-3 (0-1)
-    18:00  Udinese Calcio          v SS Lazio                 1-1 (0-0)
-    20:45  AC Pisa 1909            v Juventus FC              0-2 (0-0)
-  Sun Dec 28
-    12:30  AC Milan                v Hellas Verona FC         3-0 (1-0)
-    15:00  US Cremonese            v SSC Napoli               0-2 (0-2)
-    18:00  Bologna FC 1909         v US Sassuolo Calcio       1-1 (0-0)
-    20:45  Atalanta BC             v FC Internazionale Milano  0-1 (0-0)
-  Mon Dec 29
-    20:45  AS Roma                 v Genoa CFC                3-1 (3-0)
-
-
-▪ Matchday 18
-  Fri Jan 2 2026
-    20:45  Cagliari Calcio         v AC Milan                 0-1 (0-0)
-  Sat Jan 3
-    12:30  Como 1907               v Udinese Calcio           1-0 (1-0)
-    15:00  Genoa CFC               v AC Pisa 1909             1-1 (1-1)
-           US Sassuolo Calcio      v Parma Calcio 1913        1-1 (1-1)
-    18:00  Juventus FC             v US Lecce                 1-1 (0-1)
-    20:45  Atalanta BC             v AS Roma                  1-0 (1-0)
-  Sun Jan 4
-    12:30  SS Lazio                v SSC Napoli               0-2 (0-2)
-    15:00  ACF Fiorentina          v US Cremonese             1-0 (0-0)
-    18:00  Hellas Verona FC        v Torino FC                0-3 (0-1)
-    20:45  FC Internazionale Milano v Bologna FC 1909          3-1 (1-0)
-
-
-▪ Matchday 19
-  Tue Jan 6
-    15:00  AC Pisa 1909            v Como 1907                0-3 (0-0)
-    18:00  US Lecce                v AS Roma                  0-2 (0-1)
-    20:45  US Sassuolo Calcio      v Juventus FC              0-3 (0-1)
-  Wed Jan 7
-    18:30  Bologna FC 1909         v Atalanta BC              0-2 (0-1)
-           SSC Napoli              v Hellas Verona FC         2-2 (0-2)
-    20:45  Torino FC               v Udinese Calcio           1-2 (0-0)
-           SS Lazio                v ACF Fiorentina           2-2 (0-0)
-           Parma Calcio 1913       v FC Internazionale Milano  0-2 (0-1)
-  Thu Jan 8
-    18:30  US Cremonese            v Cagliari Calcio          2-2 (2-0)
-    20:45  AC Milan                v Genoa CFC                1-1 (0-1)
-
-
-▪ Matchday 20
-  Sat Jan 10
-    15:00  Como 1907               v Bologna FC 1909          1-1 (0-0)
-           Udinese Calcio          v AC Pisa 1909             2-2 (2-1)
-    18:00  AS Roma                 v US Sassuolo Calcio       2-0 (0-0)
-    20:45  Atalanta BC             v Torino FC                2-0 (1-0)
-  Sun Jan 11
-    12:30  US Lecce                v Parma Calcio 1913        1-2 (1-0)
-    15:00  ACF Fiorentina          v AC Milan                 1-1 (0-0)
-    18:00  Hellas Verona FC        v SS Lazio                 0-1 (0-0)
-    20:45  FC Internazionale Milano v SSC Napoli               2-2 (1-1)
-  Mon Jan 12
-    18:30  Genoa CFC               v Cagliari Calcio          3-0 (1-0)
-    20:45  Juventus FC             v US Cremonese             5-0 (3-0)
-
-
-▪ Matchday 16
-  Wed Jan 14
-    18:30  SSC Napoli              v Parma Calcio 1913        0-0
-    20:45  FC Internazionale Milano v US Lecce                 1-0 (0-0)
-  Thu Jan 15
-    18:30  Hellas Verona FC        v Bologna FC 1909          2-3 (1-3)
-    20:45  Como 1907               v AC Milan                 1-3 (1-1)
-
-
-▪ Matchday 21
-  Fri Jan 16
-    20:45  AC Pisa 1909            v Atalanta BC              1-1 (0-0)
-  Sat Jan 17
-    15:00  Udinese Calcio          v FC Internazionale Milano  0-1 (0-1)
-    18:00  SSC Napoli              v US Sassuolo Calcio       1-0 (1-0)
-    20:45  Cagliari Calcio         v Juventus FC              1-0 (0-0)
-  Sun Jan 18
-    12:30  Parma Calcio 1913       v Genoa CFC                0-0
-    15:00  Bologna FC 1909         v ACF Fiorentina           1-2 (0-2)
-    18:00  Torino FC               v AS Roma                  0-2 (0-1)
-    20:45  AC Milan                v US Lecce                 1-0 (0-0)
-  Mon Jan 19
-    18:30  US Cremonese            v Hellas Verona FC         0-0
-    20:45  SS Lazio                v Como 1907                0-3 (0-2)
-
-
-▪ Matchday 22
-  Fri Jan 23
-    20:45  FC Internazionale Milano v AC Pisa 1909             6-2 (3-2)
-  Sat Jan 24
-    15:00  Como 1907               v Torino FC                6-0 (2-0)
-    18:00  ACF Fiorentina          v Cagliari Calcio          1-2 (0-1)
-    20:45  US Lecce                v SS Lazio                 0-0
-  Sun Jan 25
-    12:30  US Sassuolo Calcio      v US Cremonese             1-0 (1-0)
-    15:00  Atalanta BC             v Parma Calcio 1913        4-0 (2-0)
-           Genoa CFC               v Bologna FC 1909          3-2 (0-1)
-    18:00  Juventus FC             v SSC Napoli               3-0 (1-0)
-    20:45  AS Roma                 v AC Milan                 1-1 (0-0)
-  Mon Jan 26
-    20:45  Hellas Verona FC        v Udinese Calcio           1-3 (1-1)
-
-
-▪ Matchday 23
-  Fri Jan 30
-    20:45  SS Lazio                v Genoa CFC                3-2 (0-0)
-  Sat Jan 31
-    15:00  AC Pisa 1909            v US Sassuolo Calcio       1-3 (0-2)
-    18:00  SSC Napoli              v ACF Fiorentina           2-1 (1-0)
-    20:45  Cagliari Calcio         v Hellas Verona FC         4-0 (2-0)
-  Sun Feb 1
-    12:30  Torino FC               v US Lecce                 1-0 (1-0)
-    15:00  Como 1907               v Atalanta BC              0-0
-    18:00  US Cremonese            v FC Internazionale Milano  0-2 (0-2)
-    20:45  Parma Calcio 1913       v Juventus FC              1-4 (0-2)
-  Mon Feb 2
-    20:45  Udinese Calcio          v AS Roma                  1-0 (0-0)
-  Tue Feb 3
-    20:45  Bologna FC 1909         v AC Milan                 0-3 (0-2)
-
-
-▪ Matchday 24
-  Fri Feb 6
-    20:45  Hellas Verona FC        v AC Pisa 1909             0-0
-  Sat Feb 7
-    18:00  Genoa CFC               v SSC Napoli               2-3 (1-2)
-    20:45  ACF Fiorentina          v Torino FC                2-2 (0-1)
-  Sun Feb 8
-    12:30  Bologna FC 1909         v Parma Calcio 1913        0-1 (0-0)
-    15:00  US Lecce                v Udinese Calcio           2-1 (1-1)
-    18:00  US Sassuolo Calcio      v FC Internazionale Milano  0-5 (0-2)
-    20:45  Juventus FC             v SS Lazio                 2-2 (0-1)
-  Mon Feb 9
-    18:30  Atalanta BC             v US Cremonese             2-1 (2-0)
-    20:45  AS Roma                 v Cagliari Calcio          2-0 (1-0)
-
-
-▪ Matchday 25
-  Fri Feb 13
-    20:45  AC Pisa 1909            v AC Milan                 1-2 (0-1)
-  Sat Feb 14
-    15:00  Como 1907               v ACF Fiorentina           1-2 (0-1)
-    18:00  SS Lazio                v Atalanta BC              0-2 (0-1)
-    20:45  FC Internazionale Milano v Juventus FC              3-2 (1-1)
-  Sun Feb 15
-    12:30  Udinese Calcio          v US Sassuolo Calcio       1-2 (1-0)
-    15:00  Parma Calcio 1913       v Hellas Verona FC         2-1 (1-1)
-           US Cremonese            v Genoa CFC                0-0
-    18:00  Torino FC               v Bologna FC 1909          1-2 (0-0)
-    20:45  SSC Napoli              v AS Roma                  2-2 (1-1)
-  Mon Feb 16
-    20:45  Cagliari Calcio         v US Lecce                 0-2 (0-0)
-
-
-▪ Matchday 24
-  Wed Feb 18
-    20:45  AC Milan                v Como 1907                1-1 (0-1)
-
-
-▪ Matchday 26
-  Fri Feb 20
-    20:45  US Sassuolo Calcio      v Hellas Verona FC         3-0 (2-0)
-  Sat Feb 21
-    15:00  Juventus FC             v Como 1907                0-2 (0-1)
-    18:00  US Lecce                v FC Internazionale Milano  0-2 (0-0)
-    20:45  Cagliari Calcio         v SS Lazio                 0-0
-  Sun Feb 22
-    12:30  Genoa CFC               v Torino FC                3-0 (2-0)
-    15:00  Atalanta BC             v SSC Napoli               2-1 (0-1)
-    18:00  AC Milan                v Parma Calcio 1913        0-1 (0-0)
-    20:45  AS Roma                 v US Cremonese             3-0 (0-0)
-  Mon Feb 23
-    18:30  ACF Fiorentina          v AC Pisa 1909             1-0 (1-0)
-    20:45  Bologna FC 1909         v Udinese Calcio           1-0 (0-0)
-
-
-▪ Matchday 27
-  Fri Feb 27
-    20:45  Parma Calcio 1913       v Cagliari Calcio          1-1 (0-0)
-  Sat Feb 28
-    15:00  Como 1907               v US Lecce                 3-1 (3-1)
-    18:00  Hellas Verona FC        v SSC Napoli               1-2 (0-1)
-    20:45  FC Internazionale Milano v Genoa CFC                2-0 (1-0)
-  Sun Mar 1
-    12:30  US Cremonese            v AC Milan                 0-2 (0-0)
-    15:00  US Sassuolo Calcio      v Atalanta BC              2-1 (1-0)
-    18:00  Torino FC               v SS Lazio                 2-0 (1-0)
-    20:45  AS Roma                 v Juventus FC              3-3 (1-0)
-  Mon Mar 2
-    18:30  AC Pisa 1909            v Bologna FC 1909          0-1 (0-0)
-    20:45  Udinese Calcio          v ACF Fiorentina           3-0 (1-0)
-
-
-▪ Matchday 28
-  Fri Mar 6
-    20:45  SSC Napoli              v Torino FC                2-1 (1-0)
-  Sat Mar 7
-    15:00  Cagliari Calcio         v Como 1907                1-2 (0-1)
-    18:00  Atalanta BC             v Udinese Calcio           2-2 (0-1)
-    20:45  Juventus FC             v AC Pisa 1909             4-0 (0-0)
-  Sun Mar 8
-    12:30  US Lecce                v US Cremonese             2-1 (2-0)
-    15:00  Bologna FC 1909         v Hellas Verona FC         1-2 (0-0)
-           ACF Fiorentina          v Parma Calcio 1913        0-0
-    18:00  Genoa CFC               v AS Roma                  2-1 (0-0)
-    20:45  AC Milan                v FC Internazionale Milano  1-0 (1-0)
-  Mon Mar 9
-    20:45  SS Lazio                v US Sassuolo Calcio       2-1 (1-1)
-
-
-▪ Matchday 29
-  Fri Mar 13
-    20:45  Torino FC               v Parma Calcio 1913        4-1 (1-1)
-  Sat Mar 14
-    15:00  FC Internazionale Milano v Atalanta BC              1-1 (1-0)
-    18:00  SSC Napoli              v US Lecce                 2-1 (0-1)
-    20:45  Udinese Calcio          v Juventus FC              0-1 (0-1)
-  Sun Mar 15
-    12:30  Hellas Verona FC        v Genoa CFC                0-2 (0-0)
-    15:00  AC Pisa 1909            v Cagliari Calcio          3-1 (1-0)
-           US Sassuolo Calcio      v Bologna FC 1909          0-1 (0-1)
-    18:00  Como 1907               v AS Roma                  2-1 (0-1)
-    20:45  SS Lazio                v AC Milan                 1-0 (1-0)
-  Mon Mar 16
-    20:45  US Cremonese            v ACF Fiorentina           1-4 (0-2)
-
-
-▪ Matchday 30
-  Fri Mar 20
-    18:30  Cagliari Calcio         v SSC Napoli               0-1 (0-1)
-    20:45  Genoa CFC               v Udinese Calcio           0-2 (0-0)
-  Sat Mar 21
-    15:00  Parma Calcio 1913       v US Cremonese             0-2 (0-0)
-    18:00  AC Milan                v Torino FC                3-2 (1-1)
-    20:45  Juventus FC             v US Sassuolo Calcio       1-1 (1-0)
-  Sun Mar 22
-    12:30  Como 1907               v AC Pisa 1909             5-0 (2-0)
-    15:00  Atalanta BC             v Hellas Verona FC         1-0 (1-0)
-           Bologna FC 1909         v SS Lazio                 0-2 (0-0)
-    18:00  AS Roma                 v US Lecce                 1-0 (0-0)
-    20:45  ACF Fiorentina          v FC Internazionale Milano  1-1 (0-1)
-
-
-▪ Matchday 31
-  Sat Apr 4
-    15:00  US Sassuolo Calcio      v Cagliari Calcio          2-1 (0-1)
-    18:00  Hellas Verona FC        v ACF Fiorentina           0-1 (0-0)
-    20:45  SS Lazio                v Parma Calcio 1913        1-1 (0-1)
-  Sun Apr 5
-    15:00  US Cremonese            v Bologna FC 1909          1-2 (0-2)
-    18:00  AC Pisa 1909            v Torino FC                0-1 (0-0)
-    20:45  FC Internazionale Milano v AS Roma                  5-2 (2-1)
-  Mon Apr 6
-    12:30  Udinese Calcio          v Como 1907                0-0
-    15:00  US Lecce                v Atalanta BC              0-3 (0-1)
-    18:00  Juventus FC             v Genoa CFC                2-0 (2-0)
-    20:45  SSC Napoli              v AC Milan                 1-0 (0-0)
-
-
-▪ Matchday 32
-  Fri Apr 10
-    20:45  AS Roma                 v AC Pisa 1909             3-0 (2-0)
-  Sat Apr 11
-    15:00  Cagliari Calcio         v US Cremonese             1-0 (0-0)
-           Torino FC               v Hellas Verona FC         2-1 (1-1)
-    18:00  AC Milan                v Udinese Calcio           0-3 (0-2)
-    20:45  Atalanta BC             v Juventus FC              0-1 (0-0)
-  Sun Apr 12
-    12:30  Genoa CFC               v US Sassuolo Calcio       2-1 (1-0)
-    15:00  Parma Calcio 1913       v SSC Napoli               1-1 (1-0)
-    18:00  Bologna FC 1909         v US Lecce                 2-0 (1-0)
-    20:45  Como 1907               v FC Internazionale Milano  3-4 (2-1)
-  Mon Apr 13
-    20:45  ACF Fiorentina          v SS Lazio                 1-0 (1-0)
-
-
-▪ Matchday 33
-  Fri Apr 17
-    18:30  US Sassuolo Calcio      v Como 1907                2-1 (2-1)
-    20:45  FC Internazionale Milano v Cagliari Calcio          3-0 (0-0)
-  Sat Apr 18
-    15:00  Udinese Calcio          v Parma Calcio 1913        0-1 (0-0)
-    18:00  SSC Napoli              v SS Lazio                 0-2 (0-1)
-    20:45  AS Roma                 v Atalanta BC              1-1 (1-1)
-  Sun Apr 19
-    12:30  US Cremonese            v Torino FC                0-0
-    15:00  Hellas Verona FC        v AC Milan                 0-1 (0-1)
-    18:00  AC Pisa 1909            v Genoa CFC                1-2 (1-1)
-    20:45  Juventus FC             v Bologna FC 1909          2-0 (1-0)
-  Mon Apr 20
-    20:45  US Lecce                v ACF Fiorentina           1-1 (0-1)
-
-
-▪ Matchday 34
-  Fri Apr 24
-    20:45  SSC Napoli              v US Cremonese             4-0 (3-0)
-  Sat Apr 25
-    15:00  Parma Calcio 1913       v AC Pisa 1909             1-0 (0-0)
-    18:00  Bologna FC 1909         v AS Roma                  0-2 (0-2)
-    20:45  Hellas Verona FC        v US Lecce                 0-0
-  Sun Apr 26
-    12:30  ACF Fiorentina          v US Sassuolo Calcio       0-0
-    15:00  Genoa CFC               v Como 1907                0-2 (0-1)
-    18:00  Torino FC               v FC Internazionale Milano  2-2 (0-1)
-    20:45  AC Milan                v Juventus FC              0-0
-  Mon Apr 27
-    18:30  Cagliari Calcio         v Atalanta BC              3-2 (2-2)
-    20:45  SS Lazio                v Udinese Calcio           3-3 (0-1)
-
-
-▪ Matchday 35
-  Fri May 1
-    20:45  AC Pisa 1909            v US Lecce                 1-2 (0-0)
-  Sat May 2
-    15:00  Udinese Calcio          v Torino FC                2-0 (1-0)
-    18:00  Como 1907               v SSC Napoli               0-0
-    20:45  Atalanta BC             v Genoa CFC                0-0
-  Sun May 3
-    12:30  Bologna FC 1909         v Cagliari Calcio          0-0
-    15:00  US Sassuolo Calcio      v AC Milan                 2-0 (1-0)
-    18:00  Juventus FC             v Hellas Verona FC         1-1 (0-1)
-    20:45  FC Internazionale Milano v Parma Calcio 1913        2-0 (1-0)
-  Mon May 4
-    18:30  US Cremonese            v SS Lazio                 1-2 (1-0)
-    20:45  AS Roma                 v ACF Fiorentina           4-0 (3-0)
-
-
-▪ Matchday 36
-  Fri May 8
-    20:45  Torino FC               v US Sassuolo Calcio       2-1 (0-0)
-  Sat May 9
-    15:00  Cagliari Calcio         v Udinese Calcio           0-2 (0-0)
-    18:00  SS Lazio                v FC Internazionale Milano  0-3 (0-2)
-    20:45  US Lecce                v Juventus FC              0-1 (0-1)
-  Sun May 10
-    12:30  Hellas Verona FC        v Como 1907                0-1 (0-0)
-    15:00  ACF Fiorentina          v Genoa CFC                0-0
-           US Cremonese            v AC Pisa 1909             3-0 (1-0)
-    18:00  Parma Calcio 1913       v AS Roma                  2-3 (0-1)
-    20:45  AC Milan                v Atalanta BC              2-3 (0-2)
-  Mon May 11
-    20:45  SSC Napoli              v Bologna FC 1909          2-3 (1-2)
-
-
-▪ Matchday 37
-  Sun May 17
-    12:00  AS Roma                 v SS Lazio                 2-0 (1-0)
-           Genoa CFC               v AC Milan                 1-2 (0-0)
-           Como 1907               v Parma Calcio 1913        1-0 (0-0)
-           Juventus FC             v ACF Fiorentina           0-2 (0-1)
-           AC Pisa 1909            v SSC Napoli               0-3 (0-2)
-    15:00  FC Internazionale Milano v Hellas Verona FC         1-1 (0-0)
-    18:00  Atalanta BC             v Bologna FC 1909          0-1 (0-0)
-    20:45  Cagliari Calcio         v Torino FC                2-1 (2-1)
-           US Sassuolo Calcio      v US Lecce                 2-3 (1-2)
-           Udinese Calcio          v US Cremonese             0-1 (0-1)
-
-
-▪ Matchday 38
-  Fri May 22
-    20:45  ACF Fiorentina          v Atalanta BC              1-1 (1-0)
-  Sat May 23
-    18:00  Bologna FC 1909         v FC Internazionale Milano  3-3 (2-1)
-    20:45  SS Lazio                v AC Pisa 1909             2-1 (2-1)
-  Sun May 24
-    15:00  Parma Calcio 1913       v US Sassuolo Calcio       1-0 (0-0)
-    18:00  SSC Napoli              v Udinese Calcio           1-0 (1-0)
-    20:45  AC Milan                v Cagliari Calcio          1-2 (1-1)
-           Hellas Verona FC        v AS Roma                  0-2 (0-0)
-           US Cremonese            v Como 1907                1-4 (0-1)
-           US Lecce                v Genoa CFC                1-0 (1-0)
-    21:45  Torino FC               v Juventus FC              2-2 (0-1)
+= Italy | Serie A 2025/26
+
+# Dates    Sat Aug 23 2025 - Sun May 24 2026 (274d)
+# Teams    20
+# Matches  380
+
+
+▪ Regular Season - 1
+Sat Aug 23 2025
+  16:30   Sassuolo  0-2 (0-1)  Napoli   
+                  (Scott McTominay 17', Kevin DE BRUYNE 57')
+  18:30   Genoa  0-0 (0-0)  Lecce   
+  20:45   AS Roma  1-0 (0-0)  Bologna   
+                  (WESLEY 53')
+  20:45   Milan  1-2 (1-1)  Cremonese   
+                  (Strahinja PAVLOVIC 45+1';
+                   Federico Baschirotto 28', Federico Bonazzoli 61')
+Sun Aug 24
+  18:30   Como  2-0 (0-0)  Lazio   
+                  (Anastasios DOUVIKAS 47', Nico PAZ 73')
+  18:30   Cagliari  1-1 (0-0)  Fiorentina   
+                  (Sebastiano Luperto 90+4'; Rolando Mandragora 68')
+  20:45   Juventus FC  2-0 (0-0)  Parma   
+                  (Jonathan DAVID 59', Dusan VLAHOVIC 84')
+  20:45   Atalanta  1-1 (0-1)  Pisa   
+                  (Gianluca Scamacca 50'; Isak HIEN 26'(og))
+Mon Aug 25
+  18:30   Udinese  1-1 (0-0)  Hellas Verona   
+                  (Thomas Kristensen 53'; Suat Serdar 73')
+  20:45   FC Internazionale Milano  5-0 (2-0)  Torino   
+                  (Alessandro BASTONI 18', Marcus THURAM 36', 62', Lautaro MARTINEZ 51', Ange-Yoan BONNY 72')
+
+▪ Regular Season - 2
+Fri Aug 29
+  18:30   Cremonese  3-2 (2-0)  Sassuolo   
+                  (Filippo Terracciano 37', Franco Vázquez 39', Manuel De Luca 90+3'(p);
+                   Andrea Pinamonti 63', Domenico BERARDI 73'(p))
+  20:45   Lecce  0-2 (0-0)  Milan   
+                  (Ruben Loftus-Cheek 66', Christian PULISIC 86')
+Sat Aug 30
+  18:30   Parma  1-1 (0-0)  Atalanta   
+                  (Patrick Cutrone 85'; Mario PASALIC 79')
+  18:30   Bologna  1-0 (0-0)  Como   
+                  (Riccardo Orsolini 59')
+  20:45   Napoli  1-0 (0-0)  Cagliari   
+                  (Andre-Frank ZAMBO ANGUISSA 90+5')
+  20:45   Pisa  0-1 (0-0)  AS Roma   
+                  (Matias SOULE 55')
+Sun Aug 31
+  18:30   Genoa  0-1 (0-0)  Juventus FC   
+                  (Dusan VLAHOVIC 73')
+  18:30   Torino  0-0 (0-0)  Fiorentina   
+  20:45   Lazio  4-0 (3-0)  Hellas Verona   
+                  (Matteo GUENDOUZI 3', Mattia ZACCAGNI 10', Valentin CASTELLANOS 41', Boulaye DIA 82')
+  20:45   FC Internazionale Milano  1-2 (1-2)  Udinese   
+                  (Denzel DUMFRIES 17';
+                   Keinan Davis 29'(p), Arthur Atta 40')
+
+▪ Regular Season - 3
+Sat Sep 13
+  15:00   Cagliari  2-0 (1-0)  Parma   
+                  (Yerry MINA 33', Mattia Felici 77')
+  18:00   Juventus FC  4-3 (2-1)  FC Internazionale Milano   
+                  (Lloyd Kelly 14', Kenan YILDIZ 38', Khephren THURAM 82', Vasilije ADZIC 90+1';
+                   Hakan CALHANOGLU 30', 65', Marcus THURAM 76')
+  20:45   Fiorentina  1-3 (0-2)  Napoli   
+                  (Luca Ranieri 79';
+                   Kevin DE BRUYNE 6'(p), Rasmus HOJLUND 14', Sam Beukema 51')
+Sun Sep 14
+  12:30   AS Roma  0-1 (0-0)  Torino   
+                  (Giovanni SIMEONE 59')
+  15:00   Atalanta  4-1 (1-0)  Lecce   
+                  (Giorgio Scalvini 37', Charles DE KETELAERE 51', 73', Nicola ZALEWSKI 70';
+                   Konan N’Dri 82')
+  15:00   Pisa  0-1 (0-1)  Udinese   
+                  (Iker Bravo 14')
+  16:00   Sassuolo  1-0 (0-0)  Lazio   
+                  (Alieu FADERA 70')
+  20:45   Milan  1-0 (0-0)  Bologna   
+                  (Luka MODRIC 61')
+Mon Sep 15
+  18:30   Hellas Verona  0-0 (0-0)  Cremonese   
+  20:45   Como  1-1 (1-0)  Genoa   
+                  (Nico PAZ 13'; Caleb EKUBAN 90+2')
+
+▪ Regular Season - 4
+Fri Sep 19
+  20:45   Lecce  1-2 (1-1)  Cagliari   
+                  (Tiago Gabriel 5';
+                   Andrea BELOTTI 33', 71'(p))
+Sat Sep 20
+  15:00   Bologna  2-1 (0-0)  Genoa   
+                  (Santiago CASTRO 73', Riccardo Orsolini 90+9'(p);
+                   Mikael EGILL ELLERTSSON 63')
+  18:00   Hellas Verona  1-1 (1-1)  Juventus FC   
+                  (Gift Orban 44'(p); FRANCISCO CONCEICAO 19')
+  20:45   Udinese  0-3 (0-1)  Milan   
+                  (Christian PULISIC 39', 53', Youssouf Fofana 46')
+Sun Sep 21
+  12:30   Lazio  0-1 (0-1)  AS Roma   
+                  (Lorenzo Pellegrini 38')
+  15:00   Cremonese  0-0 (0-0)  Parma   
+  15:00   Torino  0-3 (0-3)  Atalanta   
+                  (Nikola KRSTOVIC 30', 38', Kamaldeen SULEMANA 34')
+  18:00   Fiorentina  1-2 (1-0)  Como   
+                  (Rolando Mandragora 6';
+                   Marc KEMPF 65', Jayden Addai 90+4')
+  20:45   FC Internazionale Milano  2-1 (1-0)  Sassuolo   
+                  (Federico DIMARCO 14', Tarik MUHAREMOVIC 81'(og);
+                   Walid Cheddira 84')
+Mon Sep 22
+  20:45   Napoli  3-2 (1-0)  Pisa   
+                  (Billy Gilmour 39', Leonardo Spinazzola 73', Lorenzo LUCCA 82';
+                   MBALA NZOLA 60'(p), Lorran 90')
+
+▪ Regular Season - 5
+Sat Sep 27
+  15:00   Como  1-1 (1-0)  Cremonese   
+                  (Nico PAZ 32'; Federico Baschirotto 69')
+  18:00   Juventus FC  1-1 (0-1)  Atalanta   
+                  (Juan CABAL 78'; Kamaldeen SULEMANA 45+1')
+  20:45   Cagliari  0-2 (0-1)  FC Internazionale Milano   
+                  (Lautaro MARTINEZ 9', Francesco ESPOSITO 82')
+Sun Sep 28
+  10:30   Sassuolo  3-1 (2-0)  Udinese   
+                  (Armand Laurienté 8', Ismael KONE 12', Edoardo Iannoni 81';
+                   Keinan Davis 55')
+  15:00   AS Roma  2-0 (1-0)  Hellas Verona   
+                  (Artem DOVBYK 7', Matias SOULE 79')
+  15:00   Pisa  0-0 (0-0)  Fiorentina   
+  18:00   Lecce  2-2 (1-1)  Bologna   
+                  (Lassana Coulibaly 13', Francesco Camarda 90+4';
+                   Riccardo Orsolini 45+1'(p), Jens Odgaard 71')
+  20:45   Milan  2-1 (2-0)  Napoli   
+                  (Alexis SAELEMAEKERS 3', Christian PULISIC 31';
+                   Kevin DE BRUYNE 60'(p))
+Mon Sep 29
+  18:30   Parma  2-1 (1-0)  Torino   
+                  (Mateo Pellegrino 36'(p), 72';
+                   Cyril NGONGE 50')
+  20:45   Genoa  0-3 (0-2)  Lazio   
+                  (Matteo Cancellieri 4', Valentin CASTELLANOS 30', Mattia ZACCAGNI 63')
+
+▪ Regular Season - 6
+Fri Oct 3
+  20:45   Hellas Verona  0-1 (0-0)  Sassuolo   
+                  (Andrea Pinamonti 71')
+Sat Oct 4
+  15:00   Parma  0-1 (0-1)  Lecce   
+                  (Riccardo Sottil 38')
+  15:00   Lazio  3-3 (2-1)  Torino   
+                  (Matteo Cancellieri 24', 40', Danilo Cataldi 90+13'(p);
+                   Giovanni SIMEONE 16', Che Adams 73', Saul COCO 90+3')
+  18:00   FC Internazionale Milano  4-1 (2-0)  Cremonese   
+                  (Lautaro MARTINEZ 6', Ange-Yoan BONNY 38', Federico DIMARCO 55', Nicolo BARELLA 57';
+                   Federico Bonazzoli 87')
+  20:45   Atalanta  1-1 (1-1)  Como   
+                  (Lazar SAMARDZIC 6'; Maximo PERRONE 19')
+Sun Oct 5
+  12:30   Udinese  1-1 (0-1)  Cagliari   
+                  (Christian Kabasele 58'; Gennaro Borrelli 25')
+  15:00   Bologna  4-0 (3-0)  Pisa   
+                  (Nicolò Cambiaghi 24', Nikola Moro 38', Riccardo Orsolini 40', Jens Odgaard 53')
+  15:00   Fiorentina  1-2 (1-2)  AS Roma   
+                  (Moise KEAN 14';
+                   Matias SOULE 22', Bryan Cristante 30')
+  18:00   Napoli  2-1 (0-1)  Genoa   
+                  (Andre-Frank ZAMBO ANGUISSA 57', Rasmus HOJLUND 75';
+                   Jeff Ekhator 33')
+  20:45   Juventus FC  0-0 (0-0)  Milan   
+
+▪ Regular Season - 7
+Sat Oct 18
+  15:00   Lecce  0-0 (0-0)  Sassuolo   
+  15:00   Pisa  0-0 (0-0)  Hellas Verona   
+  18:00   Torino  1-0 (1-0)  Napoli   
+                  (Giovanni SIMEONE 32')
+  20:45   AS Roma  0-1 (0-1)  FC Internazionale Milano   
+                  (Ange-Yoan BONNY 6')
+Sun Oct 19
+  12:30   Como  2-0 (1-0)  Juventus FC   
+                  (Marc KEMPF 4', Nico PAZ 79')
+  15:00   Genoa  0-0 (0-0)  Parma   
+  15:00   Cagliari  0-2 (0-1)  Bologna   
+                  (Emil HOLM 31', Riccardo Orsolini 80')
+  18:00   Atalanta  0-0 (0-0)  Lazio   
+  20:45   Milan  2-1 (0-0)  Fiorentina   
+                  (RAFAEL LEAO 63', 86'(p);
+                   Robin GOSENS 55')
+Mon Oct 20
+  20:45   Cremonese  1-1 (1-0)  Udinese   
+                  (Filippo Terracciano 4'; Nicolo ZANIOLO 51')
+
+▪ Regular Season - 8
+Fri Oct 24
+  20:45   Milan  2-2 (1-0)  Pisa   
+                  (RAFAEL LEAO 7', Zachary Athekame 90+3';
+                   Juan CUADRADO 60'(p), MBALA NZOLA 86')
+Sat Oct 25
+  15:00   Udinese  3-2 (2-0)  Lecce   
+                  (Jesper KARLSTROM 16', Keinan Davis 37', Adam Buksa 89';
+                   Medon BERISHA 59', Konan N’Dri 90+6')
+  15:00   Parma  0-0 (0-0)  Como   
+  18:00   Napoli  3-1 (1-0)  FC Internazionale Milano   
+                  (Kevin DE BRUYNE 33'(p), Scott McTominay 54', Andre-Frank ZAMBO ANGUISSA 66';
+                   Hakan CALHANOGLU 59'(p))
+  20:45   Cremonese  1-1 (0-0)  Atalanta   
+                  (Jamie Vardy 78'; Marco BRESCIANINI 84')
+Sun Oct 26
+  12:30   Torino  2-1 (0-1)  Genoa   
+                  (Stefano Sabelli 63'(og), Guillermo MARIPAN 90';
+                   Morten Thorsby 7')
+  14:00   Sassuolo  0-1 (0-1)  AS Roma   
+                  (Paulo DYBALA 16')
+  15:00   Hellas Verona  2-2 (1-0)  Cagliari   
+                  (Roberto Gagliardini 23', Gift Orban 59';
+                   Riyad Idrissi 77', Mattia Felici 90+2')
+  18:00   Fiorentina  2-2 (0-1)  Bologna   
+                  (Albert GUDMUNDSSON 73'(p), Moise KEAN 90+4'(p);
+                   Santiago CASTRO 25', Nicolò Cambiaghi 52')
+  20:45   Lazio  1-0 (1-0)  Juventus FC   
+                  (Toma Basic 9')
+
+▪ Regular Season - 9
+Tue Oct 28
+  18:30   Lecce  0-1 (0-0)  Napoli   
+                  (Andre-Frank ZAMBO ANGUISSA 69')
+  20:45   Atalanta  1-1 (1-1)  Milan   
+                  (Ademola Lookman 35'; Samuele RICCI 4')
+Wed Oct 29
+  18:30   Como  3-1 (1-1)  Hellas Verona   
+                  (Anastasios DOUVIKAS 9', Stefan POSCH 62', Mergim VOJVODA 90+2';
+                   Suat Serdar 25')
+  18:30   Juventus FC  3-1 (1-1)  Udinese   
+                  (Dusan VLAHOVIC 5'(p), Federico GATTI 67', Kenan YILDIZ 90+6'(p);
+                   Nicolo ZANIOLO 45+1')
+  18:30   AS Roma  2-1 (0-0)  Parma   
+                  (Mario Hermoso 63', Artem DOVBYK 81';
+                   Alessandro CIRCATI 86')
+  20:45   FC Internazionale Milano  3-0 (0-0)  Fiorentina   
+                  (Hakan CALHANOGLU 66', 88'(p), Petar SUCIC 71')
+  20:45   Genoa  0-2 (0-1)  Cremonese   
+                  (Federico Bonazzoli 4', 49')
+  20:45   Bologna  0-0 (0-0)  Torino   
+Thu Oct 30
+  18:30   Cagliari  1-2 (0-0)  Sassuolo   
+                  (S. Esposito 73';
+                   Armand Laurienté 54', Andrea Pinamonti 65')
+  20:45   Pisa  0-0 (0-0)  Lazio   
+
+▪ Regular Season - 10
+Sat Nov 1
+  15:00   Udinese  1-0 (1-0)  Atalanta   
+                  (Nicolo ZANIOLO 40')
+  18:00   Napoli  0-0 (0-0)  Como   
+  20:45   Cremonese  1-2 (0-1)  Juventus FC   
+                  (Jamie Vardy 83';
+                   Filip KOSTIC 2', Andrea CAMBIASO 68')
+Sun Nov 2
+  12:30   Hellas Verona  1-2 (1-1)  FC Internazionale Milano   
+                  (Giovane 40';
+                   Piotr ZIELINSKI 16', Martin Frese 90+3'(og))
+  15:00   Fiorentina  0-1 (0-1)  Lecce   
+                  (Medon BERISHA 23')
+  15:00   Torino  2-2 (2-2)  Pisa   
+                  (Giovanni SIMEONE 42', Che Adams 45+3';
+                   Stefano Moreo 13', 29'(p))
+  18:00   Parma  1-3 (1-1)  Bologna   
+                  (Adrian BERNABE 1';
+                   Santiago CASTRO 17', 68', Juan MIRANDA 90+2')
+  20:45   Milan  1-0 (1-0)  AS Roma   
+                  (Strahinja PAVLOVIC 39')
+Mon Nov 3
+  17:30   Sassuolo  1-2 (0-1)  Genoa   
+                  (Domenico BERARDI 47';
+                   Ruslan MALINOVSKYI 18', Leo OSTIGARD 90+3')
+  20:45   Lazio  2-0 (0-0)  Cagliari   
+                  (Gustav ISAKSEN 65', Mattia ZACCAGNI 90+1')
+
+▪ Regular Season - 11
+Fri Nov 7
+  20:45   Pisa  1-0 (0-0)  Cremonese   
+                  (Idrissa Touré 75')
+Sat Nov 8
+  15:00   Como  0-0 (0-0)  Cagliari   
+  15:00   Lecce  0-0 (0-0)  Hellas Verona   
+  18:00   Juventus FC  0-0 (0-0)  Torino   
+  20:45   Parma  2-2 (1-2)  Milan   
+                  (Adrian BERNABE 45+1', Enrico Del Prato 62';
+                   Alexis SAELEMAEKERS 12', RAFAEL LEAO 25'(p))
+Sun Nov 9
+  12:30   Atalanta  0-3 (0-1)  Sassuolo   
+                  (Domenico BERARDI 29'(p), 66', Andrea Pinamonti 47')
+  15:00   Genoa  2-2 (1-1)  Fiorentina   
+                  (Leo OSTIGARD 15', Lorenzo Colombo 60';
+                   Albert GUDMUNDSSON 20'(p), Roberto Piccoli 57')
+  15:00   Bologna  2-0 (0-0)  Napoli   
+                  (Thijs Dallinga 50', Jhon LUCUMI 66')
+  18:00   AS Roma  2-0 (1-0)  Udinese   
+                  (Lorenzo Pellegrini 42'(p), Zeki CELIK 61')
+  20:45   FC Internazionale Milano  2-0 (1-0)  Lazio   
+                  (Lautaro MARTINEZ 3', Ange-Yoan BONNY 61')
+
+▪ Regular Season - 12
+Sat Nov 22
+  15:00   Udinese  0-3 (0-0)  Bologna   
+                  (Tommaso Pobega 54', 59', Federico BERNARDESCHI 90+4')
+  15:00   Cagliari  3-3 (2-2)  Genoa   
+                  (Gennaro Borrelli 33', 60', S. Esposito 43';
+                   Vítinha 18', Leo OSTIGARD 41', Aarón Martín Caricol 83')
+  18:00   Fiorentina  1-1 (0-1)  Juventus FC   
+                  (Rolando Mandragora 48'; Filip KOSTIC 45+5')
+  20:45   Napoli  3-1 (3-0)  Atalanta   
+                  (DAVID NERES 17', 38', Noa LANG 45';
+                   Gianluca Scamacca 52')
+Sun Nov 23
+  12:30   Hellas Verona  1-2 (0-1)  Parma   
+                  (Giovane 65';
+                   Mateo Pellegrino 18', 80')
+  15:00   Cremonese  1-3 (0-1)  AS Roma   
+                  (Francesco Folino 90+3';
+                   Matias SOULE 17', Evan FERGUSON 64', WESLEY 69')
+  18:00   Lazio  2-0 (1-0)  Lecce   
+                  (Matteo GUENDOUZI 29', Tijjani Noslin 90+5')
+  20:45   FC Internazionale Milano  0-1 (0-0)  Milan   
+                  (Christian PULISIC 54')
+Mon Nov 24
+  18:30   Torino  1-5 (1-1)  Como   
+                  (Nikola VLASIC 45+2'(p);
+                   Jayden Addai 36', 52', Jacobo Ramón 71', Nico PAZ 76', Martin BATURINA 86')
+  19:45   Sassuolo  2-2 (1-1)  Pisa   
+                  (Nemanja MATIC 6', Kristian Thorstvedt 90+5';
+                   MBALA NZOLA 4'(p), Henrik Meister 81')
+
+▪ Regular Season - 13
+Fri Nov 28
+  20:45   Como  2-0 (1-0)  Sassuolo   
+                  (Anastasios DOUVIKAS 14', Alberto MORENO 53')
+Sat Nov 29
+  15:00   Parma  0-2 (0-1)  Udinese   
+                  (Nicolo ZANIOLO 11', Keinan Davis 65'(p))
+  15:00   Genoa  2-1 (1-1)  Hellas Verona   
+                  (Lorenzo Colombo 40', Morten Thorsby 62';
+                   Rafik BELGHALI 21')
+  18:00   Juventus FC  2-1 (2-1)  Cagliari   
+                  (Kenan YILDIZ 27', 45+1';
+                   S. Esposito 26')
+  20:45   Milan  1-0 (0-0)  Lazio   
+                  (RAFAEL LEAO 51')
+Sun Nov 30
+  12:30   Lecce  2-1 (2-0)  Torino   
+                  (Lassana Coulibaly 20', Lameck BANDA 22';
+                   Che Adams 57')
+  15:00   Pisa  0-2 (0-0)  FC Internazionale Milano   
+                  (Lautaro MARTINEZ 69', 83')
+  18:00   Atalanta  2-0 (1-0)  Fiorentina   
+                  (Odilon KOSSOUNOU 41', Ademola Lookman 51')
+  20:45   AS Roma  0-1 (0-1)  Napoli   
+                  (DAVID NERES 36')
+Mon Dec 1
+  20:45   Bologna  1-3 (1-2)  Cremonese   
+                  (Riccardo Orsolini 45+3'(p);
+                   Martin PAYERO 31', Jamie Vardy 35', 50')
+
+▪ Regular Season - 14
+Sat Dec 6
+  14:00   Sassuolo  3-1 (2-1)  Fiorentina   
+                  (Cristian VOLPATO 13', Tarik MUHAREMOVIC 45+1', Ismael KONE 65';
+                   Rolando Mandragora 9'(p))
+  18:00   FC Internazionale Milano  4-0 (1-0)  Como   
+                  (Lautaro MARTINEZ 11', Marcus THURAM 59', Hakan CALHANOGLU 81', CARLOS AUGUSTO 86')
+  20:45   Hellas Verona  3-1 (2-0)  Atalanta   
+                  (Rafik BELGHALI 28', Giovane 36', Antoine BERNEDE 71';
+                   Gianluca Scamacca 81'(p))
+Sun Dec 7
+  12:30   Cremonese  2-0 (0-0)  Lecce   
+                  (Federico Bonazzoli 53'(p), Antonio SANABRIA 78')
+  15:00   Cagliari  1-0 (0-0)  AS Roma   
+                  (Gianluca Gaetano 82')
+  18:00   Lazio  1-1 (1-1)  Bologna   
+                  (Gustav ISAKSEN 38'; Jens Odgaard 40')
+  20:45   Napoli  2-1 (1-0)  Juventus FC   
+                  (Rasmus HOJLUND 7', 78';
+                   Kenan YILDIZ 59')
+Mon Dec 8
+  15:00   Pisa  0-1 (0-1)  Parma   
+                  (Adrian BENEDYCZAK 40'(p))
+  18:00   Udinese  1-2 (0-1)  Genoa   
+                  (Jakub PIOTROWSKI 65';
+                   Ruslan MALINOVSKYI 34'(p), Brooke Norton-Cuffy 83')
+  20:45   Torino  2-3 (2-1)  Milan   
+                  (Nikola VLASIC 10'(p), Duvan ZAPATA 17';
+                   Adrien RABIOT 24', Christian PULISIC 67', 77')
+
+▪ Regular Season - 15
+Fri Dec 12
+  20:45   Lecce  1-0 (0-0)  Pisa   
+                  (Nikola STULIC 72')
+Sat Dec 13
+  15:00   Torino  1-0 (1-0)  Cremonese   
+                  (Nikola VLASIC 27')
+  18:00   Parma  0-1 (0-0)  Lazio   
+                  (Tijjani Noslin 82')
+  20:45   Atalanta  2-1 (1-0)  Cagliari   
+                  (Gianluca Scamacca 11', 81';
+                   Gianluca Gaetano 75')
+Sun Dec 14
+  12:30   Milan  2-2 (1-1)  Sassuolo   
+                  (Davide Bartesaghi 34', 47';
+                   Ismael KONE 13', Armand Laurienté 77')
+  15:00   Fiorentina  1-2 (0-1)  Hellas Verona   
+                  (Unai Núñez Gestoso 69'(og);
+                   Gift Orban 42', 90+3')
+  15:00   Udinese  1-0 (0-0)  Napoli   
+                  (Jurgen Ekkelenkamp 73')
+  18:00   Genoa  1-2 (0-2)  FC Internazionale Milano   
+                  (Vítinha 68';
+                   Yann BISSECK 6', Lautaro MARTINEZ 38')
+  20:45   Bologna  0-1 (0-0)  Juventus FC   
+                  (Juan CABAL 64')
+Mon Dec 15
+  20:45   AS Roma  1-0 (0-0)  Como   
+                  (WESLEY 60')
+
+▪ Regular Season - 16
+Sat Dec 20
+  18:00   Lazio  0-0 (0-0)  Cremonese   
+  20:45   Juventus FC  2-1 (1-0)  AS Roma   
+                  (FRANCISCO CONCEICAO 44', Lois OPENDA 70';
+                   Tommaso Baldanzi 75')
+Sun Dec 21
+  12:30   Cagliari  2-2 (0-1)  Pisa   
+                  (Michael Folorunsho 59', Semih KILICSOY 71';
+                   Matteo TRAMONI 45'(p), Stefano Moreo 89')
+  14:00   Sassuolo  0-1 (0-0)  Torino   
+                  (Nikola VLASIC 66'(p))
+  18:00   Fiorentina  5-1 (3-0)  Udinese   
+                  (Rolando Mandragora 21', Albert GUDMUNDSSON 42', Cher Ndour 45+5', Moise KEAN 56', 68';
+                   Oumar SOLET 66')
+  20:45   Genoa  0-1 (0-0)  Atalanta   
+                  (Isak HIEN 90+4')
+
+▪ Regular Season - 17
+Sat Dec 27
+  12:30   Parma  1-0 (0-0)  Fiorentina   
+                  (Oliver Sørensen 48')
+  15:00   Lecce  0-3 (0-1)  Como   
+                  (Nico PAZ 20', Jacobo Ramón 66', Anastasios DOUVIKAS 75')
+  15:00   Torino  1-2 (1-1)  Cagliari   
+                  (Nikola VLASIC 27';
+                   Matteo Prati 45', Semih KILICSOY 66')
+  18:00   Udinese  1-1 (0-0)  Lazio   
+                  (Keinan Davis 90+5'; Oumar SOLET 80'(og))
+  20:45   Pisa  0-2 (0-0)  Juventus FC   
+                  (Pierre KALULU 73', Kenan YILDIZ 90+2')
+Sun Dec 28
+  12:30   Milan  3-0 (1-0)  Hellas Verona   
+                  (Christian PULISIC 45+1', Christopher NKUNKU 48'(p), 53')
+  15:00   Cremonese  0-2 (0-2)  Napoli   
+                  (Rasmus HOJLUND 13', 45')
+  18:00   Bologna  1-1 (0-0)  Sassuolo   
+                  (Giovanni FABBIAN 47'; Tarik MUHAREMOVIC 63')
+  20:45   Atalanta  0-1 (0-0)  FC Internazionale Milano   
+                  (Lautaro MARTINEZ 65')
+Mon Dec 29
+  20:45   AS Roma  3-1 (3-0)  Genoa   
+                  (Matias SOULE 14', Manu KONE 19', Evan FERGUSON 31';
+                   Jeff Ekhator 87')
+
+▪ Regular Season - 18
+Fri Jan 2 2026
+  20:45   Cagliari  0-1 (0-0)  Milan   
+                  (RAFAEL LEAO 50')
+Sat Jan 3
+  12:30   Como  1-0 (1-0)  Udinese   
+                  (Lucas da Cunha 18'(p))
+  14:00   Sassuolo  1-1 (1-1)  Parma   
+                  (Kristian Thorstvedt 12'; Mateo Pellegrino 24')
+  15:00   Genoa  1-1 (1-1)  Pisa   
+                  (Lorenzo Colombo 15'; Mehdi Léris 38')
+  18:00   Juventus FC  1-1 (0-1)  Lecce   
+                  (Weston McKENNIE 49'; Lameck BANDA 45+1')
+  20:45   Atalanta  1-0 (1-0)  AS Roma   
+                  (Giorgio Scalvini 12')
+Sun Jan 4
+  12:30   Lazio  0-2 (0-2)  Napoli   
+                  (Leonardo Spinazzola 13', Amir Rrahmani 32')
+  15:00   Fiorentina  1-0 (0-0)  Cremonese   
+                  (Moise KEAN 90+2')
+  18:00   Hellas Verona  0-3 (0-1)  Torino   
+                  (Giovanni SIMEONE 10', Cesare CASADEI 87', Alieu Njie 90+1')
+  20:45   FC Internazionale Milano  3-1 (1-0)  Bologna   
+                  (Piotr ZIELINSKI 39', Lautaro MARTINEZ 48', Marcus THURAM 74';
+                   Santiago CASTRO 83')
+
+▪ Regular Season - 19
+Tue Jan 6
+  15:00   Pisa  0-3 (0-0)  Como   
+                  (Maximo PERRONE 68', Anastasios DOUVIKAS 76', 90+6'(p))
+  18:00   Lecce  0-2 (0-1)  AS Roma   
+                  (Evan FERGUSON 14', Artem DOVBYK 71')
+  19:45   Sassuolo  0-3 (0-1)  Juventus FC   
+                  (Tarik MUHAREMOVIC 16'(og), Fabio Miretti 62', Jonathan DAVID 63')
+Wed Jan 7
+  18:30   Bologna  0-2 (0-1)  Atalanta   
+                  (Nikola KRSTOVIC 37', 60')
+  18:30   Napoli  2-2 (0-2)  Hellas Verona   
+                  (Scott McTominay 54', Giovanni DI LORENZO 82';
+                   Martin Frese 16', Gift Orban 27'(p))
+  20:45   Torino  1-2 (0-0)  Udinese   
+                  (Cesare CASADEI 87';
+                   Nicolo ZANIOLO 50', Jurgen Ekkelenkamp 82')
+  20:45   Parma  0-2 (0-1)  FC Internazionale Milano   
+                  (Federico DIMARCO 42', Marcus THURAM 90+8')
+  20:45   Lazio  2-2 (0-0)  Fiorentina   
+                  (Danilo Cataldi 52', PEDRO 90+5'(p);
+                   Robin GOSENS 56', Albert GUDMUNDSSON 89'(p))
+Thu Jan 8
+  18:30   Cremonese  2-2 (2-0)  Cagliari   
+                  (Dennis Johnsen 4', Jamie Vardy 29';
+                   Michel Adopo 51', Yael Trepy 88')
+  20:45   Milan  1-1 (0-1)  Genoa   
+                  (RAFAEL LEAO 90+2'; Lorenzo Colombo 28')
+
+▪ Regular Season - 20
+Sat Jan 10
+  15:00   Udinese  2-2 (2-1)  Pisa   
+                  (Christian Kabasele 19', Keinan Davis 40'(p);
+                   Matteo TRAMONI 13', Henrik Meister 67')
+  15:00   Como  1-1 (0-0)  Bologna   
+                  (Martin BATURINA 90+4'; Nicolò Cambiaghi 49')
+  18:00   AS Roma  2-0 (0-0)  Sassuolo   
+                  (Manu KONE 76', Matias SOULE 79')
+  20:45   Atalanta  2-0 (1-0)  Torino   
+                  (Charles DE KETELAERE 13', Mario PASALIC 90+5')
+Sun Jan 11
+  12:30   Lecce  1-2 (1-0)  Parma   
+                  (Nikola STULIC 1';
+                   Tiago Gabriel 64'(og), Mateo Pellegrino 72')
+  15:00   Fiorentina  1-1 (0-0)  Milan   
+                  (Pietro COMUZZO 66'; Christopher NKUNKU 90')
+  18:00   Hellas Verona  0-1 (0-0)  Lazio   
+                  (Victor NELSSON 79'(og))
+  20:45   FC Internazionale Milano  2-2 (1-1)  Napoli   
+                  (Federico DIMARCO 9', Hakan CALHANOGLU 73'(p);
+                   Scott McTominay 26', 81')
+Mon Jan 12
+  18:30   Genoa  3-0 (1-0)  Cagliari   
+                  (Lorenzo Colombo 7', Morten FRENDRUP 75', Leo OSTIGARD 78')
+  20:45   Juventus FC  5-0 (3-0)  Cremonese   
+                  (BREMER 12', Jonathan DAVID 15', Kenan YILDIZ 35', Filippo Terracciano 48'(og), Weston McKENNIE 64')
+
+▪ Regular Season - 16
+Wed Jan 14
+  18:30   Napoli  0-0 (0-0)  Parma   
+  20:45   FC Internazionale Milano  1-0 (0-0)  Lecce   
+                  (Francesco ESPOSITO 78')
+Thu Jan 15
+  18:30   Hellas Verona  2-3 (1-3)  Bologna   
+                  (Gift Orban 13', Remo FREULER 71'(og);
+                   Riccardo Orsolini 21', Jens Odgaard 29', Santiago CASTRO 43')
+  20:45   Como  1-3 (1-1)  Milan   
+                  (Marc KEMPF 10';
+                   Christopher NKUNKU 45+1'(p), Adrien RABIOT 55', 88')
+
+▪ Regular Season - 21
+Fri Jan 16
+  20:45   Pisa  1-1 (0-0)  Atalanta   
+                  (Rafiu Durosinmi 87'; Nikola KRSTOVIC 83')
+Sat Jan 17
+  15:00   Udinese  0-1 (0-1)  FC Internazionale Milano   
+                  (Lautaro MARTINEZ 20')
+  18:00   Napoli  1-0 (1-0)  Sassuolo   
+                  (Stanislav Lobotka 7')
+  20:45   Cagliari  1-0 (0-0)  Juventus FC   
+                  (Luca Mazzitelli 65')
+Sun Jan 18
+  12:30   Parma  0-0 (0-0)  Genoa   
+  15:00   Bologna  1-2 (0-2)  Fiorentina   
+                  (Giovanni FABBIAN 88';
+                   Rolando Mandragora 19', Roberto Piccoli 45')
+  18:00   Torino  0-2 (0-1)  AS Roma   
+                  (Donyell Malen 26', Paulo DYBALA 72')
+  20:45   Milan  1-0 (0-0)  Lecce   
+                  (Niclas FUELLKRUG 76')
+Mon Jan 19
+  18:30   Cremonese  0-0 (0-0)  Hellas Verona   
+  20:45   Lazio  0-3 (0-2)  Como   
+                  (Martin BATURINA 2', Nico PAZ 24', 49')
+
+▪ Regular Season - 22
+Fri Jan 23
+  20:45   FC Internazionale Milano  6-2 (3-2)  Pisa   
+                  (Piotr ZIELINSKI 39'(p), Lautaro MARTINEZ 41', Francesco ESPOSITO 45+2', Federico DIMARCO 82', Ange-Yoan BONNY 86', Henrikh MKHITARYAN 90+3';
+                   Stefano Moreo 11', 23')
+Sat Jan 24
+  15:00   Como  6-0 (2-0)  Torino   
+                  (Anastasios DOUVIKAS 8', 66', Martin BATURINA 16', Lucas da Cunha 59'(p), Nicolas KUEHN 70', Maxence Caqueret 76')
+  18:00   Fiorentina  1-2 (0-1)  Cagliari   
+                  (Marco BRESCIANINI 74';
+                   Semih KILICSOY 31', Marco Palestra 47')
+  20:45   Lecce  0-0 (0-0)  Lazio   
+Sun Jan 25
+  11:30   Sassuolo  1-0 (1-0)  Cremonese   
+                  (Alieu FADERA 3')
+  15:00   Genoa  3-2 (0-1)  Bologna   
+                  (Ruslan MALINOVSKYI 62', Caleb EKUBAN 78', Junior Messias 90+1';
+                   Lewis FERGUSON 35', Sebastian Otoa 47'(og))
+  15:00   Atalanta  4-0 (2-0)  Parma   
+                  (Gianluca Scamacca 15'(p), Marten DE ROON 24', Giacomo RASPADORI 73', Nikola KRSTOVIC 90+2')
+  18:00   Juventus FC  3-0 (1-0)  Napoli   
+                  (Jonathan DAVID 22', Kenan YILDIZ 77', Filip KOSTIC 86')
+  20:45   AS Roma  1-1 (0-0)  Milan   
+                  (Lorenzo Pellegrini 74'(p); Koni DE WINTER 62')
+Mon Jan 26
+  20:45   Hellas Verona  1-3 (1-1)  Udinese   
+                  (Gift Orban 26';
+                   Arthur Atta 23', Alessandro Zanoli 58', Keinan Davis 66')
+
+▪ Regular Season - 23
+Fri Jan 30
+  20:45   Lazio  3-2 (0-0)  Genoa   
+                  (PEDRO 56'(p), Kenneth TAYLOR 62', Danilo Cataldi 90+10'(p);
+                   Ruslan MALINOVSKYI 67'(p), Vítinha 75')
+Sat Jan 31
+  15:00   Pisa  1-3 (0-2)  Sassuolo   
+                  (Michel AEBISCHER 51';
+                   Domenico BERARDI 25', Antonio Caracciolo 45+1'(og), Ismael KONE 58')
+  18:00   Napoli  2-1 (1-0)  Fiorentina   
+                  (Antonio Vergara 11', Miguel GUTIERREZ 49';
+                   Manor Solomon 57')
+  20:45   Cagliari  4-0 (2-0)  Hellas Verona   
+                  (Luca Mazzitelli 36', Semih KILICSOY 45+2', Ibrahim SULEMANA 84', Riyad Idrissi 90+1')
+Sun Feb 1
+  12:30   Torino  1-0 (1-0)  Lecce   
+                  (Che Adams 29')
+  15:00   Como  0-0 (0-0)  Atalanta   
+  18:00   Cremonese  0-2 (0-2)  FC Internazionale Milano   
+                  (Lautaro MARTINEZ 16', Piotr ZIELINSKI 31')
+  20:45   Parma  1-4 (0-2)  Juventus FC   
+                  (Andrea CAMBIASO 51'(og);
+                   BREMER 15', 54', Weston McKENNIE 37', Jonathan DAVID 64')
+Mon Feb 2
+  20:45   Udinese  1-0 (0-0)  AS Roma   
+                  (Jurgen Ekkelenkamp 49')
+Tue Feb 3
+  20:45   Bologna  0-3 (0-2)  Milan   
+                  (Ruben Loftus-Cheek 20', Christopher NKUNKU 39'(p), Adrien RABIOT 48')
+
+▪ Regular Season - 24
+Fri Feb 6
+  20:45   Hellas Verona  0-0 (0-0)  Pisa   
+Sat Feb 7
+  18:00   Genoa  2-3 (1-2)  Napoli   
+                  (Ruslan MALINOVSKYI 3'(p), Lorenzo Colombo 57';
+                   Rasmus HOJLUND 20', 90+5'(p), Scott McTominay 21')
+  20:45   Fiorentina  2-2 (0-1)  Torino   
+                  (Manor Solomon 51', Moise KEAN 57';
+                   Cesare CASADEI 26', Guillermo MARIPAN 90+4')
+Sun Feb 8
+  12:30   Bologna  0-1 (0-0)  Parma   
+                  (Christian Ordóñez 90+4')
+  15:00   Lecce  2-1 (1-1)  Udinese   
+                  (Omri GANDELMAN 5', Lameck BANDA 90';
+                   Oumar SOLET 26'(p))
+  17:00   Sassuolo  0-5 (0-2)  FC Internazionale Milano   
+                  (Yann BISSECK 11', Marcus THURAM 28', Lautaro MARTINEZ 50', Manuel AKANJI 53', Luis Henrique 88')
+  20:45   Juventus FC  2-2 (0-1)  Lazio   
+                  (Weston McKENNIE 59', Pierre KALULU 90+6';
+                   PEDRO 45+2', Gustav ISAKSEN 47')
+Mon Feb 9
+  18:30   Atalanta  2-1 (2-0)  Cremonese   
+                  (Nikola KRSTOVIC 13', Davide Zappacosta 25';
+                   Morten Thorsby 90+4')
+  20:45   AS Roma  2-0 (1-0)  Cagliari   
+                  (Donyell Malen 25', 65')
+
+▪ Regular Season - 25
+Fri Feb 13
+  20:45   Pisa  1-2 (0-1)  Milan   
+                  (Felipe LOYOLA 71';
+                   Ruben Loftus-Cheek 39', Luka MODRIC 85')
+Sat Feb 14
+  15:00   Como  1-2 (0-1)  Fiorentina   
+                  (Fabiano Parisi 77'(og);
+                   Nicolo FAGIOLI 26', Moise KEAN 54'(p))
+  18:00   Lazio  0-2 (0-1)  Atalanta   
+                  (EDERSON SILVA 41'(p), Nicola ZALEWSKI 60')
+  20:45   FC Internazionale Milano  3-2 (1-1)  Juventus FC   
+                  (Andrea CAMBIASO 17'(og), Francesco ESPOSITO 76', Piotr ZIELINSKI 90';
+                   Andrea CAMBIASO 26', Manuel LOCATELLI 83')
+Sun Feb 15
+  12:30   Udinese  1-2 (1-0)  Sassuolo   
+                  (Oumar SOLET 10';
+                   Armand Laurienté 56', Andrea Pinamonti 58')
+  15:00   Parma  2-1 (1-1)  Hellas Verona   
+                  (Adrian BERNABE 4', Mateo Pellegrino 90+3';
+                   Abdou Harroui 43'(p))
+  15:00   Cremonese  0-0 (0-0)  Genoa   
+  18:00   Torino  1-2 (0-0)  Bologna   
+                  (Nikola VLASIC 62';
+                   Nikola Moro 49', Santiago CASTRO 70')
+  20:45   Napoli  2-2 (1-1)  AS Roma   
+                  (Leonardo Spinazzola 40', Alisson Santos 82';
+                   Donyell Malen 7', 71'(p))
+Mon Feb 16
+  20:45   Cagliari  0-2 (0-0)  Lecce   
+                  (Omri GANDELMAN 64', Ylber Ramadani 76')
+
+▪ Regular Season - 24
+Wed Feb 18
+  20:45   Milan  1-1 (0-1)  Como   
+                  (RAFAEL LEAO 64'; Nico PAZ 32')
+
+▪ Regular Season - 26
+Fri Feb 20
+  19:45   Sassuolo  3-0 (2-0)  Hellas Verona   
+                  (Andrea Pinamonti 40', Domenico BERARDI 44', 62')
+Sat Feb 21
+  15:00   Juventus FC  0-2 (0-1)  Como   
+                  (Mergim VOJVODA 11', Maxence Caqueret 61')
+  18:00   Lecce  0-2 (0-0)  FC Internazionale Milano   
+                  (Henrikh MKHITARYAN 75', Manuel AKANJI 82')
+  20:45   Cagliari  0-0 (0-0)  Lazio   
+Sun Feb 22
+  12:30   Genoa  3-0 (2-0)  Torino   
+                  (Brooke Norton-Cuffy 21', Caleb EKUBAN 40', Junior Messias 83')
+  15:00   Atalanta  2-1 (0-1)  Napoli   
+                  (Mario PASALIC 61', Lazar SAMARDZIC 81';
+                   Sam Beukema 18')
+  18:00   Milan  0-1 (0-0)  Parma   
+                  (Mariano TROILO 80')
+  20:45   AS Roma  3-0 (0-0)  Cremonese   
+                  (Bryan Cristante 59', Evan NDICKA 77', Niccolo PISILLI 86')
+Mon Feb 23
+  18:30   Fiorentina  1-0 (1-0)  Pisa   
+                  (Moise KEAN 13')
+  20:45   Bologna  1-0 (0-0)  Udinese   
+                  (Federico BERNARDESCHI 75'(p))
+
+▪ Regular Season - 27
+Fri Feb 27
+  20:45   Parma  1-1 (0-0)  Cagliari   
+                  (Gaetano ORISTANIO 83'; Michael Folorunsho 62')
+Sat Feb 28
+  15:00   Como  3-1 (3-1)  Lecce   
+                  (Anastasios DOUVIKAS 18', Jesus RODRIGUEZ 36', Marc KEMPF 44';
+                   Lassana Coulibaly 13')
+  18:00   Hellas Verona  1-2 (0-1)  Napoli   
+                  (Jean Daniel AKPA 64';
+                   Rasmus HOJLUND 2', Romelu LUKAKU 90+6')
+  20:45   FC Internazionale Milano  2-0 (1-0)  Genoa   
+                  (Federico DIMARCO 31', Hakan CALHANOGLU 70'(p))
+Sun Mar 1
+  12:30   Cremonese  0-2 (0-0)  Milan   
+                  (Strahinja PAVLOVIC 89', RAFAEL LEAO 90+4')
+  14:00   Sassuolo  2-1 (1-0)  Atalanta   
+                  (Ismael KONE 23', Kristian Thorstvedt 69';
+                   Yunus MUSAH 88')
+  18:00   Torino  2-0 (1-0)  Lazio   
+                  (Giovanni SIMEONE 21', Duvan ZAPATA 53')
+  20:45   AS Roma  3-3 (1-0)  Juventus FC   
+                  (WESLEY 39', Evan NDICKA 54', Donyell Malen 65';
+                   FRANCISCO CONCEICAO 47', Jeremie BOGA 78', Federico GATTI 90+3')
+Mon Mar 2
+  18:30   Pisa  0-1 (0-0)  Bologna   
+                  (Jens Odgaard 90')
+  20:45   Udinese  3-0 (1-0)  Fiorentina   
+                  (Christian Kabasele 10', Keinan Davis 63'(p), Adam Buksa 90+4')
+
+▪ Regular Season - 28
+Fri Mar 6
+  20:45   Napoli  2-1 (1-0)  Torino   
+                  (Alisson Santos 7', Eljif Elmas 68';
+                   Cesare CASADEI 87')
+Sat Mar 7
+  15:00   Cagliari  1-2 (0-1)  Como   
+                  (S. Esposito 56';
+                   Martin BATURINA 14', Lucas da Cunha 76')
+  18:00   Atalanta  2-2 (0-1)  Udinese   
+                  (Gianluca Scamacca 75', 79';
+                   Thomas Kristensen 39', Keinan Davis 55')
+  20:45   Juventus FC  4-0 (0-0)  Pisa   
+                  (Andrea CAMBIASO 54', Khephren THURAM 65', Kenan YILDIZ 75', Jeremie BOGA 90+3')
+Sun Mar 8
+  12:30   Lecce  2-1 (2-0)  Cremonese   
+                  (Santiago Pierotti 22', Nikola STULIC 38'(p);
+                   Federico Bonazzoli 47')
+  15:00   Bologna  1-2 (0-0)  Hellas Verona   
+                  (Jonathan Rowe 49';
+                   Martin Frese 53', Kieron BOWIE 57')
+  15:00   Fiorentina  0-0 (0-0)  Parma   
+  18:00   Genoa  2-1 (0-0)  AS Roma   
+                  (Junior Messias 52'(p), Vítinha 80';
+                   Evan NDICKA 55')
+  20:45   Milan  1-0 (1-0)  FC Internazionale Milano   
+                  (Pervis ESTUPINAN 35')
+Mon Mar 9
+  20:45   Lazio  2-1 (1-1)  Sassuolo   
+                  (Daniel MALDINI 2', Adam MARUSIC 90+2';
+                   Armand Laurienté 35')
+
+▪ Regular Season - 29
+Fri Mar 13
+  20:45   Torino  4-1 (1-1)  Parma   
+                  (Giovanni SIMEONE 3', Emirhan Ilkhan 54', Mandela Keita 56'(og), Duvan ZAPATA 90+1';
+                   Mateo Pellegrino 20')
+Sat Mar 14
+  15:00   FC Internazionale Milano  1-1 (1-0)  Atalanta   
+                  (Francesco ESPOSITO 26'; Nikola KRSTOVIC 82')
+  18:00   Napoli  2-1 (0-1)  Lecce   
+                  (Rasmus HOJLUND 46', Matteo Politano 67';
+                   Jamil Siebert 3')
+  20:45   Udinese  0-1 (0-1)  Juventus FC   
+                  (Jeremie BOGA 38')
+Sun Mar 15
+  12:30   Hellas Verona  0-2 (0-0)  Genoa   
+                  (Vítinha 61', Leo OSTIGARD 86')
+  14:00   Sassuolo  0-1 (0-1)  Bologna   
+                  (Thijs Dallinga 6')
+  15:00   Pisa  3-1 (1-0)  Cagliari   
+                  (Stefano Moreo 9'(p), Antonio Caracciolo 52', 54';
+                   Leonardo Pavoletti 67')
+  18:00   Como  2-1 (0-1)  AS Roma   
+                  (Anastasios DOUVIKAS 59', DIEGO CARLOS 79';
+                   Donyell Malen 7'(p))
+  20:45   Lazio  1-0 (1-0)  Milan   
+                  (Gustav ISAKSEN 26')
+Mon Mar 16
+  20:45   Cremonese  1-4 (0-2)  Fiorentina   
+                  (David Okereke 57';
+                   Fabiano Parisi 25', Roberto Piccoli 32', DODO 49', Albert GUDMUNDSSON 70')
+
+▪ Regular Season - 30
+Fri Mar 20
+  18:30   Cagliari  0-1 (0-1)  Napoli   
+                  (Scott McTominay 2')
+  20:45   Genoa  0-2 (0-0)  Udinese   
+                  (Jurgen Ekkelenkamp 66', Keinan Davis 90+6')
+Sat Mar 21
+  15:00   Parma  0-2 (0-0)  Cremonese   
+                  (Youssef Maleh 54', Jari Vandeputte 68')
+  18:00   Milan  3-2 (1-1)  Torino   
+                  (Strahinja PAVLOVIC 36', Adrien RABIOT 54', Youssouf Fofana 56';
+                   Giovanni SIMEONE 44', Nikola VLASIC 83'(p))
+  20:45   Juventus FC  1-1 (1-0)  Sassuolo   
+                  (Kenan YILDIZ 14'; Andrea Pinamonti 52')
+Sun Mar 22
+  12:30   Como  5-0 (2-0)  Pisa   
+                  (Assane DIAO 7', Anastasios DOUVIKAS 29', Martin BATURINA 48', Nico PAZ 75', Maximo PERRONE 81')
+  15:00   Atalanta  1-0 (1-0)  Hellas Verona   
+                  (Davide Zappacosta 37')
+  15:00   Bologna  0-2 (0-0)  Lazio   
+                  (Kenneth TAYLOR 72', 82')
+  18:00   AS Roma  1-0 (0-0)  Lecce   
+                  (Robinio Vaz 57')
+  20:45   Fiorentina  1-1 (0-1)  FC Internazionale Milano   
+                  (Cher Ndour 77'; Francesco ESPOSITO 1')
+
+▪ Regular Season - 31
+Sat Apr 4
+  13:00   Sassuolo  2-1 (0-1)  Cagliari   
+                  (Ulisses GARCIA 50', Andrea Pinamonti 78';
+                   S. Esposito 30'(p))
+  18:00   Hellas Verona  0-1 (0-0)  Fiorentina   
+                  (Nicolo FAGIOLI 82')
+  20:45   Lazio  1-1 (0-1)  Parma   
+                  (Tijjani Noslin 77'; Enrico Del Prato 15')
+Sun Apr 5
+  15:00   Cremonese  1-2 (0-2)  Bologna   
+                  (Federico Bonazzoli 90+1'(p);
+                   João Mário 3', Jonathan Rowe 16')
+  18:00   Pisa  0-1 (0-0)  Torino   
+                  (Che Adams 80')
+  20:45   FC Internazionale Milano  5-2 (2-1)  AS Roma   
+                  (Lautaro MARTINEZ 1', 52', Hakan CALHANOGLU 45+2', Marcus THURAM 55', Nicolo BARELLA 63';
+                   Gianluca MANCINI 40', Lorenzo Pellegrini 70')
+Mon Apr 6
+  12:30   Udinese  0-0 (0-0)  Como   
+  15:00   Lecce  0-3 (0-1)  Atalanta   
+                  (Giorgio Scalvini 29', Nikola KRSTOVIC 59', Giacomo RASPADORI 73')
+  18:00   Juventus FC  2-0 (2-0)  Genoa   
+                  (BREMER 4', Weston McKENNIE 17')
+  20:45   Napoli  1-0 (0-0)  Milan   
+                  (Matteo Politano 79')
+
+▪ Regular Season - 32
+Fri Apr 10
+  20:45   AS Roma  3-0 (2-0)  Pisa   
+                  (Donyell Malen 3', 43', 52')
+Sat Apr 11
+  15:00   Torino  2-1 (1-1)  Hellas Verona   
+                  (Giovanni SIMEONE 6', Cesare CASADEI 50';
+                   Kieron BOWIE 38')
+  15:00   Cagliari  1-0 (0-0)  Cremonese   
+                  (S. Esposito 63')
+  18:00   Milan  0-3 (0-2)  Udinese   
+                  (Davide Bartesaghi 27'(og), Jurgen Ekkelenkamp 37', Arthur Atta 71')
+  20:45   Atalanta  0-1 (0-0)  Juventus FC   
+                  (Jeremie BOGA 48')
+Sun Apr 12
+  12:30   Genoa  2-1 (1-0)  Sassuolo   
+                  (Ruslan MALINOVSKYI 18', Caleb EKUBAN 84';
+                   Ismael KONE 57')
+  15:00   Parma  1-1 (1-0)  Napoli   
+                  (Gabriel Strefezza 1'; Scott McTominay 60')
+  18:00   Bologna  2-0 (1-0)  Lecce   
+                  (Remo FREULER 26', Riccardo Orsolini 90+2')
+  20:45   Como  3-4 (2-1)  FC Internazionale Milano   
+                  (Álex Valle 36', Nico PAZ 45', Lucas da Cunha 89'(p);
+                   Marcus THURAM 45+1', 49', Denzel DUMFRIES 58', 72')
+Mon Apr 13
+  20:45   Fiorentina  1-0 (1-0)  Lazio   
+                  (Robin GOSENS 28')
+
+▪ Regular Season - 33
+Fri Apr 17
+  16:30   Sassuolo  2-1 (2-1)  Como   
+                  (Cristian VOLPATO 42', MBALA NZOLA 44';
+                   Nico PAZ 45+2')
+  20:45   FC Internazionale Milano  3-0 (0-0)  Cagliari   
+                  (Marcus THURAM 52', Nicolo BARELLA 56', Piotr ZIELINSKI 90+2')
+Sat Apr 18
+  15:00   Udinese  0-1 (0-0)  Parma   
+                  (Nesta Elphege 51')
+  18:00   Napoli  0-2 (0-1)  Lazio   
+                  (Matteo Cancellieri 6', Toma Basic 57')
+  20:45   AS Roma  1-1 (1-1)  Atalanta   
+                  (Mario Hermoso 45'; Nikola KRSTOVIC 12')
+Sun Apr 19
+  12:30   Cremonese  0-0 (0-0)  Torino   
+  15:00   Hellas Verona  0-1 (0-1)  Milan   
+                  (Adrien RABIOT 41')
+  18:00   Pisa  1-2 (1-1)  Genoa   
+                  (Simone Canestrelli 19';
+                   Jeff Ekhator 41', Lorenzo Colombo 55'(p))
+  20:45   Juventus FC  2-0 (1-0)  Bologna   
+                  (Jonathan DAVID 2', Khephren THURAM 57')
+Mon Apr 20
+  20:45   Lecce  1-1 (0-1)  Fiorentina   
+                  (Tiago Gabriel 71'; Jack Harrison 30')
+
+▪ Regular Season - 34
+Fri Apr 24
+  20:45   Napoli  4-0 (3-0)  Cremonese   
+                  (Scott McTominay 3', Filippo Terracciano 45'(og), Kevin DE BRUYNE 45+3', Alisson Santos 52')
+Sat Apr 25
+  15:00   Parma  1-0 (0-0)  Pisa   
+                  (Nesta Elphege 82')
+  18:00   Bologna  0-2 (0-2)  AS Roma   
+                  (Donyell Malen 7', Neil EL AYNAOUI 45+1')
+  20:45   Hellas Verona  0-0 (0-0)  Lecce   
+Sun Apr 26
+  12:30   Fiorentina  0-0 (0-0)  Sassuolo   
+  15:00   Genoa  0-2 (0-1)  Como   
+                  (Anastasios DOUVIKAS 10', Assane DIAO 68')
+  18:00   Torino  2-2 (0-1)  FC Internazionale Milano   
+                  (Giovanni SIMEONE 70', Nikola VLASIC 79'(p);
+                   Marcus THURAM 23', Yann BISSECK 61')
+  20:45   Milan  0-0 (0-0)  Juventus FC   
+Mon Apr 27
+  18:30   Cagliari  3-2 (2-2)  Atalanta   
+                  (Paul Mendy 1', 8', Gennaro Borrelli 47';
+                   Gianluca Scamacca 40', 45')
+  20:45   Lazio  3-3 (0-1)  Udinese   
+                  (Luca Pellegrini 50', PEDRO 80', Daniel MALDINI 90+5';
+                   Kingsley Ehizibue 18', Arthur Atta 86', 90+3')
+
+▪ Regular Season - 35
+Fri May 1
+  20:45   Pisa  1-2 (0-0)  Lecce   
+                  (Mehdi Léris 56';
+                   Lameck BANDA 52', Walid Cheddira 65')
+Sat May 2
+  15:00   Udinese  2-0 (1-0)  Torino   
+                  (Kingsley Ehizibue 45+1', Thomas Kristensen 51')
+  18:00   Como  0-0 (0-0)  Napoli   
+  20:45   Atalanta  0-0 (0-0)  Genoa   
+Sun May 3
+  12:30   Bologna  0-0 (0-0)  Cagliari   
+  13:00   Sassuolo  2-0 (1-0)  Milan   
+                  (Domenico BERARDI 5', Armand Laurienté 47')
+  18:00   Juventus FC  1-1 (0-1)  Hellas Verona   
+                  (Dusan VLAHOVIC 62'; Kieron BOWIE 34')
+  20:45   FC Internazionale Milano  2-0 (1-0)  Parma   
+                  (Marcus THURAM 45+1', Henrikh MKHITARYAN 80')
+Mon May 4
+  18:30   Cremonese  1-2 (1-0)  Lazio   
+                  (Federico Bonazzoli 29';
+                   Gustav ISAKSEN 53', Tijjani Noslin 90+2')
+  20:45   AS Roma  4-0 (3-0)  Fiorentina   
+                  (Gianluca MANCINI 13', WESLEY 17', Mario Hermoso 34', Niccolo PISILLI 58')
+
+▪ Regular Season - 36
+Fri May 8
+  20:45   Torino  2-1 (0-0)  Sassuolo   
+                  (Giovanni SIMEONE 66', Marcus HOLMGREN PEDERSEN 70';
+                   Kristian Thorstvedt 51')
+Sat May 9
+  15:00   Cagliari  0-2 (0-0)  Udinese   
+                  (Adam Buksa 56', Idrissa Gueye 90+6')
+  18:00   Lazio  0-3 (0-2)  FC Internazionale Milano   
+                  (Lautaro MARTINEZ 6', Petar SUCIC 39', Henrikh MKHITARYAN 76')
+  20:45   Lecce  0-1 (0-1)  Juventus FC   
+                  (Dusan VLAHOVIC 1')
+Sun May 10
+  12:30   Hellas Verona  0-1 (0-0)  Como   
+                  (Anastasios DOUVIKAS 71')
+  15:00   Fiorentina  0-0 (0-0)  Genoa   
+  15:00   Cremonese  3-0 (1-0)  Pisa   
+                  (Jamie Vardy 31', Federico Bonazzoli 51', David Okereke 86')
+  18:00   Parma  2-3 (0-1)  AS Roma   
+                  (Gabriel Strefezza 47', Mandela Keita 87';
+                   Donyell Malen 22', 90+11'(p), Devyne RENSCH 90+4')
+  20:45   Milan  2-3 (0-2)  Atalanta   
+                  (Strahinja PAVLOVIC 88', Christopher NKUNKU 90+4'(p);
+                   EDERSON SILVA 7', Davide Zappacosta 29', Giacomo RASPADORI 51')
+Mon May 11
+  20:45   Napoli  2-3 (1-2)  Bologna   
+                  (Giovanni DI LORENZO 45+2', Alisson Santos 48';
+                   Federico BERNARDESCHI 9', Riccardo Orsolini 34'(p), Jonathan Rowe 90+1')
+
+▪ Regular Season - 37
+Sun May 17
+  12:00   Genoa  1-2 (0-0)  Milan   
+                  (Johan VASQUEZ 86';
+                   Christopher NKUNKU 50'(p), Zachary Athekame 81')
+  12:00   Como  1-0 (0-0)  Parma   
+                  (Alberto MORENO 58')
+  12:00   Pisa  0-3 (0-2)  Napoli   
+                  (Scott McTominay 21', Amir Rrahmani 27', Rasmus HOJLUND 90+2')
+  12:00   Juventus FC  0-2 (0-1)  Fiorentina   
+                  (Cher Ndour 34', Rolando Mandragora 83')
+  12:00   AS Roma  2-0 (1-0)  Lazio   
+                  (Gianluca MANCINI 40', 66')
+  15:00   FC Internazionale Milano  1-1 (0-0)  Hellas Verona   
+                  (Andrias EDMUNDSSON 47'(og); Kieron BOWIE 90+1')
+  18:00   Atalanta  0-1 (0-0)  Bologna   
+                  (Riccardo Orsolini 78')
+  20:45   Udinese  0-1 (0-1)  Cremonese   
+                  (Jamie Vardy 9')
+  20:45   Cagliari  2-1 (2-1)  Torino   
+                  (S. Esposito 39', Yerry MINA 45+2';
+                   Rafa Obrador 37')
+  18:45   Sassuolo  2-3 (1-2)  Lecce   
+                  (Armand Laurienté 20', Andrea Pinamonti 82';
+                   Walid Cheddira 14', 25', Nikola STULIC 90+6')
+
+▪ Regular Season - 38
+Fri May 22
+  20:45   Fiorentina  1-1 (1-0)  Atalanta   
+                  (Roberto Piccoli 39'; Pietro COMUZZO 82'(og))
+Sat May 23
+  18:00   Bologna  3-3 (2-1)  FC Internazionale Milano   
+                  (Federico BERNARDESCHI 25', Tommaso Pobega 42', Piotr ZIELINSKI 48'(og);
+                   Federico DIMARCO 22', Francesco ESPOSITO 64', Andy DIOUF 86')
+  20:45   Lazio  2-1 (2-1)  Pisa   
+                  (Oluwafisayo DELE-BASHIRU 33', PEDRO 35';
+                   Stefano Moreo 23')
+Sun May 24
+  15:00   Parma  1-0 (0-0)  Sassuolo   
+                  (Mateo Pellegrino 80')
+  18:00   Napoli  1-0 (1-0)  Udinese   
+                  (Rasmus HOJLUND 24')
+  20:45   Milan  1-2 (1-1)  Cagliari   
+                  (Alexis SAELEMAEKERS 2';
+                   Gennaro Borrelli 20', Juan RODRIGUEZ 57')
+  20:45   Cremonese  1-4 (0-1)  Como   
+                  (Federico Bonazzoli 55'(p);
+                   Jesus RODRIGUEZ 36', Anastasios DOUVIKAS 51', Lucas da Cunha 74'(p), 81')
+  20:45   Lecce  1-0 (1-0)  Genoa   
+                  (Lameck BANDA 6')
+  20:45   Hellas Verona  0-2 (0-0)  AS Roma   
+                  (Donyell Malen 56', Stephan El Shaarawy 90+3')
+  21:45   Torino  2-2 (0-1)  Juventus FC   
+                  (Cesare CASADEI 60', Che Adams 84';
+                   Dusan VLAHOVIC 24', 54')
