@@ -1,84 +1,97 @@
 = Italian Serie A 2026/27
 
-# Date       Sun Aug 23 2026 - Sun May 30 2027 (280d)
+# Date       Sat Aug 22 2026 - Sun May 30 2027 (281d)
 # Teams      20
 # Matches    380
 
 
 
 ▪ Matchday 1
-  Sun Aug 23 2026
-    18:30  Udinese Calcio          v Como 1907
-           Bologna FC 1909         v SS Lazio
-           Genoa CFC               v SSC Napoli
-           FC Internazionale Milano v AC Monza
-           Atalanta BC             v US Sassuolo Calcio
-           Torino FC               v AC Milan
-           Frosinone Calcio        v Juventus FC
-           Parma Calcio 1913       v Cagliari Calcio
+  Sat Aug 22 2026
+    18:30  Udinese Calcio          v Como 1907                1-1 (1-0)
+           FC Internazionale Milano v AC Monza                 4-1 (1-1)
+    20:45  Genoa CFC               v SSC Napoli               0-2 (0-0)
+           Parma Calcio 1913       v Cagliari Calcio          0-1 (0-0)
+  Sun Aug 23
+    18:30  Frosinone Calcio        v Juventus FC
            Venezia FC              v US Lecce
-           AS Roma                 v ACF Fiorentina
+    20:45  Atalanta BC             v US Sassuolo Calcio
+           Torino FC               v AC Milan
+  Mon Aug 24
+    18:30  Bologna FC 1909         v SS Lazio
+    20:45  AS Roma                 v ACF Fiorentina
 
 
 ▪ Matchday 2
-  Sun Aug 30
-    18:30  Juventus FC             v Parma Calcio 1913
-           US Sassuolo Calcio      v Torino FC
-           US Lecce                v AS Roma
-           SS Lazio                v Genoa CFC
-           Cagliari Calcio         v FC Internazionale Milano
+  Fri Aug 28
+    20:45  AC Milan                v Venezia FC
+  Sat Aug 29
+    18:30  US Sassuolo Calcio      v Torino FC
            AC Monza                v Udinese Calcio
-           AC Milan                v Venezia FC
-           SSC Napoli              v Como 1907
            ACF Fiorentina          v Frosinone Calcio
-           Atalanta BC             v Bologna FC 1909
+    20:45  Juventus FC             v Parma Calcio 1913
+  Sun Aug 30
+    18:30  SSC Napoli              v Como 1907
+    20:45  SS Lazio                v Genoa CFC
+           Cagliari Calcio         v FC Internazionale Milano
+  Mon Aug 31
+    18:30  US Lecce                v AS Roma
+    20:45  Atalanta BC             v Bologna FC 1909
 
 
 ▪ Matchday 3
+  Fri Sep 4
+    20:45  Genoa CFC               v Como 1907
+  Sat Sep 5
+    15:00  ACF Fiorentina          v Torino FC
+    18:00  FC Internazionale Milano v SSC Napoli
+    20:45  AS Roma                 v Atalanta BC
   Sun Sep 6
-    18:30  Genoa CFC               v Como 1907
-           Cagliari Calcio         v US Lecce
-           AS Roma                 v Atalanta BC
-           Parma Calcio 1913       v AC Monza
-           Bologna FC 1909         v US Sassuolo Calcio
-           FC Internazionale Milano v SSC Napoli
+    15:00  Parma Calcio 1913       v AC Monza
            Frosinone Calcio        v Venezia FC
-           ACF Fiorentina          v Torino FC
-           Udinese Calcio          v SS Lazio
-           Juventus FC             v AC Milan
+    18:00  Bologna FC 1909         v US Sassuolo Calcio
+    20:45  Juventus FC             v AC Milan
+  Mon Sep 7
+    18:00  Cagliari Calcio         v US Lecce
+    20:45  Udinese Calcio          v SS Lazio
 
 
 ▪ Matchday 4
+  Fri Sep 11
+    20:45  Venezia FC              v ACF Fiorentina
+  Sat Sep 12
+    15:00  Genoa CFC               v Frosinone Calcio
+    18:00  US Sassuolo Calcio      v Juventus FC
+    20:45  Atalanta BC             v Cagliari Calcio
   Sun Sep 13
-    18:30  SSC Napoli              v Bologna FC 1909
-           SS Lazio                v AC Milan
-           FC Internazionale Milano v Udinese Calcio
-           Como 1907               v Parma Calcio 1913
-           Torino FC               v AS Roma
-           Genoa CFC               v Frosinone Calcio
+    12:30  Torino FC               v AS Roma
+    15:00  Como 1907               v Parma Calcio 1913
            US Lecce                v AC Monza
-           Venezia FC              v ACF Fiorentina
-           Atalanta BC             v Cagliari Calcio
-           US Sassuolo Calcio      v Juventus FC
+    18:00  SSC Napoli              v Bologna FC 1909
+    20:45  SS Lazio                v AC Milan
+  Mon Sep 14
+    20:45  FC Internazionale Milano v Udinese Calcio
 
 
 ▪ Matchday 5
-  Sun Sep 20
-    18:30  Frosinone Calcio        v Como 1907
-           AS Roma                 v FC Internazionale Milano
-           Venezia FC              v SS Lazio
-           Juventus FC             v Atalanta BC
-           AC Monza                v US Sassuolo Calcio
-           AC Milan                v US Lecce
-           Bologna FC 1909         v Torino FC
+  Fri Sep 18
+    20:45  AC Monza                v US Sassuolo Calcio
+  Sat Sep 19
+    15:00  Bologna FC 1909         v Torino FC
            Udinese Calcio          v Cagliari Calcio
+    18:00  AS Roma                 v FC Internazionale Milano
+    20:45  Venezia FC              v SS Lazio
+  Sun Sep 20
+    12:30  ACF Fiorentina          v SSC Napoli
+    15:00  Frosinone Calcio        v Como 1907
            Parma Calcio 1913       v Genoa CFC
-           ACF Fiorentina          v SSC Napoli
+    18:00  Juventus FC             v Atalanta BC
+    20:45  AC Milan                v US Lecce
 
 
 ▪ Matchday 6
   Sun Oct 11
-    18:30  Atalanta BC             v Venezia FC
+           Atalanta BC             v Venezia FC
            US Sassuolo Calcio      v AC Milan
            US Lecce                v Bologna FC 1909
            FC Internazionale Milano v Parma Calcio 1913
@@ -92,7 +105,7 @@
 
 ▪ Matchday 7
   Sun Oct 18
-    18:30  AC Milan                v Atalanta BC
+           AC Milan                v Atalanta BC
            Juventus FC             v SS Lazio
            Bologna FC 1909         v FC Internazionale Milano
            AS Roma                 v Genoa CFC
@@ -106,7 +119,7 @@
 
 ▪ Matchday 8
   Sun Oct 25
-    18:30  Udinese Calcio          v AC Milan
+           Udinese Calcio          v AC Milan
            Cagliari Calcio         v Bologna FC 1909
            Como 1907               v US Sassuolo Calcio
            Atalanta BC             v Frosinone Calcio
@@ -120,7 +133,7 @@
 
 ▪ Matchday 9
   Wed Oct 28
-    18:30  AC Milan                v Bologna FC 1909
+           AC Milan                v Bologna FC 1909
            Venezia FC              v FC Internazionale Milano
            ACF Fiorentina          v Atalanta BC
            Genoa CFC               v Juventus FC
@@ -134,7 +147,7 @@
 
 ▪ Matchday 10
   Sun Nov 1
-    18:30  Bologna FC 1909         v AC Monza
+           Bologna FC 1909         v AC Monza
            US Lecce                v Genoa CFC
            US Sassuolo Calcio      v ACF Fiorentina
            Udinese Calcio          v AS Roma
@@ -148,7 +161,7 @@
 
 ▪ Matchday 11
   Sun Nov 8
-    18:30  ACF Fiorentina          v Juventus FC
+           ACF Fiorentina          v Juventus FC
            FC Internazionale Milano v Como 1907
            AS Roma                 v US Sassuolo Calcio
            Torino FC               v US Lecce
@@ -162,7 +175,7 @@
 
 ▪ Matchday 12
   Sun Nov 22
-    18:30  AC Monza                v ACF Fiorentina
+           AC Monza                v ACF Fiorentina
            Atalanta BC             v FC Internazionale Milano
            Juventus FC             v Venezia FC
            Bologna FC 1909         v Udinese Calcio
@@ -176,7 +189,7 @@
 
 ▪ Matchday 13
   Sun Nov 29
-    18:30  US Sassuolo Calcio      v SSC Napoli
+           US Sassuolo Calcio      v SSC Napoli
            Cagliari Calcio         v AC Milan
            Como 1907               v Juventus FC
            AS Roma                 v AC Monza
@@ -190,7 +203,7 @@
 
 ▪ Matchday 14
   Sun Dec 6
-    18:30  Genoa CFC               v Torino FC
+           Genoa CFC               v Torino FC
            Juventus FC             v Udinese Calcio
            Frosinone Calcio        v FC Internazionale Milano
            Bologna FC 1909         v AS Roma
@@ -204,7 +217,7 @@
 
 ▪ Matchday 15
   Sun Dec 13
-    18:30  SSC Napoli              v AC Milan
+           SSC Napoli              v AC Milan
            Como 1907               v Bologna FC 1909
            Udinese Calcio          v Frosinone Calcio
            US Lecce                v US Sassuolo Calcio
@@ -218,7 +231,7 @@
 
 ▪ Matchday 16
   Sun Dec 20
-    18:30  AC Milan                v Como 1907
+           AC Milan                v Como 1907
            US Sassuolo Calcio      v Parma Calcio 1913
            AS Roma                 v Juventus FC
            Frosinone Calcio        v SS Lazio
@@ -232,7 +245,7 @@
 
 ▪ Matchday 17
   Sun Jan 3 2027
-    13:00  Udinese Calcio          v Atalanta BC
+           Udinese Calcio          v Atalanta BC
            Como 1907               v US Lecce
            AS Roma                 v Frosinone Calcio
            Parma Calcio 1913       v SSC Napoli
@@ -246,7 +259,7 @@
 
 ▪ Matchday 18
   Wed Jan 6
-    13:00  Frosinone Calcio        v Bologna FC 1909
+           Frosinone Calcio        v Bologna FC 1909
            US Sassuolo Calcio      v Udinese Calcio
            Genoa CFC               v AC Monza
            Venezia FC              v AS Roma
@@ -260,7 +273,7 @@
 
 ▪ Matchday 19
   Sun Jan 10
-    13:00  ACF Fiorentina          v US Lecce
+           ACF Fiorentina          v US Lecce
            Udinese Calcio          v SSC Napoli
            Torino FC               v Atalanta BC
            AC Monza                v Frosinone Calcio
@@ -274,7 +287,7 @@
 
 ▪ Matchday 20
   Sun Jan 17
-    13:00  AC Milan                v Torino FC
+           AC Milan                v Torino FC
            Parma Calcio 1913       v FC Internazionale Milano
            Juventus FC             v Genoa CFC
            US Lecce                v Udinese Calcio
@@ -288,7 +301,7 @@
 
 ▪ Matchday 21
   Sun Jan 24
-    13:00  US Lecce                v Torino FC
+           US Lecce                v Torino FC
            Juventus FC             v Cagliari Calcio
            FC Internazionale Milano v Venezia FC
            ACF Fiorentina          v US Sassuolo Calcio
@@ -302,7 +315,7 @@
 
 ▪ Matchday 22
   Sun Jan 31
-    13:00  AC Milan                v Juventus FC
+           AC Milan                v Juventus FC
            AC Monza                v AS Roma
            Torino FC               v Frosinone Calcio
            Udinese Calcio          v Bologna FC 1909
@@ -316,7 +329,7 @@
 
 ▪ Matchday 23
   Sun Feb 7
-    13:00  Juventus FC             v US Sassuolo Calcio
+           Juventus FC             v US Sassuolo Calcio
            FC Internazionale Milano v Cagliari Calcio
            Como 1907               v AC Monza
            US Lecce                v SSC Napoli
@@ -330,7 +343,7 @@
 
 ▪ Matchday 24
   Sun Feb 14
-    13:00  SSC Napoli              v Juventus FC
+           SSC Napoli              v Juventus FC
            AC Monza                v US Lecce
            Torino FC               v US Sassuolo Calcio
            Frosinone Calcio        v ACF Fiorentina
@@ -344,7 +357,7 @@
 
 ▪ Matchday 25
   Sun Feb 21
-    13:00  Como 1907               v Torino FC
+           Como 1907               v Torino FC
            Atalanta BC             v AC Monza
            Udinese Calcio          v Parma Calcio 1913
            Juventus FC             v Bologna FC 1909
@@ -358,7 +371,7 @@
 
 ▪ Matchday 26
   Sun Feb 28
-    13:00  FC Internazionale Milano v Atalanta BC
+           FC Internazionale Milano v Atalanta BC
            Cagliari Calcio         v Udinese Calcio
            Parma Calcio 1913       v US Sassuolo Calcio
            Genoa CFC               v SS Lazio
@@ -372,7 +385,7 @@
 
 ▪ Matchday 27
   Sun Mar 7
-    13:00  Udinese Calcio          v FC Internazionale Milano
+           Udinese Calcio          v FC Internazionale Milano
            Atalanta BC             v Torino FC
            SSC Napoli              v Parma Calcio 1913
            US Lecce                v Como 1907
@@ -386,7 +399,7 @@
 
 ▪ Matchday 28
   Sun Mar 14
-    13:00  Bologna FC 1909         v SSC Napoli
+           Bologna FC 1909         v SSC Napoli
            Cagliari Calcio         v ACF Fiorentina
            AC Milan                v US Sassuolo Calcio
            Genoa CFC               v AS Roma
@@ -400,7 +413,7 @@
 
 ▪ Matchday 29
   Sun Mar 21
-    13:00  SSC Napoli              v Venezia FC
+           SSC Napoli              v Venezia FC
            Udinese Calcio          v Torino FC
            Juventus FC             v Como 1907
            ACF Fiorentina          v Genoa CFC
@@ -414,7 +427,7 @@
 
 ▪ Matchday 30
   Sun Apr 4
-    14:00  US Lecce                v SS Lazio
+           US Lecce                v SS Lazio
            Cagliari Calcio         v SSC Napoli
            Como 1907               v ACF Fiorentina
            US Sassuolo Calcio      v Atalanta BC
@@ -428,7 +441,7 @@
 
 ▪ Matchday 31
   Sun Apr 11
-    14:00  Juventus FC             v US Lecce
+           Juventus FC             v US Lecce
            SSC Napoli              v US Sassuolo Calcio
            ACF Fiorentina          v AC Milan
            SS Lazio                v Torino FC
@@ -442,7 +455,7 @@
 
 ▪ Matchday 32
   Sun Apr 18
-    14:00  AC Monza                v FC Internazionale Milano
+           AC Monza                v FC Internazionale Milano
            ACF Fiorentina          v Parma Calcio 1913
            AS Roma                 v SS Lazio
            Como 1907               v Frosinone Calcio
@@ -456,7 +469,7 @@
 
 ▪ Matchday 33
   Sun Apr 25
-    14:00  Frosinone Calcio        v AS Roma
+           Frosinone Calcio        v AS Roma
            Cagliari Calcio         v AC Monza
            SSC Napoli              v Udinese Calcio
            Parma Calcio 1913       v Atalanta BC
@@ -470,7 +483,7 @@
 
 ▪ Matchday 34
   Sun May 2
-    14:00  Atalanta BC             v Juventus FC
+           Atalanta BC             v Juventus FC
            Torino FC               v Parma Calcio 1913
            AC Milan                v SS Lazio
            Udinese Calcio          v Genoa CFC
@@ -484,7 +497,7 @@
 
 ▪ Matchday 35
   Sun May 9
-    14:00  Parma Calcio 1913       v AC Milan
+           Parma Calcio 1913       v AC Milan
            Genoa CFC               v Cagliari Calcio
            SS Lazio                v US Sassuolo Calcio
            SSC Napoli              v AC Monza
@@ -498,7 +511,7 @@
 
 ▪ Matchday 36
   Sun May 16
-    14:00  SSC Napoli              v Genoa CFC
+           SSC Napoli              v Genoa CFC
            US Lecce                v ACF Fiorentina
            SS Lazio                v Udinese Calcio
            Bologna FC 1909         v Frosinone Calcio
@@ -512,7 +525,7 @@
 
 ▪ Matchday 37
   Sun May 23
-    14:00  AS Roma                 v Como 1907
+           AS Roma                 v Como 1907
            Parma Calcio 1913       v Juventus FC
            Torino FC               v SSC Napoli
            Atalanta BC             v US Lecce
@@ -526,7 +539,7 @@
 
 ▪ Matchday 38
   Sun May 30
-    14:00  AC Milan                v Udinese Calcio
+           AC Milan                v Udinese Calcio
            Juventus FC             v Frosinone Calcio
            AC Monza                v Torino FC
            US Sassuolo Calcio      v FC Internazionale Milano
