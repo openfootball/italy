@@ -24,19 +24,19 @@
 
 ▪ Matchday 2
   Fri Aug 28
-    20:45  AC Milan                v Venezia FC
+    20:45  AC Milan                v Venezia FC               2-0 (0-0)
   Sat Aug 29
-    18:30  US Sassuolo Calcio      v Torino FC
-           AC Monza                v Udinese Calcio
-           ACF Fiorentina          v Frosinone Calcio
-    20:45  Juventus FC             v Parma Calcio 1913
+    18:30  US Sassuolo Calcio      v Torino FC                2-1 (1-1)
+           AC Monza                v Udinese Calcio           2-3 (1-3)
+           ACF Fiorentina          v Frosinone Calcio         0-3 (0-2)
+    20:45  Juventus FC             v Parma Calcio 1913        2-0 (0-0)
   Sun Aug 30
-    18:30  SSC Napoli              v Como 1907
-    20:45  SS Lazio                v Genoa CFC
-           Cagliari Calcio         v FC Internazionale Milano
+    18:30  SSC Napoli              v Como 1907                1-2 (1-2)
+    20:45  SS Lazio                v Genoa CFC                1-0 (1-0)
+           Cagliari Calcio         v FC Internazionale Milano  0-1 (0-1)
   Mon Aug 31
-    18:30  US Lecce                v AS Roma
-    20:45  Atalanta BC             v Bologna FC 1909
+    18:30  US Lecce                v AS Roma                  0-4 (0-3)
+    20:45  Atalanta BC             v Bologna FC 1909          1-0 (0-0)
 
 
 ▪ Matchday 3
@@ -52,7 +52,7 @@
     18:00  Bologna FC 1909         v US Sassuolo Calcio
     20:45  Juventus FC             v AC Milan
   Mon Sep 7
-    18:00  Cagliari Calcio         v US Lecce
+    18:30  Cagliari Calcio         v US Lecce
     20:45  Udinese Calcio          v SS Lazio
 
 
@@ -61,15 +61,15 @@
     20:45  Venezia FC              v ACF Fiorentina
   Sat Sep 12
     15:00  Genoa CFC               v Frosinone Calcio
-    18:00  US Sassuolo Calcio      v Juventus FC
+    18:00  SS Lazio                v AC Milan
     20:45  Atalanta BC             v Cagliari Calcio
   Sun Sep 13
-    12:30  Torino FC               v AS Roma
-    15:00  Como 1907               v Parma Calcio 1913
-           US Lecce                v AC Monza
+    15:00  US Lecce                v AC Monza
     18:00  SSC Napoli              v Bologna FC 1909
-    20:45  SS Lazio                v AC Milan
+    20:45  US Sassuolo Calcio      v Juventus FC
   Mon Sep 14
+    18:30  Como 1907               v Parma Calcio 1913
+           Torino FC               v AS Roma
     20:45  FC Internazionale Milano v Udinese Calcio
 
 
