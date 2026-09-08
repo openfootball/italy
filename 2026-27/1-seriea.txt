@@ -41,19 +41,19 @@
 
 ▪ Matchday 3
   Fri Sep 4
-    20:45  Genoa CFC               v Como 1907
+    20:45  Genoa CFC               v Como 1907                1-4 (1-3)
   Sat Sep 5
-    15:00  ACF Fiorentina          v Torino FC
-    18:00  FC Internazionale Milano v SSC Napoli
-    20:45  AS Roma                 v Atalanta BC
+    15:00  ACF Fiorentina          v Torino FC                1-2 (0-0)
+    18:00  FC Internazionale Milano v SSC Napoli               3-2 (0-0)
+    20:45  AS Roma                 v Atalanta BC              2-1 (0-0)
   Sun Sep 6
-    15:00  Parma Calcio 1913       v AC Monza
-           Frosinone Calcio        v Venezia FC
-    18:00  Bologna FC 1909         v US Sassuolo Calcio
-    20:45  Juventus FC             v AC Milan
+    15:00  Parma Calcio 1913       v AC Monza                 1-1 (0-1)
+           Frosinone Calcio        v Venezia FC               3-2 (2-0)
+    18:00  Bologna FC 1909         v US Sassuolo Calcio       2-2 (0-1)
+    20:45  Juventus FC             v AC Milan                 1-1 (0-0)
   Mon Sep 7
-    18:30  Cagliari Calcio         v US Lecce
-    20:45  Udinese Calcio          v SS Lazio
+    18:30  Cagliari Calcio         v US Lecce                 1-0 (1-0)
+    20:45  Udinese Calcio          v SS Lazio                 1-2 (0-0)
 
 
 ▪ Matchday 4
@@ -90,101 +90,116 @@
 
 
 ▪ Matchday 6
+  Sat Oct 10
+    15:00  Genoa CFC               v ACF Fiorentina
+    18:00  FC Internazionale Milano v Parma Calcio 1913
+    20:45  SSC Napoli              v Frosinone Calcio
   Sun Oct 11
-           Atalanta BC             v Venezia FC
-           US Sassuolo Calcio      v AC Milan
-           US Lecce                v Bologna FC 1909
-           FC Internazionale Milano v Parma Calcio 1913
+    12:30  Como 1907               v AS Roma
+    15:00  US Lecce                v Bologna FC 1909
            SS Lazio                v AC Monza
-           Cagliari Calcio         v Juventus FC
-           Como 1907               v AS Roma
-           SSC Napoli              v Frosinone Calcio
-           Torino FC               v Udinese Calcio
-           Genoa CFC               v ACF Fiorentina
+    18:00  US Sassuolo Calcio      v AC Milan
+    20:45  Cagliari Calcio         v Juventus FC
+  Mon Oct 12
+    18:30  Atalanta BC             v Venezia FC
+    20:45  Torino FC               v Udinese Calcio
 
 
 ▪ Matchday 7
+  Fri Oct 16
+    20:45  Frosinone Calcio        v US Sassuolo Calcio
+  Sat Oct 17
+    15:00  Venezia FC              v SSC Napoli
+    18:00  Bologna FC 1909         v FC Internazionale Milano
+    20:45  AS Roma                 v Genoa CFC
   Sun Oct 18
-           AC Milan                v Atalanta BC
-           Juventus FC             v SS Lazio
-           Bologna FC 1909         v FC Internazionale Milano
-           AS Roma                 v Genoa CFC
-           Frosinone Calcio        v US Sassuolo Calcio
-           Udinese Calcio          v US Lecce
-           Venezia FC              v SSC Napoli
-           AC Monza                v Cagliari Calcio
-           ACF Fiorentina          v Como 1907
-           Parma Calcio 1913       v Torino FC
+    12:30  Udinese Calcio          v US Lecce
+    15:00  ACF Fiorentina          v Como 1907
+    18:00  AC Milan                v Atalanta BC
+    20:45  Juventus FC             v SS Lazio
+  Mon Oct 19
+    18:30  AC Monza                v Cagliari Calcio
+    20:45  Parma Calcio 1913       v Torino FC
 
 
 ▪ Matchday 8
-  Sun Oct 25
-           Udinese Calcio          v AC Milan
-           Cagliari Calcio         v Bologna FC 1909
+  Fri Oct 23
+    20:45  Torino FC               v AC Monza
+  Sat Oct 24
+    15:00  Cagliari Calcio         v Bologna FC 1909
            Como 1907               v US Sassuolo Calcio
-           Atalanta BC             v Frosinone Calcio
-           FC Internazionale Milano v ACF Fiorentina
-           SSC Napoli              v AS Roma
-           SS Lazio                v Parma Calcio 1913
-           US Lecce                v Juventus FC
-           Torino FC               v AC Monza
+    18:00  SSC Napoli              v AS Roma
+    20:45  SS Lazio                v Parma Calcio 1913
+  Sun Oct 25
+    12:30  FC Internazionale Milano v ACF Fiorentina
+    15:00  Atalanta BC             v Frosinone Calcio
            Genoa CFC               v Venezia FC
+    18:00  US Lecce                v Juventus FC
+    20:45  Udinese Calcio          v AC Milan
 
 
 ▪ Matchday 9
-  Wed Oct 28
-           AC Milan                v Bologna FC 1909
-           Venezia FC              v FC Internazionale Milano
-           ACF Fiorentina          v Atalanta BC
-           Genoa CFC               v Juventus FC
-           Parma Calcio 1913       v Udinese Calcio
-           AC Monza                v SSC Napoli
-           AS Roma                 v Cagliari Calcio
-           US Sassuolo Calcio      v SS Lazio
+  Tue Oct 27
+    18:30  US Sassuolo Calcio      v SS Lazio
+    20:45  AS Roma                 v Cagliari Calcio
            Torino FC               v Como 1907
-           Frosinone Calcio        v US Lecce
+  Wed Oct 28
+    18:30  AC Milan                v Bologna FC 1909
+           Venezia FC              v FC Internazionale Milano
+           Parma Calcio 1913       v Udinese Calcio
+    20:45  Genoa CFC               v Juventus FC
+           AC Monza                v SSC Napoli
+  Thu Oct 29
+    18:30  Frosinone Calcio        v US Lecce
+    20:45  ACF Fiorentina          v Atalanta BC
 
 
 ▪ Matchday 10
+  Sat Oct 31
+    15:00  Bologna FC 1909         v AC Monza
+    18:00  Udinese Calcio          v AS Roma
+    20:45  AC Milan                v FC Internazionale Milano
   Sun Nov 1
-           Bologna FC 1909         v AC Monza
-           US Lecce                v Genoa CFC
-           US Sassuolo Calcio      v ACF Fiorentina
-           Udinese Calcio          v AS Roma
-           Como 1907               v Venezia FC
-           Frosinone Calcio        v Torino FC
-           Atalanta BC             v Parma Calcio 1913
+    12:30  Como 1907               v Venezia FC
+    15:00  Frosinone Calcio        v Torino FC
            SS Lazio                v Cagliari Calcio
-           Juventus FC             v SSC Napoli
-           AC Milan                v FC Internazionale Milano
+    18:00  US Lecce                v Genoa CFC
+    20:45  Juventus FC             v SSC Napoli
+  Mon Nov 2
+    18:30  US Sassuolo Calcio      v ACF Fiorentina
+    20:45  Atalanta BC             v Parma Calcio 1913
 
 
 ▪ Matchday 11
-  Sun Nov 8
-           ACF Fiorentina          v Juventus FC
-           FC Internazionale Milano v Como 1907
-           AS Roma                 v US Sassuolo Calcio
-           Torino FC               v US Lecce
-           SSC Napoli              v SS Lazio
+  Fri Nov 6
+    20:45  Venezia FC              v Udinese Calcio
+  Sat Nov 7
+    15:00  Torino FC               v US Lecce
            Cagliari Calcio         v Frosinone Calcio
-           Parma Calcio 1913       v Bologna FC 1909
-           Genoa CFC               v AC Milan
-           Venezia FC              v Udinese Calcio
+    18:00  Parma Calcio 1913       v Bologna FC 1909
+    20:45  AS Roma                 v US Sassuolo Calcio
+  Sun Nov 8
+    12:30  SSC Napoli              v SS Lazio
+    15:00  Genoa CFC               v AC Milan
            AC Monza                v Atalanta BC
+    18:00  FC Internazionale Milano v Como 1907
+    20:45  ACF Fiorentina          v Juventus FC
 
 
 ▪ Matchday 12
-  Sun Nov 22
-           AC Monza                v ACF Fiorentina
-           Atalanta BC             v FC Internazionale Milano
-           Juventus FC             v Venezia FC
-           Bologna FC 1909         v Udinese Calcio
-           AC Milan                v Frosinone Calcio
-           US Sassuolo Calcio      v Genoa CFC
-           Como 1907               v Cagliari Calcio
-           Parma Calcio 1913       v AS Roma
-           SSC Napoli              v Torino FC
+  Sat Nov 21
+    15:00  Como 1907               v Cagliari Calcio
            SS Lazio                v US Lecce
+    18:00  Parma Calcio 1913       v AS Roma
+    20:45  SSC Napoli              v Torino FC
+  Sun Nov 22
+    12:30  US Sassuolo Calcio      v Genoa CFC
+    15:00  AC Milan                v Frosinone Calcio
+    18:00  Bologna FC 1909         v Udinese Calcio
+    20:45  Atalanta BC             v FC Internazionale Milano
+  Mon Nov 23
+    18:30  AC Monza                v ACF Fiorentina
+    20:45  Juventus FC             v Venezia FC
 
 
 ▪ Matchday 13
